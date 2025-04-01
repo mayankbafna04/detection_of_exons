@@ -1,0 +1,85 @@
+LOCUS       HUMCDR34                2412 bp    DNA     linear   PRI 01-NOV-1994
+DEFINITION  Human cerebellar-degeneration-related antigen (CDR34) gene,
+            complete cds.
+ACCESSION   M31423
+VERSION     M31423.1
+KEYWORDS    cerebellar-degeneration-related antigen.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2412)
+  AUTHORS   Chen,Y.T., Rettig,W.J., Yenamandra,A.K., Kozak,C.A., Chaganti,R.S.,
+            Posner,J.B. and Old,L.J.
+  TITLE     Cerebellar degeneration-related antigen: a highly conserved
+            neuroectodermal marker mapped to chromosomes X in human and mouse
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 87 (8), 3077-3081 (1990)
+   PUBMED   2326268
+COMMENT     Original source text: Human neuroblastoma BE(2)-88n cell line DNA,
+            clone lambda CDR34.
+            Draft entry and printed sequence for [1] kindly submitted by
+            Y.-T.Chen, 17-JAN-1990.
+FEATURES             Location/Qualifiers
+     source          1..2412
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /map="Xq27.1-q27.2"
+     gene            503..1174
+                     /gene="CDR1"
+     CDS             503..1174
+                     /gene="CDR1"
+                     /note="cerebellar-degeneration-related antigen (CDR34)"
+                     /codon_start=1
+                     /protein_id="AAA51962.1"
+                     /db_xref="GDB:G00-119-053"
+                     /translation="MAWLEDVDFLEDVPLLEDIPLLEDVPLLEDVPLLEDTSRLEDIN
+                     LMEDMALLEDVDLLEDTDFLEDLDFSEAMDLREDKDFLEDMDSLEDMALLEDVDLLED
+                     TDFLEDPDFLEAIDLREDKDFLEDMDSLEDLRPLEDVDFLEDMAFLEDVDFQEDPNYP
+                     EDLDCWEDVDFLEDWRLLEDMDFLEDMDFLEDVDLQEDIYWLEDLDFFRKMWIDWKTW
+                     IWWKT"
+ORIGIN      
+        1 atgttggttc ataagatctg gtctataagg aggaatgtcc cattaaatgt ttttgaagct
+       61 aattcaacta gaagcagaaa tagttgagtt ggaagatttt ctgtagagtg attttaacat
+      121 gggaaggctc agacagggga agcctagatt tgaaaaggcc tggacctggg gaaaggctgg
+      181 caagatctgg actatagaac atgttagaat actgatattc gcagacacct ggaagactga
+      241 atgtcagaag atcagcacac tggagacgtt ggaagacatg gatattgagc cagttgatgg
+      301 aagactgggt agttgttgga agacatcaag gtgctggaag acacagcagc atgctggaag
+      361 acctggagat gttggaagac gagcagactc ctggaagccc tggagatgct gcaagacctg
+      421 gagatatagg aagacactgg actttgttgc gagcttagtt ggaagacata tatttttgga
+      481 agacgtggat tttctggaag acatggcttg gttggaagac gtggattttc tggaagacgt
+      541 acctttgttg gaagacatac ctttgttgga agacgtacct ttgttggaag acgtaccttt
+      601 gttggaagac acaagtaggc tggaagacat taatttgatg gaagacatgg ctttgttgga
+      661 agacgtggat ttgctggaag acacggattt cctggaagac ctggattttt cggaagctat
+      721 ggatttgagg gaagacaagg attttctgga agacatggat agtctggaag acatggcttt
+      781 gttggaagac gtggacttgc tggaagacac ggatttcctg gaagacccgg attttttgga
+      841 agctatagat ttaagggaag acaaggattt tctggaagac atggatagtc tggaagacct
+      901 gaggccattg gaagatgtgg attttctgga agacatggct tttttggaag acgtagattt
+      961 tcaggaagac ccaaattatc cggaagactt ggattgttgg gaagacgtgg attttctgga
+     1021 agactggagg ttactggaag acatggattt tctggaagac atggattttc tggaagacgt
+     1081 ggatcttcag gaagacatat attggctgga agacctggat tttttccgga agatgtggat
+     1141 tgactggaag acctggattt ggtggaagac gtagattttc tggaagacac tgactgactg
+     1201 gaagacactg attgactgga agacctggat ttctttctgg aagacactga ttgactggaa
+     1261 gatctagatt tttctggaag aactagattt actggaagac ttggatttgg tggaagacac
+     1321 agatttttct ggaagacatg gattagctgg aagatctgta tttgatggaa gaccttgaaa
+     1381 ttattggaag acatggattt cctggaagac gtggattttc ctggaagatc tggatttggt
+     1441 ggaagaccag taattgctgg aagactggat ttgctggaag acttgattta ctggaagact
+     1501 tggagcttct tggaagacat ggattgtccg gaagacatgg attgtctgga agatgtggat
+     1561 tttctggaag ctcaggatta tctggaagac cttgagatta ttggaacact tgaagtcgct
+     1621 ggaagacccg agttgttgga agaccttgta cacaggtgcc atcggaactc ctgacattga
+     1681 aacattgtaa gcacaggata ttgagacatt gcaagccttg attttaagac atggtactct
+     1741 ggacattgat atttctgagg ccctgaacat tgggatatta atattggaag tcatagacac
+     1801 tgaaatctct ggaaattaga gatattgtaa gtcctgtacc ttggaactcc taaatactgg
+     1861 cagatataaa caacagcaga tgtagacatt tataaatcct aaaatgagaa gccctggata
+     1921 ttgggagaca ttggtaagca tggatacttg acatatttat gtcaaaaaga cagtttggaa
+     1981 gaattaaatt ttaaagatgc tccatgtcaa gaatactggc agcctggaca atatgagacc
+     2041 aggatattaa gaggtctatt cattcagaca ttgaggatat tgatgtacct gaaagttctt
+     2101 gcaggtattt aaagacttga gcattggagg aattggcgat aaaaatacac tgtaaaacta
+     2161 gaaagtagga gacatttaaa aatgtaaaaa ctgaatgatg taagtgctgg aagacattga
+     2221 agaatctaga agacctgtat ataggagaca ttggaggatt aggaccatgg ccgacttgta
+     2281 atttagaact ctggattctg aaagacaaga cctggacttt gaagaagggt tgttggagat
+     2341 attagaagac ctaaattttt aatgacttga atactgggag tttagaaaac aagggcattt
+     2401 gagatgctgc ag
+//
+

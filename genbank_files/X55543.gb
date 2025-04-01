@@ -1,0 +1,74 @@
+LOCUS       X55543                  1833 bp    DNA     linear   PRI 18-APR-2005
+DEFINITION  H.sapiens cDNA for TREB protein.
+ACCESSION   X55543
+VERSION     X55543.1
+KEYWORDS    nuclear protein; TREB protein; TREB5 gene.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1833)
+  AUTHORS   Yoshimura,T., Fujisawa,J. and Yoshida,M.
+  TITLE     Multiple cDNA clones encoding nuclear proteins that bind to the
+            tax-dependent enhancer of HTLV-1: all contain a leucine zipper
+            structure and basic amino acid domain
+  JOURNAL   EMBO J. 9 (8), 2537-2542 (1990)
+   PUBMED   2196176
+FEATURES             Location/Qualifiers
+     source          1..1833
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+     gene            38..823
+                     /gene="TREB5"
+     CDS             38..823
+                     /gene="TREB5"
+                     /codon_start=1
+                     /product="TREB protein"
+                     /protein_id="CAA39149.1"
+                     /db_xref="GDB:131393"
+                     /db_xref="GOA:P17861"
+                     /db_xref="HGNC:HGNC:12801"
+                     /db_xref="InterPro:IPR004827"
+                     /db_xref="InterPro:IPR011700"
+                     /db_xref="UniProtKB/Swiss-Prot:P17861"
+                     /translation="MVVVAAAPNPADGTPKVLLLSGQPASAAGAPAGQALPLMVPAQR
+                     GASPEAASGGLPQARKRQRLTHLSPEEKALRRKLKNRVAAQTARDRKKARMSELEQQV
+                     VDLEEENQKLLLENQLLREKTHGLVVENQELRQRLGMDALVAEEEAEAKGNEVRPVAG
+                     SAESAALRLRAPLQQVQAQLSPLQNISPWILAVLTLQIQSLISCWAFWTTWTQSCSSN
+                     ALPQSLPAWRSSQRSTQKDPVPYQPPFLCQWGRHQPSWKPLMN"
+ORIGIN      
+        1 ggaattccgc gcggtgcgcg gtgcgtagtc tggagctatg gtggtggtgg cagccgcgcc
+       61 gaacccggcc gacgggaccc ctaaagttct gcttctgtcg gggcagcccg cctccgccgc
+      121 cggagccccg gccggccagg ccctgccgct catggtgcca gcccagagag gggccagccc
+      181 ggaggcagcg agcggggggc tgccccaggc gcgcaagcga cagcgcctca cgcacctgag
+      241 ccccgaggag aaggcgctga ggaggaaact gaaaaacaga gtagcagctc agactgccag
+      301 agatcgaaag aaggctcgaa tgagtgagct ggaacagcaa gtggtagatt tagaagaaga
+      361 gaaccaaaaa cttttgctag aaaatcagct tttacgagag aaaactcatg gccttgtagt
+      421 tgagaaccag gagttaagac agcgcttggg gatggatgcc ctggttgctg aagaggaggc
+      481 ggaagccaag gggaatgaag tgaggccagt ggccgggtct gctgagtccg cagcactcag
+      541 actacgtgca cctctgcagc aggtgcaggc ccagttgtca cccctccaga acatctcccc
+      601 atggattctg gcggtattga ctcttcagat tcagagtctg atatcctgtt gggcattctg
+      661 gacaacttgg acccagtcat gttcttcaaa tgcccttccc cagagcctgc cagcctggag
+      721 gagctcccag aggtctaccc agaaggaccc agttccttac cagcctccct ttctctgtca
+      781 gtggggacgt catcagccaa gctggaagcc attaatgaac taattcgttt tgaccacata
+      841 tataccaagc ccctagtctt agagataccc tctgagacag agagccaagc taatgtggta
+      901 gtgaaaatcg aggaagcacc tctcagcccc tcagagaatg atcaccctga attcattgtc
+      961 tcagtgaagg aagaacctgt agaagatgac ctcgttccgg agctgggtat ctcaaatctg
+     1021 ctttcatcca gccactgccc aaagccatct tcctgcctac tggatgctta cagtgactgt
+     1081 ggatacgggg gttccctttc cccattcagt gacatgtcct ctctgcttgg tgtaaaccat
+     1141 tcttgggagg acacttttgc caatgaactc tttccccagc tgattagtgt ctaaggaatg
+     1201 atccaatact gttgcccttt tccttgacta ttacactgcc tggaggatag cagagaagcc
+     1261 tgtctgtact tcattcaaaa agccaaaata gagagtatac agtcctagag aattcctcta
+     1321 tttgttcaga tctcatagat gacccccagg tattgtcttt tgacatccag cagtccaagg
+     1381 tattgagaca tattactgga agtaagaaat attactataa ttgagaacta cagcttttaa
+     1441 gattgtactt ttatcttaaa agggtggtag ttttccctaa aatacttatt atgtaagggt
+     1501 cattagacaa atgtcttgaa gtagacatgg aatttatgaa tggttcttta tcatttctct
+     1561 tccccctttt tggcatcctg gcttgcctcc agttttaggt cctttagttt gcttctgtaa
+     1621 gcaacgggaa cacctgctga gggggctctt tccctcatgt atacttcaag taagatcaag
+     1681 aatcttttgt gaaattatag aaatttacta tgtaaatgct tgatggaatt ttttcctgct
+     1741 agtgtagctt ctgaaaggtg ctttctccat ttatttaaaa ctacccatgc aattaaaagg
+     1801 tacaatgcaa aaaaaaaaaa aaaaaggaat tcc
+//
+

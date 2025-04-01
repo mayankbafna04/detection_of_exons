@@ -1,0 +1,98 @@
+LOCUS       X71135                  2509 bp    DNA     linear   PRI 04-MAY-2005
+DEFINITION  H.sapiens sox3 gene.
+ACCESSION   X71135
+VERSION     X71135.1
+KEYWORDS    sox3 gene.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1
+  AUTHORS   Stevanovic,M., Lovell-Badge,R., Collignon,J. and Goodfellow,P.N.
+  TITLE     SOX3 is an X-linked gene related to SRY
+  JOURNAL   Hum. Mol. Genet. 2 (12), 2013-2018 (1993)
+   PUBMED   8111369
+REFERENCE   2  (bases 1 to 2508)
+  AUTHORS   Stevanovic,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-APR-1993) M. Stevanovic, University of Cambridge,
+            Genetics Dept, Downing Street, Cambridge, CB2 3EH, UK
+FEATURES             Location/Qualifiers
+     source          1..2509
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="X"
+                     /map="Xq26-Xq27"
+     regulatory      404..407
+                     /regulatory_class="TATA_box"
+     gene            442..1773
+                     /gene="sox3"
+     CDS             442..1773
+                     /gene="sox3"
+                     /codon_start=1
+                     /product="SOX3"
+                     /protein_id="CAA50465.1"
+                     /db_xref="GDB:250376"
+                     /db_xref="GOA:P41225"
+                     /db_xref="HGNC:HGNC:11199"
+                     /db_xref="InterPro:IPR000910"
+                     /db_xref="InterPro:IPR009071"
+                     /db_xref="InterPro:IPR022097"
+                     /db_xref="UniProtKB/Swiss-Prot:P41225"
+                     /translation="MRPVRENSSGARSPRVPADLARSILISLPFPPDSLAHRPPSSAP
+                     TESQGLFTVAAPAPGAPSPPATLAHLLPAPAMYSLLETELKNPVGTPTQAAGTGGPAA
+                     PGGAGKSSANAAGGANSGGGSSGGASGGGGGTDQDRVKRPMNAFMVWSRGQRRKMALE
+                     NPKMHNSEISKRLGADWKLLTDAEKRPFIDEAKRLRAVHMKEYPDYKYRPRRKTKTLL
+                     KKDKYSLPSGLLPPGAAAAAAAAAAAAAAASSPVGVGQRLDTYTHVNGWANGAYSLVQ
+                     EQLGYAQPPSMSSPPPPPALHRYDMAGLQYSPMMPPGAQSYMNVAAAAAAASGYGGMA
+                     PSATAAAAAAYGQQPATAAAAAAAAAAMSLGPMGSVVKSEPSSPPPAIASHSQRACLG
+                     DLRDMISMYLPPGGDAADAASPLPGGRLHGVHQHYQGAGTAVNGTVPLTHI"
+     regulatory      2493..2498
+                     /regulatory_class="polyA_signal_sequence"
+ORIGIN      
+        1 tggccggggg atggggcgcc ggtctgcctt gacagggttg caaagttgtt ttctaaattc
+       61 cgaagcgccc ctctgccccc tccccccaat ctgcttgcgt cgggggtggg gggtgggggg
+      121 gtcacctcct caggtttcgt tctttcaaac tttttgaaac cctaattggt ggcctctgag
+      181 tgggcctcgt ggactcccgc ctcctaagta actcttacca cgtcactagg ccaaagaggg
+      241 gcgtggggtg aacgaaaggg ctcccgaact tttttttttc cagccaggcc gaacgggggc
+      301 tcggtaatga ttggccaggg cgcatcactg cgaacctgtc aatcacgggt cctccgggtt
+      361 gcgaggggcg gaccaagccc caaccccggg gaatccgagc aggtatataa ggggcccagc
+      421 tagagcccag gcagactgtg aatgcgacct gttcgagaga actcatcagg tgcgagaagc
+      481 ccgcgggttc ctgctgattt ggcgcggagc attttgataa gcctaccctt cccgccggac
+      541 tcgctggccc acaggccccc aagctccgct ccgacggagt cccagggcct tttcaccgtg
+      601 gccgctccag ccccgggagc gccttctcct cccgccacgc tggcgcacct tcttcccgcc
+      661 ccggcaatgt acagccttct ggagactgaa ctcaagaacc ccgtagggac acccacacaa
+      721 gcggcgggca ccggcggccc cgcagccccg ggaggcgcag gcaagagtag tgcgaacgca
+      781 gccggcggcg cgaactcggg cggcggcagc agcggtggtg cgagcggagg tggcgggggt
+      841 acagaccagg accgtgtgaa acggcccatg aacgccttca tggtatggtc ccgcgggcag
+      901 cggcgcaaaa tggccctgga gaaccccaag atgcacaatt ctgagatcag caagcgcttg
+      961 ggcgccgact ggaaactgct gaccgacgcc gagaagcgac cattcatcga cgaggccaag
+     1021 cgacttcgcg ccgtgcacat gaaggagtat ccggactaca agtaccgacc gcgccgcaag
+     1081 accaagacgc tgctcaagaa agataagtac tccctgccca gcggcctcct gcctcccggt
+     1141 gccgcggccg ccgccgccgc tgccgcggcc gcagccgctg ccgccagcag tccggtgggc
+     1201 gtgggccagc gcctggacac gtacacgcac gtgaacggct gggccaacgg cgcgtactcg
+     1261 ctggtgcagg agcagctggg ctacgcgcag cccccgagca tgagcagccc gccgccgccg
+     1321 cccgcgctgc accgctacga catggccggc ctgcagtaca gcccaatgat gccgcccggc
+     1381 gctcagagct acatgaacgt cgctgccgcg gccgccgccg cctcgggcta cgggggcatg
+     1441 gcgccctcag ccacagcagc cgcggccgcc gcctacgggc agcagcccgc caccgccgcg
+     1501 gccgcagctg cggccgcagc cgccatgagc ctgggcccca tgggctcggt agtgaagtct
+     1561 gagcccagct cgccgccgcc cgccatcgca tcgcactctc agcgcgcgtg cctcggcgac
+     1621 ctgcgcgaca tgatcagcat gtacctgcca cccggcgggg acgcggccga cgccgcctct
+     1681 ccgctgcccg gcggtcgcct gcacggcgtg caccagcact accagggcgc cgggactgca
+     1741 gtcaacggaa cggtgccgct gacccacatc tgagcaccgg cctgcgctcg tccacccttg
+     1801 ttccccaccc ccacccccac tcccgccccg cacccccaag ttgggtcgcc ttgtttagct
+     1861 ttgcttgcct gggactgttg ccttgtaccg atgatgggga gggctgaaag ttttgctgta
+     1921 gctgtcgggt tttgtacaaa agtcaaaaat aagtcaggag cagcgaaaat gggatcttct
+     1981 agagagctct cttgccccac gccgctgctc ctttcacctt tgtaggctgg gaatcgctgt
+     2041 gttatttgca aagaaaaaac agcccccact cctcctcctg agttccaggg ttattctgtt
+     2101 acatttgaaa atgttgtctt gttagtttgc agttagccaa ggagtgaatg ggagaaacat
+     2161 agtatcgggt gaggtccagc tggagaactg caacgcctac gcccccagtc gtgtcgcgtc
+     2221 tgttttcctc gaggtttttt ggggcgctga ccgctccaag cagcgcggca gctaaagcca
+     2281 atgttaattt atagccaggt gtgcgtgtgt ctcccgcctc gccgcccctg gccgcgggac
+     2341 agcttctgtc caatcatgtt gagttggtga tttctgccgt gatctgtttg atatttcttc
+     2401 gcgctaatgt gttcagattt cgtttgggta gtggggaggg gctactttgt ttcagggttt
+     2461 tcaagctttt actcttaatt cctaaatgag atcaataaat tttataacc
+//
+

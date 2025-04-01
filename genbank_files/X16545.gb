@@ -1,0 +1,94 @@
+LOCUS       X16545                  1452 bp    DNA     linear   PRI 14-NOV-2006
+DEFINITION  Human DNA for eosinophil cationic protein ECP.
+ACCESSION   X16545
+VERSION     X16545.1
+KEYWORDS    cytotoxin; eosinophil cationic protein; helminthotoxin; neurotoxin.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1452)
+  AUTHORS   Hamann,K.J., Ten,R.M., Loegering,D.A., Jenkins,R.B., Heise,M.T.,
+            Schad,C.R., Pease,L.R., Gleich,G.J. and Barker,R.L.
+  TITLE     Structure and chromosome localization of the human
+            eosinophil-derived neurotoxin and eosinophil cationic protein
+            genes: evidence for intronless coding sequences in the ribonuclease
+            gene superfamily
+  JOURNAL   Genomics 7 (4), 535-546 (1990)
+   PUBMED   2387583
+REFERENCE   2  (bases 1 to 1452)
+  AUTHORS   Barker,R.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-SEP-1989) Barker R.L., Mayo Clinic and Foundation,
+            401 Guggenheim, Rochester Minnesota 55905, U S A
+COMMENT     see X15161 for human ECP cDNA seq.
+FEATURES             Location/Qualifiers
+     source          1..1452
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /cell_line="human fetal liver charon 4A."
+                     /cell_type="eosinophil"
+                     /clone_lib="ATCC 37333"
+     regulatory      225..231
+                     /regulatory_class="TATA_box"
+     mRNA            join(279..320,551..1217)
+     exon            279..320
+                     /number=1
+     intron          321..550
+                     /number=1
+     exon            551..1217
+                     /number=2
+     CDS             556..1038
+                     /note="unnamed protein product; eosinophil cationic
+                     protein precursor"
+                     /codon_start=1
+                     /protein_id="CAA34545.1"
+                     /db_xref="GDB:125277"
+                     /db_xref="GOA:P12724"
+                     /db_xref="HGNC:HGNC:10046"
+                     /db_xref="InterPro:IPR001427"
+                     /db_xref="PDB:1DYT"
+                     /db_xref="PDB:1H1H"
+                     /db_xref="PDB:1QMT"
+                     /db_xref="PDB:2KB5"
+                     /db_xref="UniProtKB/Swiss-Prot:P12724"
+                     /translation="MVPKLFTSQICLLLLLGLMGVEGSLHARPPQFTRAQWFAIQHIS
+                     LNPPRCTIAMRAINNYRWRCKNQNTFLRTTFANVVNVCGNQSIRCPHNRTLNNCHRSR
+                     FRVPLLHCDLINPGAQNISNCRYADRPGRRFYVVACDNRDPRDSPRYPVVPVHLDTTI
+                     "
+     sig_peptide     556..636
+                     /note="signal peptide (AA -27 to -1)"
+     mat_peptide     637..1035
+                     /product="mat. eosinophil cationic protein (AA 1 - 133)"
+     regulatory      1196..1201
+                     /regulatory_class="polyA_signal_sequence"
+ORIGIN      
+        1 ctgccagcag cgtatagttt tcacccagag tccagatccc accggcaaaa ctctgtctaa
+       61 cacaggatga cttggaatta gagtccgtat agcagaaaga gcagcagggc tgtccttggg
+      121 tatccgttgc tcagccaagt catcaaataa aaaggatgat tgcacaagtg gaccatgtgt
+      181 caatctgtgg gtttctgcat ggccagaccc accaagggaa gctttattta aacagttcca
+      241 agtaggggag accagctgcc cctgaacccc agaacaacca gctggatcag ttctcacagg
+      301 agccacagct cagagactgg gtaagtcaac aatccccaga gctgggacag gaggggcagc
+      361 gacagggcag cacctgaggg agaggtgagc tgaagttagt gcttaggaga tgtggcacac
+      421 tttggggaca ggaagaaaag gaaatgcgac cccagagtgg cagcagaggg gcctgtgggt
+      481 tgagacacta tagagtgtgt cataaccgag accggatagg ggagtagtta cttctcttct
+      541 tttcttacag gaaacatggt tccaaaactg ttcacttccc aaatttgtct gcttcttctg
+      601 ttggggctta tgggtgtgga gggctcactc catgccagac ccccacagtt tacgagggct
+      661 cagtggtttg ccatccagca catcagtctg aacccccctc gatgcaccat tgcaatgcgg
+      721 gcaattaaca attatcgatg gcgttgcaaa aaccaaaata cttttcttcg tacaactttt
+      781 gctaatgtag ttaatgtttg tggtaaccaa agtatacgct gccctcataa cagaactctc
+      841 aacaattgtc atcggagtag attccgggtg cctttactcc actgtgacct cataaatcca
+      901 ggtgcacaga atatttcaaa ctgcaggtat gcagacagac caggaaggag gttctatgta
+      961 gttgcatgtg acaacagaga tccacgggat tctccacggt atcctgtggt tccagttcac
+     1021 ctggatacca ccatctaagc tcctgtatca gcagtcctca tcatcactca tctgccaagc
+     1081 tcctcaatca tagccaagat cccatccctc catgtactct gggtatcagc aactgtcctc
+     1141 atcagtctcc ataccccttc agctttcctg agctgaagtc ccttgtgaac cctgcaataa
+     1201 actgctttgc aaattcatct ggaagtgtct gtgtgtcttc ctcggccgct ctgctgtcat
+     1261 ttagtgacaa tctgctctag agatttgggt ttatcatgaa tctctccccc tcaatatctg
+     1321 accaaattcc ttgattcccc catcatcctt catgtgatac ctgattccag gcctgcctta
+     1381 aaaaaaaatc caattgagtc aacttagcat tggtctccct agccttaata tctcctctaa
+     1441 gcaattttcc at
+//
+

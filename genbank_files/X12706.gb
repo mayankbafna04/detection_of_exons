@@ -1,0 +1,117 @@
+LOCUS       X12706                  3230 bp    DNA     linear   PRI 14-NOV-2006
+DEFINITION  H.sapiens gene for B cell differentiation factor I.
+ACCESSION   X12706
+VERSION     X12706.1
+KEYWORDS    B-cell differentiation factor.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 3230)
+  AUTHORS   Honjo,T., Takatu,K. and Severinson,E.
+  JOURNAL   Unpublished
+COMMENT     see X12705 for ph.IL-5-30 cDNA sequence;
+            extent of mRNA is given according ph.IL-5-30 cDNA; Data kindly
+            supplied by Derwent Biotechnology Abstracts: Patent (EP_0_261_625,
+            20.09.86_JP_223284/86), T. Honjo.
+FEATURES             Location/Qualifiers
+     source          1..3230
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /clone="lambda 12, lambda 22, lambda 38"
+                     /clone_lib="Charon 4A"
+     mRNA            join(553..696,905..937,1883..2011,2118..2216)
+                     /note="B cell differentiation factor I"
+     CDS             join(553..696,905..937,1883..2011,2118..2216)
+                     /codon_start=1
+                     /product="B cell differentiation factor I"
+                     /protein_id="CAA31211.1"
+                     /db_xref="GDB:120097"
+                     /db_xref="GOA:P05113"
+                     /db_xref="HGNC:HGNC:6016"
+                     /db_xref="InterPro:IPR000186"
+                     /db_xref="InterPro:IPR009079"
+                     /db_xref="InterPro:IPR012351"
+                     /db_xref="PDB:1HUL"
+                     /db_xref="UniProtKB/Swiss-Prot:P05113"
+                     /translation="MRMLLHLSLLALGAAYVYAIPTEIPTSALVKETLALLSTHRTLL
+                     IANETLRIPVPVHKNHQLCTEEIFQGIGTLESQTVQGGTVERLFKNLSLIKKYIDGQK
+                     KKCGEERRRVNQFLDYLQEFLGVMNTEWIIES"
+     sig_peptide     553..609
+                     /note="B cell differentiation factor I"
+     mat_peptide     join(610..696,905..937,1883..2011,2118..2213)
+                     /product="B cell differentiation factor I"
+     exon            553..696
+                     /number=1
+     intron          697..904
+                     /number=1
+     exon            905..937
+                     /number=2
+     intron          938..1882
+                     /number=2
+     exon            1883..2011
+                     /number=3
+     intron          2012..2117
+                     /number=3
+     exon            2118..2216
+                     /number=4
+     polyA_site      2583
+ORIGIN      
+        1 atcctaatca agaccccagt gaacagaact cgaccctgcc aaggcttggc atttccattt
+       61 caatcactgt cttcccacca gtattttcaa tttcttttaa gacagattaa tctagccaca
+      121 gtcatagtag aacatagccg atcttgaaaa aaaacattcc caatatttat gtattttagc
+      181 ataaaattct gtttagtggt ctaccttata ctttgttttg cacacatctt ttaagaggaa
+      241 gttaattttc tgattttaag aaatgcaaat gtggggcaat gatgtattaa cccaaagatt
+      301 ccttccgtaa tagaaaatgt ttttaaaggg gggaaacagg gatttttatt attaaaagat
+      361 aaaagtaaat ttatttttta agatataagg cattggaaac atttagtttc acgatatgcc
+      421 attattaggc attctctatc tgattgttag aaattattca tttcctcaaa gacagacaat
+      481 aaattgactg gggacgcagt cttgtactat gcactttctt tgccaaaggc aaacgcagaa
+      541 cgtttcagag ccatgaggat gcttctgcat ttgagtttgc tagctcttgg agctgcctac
+      601 gtgtatgcca tccccacaga aattcccaca agtgcattgg tgaaagagac cttggcactg
+      661 ctttctactc atcgaactct gctgatagcc aatgaggtaa ttttctttat gattcctaca
+      721 gtctgtaaag tgcataggta atcatttgtg atggttcctt tactatatat agagatctgt
+      781 tataaataat aagattctga gcacattagt acatgggtga taactacatc accagcaaac
+      841 attctgttaa aagttatgaa tgctggtgtg ctgtaaaaat gattgtattt cctttcctct
+      901 ccagactctg aggattcctg ttcctgtaca taaaaatgta agttaaatta tgattcagta
+      961 aaatgatggc atgaataagt aaatttcctg ttttaagctg taaatcatta gttatcattg
+     1021 gaactattta attttctata ttttgttttc atatgggtgg ctgtgaatgt ctgtacttat
+     1081 aaatatgagg aatgactttt tatcaagtag aatcctttaa acaagtggat taggctcttt
+     1141 ggtgatgttg ttagtttgcc ttcccaaaga gcatcgtgtc aggattcttt ccagaaggat
+     1201 tccacactga gtgagaggtg cgtgctagtc tccgtgcagt tctgactctt tctcactcta
+     1261 acgtgtttct gaaagtatta gcaactcaga attatatttt tagaaccatg atcagtagac
+     1321 attaaaatat ataacaaatg ccctatatta ataattctgc atacttaaat aattatgact
+     1381 atatgatggt gtgtatgcat tgaatatgcc tggtcatatt aaaatgtaaa atatatagtt
+     1441 tattagtcta aatagaataa aactaccagc tagaactgta gaaacacatt gatatgagtt
+     1501 taatgtataa tgcattacac ttccaaaaca tttttttcca gttacataat taagttatat
+     1561 cctttataaa actcctcagt aatcatataa gcttcatcta ctttttgaaa attttatctt
+     1621 aatatgtggt ggtttgttgc ctagaaaaca aacaaaaaac tctttggaga agggaactca
+     1681 tgtaaatacc acaaaacaaa gcctaacttt gtggaccaaa attgttttaa taattatttt
+     1741 ttaattgatg aattaaaaag tatatatatt tattgtgtac aatatgatgt tttgaagtat
+     1801 gtatacattg cagaatggac aatggaccaa atttttatac cttgtcttga ttatttgcat
+     1861 tttaaaaatt ttcctcattt agcaccaact gtgcactgaa gaaatctttc agggaatagg
+     1921 cacactggag agtcaaactg tgcaaggggg tactgtggaa agactattca aaaacttgtc
+     1981 cttaataaag aaatacattg acggccaaaa agtaagttac acacattcaa tggaagctat
+     2041 atttgtcctg gctgtgccta tttctatgga attgacagtt tcctgtaata cctattgtca
+     2101 tttttctttt ttcacagaaa aagtgtggag aagaaagacg gagagtaaac caattcctag
+     2161 actacctgca agagtttctt ggtgtaatga acaccgagtg gataatagaa agttgagact
+     2221 aaactggttt gttgcagcca aagattttgg aggagaagga cattttactg cagtgagaat
+     2281 gagggccaag aaagagtcag gccttaattt tcaatataat ttaacttcag agggaaagta
+     2341 aatatttcag gcatactgac actttgccag aaagcataaa attcttaaaa tatatttcag
+     2401 atatcagaat cattgaagta ttttcctcca ggcaaaattg atatactttt ttcttattta
+     2461 acttaacatt ctgtaaaatg tctgttaact taatagtatt tatgaaatgg ttaagaattt
+     2521 ggtaaattag tatttattta atgttatgtt gtgttctaat aaaacaaaaa tagacaactg
+     2581 ttcaatttgc tgctggcctc tgtccttagc aatttgaagt tagcacagtc cattgagtac
+     2641 atgcccagtt tggaggaagg gtctgagcac atgtggctga gcatccccat ttctctggag
+     2701 aagtctcaag gttgcaaggc acaccagagg tggaagtgat ctagcaggac ttagtgggga
+     2761 tgtggggagc agggacacag gcaggaggtg aacctggttt tctctctaca gtatatccag
+     2821 aacctgggat ggtcgaaggg taaatggtag ggaataaatg aatgaatgtc gtttccaaga
+     2881 tgattgtaga actaaaatga gttgtaagct cccctggaag aagggatgtg gaacctgtaa
+     2941 ctaggttcct gcccagcctg tgagaagaat ttggcagatc atctcattgc cagtatagag
+     3001 aggaagccag aaaccctctc tgccaaggcc tgcaggggtt cttaccacct gaccctgcac
+     3061 cataacaaaa ggacagagag acatggtagg gcagtcccat tagaaagact gagttccgta
+     3121 ttcccggggc agggcagcac caggccgcac aacatccatt ctgcctgctt atggctatca
+     3181 gtagcatcac tagagattct tctgtttgag aaaacttctc tcaaggatcc
+//
+

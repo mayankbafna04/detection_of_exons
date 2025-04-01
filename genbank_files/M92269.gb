@@ -1,0 +1,255 @@
+LOCUS       HUMCALCHAA              7093 bp    DNA     linear   PRI 28-MAR-1994
+DEFINITION  Human L-type calcium channel HFCC mRNA, complete cds.
+ACCESSION   M92269
+VERSION     M92269.1
+KEYWORDS    L-type calcium channel (HFCC).
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 7090)
+  AUTHORS   Soldatov,N.M.
+  TITLE     Molecular diversity of L-type Ca2+ channel transcripts in human
+            fibroblasts
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 89 (10), 4628-4632 (1992)
+   PUBMED   1316612
+REFERENCE   2  (bases 1 to 7090)
+  AUTHORS   Soldatov,N.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-MAY-1992) Nikolai M. Soldatov, Pharmacology,
+            University of Bern, Friedbuehlstrasse 49, Bern, CH-3010,
+            Switzerland
+REFERENCE   3  (bases 1 to 7093)
+  AUTHORS   Soldatov,N.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-1994) Nikolai M. Soldatov, Pharmacology,
+            University of Bern, Friedbuehlstrasse 49, Bern, CH-3010,
+            Switzerland
+COMMENT     On Mar 28, 1994 this sequence version replaced gi:405815.
+            Original source text: Homo sapiens cDNA to mRNA.
+FEATURES             Location/Qualifiers
+     source          1..7093
+                     /organism="Homo sapiens"
+                     /mol_type="unassigned DNA"
+                     /db_xref="taxon:9606"
+                     /cell_line="CRL 1475 (ATCC)"
+                     /cell_type="fibroblast"
+                     /clone_lib="lambda ZAPII fibroblast"
+                     /dev_stage="fetus"
+     misc_RNA        1..7093
+                     /product="precursor_RNA"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+     variation       2..3
+                     /note="PCR cloning artefact"
+                     /replace="gt"
+     variation       10
+                     /note="PCR cloning artefact"
+                     /replace="a"
+     CDS             314..6979
+                     /codon_start=1
+                     /product="L-type calcium channel (HFCC)"
+                     /protein_id="AAA17030.1"
+                     /translation="MVNENTRMYIPEENHQGSNYGSPRPAHANMNANAAAGLAPEHIP
+                     TPGAALSWQAAIDAARQAKLMGSAGNATISTVSSTQRKRQQYGKPKKQGSTTATRPPR
+                     ALLCLTLKNPIRRACISIVEWKPFEIIILLTIFANCVALAIYIPFPEDDSNATNSNLE
+                     RVEYLFLIIFTVEAFLKVIAYGLLFHPNAYLRNGWNLLDFIIVVVGLFSAILEQATKA
+                     DGANALGGKGAGFDVKALRAFRVLRPLRLVSGVPSLQVVLNSIIKAMVPLLHIALLVL
+                     FVIIIYAIIGLELFMGKMHKTCYNQEGIADVPAEDDPSPCALETGHGRQCQNGTVCKP
+                     GWDGPKHGITNFDNFAFAMLTVFQCITMEGWTDVLYWVNDAVGRDWPWIYFVTLIIIG
+                     SFFVLNLVLGVLSGEFSKEREKAKARGDFQKLREKQQLEEDLKGYLDWITQAEDIDPE
+                     NEDEGMDEEKPRNMSMPTSETESVNTENVAGGDIEGENCGARLAHRISKSKFSRYWRR
+                     WNRFCRRKCRAAVKSNVFYWLVIFLVFLNTLTIASEHYNQPNWLTEVQDTANKALLAL
+                     FTAEMLLKMYSLGLQAYFVSLFNRFDCFVVCGGILETILVETKIMSPLGISVLRCVRL
+                     LRIFKITRYWNSLSNLVASLLNSVRSIASLLLLLFLFIIIFSLLGMQLFGGKFNFDEM
+                     QTRRSTFDNFPQSLLTVFQILTGEDWNSVMYDGIMAYGGPSFPGMLVCIYFIILFICG
+                     NYILLNVFLAIAVDNLADAESLTSAQKEEEEEKERKKLARTASPEKKQELVEKPAVGE
+                     SKEEKIELKSITADGESPPATKINMDDLQPNENEDKSPYPNPETTGEEDEEEPEMPVG
+                     PRPRPLSELHLKEKAVPMPEASAFFIFSSNNRFRLQCHRIVNDTIFTNLILFFILLSS
+                     ISLAAEDPVQHTSFRNHILFYFDIVFTTIFTIEIALKILGNADYVFTSIFTLEIILKM
+                     TAYGAFLHKGSFCRNYFNILDLLVVSVSLISFGIQSSAINVVKILRVLRVLRPLRAIN
+                     RAKGLKHVVQCVFVAIRTIGNIVIVTTLLQFMFACIGVQLFKGKLYTCSDSSKQTEAE
+                     CKGNYITYKDGEVDHPIIQPRSWENSKFDFDNVLAAMMALFTVSTFEGWPELLYRSID
+                     SHTEDKGPIYNYRVEISIFFIIYIIIIAFFMMNIFVGFVIVTFQEQGEQEYKNCELDK
+                     NQRQCVEYALKARPLRRYIPKNQHQYKVWYVVNSTYFEYLMFVLILLNTICLAMQHYG
+                     QSCLFKIAMNILNMLFTGLFTVEMILKLIAFKPKGYFSDPWNVFDFLIVIGSIIDVIL
+                     SETNHYFCDAWNTFDALIVVGSIVDIAITEVNPAEHTQCSPSMNAEENSRISITFFRL
+                     FRVMRLVKLLSRGEGIRTLLWTFIKSFQALPYVALLIVMLFFIYAVIGMQVFGKIALN
+                     DTTEINRNNNFQTFPQAVLLLFRCATGEAWQDIMLACMPGKKCAPESEPSNSTEGETP
+                     CGSSFAVFYFISFYMLCAFLIINLFVAVIMDNFDYLTRDWSILGPHHLDEFKRIWAEY
+                     DPEAKGRIKHLDVVTLLRRIQPPLGFGKLCPHRVACKRLVSMNMPLNSDGTVMFNATL
+                     FALVRTALRIKTEGNLEQANEELRAIIKKIWKRTSMKLLDQVVPPAGDDEVTVGKFYA
+                     TFLIQEYFRKFKKRKEQGLVGKPSQRNALSLQAGLRTLHDIGPEIRRAISGDLTAEEE
+                     LDKAMKEAVSAASEDDIFRRAGGLFGNHVSYYQSDGRSAFPQTFTTQRPLHINKAGSS
+                     QGDTESPSHEKLVDSTFTPSSYSSTGSNANINNANNTALGRLPRPAGYPSTVSTVEGH
+                     GPPLSPAIRVQEVAWKLSSNRERHVPVCEDLELRRDSGSAGTQAHCLLLRRANPSRCH
+                     SRESQAAMAGQEETSQDETYEVKMNHDTEACSEPSLLSTEMLSYQDDENRQLTLPEED
+                     KRDIRQSPKRGFLRSASLGRRASFHLECLKRQKDRGGDISQKTVLPLHLVHHQALAVA
+                     GLSPLLQRSHSPASFPRPFATPPATPGSRGWPPQPVPTLRLEGVESSEKLNSSFPSIH
+                     CGSWAETTPGGGGSSAARRVRPVSLMVPSQAGAPGRQFHGSASSLVEAVLISEGLGQF
+                     AQDPKFIEVTTQELADACDMTIEEMESAADNILSGGAPQSPNGALLPFVNCRDAGQDR
+                     AGGEEDAGCVRARGGPSEEELQDSRVYVSSL"
+     variation       2417..2489
+                     /note="seq. deleted in cDNA clones f33, f77-2, f135, f138"
+                     /replace=""
+     variation       2567
+                     /note="f77-2,f135 (Ala is Thr)"
+                     /replace="a"
+     variation       2652^2653
+                     /note="cDNA clone uf23 contains 13-nt insertion"
+                     /replace="gctgactggccag"
+     variation       3167..3226
+                     /note="nt sequence 3167..3226 is present in cDNA clone
+                     f28"
+                     /replace=""
+     intron          3227
+                     /note="intron 1; found in cDNA clone f24"
+     variation       4159
+                     /note="cDNA clones f39, uf11"
+                     /replace="t"
+     intron          4201
+                     /note="intron 2; found in cDNA clone uf51-2"
+     exon            4202..4285
+                     /note="alternative exon 1"
+     intron          4285
+                     /note="intron 3; found in cDNA clone f39"
+     exon            4286..4369
+                     /note="alternative exon 2; absent from cDNA clones f21,
+                     uf11"
+     exon            4370..4402
+                     /note="alternative exon 3; absent from cDNA clone uf20-1"
+     intron          4402
+                     /note="intron 4; 5'-terminal partial nt sequence found in
+                     cDNA clone f21; 3'-terminal partial nt sequence found in
+                     cDNA clone f114-2"
+     intron          5285
+                     /note="intron 5; found in cDNA clone uf22"
+     variation       5903..6007
+                     /note="alternative exon; found in cDNA clone f131"
+                     /replace=""
+     variation       6397..7090
+                     /note="cDNA cloning artefact, cDNA clone f53"
+                     /replace="atgtcagccgccccctcgagactagtt"
+ORIGIN      
+        1 ttattttttc aaatggtgta gccgccggag gtgcggtgct cagttcttgg aaggggcccg
+       61 gatgtactga ggatgcgtta cagtttcact cgaggaggca gtagtggaaa ggagcagttt
+      121 ttggggtttg atgccataat gggaatcagg taatcgtcgg cggggaagaa gaaacgctgc
+      181 agaccacggc ttcctcgaat cttgcgcgaa agccgccggc ctcggaggag ggattaatcc
+      241 agacccgccg gggggtgttt tcacatttct tcctcttcgt ggctgctcct cctattaaaa
+      301 ccatttttgg tccatggtca atgagaatac gaggatgtac attccagagg aaaaccacca
+      361 aggttccaac tatgggagcc cacgccccgc ccatgccaac atgaatgcca atgcggcagc
+      421 ggggctggcc cctgagcaca tccccacccc gggggctgcc ctgtcgtggc aggcggccat
+      481 cgacgcagcc cggcaggcta agctgatggg cagcgctggc aatgcgacca tctccacagt
+      541 cagctccacg cagcggaagc ggcagcaata tgggaaaccc aagaagcagg gcagcaccac
+      601 ggccacacgc ccgccccgag ccctgctctg cctgaccctg aagaacccca tccggagggc
+      661 ctgcatcagc attgtcgaat ggaaaccatt tgaaataatt attttactga ctatttttgc
+      721 caattgtgtg gccttagcga tctatattcc ctttccagaa gatgattcca acgccaccaa
+      781 ttccaacctg gaacgagtgg aatatctctt tctcataatt tttacggtgg aagcgttttt
+      841 aaaagtaatc gcctatggac tcctctttca ccccaatgcc tacctccgca acggctggaa
+      901 cctactagat tttataattg tggttgtggg gctttttagt gcaattttag aacaagcaac
+      961 caaagcagat ggggcaaacg ctctcggagg gaaaggggcc ggatttgatg tgaaggcgct
+     1021 gagggccttc cgcgtgctgc gccccctgcg gctggtgtcc ggagtcccaa gtctccaggt
+     1081 ggtcctgaat tccatcatca aggccatggt ccccctgctg cacatcgccc tgcttgtgct
+     1141 gtttgtcatc atcatctacg ccatcatcgg cttggagctc ttcatgggga agatgcacaa
+     1201 gacctgctac aaccaggagg gcatagcaga tgttccagca gaagatgacc cttccccttg
+     1261 tgcgctggaa acgggccacg ggcggcagtg ccagaacggc acggtgtgca agcccggctg
+     1321 ggatggtccc aagcacggca tcaccaactt tgacaacttt gccttcgcca tgctcacggt
+     1381 gttccagtgc atcaccatgg agggctggac ggacgtgctg tactgggtca atgatgccgt
+     1441 aggaagggac tggccctgga tctattttgt tacactaatc atcatagggt cattttttgt
+     1501 acttaacttg gttctcggtg tgcttagcgg agagttttcc aaagagaggg agaaggccaa
+     1561 ggcccgggga gatttccaga agctgcggga gaagcagcag ctagaagagg atctcaaagg
+     1621 ctacctggat tggatcactc aggccgaaga catcgatcct gagaatgagg acgaaggcat
+     1681 ggatgaggag aagccccgaa acatgagcat gcccaccagt gagaccgagt ccgtcaacac
+     1741 cgaaaacgtg gctggaggtg acatcgaggg agaaaactgc ggggccaggc tggcccaccg
+     1801 gatctccaag tcaaagttca gccgctactg gcgccggtgg aatcggttct gcagaaggaa
+     1861 gtgccgcgcc gcagtcaagt ctaatgtctt ctactggctg gtgattttcc tggtgttcct
+     1921 caacacgctc accattgcct ctgagcacta caaccagccc aactggctca cagaagtcca
+     1981 agacacggca aacaaggccc tgctggccct gttcacggca gagatgctcc tgaagatgta
+     2041 cagcctgggc ctgcaggcct acttcgtgtc cctcttcaac cgctttgact gcttcgtcgt
+     2101 gtgtggcggc atcctggaga ccatcctggt ggagaccaag atcatgtccc cactgggcat
+     2161 ctccgtgctc agatgcgtcc ggctgctgag gattttcaag atcacgaggt actggaactc
+     2221 cttgagcaac ctggtggcat ccttgctgaa ctctgtgcgc tccatcgcct ccctgctcct
+     2281 tctcctcttc ctcttcatca tcatcttctc cctcctgggg atgcagctct ttggaggaaa
+     2341 gttcaacttt gatgagatgc agacccggag gagcacattc gataacttcc cccagtccct
+     2401 cctcactgtg tttcagatcc tgaccgggga ggactggaat tcggtgatgt atgatgggat
+     2461 catggcttat ggcggcccct cttttccagg gatgttagtc tgtatttact tcatcatcct
+     2521 cttcatctgt ggaaactata tcctactgaa tgtgttcttg gccattgctg tggacaacct
+     2581 ggctgatgct gagagcctca catctgccca aaaggaggag gaagaggaga aggagagaaa
+     2641 gaagctggcc aggactgcca gcccagagaa gaaacaagag ttggtggaga agccggcagt
+     2701 gggggaatcc aaggaggaga agattgagct gaaatccatc acggctgacg gagagtctcc
+     2761 acccgccacc aagatcaaca tggatgacct ccagcccaat gaaaatgagg ataagagccc
+     2821 ctaccccaac ccagaaacta caggagaaga ggatgaggag gagccagaga tgcctgtcgg
+     2881 ccctcgccca cgaccactct ctgagcttca ccttaaggaa aaggcagtgc ccatgccaga
+     2941 agccagcgcg tttttcatct tcagctctaa caacaggttt cgcctccagt gccaccgcat
+     3001 tgtcaatgac acgatcttca ccaacctgat cctcttcttc attctgctca gcagcatttc
+     3061 cctggctgct gaggacccgg tccagcacac ctccttcagg aaccatattc tgttttattt
+     3121 tgatattgtt tttaccacca ttttcaccat tgaaattgct ctgaagatcc taggcaatgc
+     3181 agactatgtc ttcactagta tctttacatt agaaattatc cttaagatga ctgcttatgg
+     3241 ggctttcttg cacaagggtt ctttctgccg gaactacttc aacatcctgg acctgctggt
+     3301 ggtcagcgtg tccctcatct cctttggcat ccagtccagt gcaatcaatg tcgtgaagat
+     3361 cttgcgagtc ctgcgagtac tcaggcccct gagggccatc aacagggcca aggggctaaa
+     3421 gcatgtggtt cagtgtgtgt ttgtcgccat ccggaccatc gggaacatcg tgattgtcac
+     3481 caccctgctg cagttcatgt ttgcctgcat cggggtccag ctcttcaagg gaaagctgta
+     3541 cacctgttca gacagttcca agcagacaga ggcggaatgc aagggcaact acatcacgta
+     3601 caaagacggg gaggttgacc accccatcat ccaaccccgc agctgggaga acagcaagtt
+     3661 tgactttgac aatgttctgg cagccatgat ggccctcttc accgtctcca ccttcgaagg
+     3721 gtggccagag ctgctgtacc gctccatcga ctcccacacg gaagacaagg gccccatcta
+     3781 caactaccgt gtggagatct ccatcttctt catcatctac atcatcatca tcgccttctt
+     3841 catgatgaac atcttcgtgg gcttcgtcat cgtcaccttt caggagcagg gggagcagga
+     3901 gtacaagaac tgtgagctgg acaagaacca gcgacagtgc gtggaatacg ccctcaaggc
+     3961 ccggcccctg cggaggtaca tccccaagaa ccagcaccag tacaaagtgt ggtacgtggt
+     4021 caactccacc tacttcgagt acctgatgtt cgtcctcatc ctgctcaaca ccatctgcct
+     4081 ggccatgcag cactacggcc agagctgcct gttcaaaatc gccatgaaca tcctcaacat
+     4141 gctcttcact ggcctcttca ccgtggagat gatcctgaag ctcattgcct tcaaacccaa
+     4201 gggttacttt agtgatccct ggaatgtttt tgacttcctc atcgtaattg gcagcataat
+     4261 tgacgtcatt ctcagtgaga ctaatcacta tttctgtgat gcatggaata catttgacgc
+     4321 cttgattgtt gtgggtagca ttgttgatat agcaatcacc gaggtaaacc cagctgaaca
+     4381 tacccaatgc tctccctcta tgaacgcaga ggaaaactcc cgcatctcca tcaccttctt
+     4441 ccgcctgttc cgggtcatgc gtctggtgaa gctgctgagc cgtggggagg gcatccggac
+     4501 gctgctgtgg accttcatca agtccttcca ggccctgccc tatgtggccc tcctgatcgt
+     4561 gatgctgttc ttcatctacg cggtgatcgg gatgcaggtg tttgggaaaa ttgccctgaa
+     4621 tgataccaca gagatcaacc ggaacaacaa ctttcagacc ttcccccagg ccgtgctgct
+     4681 cctcttcagg tgtgccaccg gggaggcctg gcaggacatc atgctggcct gcatgccagg
+     4741 caagaagtgt gccccagagt ccgagcccag caacagcacg gagggtgaaa caccctgtgg
+     4801 tagcagcttt gctgtcttct acttcatcag cttctacatg ctctgtgcct tcctgatcat
+     4861 caacctcttt gtagctgtca tcatggacaa ctttgactac ctgacaaggg actggtccat
+     4921 ccttggtccc caccacctgg atgagtttaa aagaatctgg gcagagtatg accctgaagc
+     4981 caagggtcgt atcaaacacc tggatgtggt gaccctcctc cggcggattc agccgccact
+     5041 aggttttggg aagctgtgcc ctcaccgcgt ggcttgcaaa cgcctggtct ccatgaacat
+     5101 gcctctgaac agcgacggga cagtcatgtt caatgccacc ctgtttgccc tggtcaggac
+     5161 ggccctgagg atcaaaacag aagggaacct agaacaagcc aatgaggagc tgcgggcgat
+     5221 catcaagaag atctggaagc ggaccagcat gaagctgctg gaccaggtgg tgccccctgc
+     5281 aggtgatgat gaggtcaccg ttggcaagtt ctacgccacg ttcctgatcc aggagtactt
+     5341 ccggaagttc aagaagcgca aagagcaggg ccttgtgggc aagccctccc agaggaacgc
+     5401 gctgtctctg caggctggct tgcgcacact gcatgacatc gggcctgaga tccgacgggc
+     5461 catctctgga gatctcaccg ctgaggagga gctggacaag gccatgaagg aggctgtgtc
+     5521 cgctgcttct gaagatgaca tcttcaggag ggccggtggc ctgttcggca accacgtcag
+     5581 ctactaccaa agcgacggcc ggagcgcctt cccccagacc ttcaccactc agcgcccgct
+     5641 gcacatcaac aaggcgggca gcagccaggg cgacactgag tcgccatccc acgagaagct
+     5701 ggtggactcc accttcaccc cgagcagcta ctcgtccacc ggctccaacg ccaacatcaa
+     5761 caacgccaac aacaccgccc tgggtcgcct ccctcgcccc gccggctacc ccagcacggt
+     5821 cagcactgtg gagggccacg ggcccccctt gtcccctgcc atccgggtgc aggaggtggc
+     5881 gtggaagctc agctccaaca gggaaaggca cgttccggtg tgtgaggatc tggagctcag
+     5941 gagggattca ggctcagcag ggactcaggc tcactgcctt ctgctcagga gagcaaaccc
+     6001 ctctaggtgc cactcccggg agagccaggc agccatggcg ggtcaggagg agacgtctca
+     6061 ggatgagacc tatgaagtga agatgaacca tgacacggag gcctgcagtg agcccagcct
+     6121 gctctccaca gagatgctct cctaccagga tgacgaaaat cggcaactga cgctcccaga
+     6181 ggaggacaag agggacatcc ggcaatctcc gaagaggggt ttcctccgct ctgcctcact
+     6241 aggtcgaagg gcctccttcc acctggaatg tctgaagcga cagaaggacc gagggggaga
+     6301 catctctcag aagacagtcc tgcccttgca tctggttcat catcaggcat tggcagtggc
+     6361 aggcctgagc cccctcctcc agagaagcca ttcccctgcc tcattcccta ggccttttgc
+     6421 caccccacca gccacacctg gcagccgagg ctggccccca cagcccgtcc ccaccctgcg
+     6481 gcttgagggg gtcgagtcca gtgagaaact caacagcagc ttcccatcca tccactgcgg
+     6541 ctcctgggct gagaccaccc ccggtggcgg gggcagcagc gccgcccgga gagtccggcc
+     6601 cgtctccctc atggtgccca gccaggctgg ggccccaggg aggcagttcc acggcagtgc
+     6661 cagcagcctg gtggaagcgg tcttgatttc agaaggactg gggcagtttg ctcaagatcc
+     6721 caagttcatc gaggtcacca cccaggagct ggccgacgcc tgcgacatga ccatagagga
+     6781 gatggagagc gcggccgaca acatcctcag cgggggcgcc ccacagagcc ccaatggcgc
+     6841 cctcttaccc tttgtgaact gcagggacgc ggggcaggac cgagccgggg gcgaagagga
+     6901 cgcgggctgt gtgcgcgcgc ggggtggacc gagtgaggag gagctccagg acagcagggt
+     6961 ctacgtcagc agcctgtagt gggcgctgcc agatgcgggc ttttttttat ttgtttcaat
+     7021 gttcctaatg ggttcgtttc agaagtgcct cactgttctc gtgacctgga gttaaccgga
+     7081 acagcgtctt cat
+//
+

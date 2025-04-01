@@ -1,0 +1,117 @@
+LOCUS       HSU01212                3718 bp    DNA     linear   PRI 03-AUG-1994
+DEFINITION  Human olfactory marker protein (OMP) gene, complete cds.
+ACCESSION   U01212
+VERSION     U01212.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 3718)
+  AUTHORS   Buiakova,O.I., Krishna,N.S., Getchell,T.V. and Margolis,F.L.
+  TITLE     Human and rodent OMP genes: conservation of structural and
+            regulatory motifs and cellular localization
+  JOURNAL   Genomics 20 (3), 452-462 (1994)
+   PUBMED   8034318
+REFERENCE   2  (bases 1 to 3718)
+  AUTHORS   Margolis,F.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-SEP-1993) Frank L. Margolis, Roche Institute of
+            Molecular Biology, 340 Kingsland Street, Nutley, NJ 07110-1199, USA
+COMMENT     On Aug 3, 1994 this sequence version replaced gi:457938.
+FEATURES             Location/Qualifiers
+     source          1..3718
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="11"
+                     /map="11q13.5"
+                     /clone="HOMP2, HOMP3, HOMP5"
+                     /clone_lib="genomic library in EMBL3 from one caucasian
+                     female, Clontech Labs."
+     regulatory      449..459
+                     /regulatory_class="enhancer"
+                     /note="distal Olf-1 binding site"
+     regulatory      510..534
+                     /regulatory_class="enhancer"
+                     /note="UBE binding site, putative NF-1 element"
+     regulatory      976..986
+                     /regulatory_class="enhancer"
+                     /note="proximal Olf-1 binding site"
+     CDS             1245..1736
+                     /note="intronless open reading frame"
+                     /codon_start=1
+                     /product="olfactory marker protein"
+                     /protein_id="AAA20485.1"
+                     /translation="MAEDRPQQPQLDMPLVLDQGLTRQMRLRVESLKQRGEKRQDGEK
+                     LLQPAESVYRLNFTQQQRLQFERWNVVLDKPGKVTITGTSQNWTPDLTNLMTRQLLDP
+                     TAIFWRKEDSDAIDWNEADALEFGERLSDLAKIRKVMYFLVTFGEGVEPANLKASVVF
+                     NQL"
+     regulatory      3593..3598
+                     /regulatory_class="polyA_signal_sequence"
+ORIGIN      
+        1 ggatcccact gattgattag ccaccatctc acaattgacc gtgcttgtgg tccactagac
+       61 ccttcagatt gttttccgtt gtgatacctt ggccttgact ctgtcctctt ttctgtgtgt
+      121 ggcgtgttgt ggcgaggggc gctccccaac tcccatcccc actctctccc caactccggc
+      181 tccactcaca ctccagttct ttcatttccc cagtataaag gctgagcttc tggttccgcc
+      241 ccgggccctg gggatataaa catttgccag attcttcctc ggcccctggg ggaaactgag
+      301 gattaattca ggtggagtaa gtggtgggat ttgggtagaa gtgaagcctt gtcctgttgt
+      361 ggccatggtg cagggctgcg gcacagccag ccatcagtgt catccgggtc agtaatgctc
+      421 aaggcacagt ccctggccca gcagcatgtc acctgggagg tggttaggaa tgcagattct
+      481 caggcccaca gagccctgat aaaccaggag ttctgggagg gggtccagca atctgtgtgt
+      541 taagtcctga gagtgagtct tgatgctcac tcaagtcttg agaaccacgg gtctgggtga
+      601 gagatacggt agctgggctg agatcctgtc aatgggactg gaggggaagg gtcccggggt
+      661 gtttgggaag cagaatcgac aggctttggt gattgggtgt ggaggagtga gagggaggcg
+      721 ggcgtcaggg gtagctccaa ggtttaactt aggtgacttc agatctccaa tcaccaagcc
+      781 ctctctggtc ctgccttctc cacctgctcc tgcgggtctt gcatcttctc ctgtgtacct
+      841 ccagtgagga gtggtcccca ccaccctccc catcagtgca cttacgaagt gctctcatct
+      901 tcacaaacaa gccagcaccc agcccagccc tggtagtcag ggcggttgcc acagcaattg
+      961 acatcagcga cctggtcccc aaggaacctg ccaccttccg cctgcctgca gggcctgcat
+     1021 tatcgcttct gcggggactg gagtggaggc agatggggac tcccacccct gacacacacc
+     1081 ccattttgag aactgagtgg ggctgggaag agccagtgcc aaagggaggg gaagagggaa
+     1141 gggcagaaag taggtggggc ccccctttgg tggcctcttc tctccacggc cccaggctcc
+     1201 agcccacttg ggtccttggc gttggtggca gcagcacttg ggccatggcg gaggacaggc
+     1261 cgcagcagcc gcagctggac atgccgctgg tcctggacca gggcctgacc aggcagatgc
+     1321 ggctacgcgt ggagagcctg aagcagcgcg gggagaagcg ccaggatggg gagaagctgc
+     1381 tgcagccagc ggagtctgtg taccgcctca acttcaccca gcagcagcgg ctacagttcg
+     1441 agcgctggaa tgtcgtgctg gacaagccgg gcaaggtcac catcacaggc acctcgcaga
+     1501 actggacgcc tgacctcacc aacctcatga cacgccagct gctggacccc actgccatct
+     1561 tctggcgcaa ggaggactcg gatgccatag attggaatga ggccgacgcc ctggagtttg
+     1621 gggagcgcct gtcggacctg gccaagatcc gcaaggtcat gtacttcctc gtcacctttg
+     1681 gcgagggtgt ggagcccgcc aacctcaagg cctccgtggt ttttaaccag ctctgacagc
+     1741 agctgccagc tgctgctctc ctctagccca cctgtgctct cccctgcccc tgccactttc
+     1801 ccccctgtat tttgggggcc attattctcg ctgctcagcc tgtcctctgc ttgcccagag
+     1861 gccccctgag tcccacacct ttcctcctct gcttctccct ggggccagca ctccagctca
+     1921 caggaagaag attctgaggc tccatagcct agaagctgga ctggctgctg cattgctata
+     1981 gacgatagag gcctactagg ggccagtgtg catggacagt gaggccaggg ccatctgcct
+     2041 tctctctgct tcattgtggg agagagagac tgagaaagac caagagagac acagagacag
+     2101 agattgaaaa acccagcatc cacttcctcc agagtcaggg agacagagat gatggggcgt
+     2161 ctccacgggg agtccagcaa gccggcattc actgctccct ggccttggtg ccctttgccg
+     2221 gagcctgtgt ctgggctgct ggtcccataa cacgtcgaca accctcagga tatggggcag
+     2281 ggttgctgca ggggtggatt tgggcagtgg agagtggctg gcaccctgga ggctgtgtag
+     2341 gcccagctgt ggctcttctg ggcctgactt cagggtggag aagtgaaggg ggaggttaca
+     2401 cagagatctg tctctacgca cacatatcca tgagacagag tgtgctgtat tcatatggat
+     2461 gtattctaga ggtctattcc taccctagga acaagtgcag ttttagatta tctgttcatc
+     2521 attgctgctg gttcaaggat ggctcttaac aggggcctgg tccggatgac cttggcctgg
+     2581 gggcttgctg agctaggaga ctgcagttca gatagtgaaa cagggagtgg attagtaaag
+     2641 ggggttccct ttgccttgag ggaagttgga gctggagaga gtggattctc cagggcctca
+     2701 ggtatcccct gctggggagt caggctcttt agagcttgca ggtcagggaa ggcaagtgct
+     2761 tcgtcctgac atagcatctg ttggcatttc ttgggcttct tcaatgcagc tgaggggggc
+     2821 agggcgaagg cgtggtgggc agttacgacg gctgatagtc ccaagtgggc tgcaggcggc
+     2881 agtggtgtga cggcagaatg gtaacctctg gggtcattgg atgcaactca ctcaccaaac
+     2941 agatggggaa actgaggcac aattttcatc agattcagtt ctgactctta gcctcattcc
+     3001 ccttcgcatt gcgcagtccc agagagcccc cccttttggg ggagtgcctg acctgcacct
+     3061 aacatcagcc aagtacagct aagccactgt ccccagcacc ctgacttaag gccagccctg
+     3121 tgttttgtcc tcagccagtc agggatgtgt ccaagacatt tcccctcatg aagcaaagct
+     3181 gtcaaggaac ttgccggctc tggaacagat gcactgaggg ccagagggtc agggccatcc
+     3241 cctgtggctg gggctgccgg gagggtgagc cccacctcgg aggtgtgcag gctggagcag
+     3301 catgctggag ctgagattct gtgggtgaga gagtgggaga gtgtctgtgg gctgagcact
+     3361 ggtcctttct gactcacagc tctggggccc attccgggac aggcttgaag aagtctcggc
+     3421 cattgcctgc cctgctgagc acgaggggag gccagaaccg tgtgcagtgg ccctgccctt
+     3481 ctgcttgagc tcttcctgca gctctgggga ccctcttagt cccgactgcc tgtctcccca
+     3541 gcctgtctgt cccggggcct gagtccctct gctgtgcccg ctgcaggtcc ccaataaagc
+     3601 ctgtgccctg gcctcggtgg tgtgcagtgt ctcgccatca gcccccatcc ctttcacaat
+     3661 ccctcacggc cccgagcact tgctccctgg ccacttccca cactccccca gcccttgc
+//
+

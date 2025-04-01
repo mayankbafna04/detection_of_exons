@@ -1,0 +1,115 @@
+LOCUS       Y00106                  2305 bp    DNA     linear   PRI 12-SEP-1993
+DEFINITION  Human gene for beta-adrenergic receptor (beta-2 subtype).
+ACCESSION   Y00106
+VERSION     Y00106.1
+KEYWORDS    beta-adrenergic receptor.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2305)
+  AUTHORS   Schofield,P.R., Rhee,L.M. and Peralta,E.G.
+  TITLE     Primary structure of the human beta-adrenergic receptor gene
+  JOURNAL   Nucleic Acids Res. 15 (8), 3636 (1987)
+   PUBMED   3033609
+REFERENCE   2  (bases 1 to 2305)
+  AUTHORS   Schofield,P.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-OCT-1987)
+FEATURES             Location/Qualifiers
+     source          1..2305
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /clone="lambdahbetaAR17"
+                     /clone_lib="Maniatis human"
+     CDS             794..2035
+                     /note="unnamed protein product; beta-adrenergic receptor
+                     (AA 1 - 413)"
+                     /codon_start=1
+                     /protein_id="CAA68289.1"
+                     /db_xref="GDB:120541"
+                     /db_xref="GOA:P07550"
+                     /db_xref="HGNC:HGNC:286"
+                     /db_xref="InterPro:IPR000276"
+                     /db_xref="InterPro:IPR000332"
+                     /db_xref="InterPro:IPR002233"
+                     /db_xref="InterPro:IPR017452"
+                     /db_xref="PDB:2R4R"
+                     /db_xref="PDB:2R4S"
+                     /db_xref="PDB:2RH1"
+                     /db_xref="PDB:3D4S"
+                     /db_xref="PDB:3KJ6"
+                     /db_xref="PDB:3NY8"
+                     /db_xref="PDB:3NY9"
+                     /db_xref="PDB:3NYA"
+                     /db_xref="UniProtKB/Swiss-Prot:P07550"
+                     /translation="MGQPGNGSAFLLAPNRSHAPDHDVTQQRDEVWVVGMGIVMSLIV
+                     LAIVFGNVLVITAIAKFERLQTVTNYFITSLACADLVMGLAVVPFGAAHILMKMWTFG
+                     NFWCEFWTSIDVLCVTASIETLCVIAVDRYFAITSPFKYQSLLTKNKARVIILMVWIV
+                     SGLTSFLPIQMHWYRATHQEAINCYANETCCDFFTNQAYAIASSIVSFYVPLVIMVFV
+                     YSRVFQEAKRQLQKIDKSEGRFHVQNLSQVEQDGRTGHGLRRSSKFCLKEHKALKTLG
+                     IIMGTFTLCWLPFFIVNIVHVIQDNLIRKEVYILLNWIGYVNSGFNPLIYCRSPDFRI
+                     AFQELLCLRRSSLKAYGNGYSSNGNTGEQSGYHVEQEKENKLLCEDLPGTEDFVGHQG
+                     TVPSDNIDSQGRNCSTNDSLL"
+     misc_feature    809..817
+                     /note="N-linked glycosylation site"
+     misc_feature    836..844
+                     /note="N-linked glycosylation site"
+     misc_feature    896..967
+                     /note="membrane spanning domain I"
+     misc_feature    1007..1078
+                     /note="membrane spanning domain II"
+     misc_feature    1114..1180
+                     /note="membrane spanning domain III"
+     misc_feature    1247..1315
+                     /note="membrane spanning domain IV"
+     misc_feature    1385..1450
+                     /note="membrane spanning domain V"
+     misc_feature    1616..1687
+                     /note="membrane spanning domain VI"
+     misc_feature    1712..1774
+                     /note="membrane spanning domain VII"
+ORIGIN      
+        1 gaattcatgc cgcgtttctg tgttggacag gggtgacttt gtgccggatg gcttctgtgt
+       61 gagagcgcgc gcgagtgtgc atgtcggtga gctgggaggg tgtgtctcag tgtctatggc
+      121 tgtggttcgg tataagtcta agcatgtctg ccagggtgta tttgtgcctg tatgtgcgtg
+      181 cctcggtggg cactctcgtt tccttccgaa tgtggggcag tgccggtgtg ctgccctctg
+      241 ccttgagacc tcaagccgcg caggcgccca gggcaggcag gtagcggcca cagaagagcc
+      301 aaaagctccc gggttggctg gtaagcacac cacctccagc tttagccctc tggggccagc
+      361 cagggtagcc gggaagcagt ggtggcccgc cctccaggga gcagttgggc cccgcccggg
+      421 ccagcctcag gagaaggagg gcgaggggag gggagggaaa ggggaggagt gcctcgcccc
+      481 ttcgcggctg ccggcgtgcc attggccgaa agttcccgta cgtcacggcg agggcagttc
+      541 ccctaaagtc ctgtgcacat aacgggcaga acgcactgcg aagcggcttc ttcagagcac
+      601 gggctggaac tggcaggcac cgcgagcccc tagcacccga caagctgagt gtgcaggacg
+      661 agtccccacc acacccacac cacagccgct gaatgaggct tccaggcgtc cgctcgcggc
+      721 ccgcagagcc ccgccgtggg tccgcctgct gaggcgcccc cagccagtgc gcttacctgc
+      781 cagactgcgc gccatggggc aacccgggaa cggcagcgcc ttcttgctgg cacccaatag
+      841 aagccatgcg ccggaccacg acgtcacgca gcaaagggac gaggtgtggg tggtgggcat
+      901 gggcatcgtc atgtctctca tcgtcctggc catcgtgttt ggcaatgtgc tggtcatcac
+      961 agccattgcc aagttcgagc gtctgcagac ggtcaccaac tacttcatca cttcactggc
+     1021 ctgtgctgat ctggtcatgg gcctggcagt ggtgcccttt ggggccgccc atattcttat
+     1081 gaaaatgtgg acttttggca acttctggtg cgagttttgg acttccattg atgtgctgtg
+     1141 cgtcacggcc agcattgaga ccctgtgcgt gatcgcagtg gatcgctact ttgccattac
+     1201 ttcacctttc aagtaccaga gcctgctgac caagaataag gcccgggtga tcattctgat
+     1261 ggtgtggatt gtgtcaggcc ttacctcctt cttgcccatt cagatgcact ggtaccgggc
+     1321 cacccaccag gaagccatca actgctatgc caatgagacc tgctgtgact tcttcacgaa
+     1381 ccaagcctat gccattgcct cttccatcgt gtccttctac gttcccctgg tgatcatggt
+     1441 cttcgtctac tccagggtct ttcaggaggc caaaaggcag ctccagaaga ttgacaaatc
+     1501 tgagggccgc ttccatgtcc agaaccttag ccaggtggag caggatgggc ggacggggca
+     1561 tggactccgc agatcttcca agttctgctt gaaggagcac aaagccctca agacgttagg
+     1621 catcatcatg ggcactttca ccctctgctg gctgcccttc ttcatcgtta acattgtgca
+     1681 tgtgatccag gataacctca tccgtaagga agtttacatc ctcctaaatt ggataggcta
+     1741 tgtcaattct ggtttcaatc cccttatcta ctgccggagc ccagatttca ggattgcctt
+     1801 ccaggagctt ctgtgcctgc gcaggtcttc tttgaaggcc tatgggaatg gctactccag
+     1861 caacggcaac acaggggagc agagtggata tcacgtggaa caggagaaag aaaataaact
+     1921 gctgtgtgaa gacctcccag gcacggaaga ctttgtgggc catcaaggta ctgtgcctag
+     1981 cgataacatt gattcacaag ggaggaattg tagtacaaat gactcactgc tgtaaagcag
+     2041 tttttctact tttaaagacc ccccccccca acagaacact aaacagacta tttaacttga
+     2101 gggtaataaa cttagaataa aattgtaaaa ttgtatagag atatgcagaa ggaagggcat
+     2161 ccttctgcct tttttatttt tttaagctgt aaaaagagag aaaacttatt tgagtgatta
+     2221 tttgttattt gtacagttca gttcctcttt gcatggaatt tgtaagttta tgtctaaaga
+     2281 gctttagtcc tagaggacct gagtc
+//
+

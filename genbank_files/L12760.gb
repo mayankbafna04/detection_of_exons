@@ -1,0 +1,203 @@
+LOCUS       HUMPHOSA                4892 bp    DNA     linear   PRI 16-AUG-1993
+DEFINITION  Human phosphoenolpyruvate carboxykinase (PCK1) gene, complete cds
+            with repeats.
+ACCESSION   L12760
+VERSION     L12760.1
+KEYWORDS    phosphoenolpyruvate carboxykinase.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 4892)
+  AUTHORS   Beale,E.G., Chrapkiewicz,N.B., Scoble,H.A., Metz,R.J., Quick,D.P.,
+            Noble,R.L., Donelson,J.E., Biemann,K. and Granner,D.K.
+  TITLE     Rat hepatic cytosolic phosphoenolpyruvate carboxykinase (GTP).
+            Structures of the protein, messenger RNA, and gene
+  JOURNAL   J. Biol. Chem. 260 (19), 10748-10760 (1985)
+   PUBMED   2993287
+REFERENCE   2  (bases 1 to 4892)
+  AUTHORS   Ting,C.N., Burgess,D.L., Chamberlain,J.S., Keith,T.P., Falls,K. and
+            Meisler,M.H.
+  TITLE     Phosphoenolpyruvate carboxykinase (GTP): characterization of the
+            human PCK1 gene and localization distal to MODY on chromosome 20
+  JOURNAL   Genomics 16 (3), 698-706 (1993)
+   PUBMED   8325643
+REFERENCE   3  (bases 1 to 4892)
+  AUTHORS   Yu,H., Thun,R., Chandrasekharappa,S., Trent,J.M., Zhang,J. and
+            Meisler,M.H.
+  TITLE     Human PCK1 encoding phosphoenolpyruvate carboxykinase is located on
+            chromosome 20q13.2
+  JOURNAL   Genomics 15 (1), 219-221 (1993)
+   PUBMED   8432541
+FEATURES             Location/Qualifiers
+     source          1..4892
+                     /organism="Homo sapiens"
+                     /mol_type="unassigned DNA"
+                     /db_xref="taxon:9606"
+     gene            1..4892
+                     /gene="PCK1"
+     exon            <1..232
+                     /gene="PCK1"
+                     /note="This partially untranslated exon corresponds to
+                     exon 2 of the reported rat gene. Rat exon 1 is
+                     untranslated"
+                     /citation=[1]
+                     /number=1
+     CDS             join(9..232,668..849,1290..1493,1622..1809,2160..2322,
+                     2763..2987,3077..3208,3633..3728,3943..4397)
+                     /gene="PCK1"
+                     /function="gluconeogenesis"
+                     /codon_start=1
+                     /product="phosphoenolpyruvate carboxykinase"
+                     /protein_id="AAA02558.1"
+                     /translation="MPPQLQNGLNLSAKVVQGSLDSLPQAVREFLENNAELCQPDHIH
+                     ICDGSEEENGRLLGQMEEEGILRRLKKYDNCWLALTDPRDVARIESKTVIVTQEQRDT
+                     VPIPKTGLSQLGRWMSEEDFEKAFNARFPGCMKGRTMYVIPFSMGPLGSPLSKIGIEL
+                     TDSPYVVASMRIMTRMGTPVLEALGDGEFVKCLHSVGCPLPLQKPLVNNWPCNPELTL
+                     IAHLPDRREIISFGSGYGGNSLLGKKCFALRNASRLAKEEGWLAEHMLILGITNPEGE
+                     KKYLAAAFPSACGKSNLAMMNPSLPGWKVECVGDDIAWMKFDAQGHLRAINPENGFFG
+                     VAPGTSVKTNPNAIKTIQKNTIFTNVAETSDGGVYWEGIDEPLASGVTITSWKNKEWS
+                     SEDGEPCAHPNSRFCTPASQCPIIDAAWESPEGVPIEGIIFGGRRPAGVPLVYEALSW
+                     QHGVFVGAAMRSEATAAAEHKGKIIMHDPFAMRPFFGYNFGKYLAHWLSMAQHPAAKL
+                     PKIFHVNWFRKDKEGKFLWPGFGENSRVLEWMFNRIDGKASTKLTPIGYIPKEDALNL
+                     KGLGHINMMELFSISKEFWEKEVEDIEKYLEDQVNADLPCEIEREILALKQRISQM"
+     intron          233..667
+                     /gene="PCK1"
+                     /number=1
+     exon            668..849
+                     /gene="PCK1"
+                     /number=2
+     intron          850..1289
+                     /gene="PCK1"
+                     /number=2
+     exon            1290..1493
+                     /gene="PCK1"
+                     /number=3
+     intron          1494..1621
+                     /gene="PCK1"
+                     /number=3
+     exon            1622..1809
+                     /gene="PCK1"
+                     /number=4
+     intron          1810..2159
+                     /gene="PCK1"
+                     /number=4
+     exon            2160..2322
+                     /gene="PCK1"
+                     /number=5
+     intron          2323..2762
+                     /gene="PCK1"
+                     /number=5
+     exon            2763..2987
+                     /gene="PCK1"
+                     /number=6
+     intron          2988..3076
+                     /gene="PCK1"
+                     /number=6
+     exon            3077..3208
+                     /gene="PCK1"
+                     /number=7
+     intron          3209..3632
+                     /gene="PCK1"
+                     /number=7
+     exon            3633..3728
+                     /gene="PCK1"
+                     /number=8
+     intron          3729..3942
+                     /gene="PCK1"
+                     /number=8
+     exon            3943..>4892
+                     /gene="PCK1"
+                     /citation=[1]
+                     /number=9
+     repeat_region   4742..4785
+                     /gene="PCK1"
+                     /note="label: polymorphism"
+                     /citation=[2]
+                     /rpt_type=tandem
+ORIGIN      
+        1 ctgcagaaat gcctcctcag ctgcaaaacg gcctgaacct ctcggccaaa gttgtccagg
+       61 gaagcctgga cagcctgccc caggcagtga gggagtttct cgagaataac gctgagctgt
+      121 gtcagcctga tcacatccac atctgtgacg gctctgagga ggagaatggg cggcttctgg
+      181 gccagatgga ggaagagggc atcctcaggc ggctgaagaa gtatgacaac tggtaagctc
+      241 ggcccccgct gcctgtccca gcaccctgca ggcagggctc ccctgcgtct cctgggagtt
+      301 ggtggagaaa ggtgaatgaa ggccttcggg tagtttcaga ctcttgagaa gatgaatgca
+      361 atggtcagaa ccatacagac ttgaattttg tgacattagt gggccagccc aagctttaaa
+      421 tgaggtgtgt gcacaaaagc tctgccaact agattcctga ttaaaaaaaa ggcagcccct
+      481 ctcctacaga ccagctccta gtggagtaaa tgtccacctg gccatgtctt agacggtctg
+      541 tgtgttcaca gtgatggact gttgttagcg tgctcagcac tctgctaggc atggaaagcc
+      601 acggtactga aggagatggt tcgctgcccg tggtgcttgg ctgaaaggaa gcctgtgatt
+      661 tttgcagctg gttggctctc actgacccca gggatgtggc caggatcgaa agcaagacgg
+      721 ttatcgtcac ccaagagcaa agagacacag tgcccatccc caaaacaggc ctcagccagc
+      781 tcggtcgctg gatgtcagag gaggattttg agaaagcgtt caatgccagg ttcccagggt
+      841 gcatgaaagg tgagcggaac attgatttga ttgggtaaaa cagcagagag ccttttctta
+      901 tttacatcta tcctaatggt aattcaaaca ataatggaag ctccaccacc tcagatgtct
+      961 ttcagttcca tacatgaagt tggcaatgta ttgaaaatgc acatccctct tctgctttta
+     1021 cagactgtct tatacaaacg tgaaaactag ttccatgcat atgggtttta aatagcttgg
+     1081 tggacccaat tgcacattta tgaaaactct ttaatttcag caggctgttc actttccagt
+     1141 ggcctcttct aacccagggc ctggtgacca gcagggtgtg gtggtgttag tggaacaccg
+     1201 tgaaaatggg tctacctggg aaaaaaatgc tggtcgtgtt cgaagtccaa ggtcatttct
+     1261 caccagtgcc cacccatcgc accctgtagg tcgcaccatg tacgtcatcc cattcagcat
+     1321 ggggccgctg ggctcacctc tgtcgaagat cggcatcgag ctgacggatt cgccctacgt
+     1381 ggtggccagc atgcggatca tgacgcggat gggcacgccc gtcctggaag cactgggcga
+     1441 tggggagttt gtcaaatgcc tccattctgt ggggtgccct ctgcctttac aaagtaagtg
+     1501 tattatttca gaatcaaaag tcaaaataaa aaagaaagct gaacgcaaac cccagtgagt
+     1561 gcctcgggga cccccaacca gggccctggc gcactgactt gggaggggtc cttgttcaca
+     1621 gagcctttgg tcaacaactg gccctgcaac ccggagctga cgctcatcgc ccacctgcct
+     1681 gaccgcagag agatcatctc ctttggcagt gggtacggcg ggaactcgct gctcgggaag
+     1741 aagtgctttg ctctcaggaa tgccagccgg ctggccaagg aggaagggtg gctggcagag
+     1801 cacatgctgg tgagctgcag gaagccctga tgtgcagatg agaggcctgg ggggtggcag
+     1861 aaacaaacag cattacagtt cccacccgtc agcacacctc tctgagcgtg caggttcccg
+     1921 gacagatcgg gaaaccccac cagtaatgat tagtttacac atatacatcg cttttgaagg
+     1981 gcccccaaaa caccagggga ccatagagat ccttttggac ttcatgattc ttgggagtgt
+     2041 tgttgcactg atacctgaag gaatagatct tgagggccta cattccaacc tctgggctga
+     2101 agtaccaacc tcggggagaa ggaaacaaag atcacaataa agaatcttgt ccccaacaga
+     2161 ttctgggtat aaccaaccct gagggtgaga agaagtacct ggcggccgca tttcccagcg
+     2221 cctgcgggaa gtccaacctg gccatgatga accccagcct ccccgggtgg aaggttgagt
+     2281 gcgtcgggga tgacattgcc tggatgaagt ttgacgcaca aggtgactct tttagaccca
+     2341 actcttggta acgattggac tcaagcgaat cgttggcctt cgaaacatgt cacattctcc
+     2401 tcagtccagt gtttggattt ttaaactctg ttagtccaga gttggccaag ccttagaata
+     2461 tggatcctgt aagaattctt caacttaata ttcaatctgg attgaaactg ggccatatgt
+     2521 tgctgtttgt ttacatacat acatttgttt aaatggtatt ggtggaaaat tgtggaggaa
+     2581 gcaagagtcg taaacgtatc aaagttgcat atgatgcttg gatgaaaaga gataaatgca
+     2641 tattctaggg agggaaaaaa gatttgagaa gttggcatag aaattagtcc ggcaatatat
+     2701 aagagtatat gttctgcttt gcctggcact cactactgct tctctggttt aaaactctcc
+     2761 aggtcattta agggccatca acccagaaaa tggctttttc ggtgtcgctc ctgggacttc
+     2821 agtgaagacc aaccccaatg ccatcaagac catccagaag aacacaatct ttaccaatgt
+     2881 ggccgagacc agcgacgggg gcgtttactg ggaaggcatt gatgagccgc tagcttcagg
+     2941 cgtcaccatc acgtcctgga agaataagga gtggagctca gaggatggtg tgtccctgcc
+     3001 agaggcctgt gtgtgccggg ctgcagggac tgcctgtttt gagccaggca ctcacgagcc
+     3061 tttctctgtc ttatagggga accttgtgcc caccccaact cgaggttctg cacccctgcc
+     3121 agccagtgcc ccatcattga tgctgcctgg gagtctccgg aaggtgttcc cattgaaggc
+     3181 attatctttg gaggccgtag acctgctggt gaggctctcc ttcatttagg ctgggaacat
+     3241 gggtgtgctg ggtaccgaag gcatctgtga aatctctcct tttccatgac cttgtcagag
+     3301 ggtgcccagg ggcttccttt cttgagcttc cttcccaaag atccagaata attggcaagt
+     3361 tcaaatgtag aaccaaccct tctggtcacc tggaaccttt ctgaatcctt gatctattgt
+     3421 agcttgatca aattttactt tttactttgt ggcctcagtc atgtaacttt gagttagcag
+     3481 ttttctgcaa tttagcttgg tgaatgcaaa actagctcga ttacaagtta ttgtcttgcc
+     3541 gtgtctttcc gtgttgtgaa taacaccact ggttgtggag tctgaatttc aaagcctctg
+     3601 atgaacattt ctcttttttt ttcctgctaa aggtgtccct ctagtctatg aagctctcag
+     3661 ctggcaacat ggagtctttg tgggggcggc catgagatca gaggccacag cggctgcaga
+     3721 acataaaggt aaatcaaagt cctgatctga aaccacagag aagtgggatt agagcactct
+     3781 tcgtcactct tatgtctctc tccttttctg tgtctgtgtg tggggagaga gagagagaga
+     3841 aagagagaga ggagaacaaa gcatgctaat gtcaacaatc aatggcgtca gtcttgccta
+     3901 ggagagcctc atttactaat gaactccctc tctgtttaac aggcaaaatc atcatgcatg
+     3961 acccctttgc catgcggccc ttctttggct acaacttcgg caaatacctg gcccactggc
+     4021 ttagcatggc ccagcaccca gcagccaaac tgcccaagat cttccatgtc aactggttcc
+     4081 ggaaggacaa ggaaggcaaa ttcctctggc caggctttgg agagaactcc agggtgctgg
+     4141 agtggatgtt caaccggatc gatggaaaag ccagcaccaa gctcacgccc ataggctaca
+     4201 tccccaagga ggatgccctg aacctgaaag gcctggggca catcaacatg atggagcttt
+     4261 tcagcatctc caaggaattc tgggagaagg aggtggaaga catcgagaag tatctggagg
+     4321 atcaagtcaa tgccgacctc ccctgtgaaa tcgagagaga gatccttgcc ttgaagcaaa
+     4381 gaataagcca gatgtaatca gggcctgagt gctttacctt taaaatcatt ccctttccca
+     4441 tccataaggt gcagtaggag caagagaggg caagtgttcc caaattgacg ccaccataat
+     4501 aatcatcacc acaccgtgag cagatctgaa aggcacactt tgattttttt aaggataaga
+     4561 accacagaac actgggtagt agctaatgaa attgagaagg aaatcttagc atgcctccaa
+     4621 aaattcacat ccaatgcata gtttgttcaa atttaaggtt actcaggcat tgatcttttc
+     4681 agtgtttttt cactttagct atgtggatta gctagaatgc acaccaaaaa aatacttgag
+     4741 ctgtatatat atatgtgtgt gtgtgtgtgt gtgtgtgtgt gtgtgcatgt atgtgcacat
+     4801 gtgtctgtgt ggatatttgt gtatgtgtat ttgtatgtac tgttattgaa aatatattta
+     4861 atacctttgg aaaaatcttg ggcaagatga cc
+//
+

@@ -1,0 +1,93 @@
+LOCUS       X06882                  1570 bp    DNA     linear   PRI 14-NOV-2006
+DEFINITION  Human gene for CD14 differentiation antigen.
+ACCESSION   X06882
+VERSION     X06882.1
+KEYWORDS    antigen; CD14 antigen; monocyte differentiation antigen; surface
+            antigen.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1570)
+  AUTHORS   Ferrero,E. and Goyert,S.M.
+  TITLE     Nucleotide sequence of the gene encoding the monocyte
+            differentiation antigen, CD14
+  JOURNAL   Nucleic Acids Res. 16 (9), 4173 (1988)
+   PUBMED   2453848
+REFERENCE   2  (bases 1 to 1570)
+  AUTHORS   Goyert,S.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-FEB-1988) Goyert S.M., Hospital for Joint Diseases,
+            301 E. 17th St., Cellular and Molecular Biology Unit, New York, NY
+            10003
+COMMENT     Data kindly reviewed (28-MAR-1988) by Goyert S.M.
+            
+            the authors also sequenced corresponding cDNA.
+FEATURES             Location/Qualifiers
+     source          1..1570
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="5"
+                     /map="5q23-q31"
+                     /cell_type="lymphocyte"
+                     /clone_lib="(lambda)gtWes"
+     exon            51..158
+                     /number=1
+     CDS             join(156..158,247..1371)
+                     /codon_start=1
+                     /product="cd14 protein precursor"
+                     /protein_id="CAA29999.1"
+                     /db_xref="GDB:119759"
+                     /db_xref="GOA:P08571"
+                     /db_xref="HGNC:HGNC:1628"
+                     /db_xref="InterPro:IPR001611"
+                     /db_xref="InterPro:IPR016337"
+                     /db_xref="UniProtKB/Swiss-Prot:P08571"
+                     /translation="MERASCLLLLLLPLVHVSATTPEPCELDDEDFRCVCNFSEPQPD
+                     WSEAFQCVSAVEVEIHAGGLNLEPFLKRVDADADPRQYADTVKALRVRRLTVGAAQVP
+                     AQLLVGALRVLAYSRLKELTLEDLKITGTMPPLPLEATGLALSSLRLRNVSWATGRSW
+                     LAELQQWLKPGLKVLSIAQAHSPAFSYEQVRAFPALTSLDLSDNPGLGERGLMAALCP
+                     HKFPAIQNLALRNTGMETPTGVCAALAAAGVQPHSLDLSHNSLRATVNPSAPRCMWSS
+                     ALNSLNLSFAGLEQVPKGLPAKLRVLDLSCNRLNRAPQPDELPEVDNLTLDGNPFLVP
+                     GTALPHEGSMNSGVVPACARSTLSVGVSGTLVLLQGARGFA"
+     sig_peptide     join(156..158,247..300)
+     mat_peptide     301..1368
+                     /product="cd14 protein"
+     intron          159..246
+                     /number=1
+     exon            247..1494
+                     /number=2
+     regulatory      1477..1482
+                     /regulatory_class="polyA_signal_sequence"
+ORIGIN      
+        1 cagaatgaca tcccaggatt acataaactg tcagaggcag ccgaagagtt cacaagtgtg
+       61 aagcctggaa gccggcgggt gccgctgtgt aggaaagaag ctaaagcact tccagagcct
+      121 gtccggagct cagaggttcg gaagacttat cgaccatggt gagtgtaggg tcttggggtc
+      181 gaacgcgtgc cactcgggag ccacaggggt tggatggggc ctcctagacc tctgctctct
+      241 ccccaggagc gcgcgtcctg cttgttgctg ctgctgctgc cgctggtgca cgtctctgcg
+      301 accacgccag aaccttgtga gctggacgat gaagatttcc gctgcgtctg caacttctcc
+      361 gaacctcagc ccgactggtc cgaagccttc cagtgtgtgt ctgcagtaga ggtggagatc
+      421 catgccggcg gtctcaacct agagccgttt ctaaagcgcg tcgatgcgga cgccgacccg
+      481 cggcagtatg ctgacacggt caaggctctc cgcgtgcggc ggctcacagt gggagccgca
+      541 caggttcctg ctcagctact ggtaggcgcc ctgcgtgtgc tagcgtactc ccgcctcaag
+      601 gaactgacgc tcgaggacct aaagataacc ggcaccatgc ctccgctgcc tctggaagcc
+      661 acaggacttg cactttccag cttgcgccta cgcaacgtgt cgtgggcgac agggcgttct
+      721 tggctcgccg agctgcagca gtggctcaag ccaggcctca aggtactgag cattgcccaa
+      781 gcacactcgc ctgccttttc ctacgaacag gttcgcgcct tcccggccct taccagccta
+      841 gacctgtctg acaatcctgg actgggcgaa cgcggactga tggcggctct ctgtccccac
+      901 aagttcccgg ccatccagaa tctagcgctg cgcaacacag gaatggagac gcccacaggc
+      961 gtgtgcgccg cactggcggc ggcaggtgtg cagccccaca gcctagacct cagccacaac
+     1021 tcgctgcgcg ccaccgtaaa ccctagcgct ccgagatgca tgtggtccag cgccctgaac
+     1081 tccctcaatc tgtcgttcgc tgggctggaa caggtgccta aaggactgcc agccaagctc
+     1141 agagtgctcg atctcagctg caacagactg aacagggcgc cgcagcctga cgagctgccc
+     1201 gaggtggata acctgacact ggacgggaat cccttcctgg tccctggaac tgccctcccc
+     1261 cacgagggct caatgaactc cggcgtggtc ccagcctgtg cacgttcgac cctgtcggtg
+     1321 ggggtgtcgg gaaccctggt gctgctccaa ggggcccggg gctttgccta agatccaaga
+     1381 cagaataatg aatggactca aactgccttg gcttcagggg agtcccgtca ggacgttgag
+     1441 gacttttcga ccaattcaac cctttgcccc acctttatta aaatcttaaa caacggttcc
+     1501 gtgtcattca tttaacagac ctttattgga tgtctgctat gtgctgggca cagtactgga
+     1561 tggggaattc
+//
+

@@ -1,0 +1,195 @@
+LOCUS       HUMVCAM1A               5607 bp    DNA     linear   PRI 14-JAN-1995
+DEFINITION  Human vascular cell adhesion molecule-1 (VCAM1) gene, complete CDS.
+ACCESSION   M73255
+VERSION     M73255.1
+KEYWORDS    immunoglobulin super gene family; leukocyte adhesion molecule;
+            transmembrane protein; vascular cell adhesion molecule-1.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 5607)
+  AUTHORS   Cybulsky,M.I., Fries,J.W., Williams,A.J., Sultan,P., Eddy,R.,
+            Byers,M., Shows,T., Gimbrone,M.A. Jr. and Collins,T.
+  TITLE     Gene structure, chromosomal location, and basis for alternative
+            mRNA splicing of the human VCAM1 gene
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 88 (17), 7859-7863 (1991)
+   PUBMED   1715583
+COMMENT     Original source text: Homo sapiens (tissue library: EMBL3)
+            periferal blood DNA.
+FEATURES             Location/Qualifiers
+     source          1..5607
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /map="1p32-p31"
+                     /tissue_type="periferal blood"
+                     /tissue_lib="EMBL3"
+     regulatory      495..499
+                     /regulatory_class="TATA_box"
+                     /gene="VCAM1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="G00-127-922"
+     gene            join(519..706,779..1054,1127..1447,1520..1786,1859..2134,
+                     2207..2527,2897..3163,3236..3502,3922..4841)
+                     /gene="VCAM1"
+     mRNA            join(519..706,779..1054,1127..1447,1520..1786,1859..2134,
+                     2207..2527,2897..3163,3236..3502,3922..4841)
+                     /gene="VCAM1"
+                     /note="G00-127-922"
+     exon            519..706
+                     /gene="VCAM1"
+                     /note="G00-127-922"
+                     /number=1
+     CDS             join(643..706,779..1054,1127..1447,1520..1786,1859..2134,
+                     2207..2527,2897..3163,3236..3502,3922..4082)
+                     /gene="VCAM1"
+                     /number=2
+                     /codon_start=1
+                     /product="vascular cell adhesion molecule-1"
+                     /protein_id="AAA61270.1"
+                     /db_xref="GDB:G00-127-922"
+                     /translation="MPGKMVVILGASNILWIMFAASQAFKIETTPESRYLAQIGDSVS
+                     LTCSTTGCESPFFSWRTQIDSPLNGKVTNEGTTSTLTMNPVSFGNEHSYLCTATCESR
+                     KLEKGIQVEIYSFPKDPEIHLSGPLEAGKPITVKCSVADVYPFDRLEIDLLKGDHLMK
+                     SQEFLEDADRKSLETKSLEVTFTPVIEDIGKVLVCRAKLHIDEMDSVPTVRQAVKELQ
+                     VYISPKNTVISVNPSTKLQEGGSVTMTCSSEGLPAPEIFWSKKLDNGNLQHLSGNATL
+                     TLIAMRMEDSGIYVCEGVNLIGKNRKEVELIVQEKPFTVEISPGPRIAAQIGDSVMLT
+                     CSVMGCESPSFSWRTQIDSPLSGKVRSEGTNSTLTLSPVSFENEHSYLCTVTCGHKKL
+                     EKGIQVELYSFPRDPEIEMSGGLVNGSSVTVSCKVPSVYPLDRLEIELLKGETILENI
+                     EFLEDTDMKSLENKSLEMTFIPTIEDTGKALVCQAKLHIDDMEFEPKQRQSTQTLYVN
+                     VAPRDTTVLVSPSSILEEGSSVNMTCLSQGFPAPKILWSRQLPNGELQPLSENATLTL
+                     ISTKMEDSGVYLCEGINQAGRSRKEVELIIQVTPKDIKLTAFPSESVKEGDTVIISCT
+                     CGNVPETWIILKKKAETGDTVLKSIDGAYTIRKAQLKDAGVYECESKNKVGSQLRSLT
+                     LDVQGRENNKDYFSPELLVLYFASSLIIPAIGMIIYFARKANMKGSYSLVEAQKSKV"
+     exon            779..1054
+                     /gene="VCAM1"
+                     /note="G00-127-922"
+                     /number=2
+     exon            1127..1447
+                     /gene="VCAM1"
+                     /note="G00-127-922"
+                     /number=3
+     exon            1520..1786
+                     /gene="VCAM1"
+                     /note="G00-127-922"
+                     /number=4
+     exon            1859..2134
+                     /gene="VCAM1"
+                     /note="G00-127-922"
+                     /number=5
+     exon            2207..2527
+                     /gene="VCAM1"
+                     /note="G00-127-922"
+                     /number=6
+     exon            2897..3163
+                     /gene="VCAM1"
+                     /note="G00-127-922"
+                     /number=7
+     exon            3236..3502
+                     /gene="VCAM1"
+                     /note="G00-127-922"
+                     /number=8
+     exon            3922..4841
+                     /gene="VCAM1"
+                     /note="G00-127-922"
+                     /number=9
+ORIGIN      chromosome 1, map position 1p31-32.
+        1 gaagttatgg tgtccctttt ttaaaaaatg actcatcaaa agaaataact ttttcctttc
+       61 tcttgtaaga gaaaaaaatt aatctctttt agaattgcaa acatatttcc ttgatggaga
+      121 aaatcaattc acatggcata gtcgttattt atccagttca aaaaccagag tagaatttac
+      181 tactctgtct ccattttttc tctccccacc cccttaaccc acattggatt cagaaagctt
+      241 cattctgcaa tcagcattgt cctttatctt tccagtaaag atagcctttt ggagtcgaag
+      301 atgaggaaaa gcctgtattt tatagtcttg gaagtgtctt cttttgccag gacagagaga
+      361 ggagcttcag cagtgagagc aactgaaggg gttaatagtg gaacttggct gggtgtctgt
+      421 taaacttttt tccctggctc tgccctgggt ttccccttga agggatttcc ctccgcctct
+      481 gcaacaagac cctttataaa gcacagactt tctatttcac tccgcggtat ctgcatcggg
+      541 cctcactggc ttcaggagct gaataccctc ccaggcacac acaggtggga cacaaataag
+      601 ggttttggaa ccactatttt ctcatcacga cagcaactta aaatgcctgg gaagatggtc
+      661 gtgatccttg gagcctcaaa tatactttgg ataatgtttg cagcttgtaa gttatttccc
+      721 ttcatctgtt tcaaatgtta gnnggtaaat ttgcttctgt ctttttttgc ttttgcagct
+      781 caagctttta aaatcgagac caccccagaa tctagatatc ttgctcagat tggtgactcc
+      841 gtctcattga cttgcagcac cacaggctgt gagtccccat ttttctcttg gagaacccag
+      901 atagatagtc cactgaatgg gaaggtgacg aatgagggga ccacatctac gctgacaatg
+      961 aatcctgtta gttttgggaa cgaacactct tacctgtgca cagcaacttg tgaatctagg
+     1021 aaattggaaa aaggaatcca ggtggagatc tactgtgagt gctttagaaa atctttgttt
+     1081 ttctctcaan naaaagccca tccatgtatt tgtttggcct tttcagcttt tcctaaggat
+     1141 ccagagattc atttgagtgg ccctctggag gctgggaagc cgatcacagt caagtgttca
+     1201 gttgctgatg tatacccatt tgacaggctg gagatagact tactgaaagg agatcatctc
+     1261 atgaagagtc aggaatttct ggaggatgca gacaggaagt ccctggaaac caagagtttg
+     1321 gaagtaacct ttactcctgt cattgaggat attggaaaag ttcttgtttg ccgagctaaa
+     1381 ttacacattg atgaaatgga ttctgtgccc acagtaaggc aggctgtaaa agaattgcaa
+     1441 gtctacagta agtacttgtg cgatgtgttc cagtctttgt ggnnttagca attgctaata
+     1501 ttattttttg ccctttcagt atcacccaag aatacagtta tttctgtgaa tccatccaca
+     1561 aagctgcaag aaggtggctc tgtgaccatg acctgttcca gcgagggtct accagctcca
+     1621 gagattttct ggagtaagaa attagataat gggaatctac agcacctttc tggaaatgca
+     1681 actctcacct taattgctat gaggatggaa gattctggaa tttatgtgtg tgaaggagtt
+     1741 aatttgattg ggaaaaacag aaaagaggtg gaattaattg ttcaaggtga gtagaatgtg
+     1801 aaaaaggaat gataaaggtg cnntgttctt ttcatcttgt tttccacctg tgtcccagag
+     1861 aaaccattta ctgttgagat ctcccctgga ccccggattg ctgctcagat tggagactca
+     1921 gtcatgttga catgtagtgt catgggctgt gaatccccat ctttctcctg gagaacccag
+     1981 atagacagcc ctctgagcgg gaaggtgagg agtgagggga ccaattccac gctgaccctg
+     2041 agccctgtga gttttgagaa cgaacactct tatctgtgca cagtgacttg tggacataag
+     2101 aaactggaaa agggaatcca ggtggagctc tactgtaagt ggttttcaga attgtttact
+     2161 gttttttttn ncaagaataa aaatcgtttt tgcttgcgat ttgcagcatt ccctagagat
+     2221 ccagaaatcg agatgagtgg tggcctcgtg aatgggagct ctgtcactgt aagctgcaag
+     2281 gttcctagcg tgtaccccct tgaccggctg gagattgaat tacttaaggg ggagactatt
+     2341 ctggagaata tagagttttt ggaggatacg gatatgaaat ctctagagaa caaaagtttg
+     2401 gaaatgacct tcatccctac cattgaagat actggaaaag ctcttgtttg tcaggctaag
+     2461 ttacatattg atgacatgga attcgaaccc aaacaaaggc agagtacgca aacactttat
+     2521 gtcaatggta agtacatatg tgaggtatct acagtttaat acnntatggt attagctgag
+     2581 ctcactcgtg cattttcagt aaggttagca gggctggctg gtctcagatg acttcaccca
+     2641 catgtctgga gccatatctt ggatgacttg gcctctcttt ctttatgtgg tgtcaccctg
+     2701 aggaacagta gcctagattt actctccaga gctcagtgtt tcaagaaggt gtaaatgaaa
+     2761 gcagcctctt caaggcctgg gtttggaagt cctacagtgt tacttcttct tccacattca
+     2821 attggttaaa gtgagtcatg aggccagcct agagattcan nataggtcaa gctaacaagc
+     2881 gtctctgcct tttcagttgc ccccagagat acaaccgtct tggtcagccc ttcctccatc
+     2941 ctggaggaag gcagttctgt gaatatgaca tgcttgagcc agggctttcc tgctccgaaa
+     3001 atcctgtgga gcaggcagct ccctaacggg gagctacagc ctctttctga gaatgcaact
+     3061 ctcaccttaa tttctacaaa aatggaagat tctggggttt atttatgtga aggaattaac
+     3121 caggctggaa gaagcagaaa ggaagtggaa ttaattatcc aaggtgagca gagtgtgagt
+     3181 aatgagttat ccttgctann ctcaatcagg gatgtctttt aaattctctt tacagttact
+     3241 ccaaaagaca taaaacttac agcttttcct tctgagagtg tcaaagaagg agacactgtc
+     3301 atcatctctt gtacatgtgg aaatgttcca gaaacatgga taatcctgaa gaaaaaagcg
+     3361 gagacaggag acacagtact aaaatctata gatggcgcct ataccatccg aaaggcccag
+     3421 ttgaaggatg cgggagtata tgaatgtgaa tctaaaaaca aagttggctc acaattaaga
+     3481 agtttaacac ttgatgttca aggtgagttt gttttgagtt tttgttttct tggtaatnna
+     3541 agccttaccg tatgtatgtt ttccatcttc acagtacctc ctcaaaacat gagaatagct
+     3601 gtatagctat acatccatct agaaatgtta aagaagggga aaacatcacg attatatatg
+     3661 aaacttctag tcatccacct gcagtgatta tcctgaaaag aattgatcta gccaatgaag
+     3721 ttactatgtg ttcaaagaag ggaacattta ctttgtatca tgtcactcaa aatgattcag
+     3781 gggtatatgt aatcagtgct tccaatgagg ttggggatga ttctggacag attgcaatct
+     3841 cagttatgag taggttgaat ttactcatcc ctattttctt taatnntaga cattaattgc
+     3901 atccattttg ttattttcca ggaagagaaa acaacaaaga ctatttttct cctgagcttc
+     3961 tcgtgctcta ttttgcatcc tccttaataa tacctgccat tggaatgata atttactttg
+     4021 caagaaaagc caacatgaag gggtcatata gtcttgtaga agcacagaaa tcaaaagtgt
+     4081 agctaatgct tgatatgttc aactggagac actatttatc tgtgcaaatc cttgatactg
+     4141 ctcatcattc cttgagaaaa acaatgagct gagaggcaga cttccctgaa tgtattgaac
+     4201 ttggaaagaa atgcccatct atgtcccttg ctgtgagcaa gaagtcaaag taaaacttgc
+     4261 tgcctgaaga acagtaactg ccatcaagat gagagaactg gaggagttcc ttgatctgta
+     4321 tatacaataa cataatttgt acatatgtaa aataaaatta tgccatagca agattgctta
+     4381 aaatagcaac actctatatt tagattgtta aaataactag tgttgcttgg actattataa
+     4441 tttaatgcat gttaggaaaa tttcacatta atatttgctg acagctgacc tttgtcatct
+     4501 ttcttctatt ttattccctt tcacaaaatt ttattcctat atagtttatt gacaataatt
+     4561 tcaggttttg taaagatgcc gggttttata tttttataga caaataataa gcaaagggag
+     4621 cactgggttg actttcaggt actaaatacc tcaacctatg gtataatggt tgactgggtt
+     4681 tctctgtata gtactggcat ggtacggaga tgtttcacga agtttgttca tcagactcct
+     4741 gtgcaacttt cccaatgtgg cctaaaaatg caacttcttt ttattttctt ttgtaaatgt
+     4801 ttaggttttt ttgtatagta aagtgataat ttctggaatt agaatggttg tatgtttatt
+     4861 tattataaac tgcctccttt agtcacgttg tagctctttc tgaagtgcta agttataaga
+     4921 gtaaaatatt caaactatgg aaataatacg gatactcaaa atgtgaccct cagactacta
+     4981 ttattaaaat tactgtagga acttgataaa aatgtagatt tcttggtgcc agactaagat
+     5041 attgaataga agtgtctagt ttttggtcct tggaatctgc aattttttaa tttagaaaaa
+     5101 tatacataaa aagatttaat gcagatgaac atgcacatgt taatgggcaa caaatgaaca
+     5161 cctgtgtaca gaacattaag agcaagagat agtaaaacta ttcttcagag ccttttatat
+     5221 accacatagt gatggcagca ctcttccctc actgagcagt aacccataaa tattgtgaat
+     5281 catacattga tcatttccat gcttcctttg gagttttttt tttttttttt tttttttgag
+     5341 acggagtctc gctctgtcgc ccaggctgga gtgcagtggc gccacctcgc atctcggctg
+     5401 gctgcaagct ccgcctcctg ggttcacgcc attctcctgc ctcagtctcc ctagtagctg
+     5461 ggactacagg cgcccgcacc acgcctggct aatttttttg tatttttagt agagacgggg
+     5521 tttcactgtg ttagccagga tggcctcgat ctcctgacct cgtgatccgc ccgcctcgga
+     5581 cctcccaaag tgctgggatt acaggnn
+//
+

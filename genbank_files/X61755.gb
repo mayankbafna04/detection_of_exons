@@ -1,0 +1,169 @@
+LOCUS       X61755                  4968 bp    DNA     linear   PRI 14-NOV-2006
+DEFINITION  Human HOX3D gene for homeoprotein HOX3D.
+ACCESSION   X61755
+VERSION     X61755.1
+KEYWORDS    homeoprotein; HOX3D gene.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1
+  AUTHORS   Arcioni,L., Simeone,A., Guazzi,S., Zappavigna,V., Boncinelli,E. and
+            Mavilio,F.
+  TITLE     The upstream region of the human homeobox gene HOX3D is a target
+            for regulation by retinoic acid and HOX homeoproteins
+  JOURNAL   EMBO J. 11 (1), 265-277 (1992)
+   PUBMED   1346761
+REFERENCE   2  (bases 1 to 4968)
+  AUTHORS   Mavilio,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-SEP-1991) F. Mavilio, Institute Scientifico San
+            Raffaele, Dep of Biology and Biotechnology, Via Olgettina, 60,
+            20132 Milano, ITALY
+FEATURES             Location/Qualifiers
+     source          1..4968
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /map="q12-q13"
+                     /clone_lib="pcos2EMBL"
+     regulatory      2251..2256
+                     /regulatory_class="TATA_box"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+     gene            2280..4589
+                     /gene="HOX3D"
+     mRNA            join(2280..2808,3507..4589)
+                     /gene="HOX3D"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+     exon            2280..2808
+                     /gene="HOX3D"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /number=1
+     misc_feature    2280
+                     /gene="HOX3D"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="transcription start site"
+     CDS             join(2355..2808,3507..3721)
+                     /gene="HOX3D"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /codon_start=1
+                     /product="homeoprotein HOX3D"
+                     /protein_id="CAA43894.1"
+                     /db_xref="GDB:120671"
+                     /db_xref="GOA:Q00444"
+                     /db_xref="HGNC:HGNC:5127"
+                     /db_xref="InterPro:IPR001356"
+                     /db_xref="InterPro:IPR001827"
+                     /db_xref="InterPro:IPR009057"
+                     /db_xref="InterPro:IPR012287"
+                     /db_xref="InterPro:IPR017970"
+                     /db_xref="InterPro:IPR017995"
+                     /db_xref="InterPro:IPR020479"
+                     /db_xref="UniProtKB/Swiss-Prot:Q00444"
+                     /translation="MSSYVANSFYKQSPNIPAYNMQTCGNYGSASEVQASRYCYGGLD
+                     LSITFPPPAPSNSLHGVDMAANPRAHPDRPACSAAAAPGHAPGRDEAAPLNPGMYSQK
+                     AARPALEERAKSSGEIKEEQAQTGQPAGLSQPPAPPQIYPWMTKLHMSHETDGKRSRT
+                     SYTRYQTLELEKEFHFNRYLTRRRRIEIANNLCLNERQIKIWFQNRRMKWKKDSKMKS
+                     KEAL"
+     intron          2809..3506
+                     /gene="HOX3D"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /number=1
+     exon            3507..4589
+                     /gene="HOX3D"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /number=2
+ORIGIN      
+        1 ctctgggtcc gttctcgaat atttaataaa actgatatta tttttaaaac tttataccgg
+       61 gaattctgtt aattcgctcg cccgccggcc tcagggtgag agctggagca ggctccaagc
+      121 gctcccgcgc ctgccggccc cctgcaagcc cccagccctc tgcactcgcc ttccccggag
+      181 cccaggcgcc cggccccggc cttctgttcg ttctcgcgat cgcactgagg ggctgggagg
+      241 cctctctggg ctccctgcgc ggagcaacac acacaccctg cgggaaaaag ccgcgtagga
+      301 ttttgttgcg gggggagctg ggatcagtcg gtttgggcac caaccccacg caggcctttc
+      361 ttcctgcctg tggcagccgg tgtcctcggc gtccgaaccc tgaggcgccc cgaaagacca
+      421 gtaaagaagc actatccagg caccagggtc tcctccaccc actcccggga gttggaggcg
+      481 gggggcgccg tgagagcaag ccccaggccc gcgccaagct ggctgttgcg aaacgtagcg
+      541 gaggcggaga gcggagggaa agagaagacc gcgggactgg agccctgtcg gcagggattg
+      601 agcgattcaa ggacatctcg agagagaaag cctggaaact gagctctcgc ctgctctggt
+      661 actcctgacg tggccgggac aaaattcctt cttcattaca gctccagccg ggctggttcc
+      721 ttacttttct ctcctcaaac gggtgaagag gcgggtgagg agcgcagccg gaccctaacc
+      781 atttatcaac cctggccttc tctctccaag cctggccaga gaaacctgag tgggcctaca
+      841 gggagaggtg ttgaggaggg tctccggagg gaaaaaatcc gccagagttt tccgggccct
+      901 tcagattccc tccagcgccc ccaccctcgc ctccagtgcc tccaccagtg aggagggggc
+      961 cttctcctgg cggggcggag atttcctggg aagaagcagg cagggaagta tgagacttgg
+     1021 ggctacgggg gaagaggatg gggccgaatg gctgcagata ccctgcgaag gctacccagg
+     1081 cgcctgccct gcccaccccc caggtccgcc ccattcctct tggtagctca gaaattgctc
+     1141 tcttgtgaac cttatggatt caggtccctg gaaagcctag cccagagacc ttttccccaa
+     1201 agggcacata acgggccttt tcctctgcca tgctcacgta atatttgtgg aggcttcaat
+     1261 cttgcttctc catgtcctca attaacatct attttctgtc taaaacctct ggcataggta
+     1321 ccacataagg atcgcacaca gggaaacaga gcagtcctct agaccatatg tctggctctg
+     1381 tccgtgtcca cacacacact tgaaaattgc cttgttgcca ctctggggac cctagcatgg
+     1441 tgaggtctag ccaactccac ctggctcctc acctccagat ccatcccaaa cagcctgcaa
+     1501 caccctcagc ttcatgaccc ccctatcttg ttctgaccac tcaggatccc tcctcctggg
+     1561 cgtcctgtct acctcttcag aagctaattc tactttctct tgctgatagg cacctcttca
+     1621 gcagtagtgg agccttaggg cctgagaggc aagggacttc tacctttggt ttagggaacc
+     1681 taagttaaac cccattggtt ctccagcctg ggcataggcc accttaccta acttaatccc
+     1741 ctttcctcag ccatttttga agattggaag accctggagg ttgggagaac gggactttca
+     1801 ttacaaaaag cactctgtgc gttataagtg gggcctcgtc ttttcccaat tttaaataga
+     1861 atttaaaagg ctagctcagg ggttgcccca acaaccagct tctccttcac agtgtaggaa
+     1921 atccagccac cggaaagcaa gctggcgctc caggatgcaa ttcccccata taggcaccag
+     1981 gtgtcgctgt gggcttgttg tcccggctac ccccaattcc aagaaccttt tttttttttt
+     2041 ccctccccct tccctctttc tctctctcac tccctctccc ccttggttgg gctttgccaa
+     2101 catatcgaga tgcttttcgc cggcttccat cactaacctc ccggaggtca tcaagccaaa
+     2161 tttatgagtg gccgctcgag tcacgtgact ctatttaagg ctcccttatt tgggaagagc
+     2221 gcataggata aagaaagaga tatctccacc tataaattgt ccactttgga gaacaaaaaa
+     2281 cccctcaact tcaaagagtc acaaatcacc cttaatcaaa aagggtgcag aaattttttt
+     2341 gggccctccc cgccatgagc tcctacgtag ccaattcatt ctataagcag agccccaata
+     2401 tccctgccta taacatgcaa acttgtggga actatggatc ggcctcagag gtgcaggcat
+     2461 ccaggtactg ctacggcgga ttggacttaa gcatcacttt cccaccgcct gcgccttcca
+     2521 actctctcca cggggtagac atggctgcca acccccgggc tcaccccgac cgccccgcct
+     2581 gcagcgccgc ggccgctccg ggacacgctc cgggcagaga cgaagcggct cctctgaacc
+     2641 ccgggatgta cagtcagaag gcggctcgcc cggcgctgga ggagcgagct aagagcagtg
+     2701 gggagatcaa agaggagcag gcgcagacag ggcagcccgc cggactgagc cagccaccgg
+     2761 ccccgccaca gatttacccg tggatgacca aactgcacat gagccacggt aaactttagg
+     2821 acttcatttt gcgctctcgg gtccgcctgg gttttatagg ccatgcgggg caaataaaga
+     2881 aaaaaaacct gcggccataa attttacgat ccaggcatca atggctcgta aaactgtcca
+     2941 ctaaaaggct tagaggctgt gtgcgcccaa atttacgacg acataattgg atcataggaa
+     3001 caaaacgtgt ataaaaggca atattcaatt tttgggggag agggagggag ttaaaaaaat
+     3061 agagggatct gaagggtgag gagcgcgggg ctccagagcg gggatccccc cgcggctccc
+     3121 tccctccctc ccctgcggag ccggctccgc cggcttgcgg ctccggagga ttccagcgac
+     3181 tcgggagggg cgggaggggg gtccccggtg ctcggatctc gagggtgctt attgttcggt
+     3241 ccgagcctgg gtctccctct tccccccaac cccccctcag cccctccggc tgcagagtga
+     3301 aggctgcggt ggaaagtttc ctgcctgggc ggaggcgcct ctcccggggc tgggctgggc
+     3361 tggcccgcct gcgcccgcgt ggcctgtctt gcggctctcg cctcctctcc ctccggccgc
+     3421 gggtgggggc ctgggctggg gtggggacgg gggaacgctg caagctattc accccttcct
+     3481 ggcttggggt ggggtttatg ttccagagac ggacggcaag cggtcccgaa ccagttacac
+     3541 gcgctaccag actctggaac tcgagaaaga attccacttt aaccgctacc tcactcgccg
+     3601 caggcgcata gagatcgcca acaacttgtg tctcaatgag agacagatca agatctggtt
+     3661 ccagaaccga cggatgaagt ggaagaaaga ttccaaaatg aaaagcaaag aggctcttta
+     3721 gaggcagcgg gggaggcccg cagagcgcgc ccctagccgg ttcctgtccc tgcgcctttc
+     3781 cttttcgcct ttcctctcta tatttcgggt cgggggcagg tgctggagca ctgggctccc
+     3841 gggccccaca gacaaaagcg cttttccttg gcattccgca tccctaccga cccagggttc
+     3901 ccgcggggct gtcggcgctg ccccatctcc cctcagctcg gctcagctcg gtacccgggg
+     3961 cccagggaag ctccgtagga cttccccgga gggctgcggc gtacaggctg gcgcagaacg
+     4021 aaccttggcc tgggccgtat ctccggctcc cagcctcagc gcggccctcc cgagttaagg
+     4081 tgggcccggc ccgcgccaca ggaccctcgc cggaccctct aacctcgccc tctcctttgt
+     4141 tcctggctgg acgggttaga cagccaaagg ctggcgagag tctggcccta aactcggggt
+     4201 gcttccttgt agcgactaaa ctagattttc acttatgaat gatttgcata tgaaaggaga
+     4261 gcatcggcct agggccccca cagttgctct atgctttcca aaccttatct ccacaacctc
+     4321 ttccccccaa aacccgggaa cctccccagc ctgcgcctgc tgcatgccct ctcaggccgg
+     4381 cagccccagc ctgctagcta gctcaactag tggggtttcc tggcactgga ccccagcaag
+     4441 tggtcctaga ggccctttgc tgtcccatag tccctgccac gaatttctgt gccctcctga
+     4501 cccattgctg ttgtccaact atttattgac tctgggtcct tcctgaaact atattttgtc
+     4561 atatcaaata aagagagaac aggactaaag atgcagtggc tcctgtctgt ttggggcatg
+     4621 tattgggtaa aattgtctaa atgggctgtg agatgtagaa ggagacccac aaactttaag
+     4681 ccaccccttt aaaaaatttt ctagcttcta ggggcagtga gtagagggag gtgaaatgag
+     4741 ctcctttcct gttccttggc tgcaacaaga gcctctgggg gaagagaagg gcacctaggc
+     4801 ctcgagtact ggcttttccc atgctgtggc tgtccaaggc cttcacgcct ctgcactcca
+     4861 ggaggcctct ggactggcag cagcccccac tgtgtgccaa agctgcggtg caggaaccag
+     4921 tggctccacc gtgctcagcc ttaggacctt ctgggcctct gaagatct
+//
+

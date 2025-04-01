@@ -1,0 +1,142 @@
+LOCUS       X60382                  3226 bp    DNA     linear   PRI 11-MAR-1993
+DEFINITION  H.sapiens COL10A1 gene for collagen (alpha-1 type X).
+ACCESSION   X60382
+VERSION     X60382.1
+KEYWORDS    collagen alpha 1 type X.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 3226)
+  AUTHORS   Thomas,J.T., Cresswell,C.J., Rash,B., Nicolai,H., Jones,T.,
+            Solomon,E., Grant,M.E. and Boot-Handford,R.P.
+  TITLE     The human collagen X gene. Complete primary translated sequence and
+            chromosomal localization
+  JOURNAL   Biochem. J. 280 (PT 3), 617-623 (1991)
+   PUBMED   1764025
+REFERENCE   2
+  AUTHORS   Reichenberger,E., Beier,F., LuValle,P., Olsen,B.R., von der Mark,K.
+            and Bertling,W.M.
+  TITLE     Genomic organization and full-length cDNA sequence of human
+            collagen X
+  JOURNAL   FEBS Lett. 311 (3), 305-310 (1992)
+   PUBMED   1397333
+REFERENCE   3  (bases 1 to 3226)
+  AUTHORS   Thomas,J.T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-AUG-1991) J.T. Thomas, Manchester University, Dept of
+            Biochemistry and, Molecular Biology, Stopford Bldg - Oxford Road,
+            Manchester M13 9PT, UK
+FEATURES             Location/Qualifiers
+     source          1..3226
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="6"
+                     /map="6q 21-22-3"
+                     /clone="4X.3"
+                     /clone_lib="lambda EMBL3 SPG/T7"
+     gene            <16..3213
+                     /gene="COL10A1"
+     mRNA            <16..3213
+                     /gene="COL10A1"
+     CDS             16..2058
+                     /gene="COL10A1"
+                     /codon_start=1
+                     /product="collagen subunit (alpha-1 (X)) 3"
+                     /protein_id="CAA42933.1"
+                     /db_xref="GDB:128635"
+                     /db_xref="GOA:Q03692"
+                     /db_xref="HGNC:HGNC:2185"
+                     /db_xref="InterPro:IPR001073"
+                     /db_xref="InterPro:IPR008160"
+                     /db_xref="InterPro:IPR008983"
+                     /db_xref="PDB:1GR3"
+                     /db_xref="UniProtKB/Swiss-Prot:Q03692"
+                     /translation="MLPQIPFLLLVSLNLVHGVFYAERYQTPTGIKGPLPNTKTQFFI
+                     PYTIKSKGIAVRGEQGTPGPPGPAGPRGHPGPSGPPGKPGYGSPGLQGEPGLPGPPGP
+                     SAVGKPGVPGLPGKPGERGPYGPKGDVGPAGLPGPRGPPGPPGIPGPAGISVPGKPGQ
+                     QGPTGAPGPRGFPGEKGAPGVPGMNGQKGEMGYGAPGRPGERGLPGPQGPTGPSGPPG
+                     VGKRGENGVPGQPGIKGDRGFPGEMGPIGPPGPQGPPGERGPEGIGKPGAAGAPGQPG
+                     IPGTKGLPGAPGIAGPPGPPGFGKPGLPGLKGERGPAGLPGGPGAKGEQGPAGLPGKP
+                     GLTGPPGNMGPQGPKGIPGSHGLPGPKGETGPAGPAGYPGAKGERGSPGSDGKPGYPG
+                     KPGLDGPKGNPGLPGPKGDPGVGGPPGLPGPVGPAGAKGMPGHNGEAGPRGAPGIPGT
+                     RGPIGPPGIPGFPGSKGDPGSPGPPGPAGIATKGLNGPTGPPGPPGPRGPSGEPGLPG
+                     PPGPPGPPGQAVMPEGFIKAGQRPSLSGTPLVSANQGVTGMPVSAFTVILSKAYPAIG
+                     TPIPFDKILYNRQQHYDPRTGIFTCQIPGIYYFSYHVHVKGTHVWVGLYKNGTPVMYT
+                     YDEYTKGYLDQASGSAIIDLTENDQVWLQLPNAESNGLYSSEYVHSSFSGFLVAPM"
+     sig_peptide     16..69
+                     /gene="COL10A1"
+     mat_peptide     70..2055
+                     /gene="COL10A1"
+                     /product="collagen subunit (alpha-1 (X)) 3"
+     misc_feature    466..483
+                     /gene="COL10A1"
+                     /note="mammalian collagenase cleavage site"
+     misc_feature    1450..1467
+                     /gene="COL10A1"
+                     /note="mammalian collagenase cleavage site"
+     regulatory      3092..3097
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="COL10A1"
+     regulatory      3186..3191
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="COL10A1"
+ORIGIN      
+        1 aatccatctg agaatatgct gccacaaata ccctttttgc tgctagtatc cttgaacttg
+       61 gttcatggag tgttttacgc tgaacgatac caaacgccca caggcataaa aggcccacta
+      121 cccaacacca agacacagtt cttcattccc tacaccataa agagtaaagg tatagcagta
+      181 agaggagagc aaggtactcc tggtccacca ggccctgctg gacctcgagg gcacccaggt
+      241 ccttctggac caccaggaaa accaggctac ggaagtcctg gactccaagg agagccaggg
+      301 ttgccaggac caccgggacc atcagctgta gggaaaccag gtgtgccagg actcccagga
+      361 aaaccaggag agagaggacc atatggacca aaaggagatg ttggaccagc tggcctacca
+      421 ggaccccggg gcccaccagg accacctgga atccctggac cggctggaat ttctgtgcca
+      481 ggaaaacctg gacaacaggg acccacagga gccccaggac ccaggggctt tcctggagaa
+      541 aagggtgcac caggagtccc tggtatgaat ggacagaaag gggaaatggg atatggtgct
+      601 cctggtcgtc caggtgagag gggtcttcca ggccctcagg gtcccacagg accatctggc
+      661 cctcctggag tgggaaaaag aggtgaaaat ggggttccag gacagccagg catcaaaggt
+      721 gatagaggtt ttccgggaga aatgggacca attggcccac caggtcccca aggccctcct
+      781 ggggaacgag ggccagaagg cattggaaag ccaggagctg ctggagcccc aggccagcca
+      841 gggattccag gaacaaaagg tctccctggg gctccaggaa tagctgggcc cccagggcct
+      901 cctggctttg ggaaaccagg cttgccaggc ctgaagggag aaagaggacc tgctggcctt
+      961 cctgggggtc caggtgccaa aggggaacaa gggccagcag gtcttcctgg gaagccaggt
+     1021 ctgactggac cccctgggaa tatgggaccc caaggaccaa aaggcatccc gggtagccat
+     1081 ggtctcccag gccctaaagg tgagacaggg ccagctgggc ctgcaggata ccctggggct
+     1141 aagggtgaaa ggggttcccc tgggtcagat ggaaaaccag ggtacccagg aaaaccaggt
+     1201 ctcgatggtc ctaagggtaa cccagggtta ccaggtccaa aaggtgatcc tggagttgga
+     1261 ggacctcctg gtctcccagg ccctgtgggc ccagcaggag caaagggaat gcccggacac
+     1321 aatggagagg ctggcccaag aggtgcccct ggaataccag gtactagagg ccctattggg
+     1381 ccaccaggca ttccaggatt ccctgggtct aaaggggatc caggaagtcc cggtcctcct
+     1441 ggcccagctg gcatagcaac taagggcctc aatggaccca ccgggccacc agggcctcca
+     1501 ggtccaagag gcccctctgg agagcctggt cttccagggc cccctgggcc tccaggccca
+     1561 ccaggtcaag cagtcatgcc tgagggtttt ataaaggcag gccaaaggcc cagtctttct
+     1621 gggacccctc ttgttagtgc caaccagggg gtaacaggaa tgcctgtgtc tgcttttact
+     1681 gttattctct ccaaagctta cccagcaata ggaactccca taccatttga taaaattttg
+     1741 tataacaggc aacagcatta tgacccaagg actggaatct ttacttgtca gataccagga
+     1801 atatactatt tttcatacca cgtgcatgtg aaagggactc atgtttgggt aggcctgtat
+     1861 aagaatggca cccctgtaat gtacacctat gatgaataca ccaaaggcta cctggatcag
+     1921 gcttcaggga gtgccatcat cgatctcaca gaaaatgacc aggtgtggct ccagcttccc
+     1981 aatgccgagt caaatggcct atactcctct gagtatgtcc actcctcttt ctcaggattc
+     2041 ctagtggctc caatgtgagt acaccccaca gagctaatct aaatcttgtg ctagaaaaag
+     2101 cattctctaa ctctacccca ccctacaaaa tgcatatgga ggtaggctga aaagaatgta
+     2161 atttttattt tctgaaatac agatttgagc tatcagacca acaaaccttc cccctgaaaa
+     2221 gtgagcagca acgtaaaaac gtatgtgaag cctctcttga atttctagtt agcaatctta
+     2281 aggctcttta aggttttctc caatattaaa aaatatcacc aaagaagtcc tgctatgtta
+     2341 aaaacaaaca acaaaaaaca aagcaacaaa aaaaaaaatt aaaaaaaaaa acagaaatag
+     2401 agctctaagt tatgtgaaat ttgatttgag aaactcggca tttccttttt aaaaaagcct
+     2461 gtttctaact atgaatatga gaacttctag gaaacatcca ggaggtatca tataactttg
+     2521 tagaacttaa atacttgaat attcaaattt aaaagacact gtatccccta aaatatttct
+     2581 gatggtgcac tactctgagg cctgtatggc ccctttcatc aatatctatt caaatataca
+     2641 ggtgcatata tacttgttaa agctcttata taaaaaagcc ccaaaatatt gaagttcatc
+     2701 tgaaatgcaa ggtgctttca tcaatgaacc ttttcaaaac ttttctatga ttgcagagaa
+     2761 gctttttata tacccagcat aacttggaaa caggtatctg acctattctt atttagttaa
+     2821 cacaagtgtg attaatttga tttctttaat tccttattga atcttatgtg atatgatttt
+     2881 ctggatttac agaacattag cacatgtacc ttgtgcctcc cattcaagtg aagttataat
+     2941 ttacactgag ggtttcaaaa ttcgactaga agtggagata tattatttat ttatgcactg
+     3001 tactgtattt ttatattgct gtttaaaact tttaagctgt gcctcactta ttaaagcaca
+     3061 aaatgtttta cctactcctt atttacgaca caataaaata acatcaatag atttttaggc
+     3121 tgaattaatt tgaaagcagc aatttgctgt tctcaaccat tctttcaagg cttttcattc
+     3181 gacacaataa aataacatca atagattttt agggatgggt ggcttt
+//
+

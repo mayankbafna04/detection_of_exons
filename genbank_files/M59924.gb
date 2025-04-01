@@ -1,0 +1,76 @@
+LOCUS       HUMTNP1                 1748 bp    DNA     linear   PRI 14-JAN-1995
+DEFINITION  Human transition protein 1 gene, complete cds.
+ACCESSION   M59924
+VERSION     M59924.1
+KEYWORDS    transition protein 1.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1748)
+  AUTHORS   Luerssen,H., Mattei,M.G., Schroter,M., Grzeschik,K.H., Adham,I.M.
+            and Engel,W.
+  TITLE     Nucleotide sequence of the gene for human transition protein 1 and
+            its chromosomal localization on chromosome 2
+  JOURNAL   Genomics 8 (2), 324-330 (1990)
+   PUBMED   2249851
+COMMENT     Original source text: Human leukocyte DNA.
+FEATURES             Location/Qualifiers
+     source          1..1748
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /map="2q35-q36"
+                     /cell_type="leukocyte"
+     exon            (1074.1076)..1243
+                     /gene="TNP1"
+                     /note="G00-125-311"
+                     /number=1
+     gene            join(1105..1243,1444..1472)
+                     /gene="TNP1"
+     CDS             join(1105..1243,1444..1472)
+                     /gene="TNP1"
+                     /codon_start=1
+                     /product="transition protein 1"
+                     /protein_id="AAA61202.1"
+                     /db_xref="GDB:G00-125-311"
+                     /translation="MSTSRKLKSHGMRRSKSRSPHKGVKRGGSKRKYRKGNLKSRKRG
+                     DDANRNYRSHL"
+     regulatory      1659..1664
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="TNP1"
+                     /note="G00-125-311"
+ORIGIN      
+        1 tgctgaacca ttgatgttga cagtagcatc tccctttaca cagctcctcc agtcaataca
+       61 tcacccactt ggcaccctct aatctcacat gccatcctct taacattttt aaaggcttcc
+      121 caatgtactt gatcatggtt tgatctctgt ctctccctcc agcctcatcc tgtaccatgt
+      181 agggagtttc ctctgccctt ctccagccaa aatgactccg taagtactta ctcactgatt
+      241 atgtagacat ctgatgaatg gcttctccag tgggctgaga gttccatgag cacagtatct
+      301 acgtgtgttt atcctccact aattttctac cacctaaatg tatggcatat gctatgtgat
+      361 caatatctgt gactgaattt taaaaaatca ttaggttaat tgttctgaac cagagccatt
+      421 ttttccctca cttccccagc ctcccaaaga aacaggtggc aatgtttggg aatattttgg
+      481 gttgtcatag ctgccaggct tctctggtgt ccagtgggta atggccaggg atgttgccaa
+      541 acatcctagg gtgcacaaga cagcccactg aaagttaccc tgcccattgt gtcaacagtg
+      601 ccaagactga gaaatcctga cctagatgaa aaagaaggaa tatttctatt ttgatcatat
+      661 tgaattgggt tctgtacagt caagtcctta cagaaataaa tttattatct ccggatgctg
+      721 tgagagactt aaacagtcat gcatacacac acactcaatg actgttacat ttcctacagg
+      781 caggagaagc atatctgaat ggtctcttgt actcatccga tgcctggcac agggctggat
+      841 tcagtttctc aataacacct atatgggaaa gcctcactta acataaaaag gacctcaaaa
+      901 ctgagggcag cccttgagct gcacggcaaa aggaccacct tatttcacaa atgtgaccaa
+      961 agtgcagcaa aggtgagtga cagcacagta gagccccgcc cacctgctga gccatgcccc
+     1021 ttccctgtca caatgccaag gccttaaata cccagactcc tgcccccggg ccttgcaaag
+     1081 cccctcattt tggcagaact taccatgtcg accagccgca aattaaagag tcatggcatg
+     1141 aggaggagca agagccgatc tcctcacaag ggagtcaaga gaggtggcag caaaagaaaa
+     1201 taccgtaagg gcaacctgaa aagtaggaaa cggggcgatg acggtgagtg agggatgggg
+     1261 aggagattgc caaacttagg cacacattgc tgccaggccc tccctcttgg aggcagctct
+     1321 cacaggaccc tgaaatcttg gcctgagatt atttccaata actaaatgca gatttgagca
+     1381 acaagagtct tgatgggaat gttctaattc gtgtctctgt tgcaaacctg tcctttccca
+     1441 cagccaatcg caattaccgc tcccacttgt gagcccccag cggctctgcc ctggtgcgct
+     1501 tcacacagca ccaagcagca acaagaacag cagaagggga actgccaagg agacctgatg
+     1561 ttagatcaaa gccagagagg agcctatgga atgtggatca aatgccagtt gtgacgaaat
+     1621 gaggaatgta tatgttggct gtttttcccc aacatctcaa taaaactttg aaagcagaaa
+     1681 tgtttacttt gatcttttgg ttggaaagac ttgagttcct gagctaggtg ggtttgggga
+     1741 agaattgg
+//
+

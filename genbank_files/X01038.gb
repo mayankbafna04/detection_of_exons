@@ -1,0 +1,105 @@
+LOCUS       X01038                  2209 bp    DNA     linear   PRI 14-NOV-2006
+DEFINITION  Human fetal gene for apolipoprotein AI precursor.
+ACCESSION   X01038
+VERSION     X01038.1
+KEYWORDS    apolipoprotein; signal peptide.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2209)
+  AUTHORS   Seilhamer,J.J., Protter,A.A., Frossard,P. and Levy-Wilson,B.
+  TITLE     Isolation and DNA sequence of full-length cDNA and of the entire
+            gene for human apolipoprotein AI--discovery of a new genetic
+            polymorphism in the apo AI gene
+  JOURNAL   DNA 3 (4), 309-317 (1984)
+   PUBMED   6207999
+FEATURES             Location/Qualifiers
+     source          1..2209
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+     regulatory      8..13
+                     /regulatory_class="TATA_box"
+     mRNA            join(39..56,254..316,504..660,1249..1907)
+     exon            39..56
+                     /number=1
+     intron          57..253
+                     /number=1
+     exon            254..316
+                     /number=2
+     CDS             join(274..316,504..660,1249..1852)
+                     /codon_start=1
+                     /product="apolipoprotein AI precursor"
+                     /protein_id="CAA25519.1"
+                     /db_xref="GDB:119684"
+                     /db_xref="GOA:P02647"
+                     /db_xref="HGNC:HGNC:600"
+                     /db_xref="InterPro:IPR000074"
+                     /db_xref="InterPro:IPR013326"
+                     /db_xref="PDB:1AV1"
+                     /db_xref="PDB:1GW3"
+                     /db_xref="PDB:1GW4"
+                     /db_xref="PDB:1ODP"
+                     /db_xref="PDB:1ODQ"
+                     /db_xref="PDB:1ODR"
+                     /db_xref="PDB:2A01"
+                     /db_xref="PDB:3K2S"
+                     /db_xref="UniProtKB/Swiss-Prot:P02647"
+                     /translation="MKAAVLTLAVLFLTGSQARHFWQQDEPPQSPWDRVKDLATVYVD
+                     VLKDSGRDYVSQFEGSALGKQLNLKLLDNWDSVTSTFSKLREQLGPVTQEFWDNLEKE
+                     TEGLRQEMSKDLEEVKAKVQPYLDDFQKKWQEEMELYRQKVEPLRAELQEGARQKLHE
+                     LQEKLSPLGEEMRDRARAHVDALRTHLAPYSDELRQRLAARLEALKENGGARLAEYHA
+                     KATEHLSTLSEKAKPALEDLRQGLLPVLESFKVSFLSALEEYTKKLNTQ"
+     sig_peptide     join(274..316,504..514)
+     mat_peptide     join(515..660,1249..1849)
+                     /product="apolipoprotein AI"
+     intron          317..503
+                     /number=2
+     exon            504..660
+                     /number=3
+     intron          661..1248
+                     /number=3
+     exon            1249..1907
+                     /number=4
+ORIGIN      
+        1 ctgcagacat aaataggccc tgcaagagct ggctgcttag agactgcgag aaggaggtgc
+       61 gtcctgctgc ctgccccggt cactctggct ccccagctca aggttcaggc cttgccccag
+      121 gccgggcctc tgggtacctg aggtcttctc ccgctctgtg cccttctcct cacctggctg
+      181 caatgagtgg gggagcacgg ggcttctgca tgctgaaggc accccactca gccaggccct
+      241 tcttctcctc caggtccccc acggcccttc aggatgaaag ctgcggtgct gaccttggcc
+      301 gtgctcttcc tgacgggtag gtgtccccta acctagggag ccaaccatcg gggggccttc
+      361 tccctaaatc cccgtggccc accctcctgg gcagaggcag caggtttctc actggccccc
+      421 tctcccccac ctccaagctt ggcctttcgg ctcagatctc agcccacagc tggcctgatc
+      481 tgggtctccc ctcccaccct cagggagcca ggctcggcat ttctggcagc aagatgaacc
+      541 cccccagagc ccctgggatc gagtgaagga cctggccact gtgtacgtgg atgtgctcaa
+      601 agacagcggc agagactatg tgtcccagtt tgaaggctcc gccttgggaa aacagctaaa
+      661 gtaaggaccc agcctggggt tgagggcagg ggcagggggc agaggcctgt gggatgatgt
+      721 tgaagccaga ctggccgagt cctcacctaa tatctgatga gctgggcccc acagatggtc
+      781 tggatggaga aaccggaatg gatctccagg cagggtcaca gcccatgtcc cctgcaaagg
+      841 acagaccagg gctgcccgat gcgtgatcac agagccacat tgtgcctgca agtgtagcaa
+      901 gcccctttcc cttcttcacc acctcctctg ctcctgccca gcaagactgt gggctgtctt
+      961 cggagaggag aatgcgctgg aggcatagaa gcgaggtcct tcaagggccc actttggaga
+     1021 ccaacgtaac tgggcaccag tcccagctct gtctcctttt tagctcctct ctgtgcctcg
+     1081 gtccagctgc acaacggggc atggcctggc ggggcagggg tgttggttga gagtgtactg
+     1141 gaaatgctag gccactgcac ctccgcggac aggtgtcacc cagggctcac ccctgatagg
+     1201 ctggggcgct gggaggccag ccctcaaccc ttctgtctca ccctccagcc taaagctcct
+     1261 tgacaactgg gacagcgtga cctccacctt cagcaagctg cgcgaacagc tcggccctgt
+     1321 gacccaggag ttctgggata acctggaaaa ggagacagag ggcctgaggc aggagatgag
+     1381 caaggatctg gaggaggtga aggccaaggt gcagccctac ctggacgact tccagaagaa
+     1441 gtggcaggag gagatggagc tctaccgcca gaaggtggag ccgctgcgcg cagagctcca
+     1501 agagggcgcg cgccagaagc tgcacgagct gcaagagaag ctgagcccac tgggcgagga
+     1561 gatgcgcgac cgcgcgcgcg cccatgtgga cgcgctgcgc acgcatctgg ccccctacag
+     1621 cgacgagctg cgccagcgct tggccgcgcg ccttgaggct ctcaaggaga acggcggcgc
+     1681 cagactggcc gagtaccacg ccaaggccac cgagcatctg agcacgctca gcgagaaggc
+     1741 caagcccgcg ctcgaggacc tccgccaagg cctgctgccc gtgctggaga gcttcaaggt
+     1801 cagcttcctg agcgctctcg aggagtacac taagaagctc aacacccagt gaggcgcccg
+     1861 ccgccgcccc ccttcccggt gctcagaata aacgtttcca aagtgggaag cagcttcttt
+     1921 cttttgggag aatagagggg ggtgcgggga catccggggg agcccgggag gggcctttgg
+     1981 ccctggagca gggacttcct gccggatctc aacaactccg tgcccagact ggacgtctta
+     2041 gggccaagat cgacgttgga ggacctgctg gacgcntggc tgcttacgag tgagggagta
+     2101 gagtctgcct tagcaaggct caagtagaaa ggaagtcaca gcggacnagg caaagccaca
+     2161 gacaatccaa ggccaggtgc cctgaaaggg gctcaaacaa ggcctgcag
+//
+

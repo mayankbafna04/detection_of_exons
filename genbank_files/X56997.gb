@@ -1,0 +1,200 @@
+LOCUS       X56997                  4555 bp    DNA     linear   PRI 23-OCT-2008
+DEFINITION  Human UbA52 gene coding for ubiquitin-52 amino acid fusion protein.
+ACCESSION   X56997
+VERSION     X56997.1
+KEYWORDS    UbA52 gene; ubiquitin-fusion protein.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 4555)
+  AUTHORS   Baker,R.T. and Board,P.G.
+  TITLE     The human ubiquitin-52 amino acid fusion protein gene shares
+            several structural features with mammalian ribosomal protein genes
+  JOURNAL   Nucleic Acids Res. 19 (5), 1035-1040 (1991)
+   PUBMED   1850507
+REFERENCE   2  (bases 1 to 4555)
+  AUTHORS   Baker,R.T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-DEC-1990) R.T. Baker, MASSACHUSETTS INST OF
+            TECHNOLOGY, DEPT OF BIOLOGY - 16-520, CAMBRIDGE MA 02139, U S A
+COMMENT     See <X56997-9>, <Y00361> for related sequences.
+FEATURES             Location/Qualifiers
+     source          1..4555
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /clone="lambda-UA1"
+                     /cell_type="lymphocyte"
+                     /clone_lib="EMBL3A"
+                     /dev_stage="adult"
+                     /germline
+                     /note="chromosome 12 or 19"
+     repeat_region   114..406
+                     /rpt_family="Alu"
+     repeat_region   743..758
+                     /rpt_type=DIRECT
+     misc_binding    747..752
+                     /bound_moiety="Sp1"
+     repeat_region   827..843
+                     /rpt_type=DIRECT
+     misc_binding    832..837
+                     /bound_moiety="Sp1"
+     repeat_region   932..944
+                     /note="pyrimidine tract"
+                     /rpt_type=INVERTED
+     gene            934..4312
+                     /gene="UbA52"
+     mRNA            join(934..962,2363..2473,2733..2819,3942..4044,4129..4312)
+                     /gene="UbA52"
+                     /note="in adrenal gland cDNA clone"
+     prim_transcript 934..4312
+                     /gene="UbA52"
+     mRNA            join(934..962,2363..2473,2733..2819,3942..4044,4129..4306)
+                     /gene="UbA52"
+                     /note="in placental gland cDNA clone"
+     exon            934..962
+                     /gene="UbA52"
+                     /number=1
+     intron          963..2362
+                     /gene="UbA52"
+                     /number=1
+     misc_binding    1037..1042
+                     /gene="UbA52"
+                     /bound_moiety="Sp1"
+     misc_binding    1208..1213
+                     /gene="UbA52"
+                     /bound_moiety="Sp1"
+     repeat_region   complement(1415..1703)
+                     /rpt_family="Alu"
+     exon            2363..2473
+                     /gene="UbA52"
+                     /number=2
+     CDS             join(2371..2473,2733..2819,3942..4044,4129..4222)
+                     /gene="UbA52"
+                     /codon_start=1
+                     /product="ubiquitin-52 amino acid fusion protein"
+                     /protein_id="CAA40312.1"
+                     /db_xref="GDB:120478"
+                     /db_xref="GDB:133775"
+                     /db_xref="GOA:P62987"
+                     /db_xref="HGNC:HGNC:12458"
+                     /db_xref="InterPro:IPR000626"
+                     /db_xref="InterPro:IPR001975"
+                     /db_xref="InterPro:IPR019954"
+                     /db_xref="InterPro:IPR019955"
+                     /db_xref="InterPro:IPR019956"
+                     /db_xref="UniProtKB/Swiss-Prot:P62987"
+                     /translation="MQIFVKTLTGKTITLEVEPSDTIENVKAKIQDKEGIPPDQQRLI
+                     FAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGIIEPSLRQLAQKYNCDKMICRKCYAR
+                     LHPRAVNCRKKKCGHTNNLRPKKKVK"
+     intron          2474..2732
+                     /gene="UbA52"
+                     /number=2
+     exon            2733..2819
+                     /gene="UbA52"
+                     /number=3
+     intron          2820..3941
+                     /gene="UbA52"
+                     /number=3
+     repeat_region   2939..3296
+                     /gene="UbA52"
+                     /rpt_family="Alu"
+     repeat_region   complement(3373..3623)
+                     /rpt_family="Alu"
+     exon            3942..4044
+                     /gene="UbA52"
+                     /number=4
+     intron          4045..4128
+                     /gene="UbA52"
+                     /number=4
+     exon            4129..4312
+                     /gene="UbA52"
+                     /number=5
+     variation       4226
+                     /gene="UbA52"
+                     /note="in adrenal/placental cDNAs"
+                     /replace="t"
+     regulatory      4280..4285
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="UbA52"
+ORIGIN      
+        1 ggatccgcac atctcggcct cccaaagtgc aggcgtgagt caccggaccc aggtcccgcc
+       61 ctggcacttt ttaaccaccc acaaatctgg atcctacact gaaaagagac actgcagtgg
+      121 ctcacgtctg taatcccagc actttgggag gccaaggcgg gcggatcacc tgaggtcgcg
+      181 agtttgagac cagcctgacc aacatggaga aaccccgtct ctactaaaaa tacaaaagtg
+      241 gccaggcatg gtgtcgcaca cttgtaatcg cagctactcg ggaggctgag gcaggagaat
+      301 tgcttgaacc caggaggcgg aggttgcggt gagccgagat cgcgccattg cactacagcc
+      361 tgggcaacga gagcgaaact ccgtctcaaa aaaaaaaaaa aaaaaatcct gagtcccgct
+      421 tgacaccttt tgtcaggcac caccaccttt ctgggcgaat gcggtagtac cgtctgctct
+      481 ccctgctgct gtcctgaaat ccattcaggc acagcggccg agagctttat aataaccgat
+      541 tccaggtgtt aggtgctttc ccagccccga ctcctgcgtc ctggacccgc agtcctctgc
+      601 ttaatacctt tgctttatta gaaaacattc tcctctactc cgttcagcta ttcgctgagg
+      661 gcccgccaac cgccagcggt tgtcaatggc ctagaggcag cggacgcaaa cacggggaga
+      721 ggtgcaatcg tctcaagtga ctcggcgggc ggggcccaca accggaagcg ggtgggcgac
+      781 cttcacccac gtgcgctgcg gcttcgttcg ccagcatcca agatggcggc agggcggggc
+      841 ccaaggcgcg gcgcgaattg tgacgcaggc gtccggcgtg ctccgtcgca agcgctttcg
+      901 gcggcgatta ggtggtttcc ggttccgcta tcttcttttt cttcagcgag gcggccgagc
+      961 tggttggtgg cggcggtcgt gcgggttcgc gccgggccga gagcgggttg ggggctgcgg
+     1021 gaggctgcag gggcctgggc ggcagaagag gcggccctga gctggctcat gcgggccagt
+     1081 ctcggcaggg tggctgggca gggctcgcga ggccacggct cggagcccag accggggccc
+     1141 aggagcgaac gccgttttgg agaggagcct gcctgctctg cctgccagcg tgaccccacg
+     1201 aggcctcggg cgggaagagg tcctcggggc agatccgagt taatgagaga ggggtattga
+     1261 gcgtgtagcg ttaactctgc cagtcactgc gtcagtcgct ttggaaatac taaatttctc
+     1321 gagctgagtc ttcatacctg gctcctaatc tacgtctgta aggaggagct ggtggtagtg
+     1381 tctgcttttt agacttttct ttagactatt tgtatttttt tcagatggag tcttgctctg
+     1441 tcgcctaagc tggagttcag tggtgcggtc tcggctcact gcaatctcca cctcccgggc
+     1501 tcgagcgatt cttctgcctg agcctcccga gtagctggga ttataggcgc ctggcaccac
+     1561 gcccagttga tttttgtagt tttagtagag acggagtttc accatgttag ccaggctcat
+     1621 cttgaactct tgacctcaaa tgatccgtct gcctcggcct tccaaagtgc tgggattaca
+     1681 ggcatgagcc cctgcgcccg gtcgattctt tgtcttttta agtcaacttt tatatgtgaa
+     1741 caatgcttgg caggtggttg gtagatacta agtgatgttc gtggtttggg gtcaaggcaa
+     1801 gaagtggggt ctggagagtt ttggtgtaat tgagaaggaa gctaagagtg ttgggtgctc
+     1861 cagcttggag ttagagagga gagaggctgc cacaggaaga catgtgtgtt gtaggggatg
+     1921 gcttcccatc caggctggca gcaggagcag cctgtgcaga tcaggacctt gctccctgga
+     1981 agagggtgga ccgccttcag ggaagatgga tctagcaaga tgatgccaaa gggtacttat
+     2041 tccatcagga gatactgacg agtccttccg ccgctaaacc taaggtgaat aaccacagtc
+     2101 tgtgttcctg aagagcaccc gtgcggtcag gagggtggag gacatgtgat cttagttcca
+     2161 ggacatgttt agactacagg ccagggtgtg tgagaagcct agcagggcca ggcttggagg
+     2221 agtgaaagga agacaggtac tggggcagga ccagttggac ttggtgcagg caaagggata
+     2281 gcaactgtgg tgtaggcacc tgagcttgtg ctactcaggc atgcattgct caccagtcta
+     2341 tcctgccgcc catcctcctc agacgcaaac atgcagatct ttgtgaagac cctcactggc
+     2401 aaaaccatca cccttgaggt cgagcccagt gacaccattg agaatgtcaa agccaaaatt
+     2461 caagacaagg agggtgagta gggctgggtg tgggggctct ggctgtgaac tgggagtccc
+     2521 tctctcgccc aggggagtct cagtcctgtg tgggttgtgc tgactttaga tctgttttgc
+     2581 ccttgcttct ccatgtgatc tgaagaacgt ttgttatctt ctacctcagt tggccttttg
+     2641 agaaactggg ggtagtgctg gagctcccct gcagaggaca ctgccagtaa tatggtccgc
+     2701 agagcctcta actgagcctc cctccccctc aggtatccca cctgaccagc agcgtctgat
+     2761 atttgccggc aaacagctgg aggatggccg cactctctca gactacaaca tccagaaagg
+     2821 taccggggtt ggggttgctg ggcagggacc caagatcccc aggtcctagg aaaggagcat
+     2881 tgatggcctc aggggttggg gagcagttca aatgacttgt gttttgttta aataatggga
+     2941 ctgggcacag tggctcatgc ctgtaatccc ggcactttgg gaggcttagg cgggtggatc
+     3001 acctgaggtc aggagttcaa gaccagcctg gacaacgtgg tgaaatcccg tttctattaa
+     3061 aaatacaaaa atcagctggg tgcagtggct caggcctgta atcccagcac ttcgggaggc
+     3121 tgaggcgggc agatcacaag gtcaagagat tgagatcatc atgaccaaca tggtgaaatc
+     3181 ccatctctac taaaaataca aaaattagct aggcatggtg gtgcgtgcct gtagtcccag
+     3241 ctactcagga ggctgaggaa ggagaattgc ttgaactcgg gagacaaaaa aaaaaagtca
+     3301 taatgtgaat ttttttatca ctgcaataag gaaattagtg tcacttgtgg gagcgacaag
+     3361 aattcagtgt cctttttttg tgagacagag tcttactctg tcacccaggc tggagtgcag
+     3421 tgacgcgatc tcactgtgac ctccgtctcc cgggttcaag cgattcccct gcctcagcct
+     3481 cccgagtagc tgggattaca ggcacccgcc accacgccca gctaattttt tttgtatttt
+     3541 tagtagagac agggtttcac tacgttggcc aggctggtct cttaaagtgc taggattaca
+     3601 ggcgtgagcc atggtgcccc gcctagactt cagtgtctga ccttgcctga accacttaga
+     3661 ggtcggcttc catgttagaa acccagatgg atgcctcagt tggcatgtgt cagtctcaga
+     3721 ctccccccag ggctcgtggt cagtgctgag atggagattt cctggggcag gctggctggg
+     3781 acagtgtatc atccacacgt agaacgacgg cgggggatcc cgacttggtg tccccatcac
+     3841 acttgagaaa gcagcagact ataggccctg gagggtcctg cccctgtgac tgaggagcca
+     3901 gggctgggct cagtcgccgt ccttctggct gtctcctgca gagtccaccc tgcacctggt
+     3961 gttgcgcctg cgaggtggca ttattgagcc ttctctccgc cagcttgccc agaaatacaa
+     4021 ctgcgacaag atgatctgcc gcaagtatgt gtgctccgat gcttgggggg ctgtgggggc
+     4081 tgccggagtc ggggtatgcc ctcacccacc cctcctgtct ctgtgcaggt gctatgctcg
+     4141 ccttcaccct cgtgctgtca actgccgcaa gaagaagtgt ggtcacacca acaacctgcg
+     4201 tcccaagaag aaggtcaaat aaggtggttc tttccttgaa gggcagcctc ctgcccaggc
+     4261 cccgtggccc tggagcctca ataaagtgtc cctttcattg actggagcag caattggtgt
+     4321 cctcatggct gatctgtcca gggaggtggc tgaagagtgg gcatctccct tagggactct
+     4381 actcagcact ccattctgtg ccacctgtgg ggtcttctgt cctagattct gtcacatcgg
+     4441 cattggtccc tgccctatgc ccctgactct ggatttgtca tctgtaaaac tggagtaaaa
+     4501 acctcagtcg tgtaattggt gggactgagg atcagttttg tcattgctgg gatcc
+//
+

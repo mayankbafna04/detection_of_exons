@@ -1,0 +1,146 @@
+LOCUS       X84707                  3573 bp    DNA     linear   PRI 14-NOV-2006
+DEFINITION  H.sapiens MIA gene.
+ACCESSION   X84707
+VERSION     X84707.1
+KEYWORDS    melanoma growth regulatory protein; mia gene.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1
+  AUTHORS   Bosserhoff,A.K., Hein,R., Bogdahn,U. and Buettner,R.
+  TITLE     Structure and promoter analysis of the gene encoding the human
+            melanoma-inhibiting protein MIA
+  JOURNAL   J. Biol. Chem. 271 (1), 490-495 (1996)
+   PUBMED   8550608
+REFERENCE   2
+  AUTHORS   Buettner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-FEB-1995) R. Buettner, University of Regensburg,
+            Institute for Pathology, Franz-Josef-Stauss-Allee, 93042
+            Regensburg, FRG
+  REMARK    revised by [3]
+REFERENCE   3  (bases 1 to 3573)
+  AUTHORS   Bosserhoff,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-NOV-1998) A. Bosserhoff, University of Regensburg,
+            Institute for Pathology, Franz-Josef-Stauss-Allee, 93042
+            Regensburg, FRG
+COMMENT     On Nov 25, 1998 this sequence version replaced gi:683459.
+            Sequence overlapping with that under the acc#X75450.
+FEATURES             Location/Qualifiers
+     source          1..3573
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /variety="caucasian"
+                     /db_xref="taxon:9606"
+                     /tissue_type="placenta"
+                     /clone_lib="lambda FIX II"
+                     /dev_stage="adult"
+     gene            1316..3334
+                     /gene="MIA"
+     mRNA            join(1316..1513,1595..1728,2812..2922,3240..3334)
+                     /gene="MIA"
+     exon            1316..1513
+                     /gene="MIA"
+                     /number=1
+     CDS             join(1387..1513,1595..1728,2812..2922,3240..3263)
+                     /gene="MIA"
+                     /function="melanoma inhibitory activity"
+                     /codon_start=1
+                     /product="melanoma growth regulatory protein"
+                     /protein_id="CAA59195.1"
+                     /db_xref="GDB:9954596"
+                     /db_xref="GOA:Q16674"
+                     /db_xref="HGNC:HGNC:7076"
+                     /db_xref="InterPro:IPR001452"
+                     /db_xref="InterPro:IPR011511"
+                     /db_xref="PDB:1HJD"
+                     /db_xref="PDB:1I1J"
+                     /db_xref="PDB:1K0X"
+                     /db_xref="UniProtKB/Swiss-Prot:Q16674"
+                     /translation="MARSLVCLGVIILLSAFSGPGVRGGPMPKLADRKLCADQECSHP
+                     ISMAVALQDYMAPDCRFLTIHRGQVVYVFSKLKGRGRLFWGGSVQGDYYGDLAARLGY
+                     FPSSIVREDQTLKPGKVDVKTDKWDFYCQ"
+     intron          1514..1594
+                     /gene="MIA"
+                     /number=1
+     exon            1595..1728
+                     /gene="MIA"
+                     /number=2
+     intron          1729..2811
+                     /gene="MIA"
+                     /number=2
+     exon            2812..2922
+                     /gene="MIA"
+                     /number=3
+     intron          2923..3239
+                     /gene="MIA"
+                     /number=3
+     exon            3240..3334
+                     /gene="MIA"
+                     /number=4
+ORIGIN      
+        1 tctagacana taaaaataaa agaaatcatc caagaatggt gacttgccta ctattctact
+       61 cgagaggctg agaggggagg atttcttgag cccaggagtt tgaggatgca gtgagctatg
+      121 atcacatcac tgtacttcag cctgagcaac agcaagatcc tgtctcaaaa aattaaatta
+      181 ggctgggctt ggtggctcat gcctgtaatc ccagcacttt ggaaggccat ggtgggcaga
+      241 ttgcttgagc ccaggagttt gagacgaggt gggcaacatg acgaaacccc ggctctacca
+      301 aaaaatacaa aaaattaact gggcataatg gtacatgtct gtggtcccag ctactcggta
+      361 ggctgaggtg ggaggaatgc ttgagcccag gaaatagggg ctacagtgaa ccaggatgat
+      421 gccagtgcac tccaacctgg gcaacagagc aagactctac ctcaaaataa tttaaaaaaa
+      481 tggattaatt gggaataggt ggcttgtgcc tgtagtccca gttactcagg aggctgaggt
+      541 gggaggattg cctgagtcta ggaggttgag gctgcagtga gccgggatgg taccattgca
+      601 ctccacctgg gaacagggtg agaccctgtc tcaaaaaaga aaaaaaaggg aggggttata
+      661 atcactcctc ctgacatgat acagagtatc catttgagtt cataacataa atatgtactt
+      721 ggtgaatgct ctgtaactat tggtgaatgc tctgtaacta ttggcttttt tattgttccc
+      781 attttacata taaggaagct gaggctttgt gaggagaaat agcttagccc aggtcatcca
+      841 gtgggaagcg tctggtgaag aggaatagtg atcatggtgg gactttgcct agcctaaggt
+      901 tcagcataca atattcagtc agtactcaag ggctgggctg tttctggtaa tcaaagggct
+      961 gccttgtcct cctgccccac agcaggaaat tccaaggtgg ttttctttac aggctcctcc
+     1021 gcttctgtgg ccagagggga cagcggagga gcccaggtac ctaagccaac tcaagagaag
+     1081 atggaattga atatttcaac caccttatct aggcctctgt gattgttgag gagggggctg
+     1141 tcactgggaa agttgtgagc tgctttggac cttatctggg aatttccttg ggcttacagc
+     1201 ctttacccta tccttgaaat ggttctggtt tcatagcaac ttctaggtgg tgtgggcgaa
+     1261 gtttgggact ggtttagggc ggggacaaga ccaagaacac aagtttcctt gtactaggga
+     1321 gagagggagg ggaggaaatt ggagacccca gcaccccctt gctcactctc ttgctcacag
+     1381 tccacgatgg cccggtccct ggtgtgcctt ggtgtcatca tcttgctgtc tgccttctcc
+     1441 ggacctggtg tcaggggtgg tcctatgccc aagctggctg accggaagct gtgtgcggac
+     1501 caggagtgca gccgtaagaa tggggagggg tagaattggg cttgggtgtt agcctgtgtg
+     1561 gatgtgctgc attccccttc tattccttcc ctagacccta tctccatggc tgtggccctt
+     1621 caggactaca tggcccccga ctgccgattc ctgaccattc accggggcca agtggtgtat
+     1681 gtcttctcca agctgaaggg ccgtgggcgg ctcttctggg gaggcagcgt gcgtcttggg
+     1741 agagtgaaag agggaagggt acagagctgg ggtagactca ttatccccat gaagggaaga
+     1801 tttgaggggg gtgaactgaa atagacattg tggggggata ttgttactta ctttatttta
+     1861 tttgcttatt attttttaat tttttccgag acagagtctt gctctgtcac ccaggctgga
+     1921 tgcaatggca cgatctcggc tcactgtaac ctccacctct tgggtttaag cgattctcca
+     1981 gcctcagcct cccaagtacc tgggattaca ggcatgcacc accacacctn ntaatttttg
+     2041 tatttttagt agagacaggg ttttaccata ttggccaggc tggtcttgaa ctcctgacct
+     2101 catgatctgc ccgccttggc tcccggagtg ctgggattac aggtgtgagc cactggcccc
+     2161 ccagcctatt ttcactttat ttaccaattt taggacctga tatggtccca nnntctgttc
+     2221 tagatctaga caccaagata caacaacaaa tgatcctttt tattctaatg gagggaaatg
+     2281 aacaaaaagc aaggcataaa aaatagcagc agccgggcac agtagctcac acctgtaatc
+     2341 ccaagtaagg ccaagtnngg aggatagctt gagcccagga gttcgagacc agcctgggca
+     2401 acatagcaag acccccatct ctataaaaaa aaatttaaaa ttaactgggc atcatggcat
+     2461 gtgtctgtgg tcccggctac tcgggaggct gaggtgggag gattgcttga tcccagaagt
+     2521 tgaggctgca gtgagccgtg atcatgctac tgcacctcaa cctggccgac acaatgagac
+     2581 cctgtttcca aaataataat aataaaagca aatatgcgct gctgtgagaa ttaacagaga
+     2641 cttacttggg tgttcagaaa gggcctctga acaggtggca tttaagctga gattcatatg
+     2701 acaaggatgg agcagttatg tggagatcag ggagagggga gaatgcaaag gccttcagca
+     2761 ggcacaagct tgccatcttc cagaccctag cttttaactc ctcttcccca ggttcaggga
+     2821 gattactatg gagatctggc tgctcgcctg ggctatttcc ccagtagcat tgtccgagag
+     2881 gaccagaccc tgaaacctgg caaagtcgat gtgaagacag acgtgagtgt catgggggct
+     2941 ggcaagaaat gtggggggag gacccttagg ttgtggggat gggcaaaaat gctcccacac
+     3001 ttggctccct ggccgcctag gtatgtgcgc tgggagaaat tctttccctg cctcaatttt
+     3061 ctcaccagta aaatgggtcc agttgggagg tgcaaagatt agagggctct aggctaattt
+     3121 gcatagcann tgtgtggcca gacctgggcc ctgcagctgc agcctttgct aaaaccacta
+     3181 gatcctttgt ggtgtgaccg ctggttttct ttccactgtt tcccctttct ctttttcaga
+     3241 aatgggattt ctactgccag tgagctcagc ctaccgctgg ccctgccgtt tcccctcctt
+     3301 gggtttatgc aaatacaatc agcccagtgc aaacggctcg tctccgtggt ctttggggtg
+     3361 gggtagggta gggtggggac tgtacaaatg aaatgtttct ctaggttgct gaatctaacc
+     3421 aattaacccg ctgcctgtgg taacgtcagt ggttgctagg cagagtttcg ctgatgaaag
+     3481 ccctgtgcag taggagcgct cctaagctta ggtttcgaca caagcaaaga aaacctaagc
+     3541 agcccaacta gggattgtag tgtcctctct aga
+//
+

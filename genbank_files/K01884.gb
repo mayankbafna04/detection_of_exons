@@ -1,0 +1,72 @@
+LOCUS       HUMBLYM1                1004 bp    DNA     linear   PRI 31-OCT-1994
+DEFINITION  Human Blym-1 transforming gene, complete coding region.
+ACCESSION   K01884
+VERSION     K01884.1
+KEYWORDS    Alu repeat; Alu-like repeat; Blym-1 oncogene; c-myc proto-oncogene;
+            repeat region; transforming gene.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1004)
+  AUTHORS   Diamond,A., Devine,J.M. and Cooper,G.M.
+  TITLE     Nucleotide sequence of a human Blym transforming gene activated in
+            a Burkitt's lymphoma
+  JOURNAL   Science 225 (4661), 516-519 (1984)
+   PUBMED   6330897
+COMMENT     Original source text: Human (Burkitt's lymphoma) DNA, clone
+            pHuBlym-1.
+            The human Blym-1 gene activated in Burkitt's lymphoma cells, was
+            cloned into plasmid pBR322 to create pHuBlym-1. The pHuBlym-1
+            plasmid induced transformation of NIH 3T3 cells with an efficiency
+            of approximately 4500 foci per microgram of DNA.
+            The cloned chicken Blym-1 gene hybridizes to a small family of
+            sequences in DNAs of both chicken and human cells, suggesting that
+            it is a member of a small gene family conserved throughout
+            vertebrate evolution.
+FEATURES             Location/Qualifiers
+     source          1..1004
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /map="1p32"
+     CDS             join(107..156,535..661)
+                     /note="Blym-1 protein"
+                     /codon_start=1
+                     /protein_id="AAA51832.1"
+                     /translation="MTLRGLRLQWRKQLKMRARPCLLEKRKKIVSYISFLLSDLKGTL
+                     AIDSLYSLQFAGGN"
+     gene            107..156
+                     /gene="BLYM"
+     exon            <107..156
+                     /gene="BLYM"
+                     /note="Blym-1 protein; G00-119-038"
+                     /number=1
+     intron          157..534
+                     /note="Blym-1 cds intron a"
+     repeat_region   266..313
+                     /note="Alu-like repeat"
+     exon            535..>661
+                     /note="Blym-1 protein"
+                     /number=2
+ORIGIN      1 bp upstream of EcoRI site.
+        1 gaattcacca ttccagatac cattaagaac attcatgatt tatggaagga ggtcaaaaca
+       61 tgaatattta taggagtttt gaaaaagttg attacaaccc tcatagatga ctttgagggg
+      121 tttaagactt cagtggagga aacaactgaa gatgaggtgg aaataacaga tcatagaatg
+      181 agaagccctc ctagggataa ttattattca catgattgct tttcagataa accaacacta
+      241 atgtttttta aaagtgagtt aggttgctgg gtggtggctc acgctgtaat cctagcactg
+      301 tgggaggctg aggcaggagg attgcttgaa ccaaggtatt caagaagagc atgggcaaca
+      361 tgatgagacc ctcgtctcta ccaaaaattt aaaaattagc tgggcagggc atgatgatgc
+      421 acatccctaa tcccagctac ttgagggctt gaggtggcag gatcacttga acctaggaac
+      481 attgaggctg cagtgagcta tgatcttgcc actgcactcc atactgcatg acagagcaag
+      541 accctgtctc ttagaaaaaa gaaaaaaaat agtgagctac atttctttcc ttctcagtga
+      601 cctgaagggt actctagcta ttgacagtct ttactctctt cagtttgctg gaggtaactg
+      661 atttcattca gttcctaata ccatataaat tatagtttca ataaaaatta attcccatcc
+      721 ctgaggagtg cttacctact cgggtactat tttttttttt atacaagtgt gtgagttctt
+      781 cccctttaag atttttcata ggggcagcat tccctaaaag taaggaattt tcaggcaagt
+      841 gggtatgagt tgaactctca ttttactatt tcaaactgaa tgagagtaag ccagcaattc
+      901 aggttttttt catcaagaca atagaaagaa ttttaccttt cttacagaaa ctggttatgt
+      961 ttaattacat atcatgtgta aagaaattgt caagtagcga attc
+//
+

@@ -1,0 +1,129 @@
+LOCUS       X83416                  2301 bp    DNA     linear   PRI 14-NOV-2006
+DEFINITION  H.sapiens PrP gene, exon 2.
+ACCESSION   X83416
+VERSION     X83416.1
+KEYWORDS    prion protein; PRP gene.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2301)
+  AUTHORS   Puckett,C., Concannon,P., Casey,C. and Hood,L.
+  TITLE     Genomic structure of the human prion protein gene
+  JOURNAL   Am. J. Hum. Genet. 49 (2), 320-329 (1991)
+   PUBMED   1678248
+FEATURES             Location/Qualifiers
+     source          1..2301
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /tissue_type="brain"
+                     /clone_lib="lambda gt11"
+     gene            9..>2301
+                     /gene="PrP"
+     exon            9..>2301
+                     /gene="PrP"
+                     /number=2
+     CDS             19..756
+                     /gene="PrP"
+                     /codon_start=1
+                     /product="prion protein"
+                     /protein_id="CAA58442.1"
+                     /db_xref="GDB:120720"
+                     /db_xref="GOA:P04156"
+                     /db_xref="HGNC:HGNC:9449"
+                     /db_xref="InterPro:IPR000817"
+                     /db_xref="InterPro:IPR022416"
+                     /db_xref="PDB:1E1G"
+                     /db_xref="PDB:1E1J"
+                     /db_xref="PDB:1E1P"
+                     /db_xref="PDB:1E1S"
+                     /db_xref="PDB:1E1U"
+                     /db_xref="PDB:1E1W"
+                     /db_xref="PDB:1FKC"
+                     /db_xref="PDB:1FO7"
+                     /db_xref="PDB:1H0L"
+                     /db_xref="PDB:1HJM"
+                     /db_xref="PDB:1HJN"
+                     /db_xref="PDB:1I4M"
+                     /db_xref="PDB:1OEH"
+                     /db_xref="PDB:1OEI"
+                     /db_xref="PDB:1QLX"
+                     /db_xref="PDB:1QLZ"
+                     /db_xref="PDB:1QM0"
+                     /db_xref="PDB:1QM1"
+                     /db_xref="PDB:1QM2"
+                     /db_xref="PDB:1QM3"
+                     /db_xref="PDB:2IV4"
+                     /db_xref="PDB:2IV5"
+                     /db_xref="PDB:2IV6"
+                     /db_xref="PDB:2K1D"
+                     /db_xref="PDB:2KUN"
+                     /db_xref="PDB:2OL9"
+                     /db_xref="PDB:2W9E"
+                     /db_xref="PDB:3HAF"
+                     /db_xref="PDB:3HAK"
+                     /db_xref="PDB:3HEQ"
+                     /db_xref="PDB:3HER"
+                     /db_xref="PDB:3HES"
+                     /db_xref="PDB:3HJ5"
+                     /db_xref="PDB:3HJX"
+                     /db_xref="PDB:3NHC"
+                     /db_xref="PDB:3NHD"
+                     /db_xref="UniProtKB/Swiss-Prot:P04156"
+                     /translation="MANLGCWMLVLFVATWSDLGLCKKRPKPGGWNTGGSRYPGQGSP
+                     GGNRYPPQGGGGWGQPHGGGWGQPHGGGWGQPHGGGWGQGGGTHSQWNKPSKPKTNMK
+                     HMAGAAAAGAVVGGLGGYMLGSAMSRPIIHFGSDYEDRYYRENMHRYPNQVYYRPMDE
+                     YSNQNNFVHDCVNITIKQHTVTTTTKGENFTETDVKMMERVVEQMCITQYERESQAYY
+                     QRGSSMVLFSSPPVILLISFLIFLIVG"
+     regulatory      2242..2247
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="PrP"
+                     /note="potential"
+     regulatory      2277..2282
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="PrP"
+                     /note="potential"
+ORIGIN      
+        1 ttttgcagag cagtcattat ggcgaacctt ggctgctgga tgctggttct ctttgtggcc
+       61 acatggagtg acctgggcct ctgcaagaag cgcccgaagc ctggaggatg gaacactggg
+      121 ggcagccgat acccggggca gggcagccct ggaggcaacc gctacccacc tcagggcggt
+      181 ggtggctggg ggcagcctca tggtggtggc tgggggcagc ctcatggtgg tggctggggg
+      241 cagccccatg gtggtggctg gggtcaagga ggtggcaccc acagtcagtg gaacaagccg
+      301 agtaagccaa aaaccaacat gaagcacatg gctggtgctg cagcagctgg ggcagtggtg
+      361 gggggccttg gcggctacat gctgggaagt gccatgagca ggcccatcat acatttcggc
+      421 agtgactatg aggaccgcta ctatcgtgaa aacatgcacc gttaccccaa ccaagtgtac
+      481 tacaggccca tggatgagta cagcaaccag aacaactttg tgcacgactg cgtcaatatc
+      541 acaatcaagc agcacacggt caccacaacc accaaggggg agaacttcac cgagaccgac
+      601 gttaagatga tggagcgcgt ggttgagcag atgtgtatca cccagtacga gagggaatct
+      661 caggcctatt accagagagg atcgagcatg gtcctcttct cctctccacc tgtgatcctc
+      721 ctgatctctt tcctcatctt cctgatagtg ggatgaggaa ggtcttcctg ttttcaccat
+      781 ctttctaatc tttttccagc ttgagggagg cggtatccac ctgcagccct tttagtggtg
+      841 gtgtctcact ctttcttctc tctttgtccc ggataggcta atcaataccc ttggcactga
+      901 tgggcactgg aaaacataga gtagacctga gatgctggtc aagccccctt tgattgagtt
+      961 catcatgagc cgttgctaat gccaggccag taaaagtata acagcaaata accattggtt
+     1021 gtctgaaata cctttgcctg gatacctctg gctccttcag cagctagagc tcagtatact
+     1081 aatgccctat cttagtagag atttcatagc tatttagaga tattttccat tttaagaaaa
+     1141 cccgacaaca tttctgccag gtttgttagg aggccacatg atacttattc aaaaaaatcc
+     1201 tagagattct tagctcttgg gatgcaggct cagccgctgg agcatgagct ctgtgtgtac
+     1261 cgagaactgg ggtgatgttt tacttttcac agtatgggct acacagcagc tgttcaacaa
+     1321 gagtaaatat tgtcacaaca ctgaacctct ggctagagga catattcaca gtgaacataa
+     1381 ctgtaacata tatgaaaggc ttctgggact tgaaatcaaa tgtttgggaa tggtgccctt
+     1441 ggaggcaacc tcccatttta gatgtttaaa ggaccctata tgtggcattc ctttctttaa
+     1501 actataggta attaaggcag ctgaaaagta aattgccttc tagacactga aggcaaatct
+     1561 cctttgtcca tttacctgga aaccagaatg attttgacat acaggagagc tgcagttgtg
+     1621 aaagcaccat catcatagag gatgatgtaa ttaaaaaatg gtcagtgtgc aaagaaaaga
+     1681 actgcttgca tttctttatt tctgtctcat aattgtcaaa aaccagaatt aggtcaagtt
+     1741 catagtttct gtaattggct tttgaatcaa agaataggga gacaatctaa aaaatatctt
+     1801 aggttggaga tgacagaaat atgattgatt tgaagtggaa aaagaaattc tgttaatgtt
+     1861 aattaaagta aaattattcc ctgaattgtt tgatattgtc acctagcaga tatgtattac
+     1921 ttttctgcaa tgttattatt ggcttgcact ttgtgagtat tctatgtaaa aatatatatg
+     1981 tatataaaat atatattgca taggacagac ttaggagttt tgtttagagc agttaacatc
+     2041 tgaagtgtct aatgcattaa cttttgtaag gtactgaata cttaatatgt gggaaaccct
+     2101 tttgcgtggt ccttaggctt acaatgtgca ctgaatcgtt tcatgtaaga atccaaagtg
+     2161 gacaccatta acaggtcttt gaaatatgca tgtactttat attttctata tttgtaactt
+     2221 tgcatgttct tgttttgtta tataaaaaaa ttgtaaatgt ttaatatctg actgaaatta
+     2281 aacgagcgaa gatgagcacc a
+//
+

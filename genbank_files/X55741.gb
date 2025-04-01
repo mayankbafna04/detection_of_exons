@@ -1,0 +1,87 @@
+LOCUS       X55741                   584 bp    DNA     linear   PRI 17-DEC-1993
+DEFINITION  H.sapiens FKBP cDNA.
+ACCESSION   X55741
+VERSION     X55741.1
+KEYWORDS    FK506-binding protein; FKBP.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 584)
+  AUTHORS   Standaert,R.F., Galat,A., Verdine,G.L. and Schreiber,S.L.
+  TITLE     Molecular cloning and overexpression of the human FK506-binding
+            protein FKBP
+  JOURNAL   Nature 346 (6285), 671-674 (1990)
+   PUBMED   1696686
+FEATURES             Location/Qualifiers
+     source          1..584
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+     CDS             10..336
+                     /codon_start=1
+                     /product="FKBP"
+                     /protein_id="CAA39272.1"
+                     /db_xref="GDB:128854"
+                     /db_xref="GOA:P62942"
+                     /db_xref="HGNC:HGNC:3711"
+                     /db_xref="InterPro:IPR001179"
+                     /db_xref="PDB:1A7X"
+                     /db_xref="PDB:1B6C"
+                     /db_xref="PDB:1BKF"
+                     /db_xref="PDB:1BL4"
+                     /db_xref="PDB:1D6O"
+                     /db_xref="PDB:1D7H"
+                     /db_xref="PDB:1D7I"
+                     /db_xref="PDB:1D7J"
+                     /db_xref="PDB:1EYM"
+                     /db_xref="PDB:1F40"
+                     /db_xref="PDB:1FAP"
+                     /db_xref="PDB:1FKB"
+                     /db_xref="PDB:1FKD"
+                     /db_xref="PDB:1FKF"
+                     /db_xref="PDB:1FKG"
+                     /db_xref="PDB:1FKH"
+                     /db_xref="PDB:1FKI"
+                     /db_xref="PDB:1FKJ"
+                     /db_xref="PDB:1FKR"
+                     /db_xref="PDB:1FKS"
+                     /db_xref="PDB:1FKT"
+                     /db_xref="PDB:1J4H"
+                     /db_xref="PDB:1J4I"
+                     /db_xref="PDB:1J4R"
+                     /db_xref="PDB:1NSG"
+                     /db_xref="PDB:1QPF"
+                     /db_xref="PDB:1QPL"
+                     /db_xref="PDB:2DG3"
+                     /db_xref="PDB:2DG4"
+                     /db_xref="PDB:2DG9"
+                     /db_xref="PDB:2FAP"
+                     /db_xref="PDB:2FKE"
+                     /db_xref="PDB:2PPN"
+                     /db_xref="PDB:2PPO"
+                     /db_xref="PDB:2PPP"
+                     /db_xref="PDB:3FAP"
+                     /db_xref="PDB:3H9R"
+                     /db_xref="PDB:3MDY"
+                     /db_xref="PDB:4FAP"
+                     /db_xref="UniProtKB/Swiss-Prot:P62942"
+                     /translation="MGVQVETISPGDGRTFPKRGQTCVVHYTGMLEDGKKFDSSRDRN
+                     KPFKFMLGKQEVIRGWEEGVAQMSVGQRAKLTISPDYAYGATGHPGIIPPHATLVFDV
+                     ELLKLE"
+     regulatory      565..570
+                     /regulatory_class="polyA_signal_sequence"
+ORIGIN      
+        1 gccgccgcca tgggagtgca ggtggaaacc atctccccag gagacgggcg caccttcccc
+       61 aagcgcggcc agacctgcgt ggtgcactac accgggatgc ttgaagatgg aaagaaattt
+      121 gattcctccc gggacagaaa caagcccttt aagtttatgc taggcaagca ggaggtgatc
+      181 cgaggctggg aagaaggggt tgcccagatg agtgtgggtc agagagccaa actgactata
+      241 tctccagatt atgcctatgg tgccactggg cacccaggca tcatcccacc acatgccact
+      301 ctcgtcttcg atgtggagct tctaaaactg gaatgacagg aatggcctcc tcccttagct
+      361 ccctgttctt ggatctgccr tggagggatc tggtgcctcc agacatgtgc acatgartcc
+      421 atatggagct tttcctgatg ttccactcca ctttgtatag acatctgccc tgactgaatg
+      481 tgttctgtca ctcagctttg cttccgacac ctctgtttcc tcttcccctt tctcctcgta
+      541 tgtgtgttta cctaaactat atgccataaa cctcaagtta ttca
+//
+

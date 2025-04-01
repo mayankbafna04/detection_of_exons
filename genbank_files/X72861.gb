@@ -1,0 +1,152 @@
+LOCUS       X72861                  3683 bp    DNA     linear   PRI 14-NOV-2006
+DEFINITION  H.sapiens gene for beta-3-adrenergic receptor.
+ACCESSION   X72861
+VERSION     X72861.1
+KEYWORDS    beta-3-adrenergic-receptor; promoter; transmembrane receptor.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 3683)
+  AUTHORS   Emorine,L.J., Marullo,S., Briend-Sutren,M.M., Patey,G., Tate,K.,
+            Delavier-Klutchko,C. and Strosberg,A.D.
+  TITLE     Molecular characterization of the human beta 3-adrenergic receptor
+  JOURNAL   Science 245 (4922), 1118-1121 (1989)
+   PUBMED   2570461
+REFERENCE   2  (bases 1 to 661; 1817 to 3683)
+  AUTHORS   van Spronsen,A., Nahmias,C., Krief,S., Briend-Sutren,M.M.,
+            Strosberg,A.D. and Emorine,L.J.
+  TITLE     The promoter and intron/exon structure of the human and mouse beta
+            3-adrenergic-receptor genes
+  JOURNAL   Eur. J. Biochem. 213 (3), 1117-1124 (1993)
+   PUBMED   8389293
+REFERENCE   3  (bases 1 to 3683)
+  AUTHORS   Emorine,L.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-MAR-1993) L.J. Emorine, Inst. Cochin de Genetique
+            Moleculaire, CNRS UPR 0415, 22 rue Mechain, 75014, Paris, FRANCE
+COMMENT     Related sequences: M29932 & M62473.
+FEATURES             Location/Qualifiers
+     source          1..3683
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="8"
+                     /map="8p11.1-8p12"
+                     /tissue_type="placenta"
+     protein_bind    15..22
+                     /note="CRE element"
+                     /bound_moiety="receptor"
+     protein_bind    119..126
+                     /note="CRE element"
+                     /bound_moiety="receptor"
+     protein_bind    254..259
+                     /note="GRE element"
+                     /bound_moiety="glucocorticoid receptor"
+     protein_bind    264..270
+                     /note="AP-1 site"
+                     /bound_moiety="AP-1"
+     regulatory      complement(365..369)
+                     /regulatory_class="CAAT_signal"
+     regulatory      386..390
+                     /regulatory_class="CAAT_signal"
+     mRNA            join(441..1842,2868..>3525)
+     exon            441..1842
+                     /number=1
+     misc_feature    441..492
+                     /note="CAP site"
+     CDS             join(638..1842,2868..2889)
+                     /codon_start=1
+                     /product="beta-3-adrenergic receptor"
+                     /protein_id="CAA51383.1"
+                     /db_xref="GDB:203869"
+                     /db_xref="GOA:P13945"
+                     /db_xref="HGNC:HGNC:288"
+                     /db_xref="InterPro:IPR000276"
+                     /db_xref="InterPro:IPR000681"
+                     /db_xref="InterPro:IPR002233"
+                     /db_xref="InterPro:IPR017452"
+                     /db_xref="PDB:2CDW"
+                     /db_xref="UniProtKB/Swiss-Prot:P13945"
+                     /translation="MAPWPHENSSLAPWPDLPTLAPNTANTSGLPGVPWEAALAGALL
+                     ALAVLATVGGNLLVIVAIAWTPRLQTMTNVFVTSLAAADLVMGLLVVPPAATLALTGH
+                     WPLGATGCELWTSVDVLCVTASIETLCALAVDRYLAVTNPLRYGALVTKRCARTAVVL
+                     VWVVSAAVSFAPIMSQWWRVGADAEAQRCHSNPRCCAFASNMPYVLLSSSVSFYLPLL
+                     VMLFVYARVFVVATRQLRLLRGELGRFPPEESPPAPSRSLAPAPVGTCAPPEGVPACG
+                     RRPARLLPLREHRALCTLGLIMGTFTLCWLPFFLANVLRALGGPSLVPGPAFLALNWL
+                     GYANSAFNPLIYCRSPDFRSAFRRLLCRCGRRLPPEPCAAARPALFPSGVPAARSSPA
+                     QPRLCQRLDGASWGVS"
+     intron          1843..2867
+                     /number=1
+     exon            2868..>3525
+                     /number=2
+     regulatory      3520..3525
+                     /regulatory_class="polyA_signal_sequence"
+     regulatory      3567..3576
+                     /regulatory_class="terminator"
+ORIGIN      
+        1 agatctcacc aagctgaggt cttgggagag gagatactgg ctgagcccta ttacttaatt
+       61 taaaatacct taggggaggc cacccaagtg gatgcggggc tcctgtgaat cctttgcttg
+      121 actccagcgg gttacctttg cctctgatac ataaagggtg gggatgggag cgctctcctc
+      181 tctccttccc ctgccttgct gtgggaactt ctgggaaagg aggtgcaggg ctccaggaag
+      241 ccagtgccca gggagtgcta tgctgagtcc aggagcctgg ccacggcagg ggtggacaga
+      301 tggtggcaga ggaaccacgg tgtcccttcc tccagattta gctaaaggaa acgtggagca
+      361 tcccattggc catcctcccc actctccaat tcggctccag aggcccctcc agactatagg
+      421 cagctgcccc tttaagcgtc gctactcctc ccccaagagc ggtggcaccg agggagttgg
+      481 ggtgggggga ggctgagcgc tctggctggg acagctagag aagatggccc aggctgggga
+      541 agtcgctctc atgccttgct gtcccctccc ctgagccagg tgatttggga gaccccctcc
+      601 ttccttcttt ccctaccgcc ccacgcgcga cccggggatg gctccgtggc ctcacgagaa
+      661 cagctctctt gccccatggc cggacctccc caccctggcg cccaataccg ccaacaccag
+      721 tgggctgcca ggggttccgt gggaggcggc cctagccggg gccctgctgg cgctggcggt
+      781 gctggccacc gtgggaggca acctgctggt catcgtggcc atcgcctgga ctccgagact
+      841 ccagaccatg accaacgtgt tcgtgacttc gctggccgca gccgacctgg tgatgggact
+      901 cctggtggtg ccgccggcgg ccaccttggc gctgactggc cactggccgt tgggcgccac
+      961 tggctgcgag ctgtggacct cggtggacgt gctgtgtgtg accgccagca tcgaaaccct
+     1021 gtgcgccctg gccgtggacc gctacctggc tgtgaccaac ccgctgcgtt acggcgcact
+     1081 ggtcaccaag cgctgcgccc ggacagctgt ggtcctggtg tgggtcgtgt cggccgcggt
+     1141 gtcgtttgcg cccatcatga gccagtggtg gcgcgtaggg gccgacgccg aggcgcagcg
+     1201 ctgccactcc aacccgcgct gctgtgcctt cgcctccaac atgccctacg tgctgctgtc
+     1261 ctcctccgtc tccttctacc ttcctcttct cgtgatgctc ttcgtctacg cgcgggtttt
+     1321 cgtggtggct acgcgccagc tgcgcttgct gcgcggggag ctgggccgct ttccgcccga
+     1381 ggagtctccg ccggcgccgt cgcgctctct ggccccggcc ccggtgggga cgtgcgctcc
+     1441 gcccgaaggg gtgcccgcct gcggccggcg gcccgcgcgc ctcctgcctc tccgggaaca
+     1501 ccgggccctg tgcaccttgg gtctcatcat gggcaccttc actctctgct ggttgccctt
+     1561 ctttctggcc aacgtgctgc gcgccctggg gggcccctct ctagtcccgg gcccggcttt
+     1621 ccttgccctg aactggctag gttatgccaa ttctgccttc aacccgctca tctactgccg
+     1681 cagcccggac tttcgcagcg ccttccgccg tcttctgtgc cgctgcggcc gtcgcctgcc
+     1741 tccggagccc tgcgccgccg cccgcccggc cctcttcccc tcgggcgttc ctgcggcccg
+     1801 gagcagccca gcgcagccca ggctttgcca acggctcgac gggtaggtaa ccggggcaga
+     1861 gggaccggcg gctcagggtc gggaagcatg cgatgtgtcc gtgggtcaac tttttgagtg
+     1921 tggagtttat taagagaagg tgggatggct ttgcttggag agaaaaggga acgaggagta
+     1981 gcgaaccaaa atgggaccca gggtcctttt ctttccggat ccagtcacta gggtagaagc
+     2041 aaaggagggc gagcgggccg tcgttcctca cccaaggacc caaggtgcgc caccggaaag
+     2101 cgctgcggtg tcccgaggac tctcgcctcg cctggtcggc tttagggatt tttttttttt
+     2161 ttaaatagag acagggtttc gtctctgtcg cccacgcggg aatgcagtgg tgcgatctca
+     2221 gctcactgca gtcttgaact cctggctcct gggctcaagc gatcctccca cctcagcctc
+     2281 ctgagtatct gggactacag gcgagcccca ccaatcccag ctatttttaa aatttcttgt
+     2341 agagatgggg tcttgctatg ttgcccaggc ttgtcttgaa cttctggcct caagtgatcc
+     2401 ttctgcctca gccttccaaa gcattaggat tacaggccgg agccagggcg ccgggtcggc
+     2461 tctagttttg gttttccagc tcagttcttt gcccccctcc cccgatttct tgccatcact
+     2521 agacctggct cggacttgaa ggcagggcta gtgccccccc acccgccccc caagccctcg
+     2581 gcctcagttc tgggttttct caaaggtttg acagctgtgg aggtgagaat ccacttccgg
+     2641 tatgaagtac agttgtgagt gaggagcctg tgagtgcaga tgtgtgccct cccgctccct
+     2701 gggctgggtt ggagtaggga tggggtgggg cgtgtgtggc tgggtggtgc cctggcgttt
+     2761 ttgtgtaact aaatatgcgt tccagggtct ctgatctctg tcattcccct cagtgcacct
+     2821 gttgctcctt tcaccccagg gtctattatc tccacttttt ttcccagggc ttcttgggga
+     2881 gtttcttagg cctgaaggac aagaagcaac aactctgttg atcagaacct gtggaaaacc
+     2941 tctggcctct gttcagaatg agtcccatgg gattccccgg ctgtgacact ctaccctcca
+     3001 gaacctgacg actgggccat gtgacccaag gagggatcct taccaagtgg gttttcacca
+     3061 tcctcttgct ctctgtctga gagatgtttt ctaaacccca gccttgaact tcactcctcc
+     3121 ctcagtggta gtgtccaggt gccgtggagc agcaggctgg ctttggtagg ggcacccatc
+     3181 acccggcttg cctgtgcagt cagtgagtgc ttagggcaaa gagagctccc ctggttccat
+     3241 tccttctgcc acccaaaccc tgatgagacc ttagtgttct ccaggctctg tggcccaggc
+     3301 tgagagcagc agggtagaaa agaccaagat ttggggtttt atctctggtt cccttattac
+     3361 tgctctcaag cagtggcctc tctcacttta gccatggaat ggctccgatc tacctcacag
+     3421 cagtgtcaga aggacttcgc cagggttttg ggagctccag ggttcataag aaggtgaacc
+     3481 attagaacag atcccttctt ttccttttgc aatcagataa ataaatatca ctgaatgcag
+     3541 ttcatcctcg gccccctttc cctccgtttg ttttcttttc ataatccact tactcccttc
+     3601 ccttctactc tgctggcttt tgacagaggc gtaaattagg cctaatcctc actcttttct
+     3661 tcctaatgtt catcaaagaa aaa
+//
+

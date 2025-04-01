@@ -1,0 +1,67 @@
+LOCUS       X79235                   459 bp    DNA     linear   PRI 27-APR-2004
+DEFINITION  Homo sapiens pancreatic ribonuclease rib-1 gene.
+ACCESSION   X79235
+VERSION     X79235.1
+KEYWORDS    pancreatic ribonuclease.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1
+  AUTHORS   Kochetov,A.V., Lukasheva,V.V., Filipenko,M.L., Mertvetsov,N.P. and
+            Rivkin,M.I.
+  TITLE     [Primary structure of the coding part of the gene for human
+            pancreatic ribonuclease and its chromosomal location]
+  JOURNAL   Bioorg. Khim. 21 (9), 691-694 (1995)
+   PUBMED   8588814
+REFERENCE   2  (bases 1 to 459)
+  AUTHORS   Filipenko,M.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAY-1994) M.L. Filipenko, Institute of Bioorganic
+            Chemistry, Lavrentjeva 8, Novosibirsk, 630090 RUSSIA
+FEATURES             Location/Qualifiers
+     source          1..459
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="14"
+                     /sex="female"
+                     /tissue_type="placenta"
+     gene            1..459
+                     /gene="rib-1"
+     CDS             1..459
+                     /gene="rib-1"
+                     /codon_start=1
+                     /product="pancreatic ribonuclease"
+                     /protein_id="CAA55817.1"
+                     /db_xref="GDB:125275"
+                     /db_xref="GOA:P07998"
+                     /db_xref="HGNC:HGNC:10044"
+                     /db_xref="InterPro:IPR001427"
+                     /db_xref="PDB:1DZA"
+                     /db_xref="PDB:1E21"
+                     /db_xref="PDB:1H8X"
+                     /db_xref="PDB:1Z7X"
+                     /db_xref="PDB:2E0J"
+                     /db_xref="PDB:2E0L"
+                     /db_xref="PDB:2E0M"
+                     /db_xref="PDB:2E0O"
+                     /db_xref="PDB:2K11"
+                     /db_xref="PDB:2Q4G"
+                     /db_xref="PDB:3F8G"
+                     /db_xref="UniProtKB/Swiss-Prot:P07998"
+                     /translation="MGLEKSLVRLLLLVLILLVLGWVQPSLGKESRAKKFQRQHMDSD
+                     SSPSSSSTYCNQMMRRRNMTQGRCKPVNTFVHEPLVDVQNVCFQEKVTCKNGQGNCYK
+                     SNSSMHITDCRLTNGSRYPNCAYRTSPKERHIIVACEGSPYVPVHFDATV"
+ORIGIN      
+        1 atgggtctgg agaagtctct tgtccggctc cttctgcttg tcctgatact gctggtgctg
+       61 ggctgggtcc agccttccct gggcaaggaa tcccgggcca agaaattcca gcggcagcat
+      121 atggactcag acagttcccc cagcagcagc tccacctact gtaaccaaat gatgaggcgc
+      181 cggaatatga cacaggggcg gtgcaaacca gtgaacacct ttgtgcacga gcccctggta
+      241 gatgtccaga atgtctgttt ccaggaaaag gtcacctgca agaacgggca gggcaactgc
+      301 tacaagagca actccagcat gcacatcaca gactgccgcc tgacaaacgg ctccaggtac
+      361 cccaactgtg cataccggac cagcccgaag gagagacaca tcattgtggc ctgtgaaggg
+      421 agcccatatg tgccagtcca ctttgatgct actgtgtag
+//
+

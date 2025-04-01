@@ -1,0 +1,169 @@
+LOCUS       X62654                  4370 bp    DNA     linear   PRI 14-NOV-2006
+DEFINITION  H.sapiens gene for Me491/CD63 antigen.
+ACCESSION   X62654 S37524
+VERSION     X62654.1
+KEYWORDS    antigen; ME491/CD63 antigen.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 4370)
+  AUTHORS   Hotta,H., Miyamoto,H., Hara,I., Takahashi,N. and Homma,M.
+  TITLE     Genomic structure of the ME491/CD63 antigen gene and functional
+            analysis of the 5'-flanking regulatory sequences
+  JOURNAL   Biochem. Biophys. Res. Commun. 185 (1), 436-442 (1992)
+   PUBMED   1599482
+REFERENCE   2  (bases 1 to 4370)
+  AUTHORS   Hotta,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-OCT-1991) H. Hotta, Kobe University School of
+            Medicine, Dept of Microbiology, 7-5-1 Kusunoki-cho Chuo-ku, Hyogo
+            650, JAPAN
+COMMENT     On Aug 11, 2005 this sequence version replaced S37524.1.
+FEATURES             Location/Qualifiers
+     source          1..4370
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="12"
+                     /map="q12-q13"
+                     /clone="lambda2"
+                     /cell_line="peripheral blood leukocytes"
+                     /cell_type="peripheral blood leukocytes"
+                     /clone_lib="LN87"
+     regulatory      529..536
+                     /regulatory_class="enhancer"
+                     /note="AP-1 binding site"
+     regulatory      612..621
+                     /regulatory_class="promoter"
+                     /note="Sp1 binding site"
+     mRNA            join(658..715,1316..1392,2328..2516,2701..2775,2870..2965,
+                     3403..3543,3768..3851,4038..4190)
+                     /note="ME491/CD63 antigen"
+     exon            658..715
+                     /number=1
+     intron          716..1315
+                     /number=1
+     exon            1316..1392
+                     /number=2
+     CDS             join(1327..1392,2328..2516,2701..2775,2870..2965,
+                     3403..3543,3768..3851,4038..4103)
+                     /codon_start=1
+                     /product="ME491 /CD63 antigen"
+                     /protein_id="CAA44519.1"
+                     /db_xref="GDB:120186"
+                     /db_xref="GOA:P08962"
+                     /db_xref="HGNC:HGNC:1692"
+                     /db_xref="InterPro:IPR000301"
+                     /db_xref="InterPro:IPR008952"
+                     /db_xref="InterPro:IPR018499"
+                     /db_xref="InterPro:IPR018503"
+                     /db_xref="UniProtKB/Swiss-Prot:P08962"
+                     /translation="MAVEGGMKCVKFLLYVLLLAFCACAVGLIAVGVGAQLVLSQTII
+                     QGATPGSLLPVVIIAVGVFLFLVAFVGCCGACKENYCLMITFAIFLSLIMLVEVAAAI
+                     AGYVFRDKVMSEFNNNFRQQMENYPKNNHTASILDRMQADFKCCGAANYTDWEKIPSM
+                     SKNRVPDSCCINVTVGCGINFNEKAIHKEGCVEKIGGWLRKNVLVVAAAALGIAFVEV
+                     LGIVFACCLVKSIRSGYEVM"
+     intron          1393..2327
+                     /number=2
+     exon            2328..2516
+                     /number=3
+     intron          2517..2700
+                     /number=3
+     exon            2701..2775
+                     /number=4
+     intron          2776..2869
+                     /number=4
+     exon            2870..2965
+                     /number=5
+     intron          2966..3402
+                     /number=5
+     exon            3403..3543
+                     /number=6
+     intron          3544..3767
+                     /number=6
+     exon            3768..3851
+                     /number=7
+     intron          3852..4037
+                     /number=7
+     exon            4038..4190
+                     /number=8
+     regulatory      4164..4170
+                     /regulatory_class="polyA_signal_sequence"
+ORIGIN      
+        1 ggatccctgg aaaatggaga agctgtgcta atagaggggg gccagaaatc cccactctag
+       61 aatgctgtag aatgttggga gacacccagg atgtgagcca gggactttct ggaagtgttt
+      121 gttctggccc cacccgaccc caggcagtcc ccagctgtct gcacagtcgg atggggaggg
+      181 ggcttgcaca gagttggagc cagaggagag agctggctca tcccctacgg taggatgggg
+      241 aaacctcaca gaccacattg tcacccggcc tcagctctcc gccccggcgc tcagagggta
+      301 actctcaccc acctcgtccg cttctctgaa ccagagtgac ccaggctgcc gtccgccccg
+      361 ctctcctacc ccgagttggc acggaggtat agcgccagag gggggcccca ggcgccccga
+      421 ggtcttgccc ttgcggcttt ccctttgcgg gggtgggcgc cttcttccgg gtaggggcca
+      481 cgtggccctg gccgggcggg gggctcggcc caccccgcgc cgggcccagt gactcaggcc
+      541 gcagctgtta ccgcgtcaca tgagggaggc cggcggccac tcggcggggg aggggaccgt
+      601 ggctggagcc cggggcgggg ccgcgcggca ggcggggcgg gagccggggg gcgcagctag
+      661 agagccccgg agccgcggcg ggagaggaac gcgcagccag ccttgggaag cccaggtgag
+      721 gccgcgggga cccggcggac ttcggcgcgg gctgggagag accacccgca gtcccttcct
+      781 ccagggctcg ccccaggccc gcggagactc gtccggcgct ctccagccgc cctggagcaa
+      841 ctttgcttcg aagttccctg ggcccgggca gggtgtggcg ggggtgctgg ctgcactttt
+      901 tttttttttg gtgggcgggg aggtcagagc ccaggggaaa ggggctgggg cgggggtcgg
+      961 ggttgggctg aagaccgttt ctccaggctg ggtgttgggt ggggaaaggg tgtttgacgc
+     1021 ccggagactg gcgggccgag ggtcggcgtc aggctcaagc ccctgccggc gcccttggat
+     1081 ctgtcctggg ccccagaggc ggcggggcgg ggtccgggct tcgcggccgt cgcccccacc
+     1141 cctctcctgc gggtaaagag ggggctggga gacgtggatc cgaccgcggg tttccgggtg
+     1201 ggaggggccg ggaatcgggg ccgtgaaggg aagccctcga gggccggccg ggagcccgga
+     1261 aaccgaggtc ccccttcggc cagttttaat ccccccgccc tcccctctgc cccaggcccg
+     1321 gcagccatgg cggtggaagg aggaatgaaa tgtgtgaagt tcttgctcta cgtcctcctg
+     1381 ctggcctttt gcgtgagtgg cgaggggtcc tggggggcgc gccggcaggg tgcggggaga
+     1441 cctggctcca cagtggtgag ggctgaggga atgagaatta aggcagctgg agaccagatg
+     1501 tggaaagaaa gccagggaaa gacagcgcag ccactccctc ctccagtttt cctggacacc
+     1561 tgaggcttgt ttccaccgag aatggccatc ctgggtgtgc agcaacccct acccccatcc
+     1621 ctcctggccc ttcctgtctg gtgacccaac cacttgtgat atggggcagt ggggcaacca
+     1681 gccaaccgcc tgatgctatc gccatggggc ttcccttcgc tctcccttct cccctctctc
+     1741 cctccccaac cctctcatcc ctgtccagcc cctctccccc tttccctcct cccagcgctt
+     1801 gggggtgagg aagggctctg cccacttcaa tttgctcctg ccctgggctc ctggcttgag
+     1861 aggctactgt ttgtataggg agggacacat cactcttgct cccttttcct cttcccttct
+     1921 cctggcctaa ctggccagag gaaccttagt cacagctgat gcgcgcgtgg atgtgcactg
+     1981 gaggatagtg agggggcagt tctgggcgcg aattgagctg ggagccctgg aggcctgtag
+     2041 aaagcattat tctaggtcag aaatacgtgt cttgaggtca aggctttctg ggaggttttt
+     2101 gaatttggtc atgtccctga ttaaagagcc gggaggggat caggggaggt aggggcaggc
+     2161 aaggatgggt catcccccta ccccacagcc aaagaaattc cctagaggtg tgagaatctc
+     2221 tcttggggat ggggtcaagt ctgtgtccta ggtgtacccc ctgccctcca ccatggaggg
+     2281 ccactgtgtt gtggatatgg cctaatcctc acctgatttt ctcttaggcc tgtgcagtgg
+     2341 gactgattgc cgtgggtgtc ggggcacagc ttgtcctgag tcagaccata atccaggggg
+     2401 ctacccctgg ctctctgttg ccagtggtca tcatcgcagt gggtgtcttc ctcttcctgg
+     2461 tggcttttgt gggctgctgc ggggcctgca aggagaacta ttgtcttatg atcacggtgc
+     2521 gttggggcgg accaacatgg gcggtctggg actgccagag cagcttggtt cgggctcagg
+     2581 aaggtgggtg aggtgggtgg gtgaggaaga cctttgtgag tgtccaggga ccggctgtgc
+     2641 caaaacgggc ccctgtaatg catagactcc aaacttgact tctgtccttt gctcctgcag
+     2701 tttgccatct ttctgtctct tatcatgttg gtggaggtgg ccgcagccat tgctggctat
+     2761 gtgtttagag ataaggtaag cagggaataa tgggaagggc ctgcctcagc cgggtctggg
+     2821 accctggtgc ttgaattctg actgcaacag tgctcctccg tactctcagg tgatgtcaga
+     2881 gtttaataac aacttccggc agcagatgga gaattacccg aaaaacaacc acactgcttc
+     2941 gatcctggac aggatgcagg cagatgtgag tggggttgct gggagcaggg gtggtgggaa
+     3001 tagagaattc tcatctccaa ggctgggtgt ggtgactcac gcctgtaatc tcagcacttt
+     3061 tgaaggccga ggtgggcaga tcacctgagg tcagaagttc aagactagcc tggccaacgt
+     3121 ggtgaaaccc tgtctctact aaaaatacaa aaattagcca ggtgtggtgg tgagtgcctg
+     3181 taatcccacc tactcaggag ggtgaggcag gagaatcgct tgaacccggg aggcggaggt
+     3241 tgcagtgagc cgagattgag ccaccgctgg gcacttgtct gggcaacaga gcaagtctct
+     3301 gtctcaaaaa aaaaaaaaaa aaaaaaaaag aattctcatc tccatattga aggtgaaggt
+     3361 tcacttaaca accttcttct ccatatttct tccctccccc agtttaagtg ctgtggggct
+     3421 gctaactaca cagattggga gaaaatccct tccatgtcga agaaccgagt ccccgactcc
+     3481 tgctgcatta atgttactgt gggctgtggg attaatttca acgagaaggc gatccataag
+     3541 gaggtaggga ggagactgtg tatgggactt gggaaacctg ggaaatgttt tagaatgcaa
+     3601 gagacccagg atggaggtgg acagggtcag ggatggggag gggatctgga aatgctaagg
+     3661 gtggggtgaa aggtacaggg gcagggaaga gactgatgga ccaagggagg gggttggggt
+     3721 gggaagtttc tgatggtgct tttgtccttt gtgcctgcca ccttcagggc tgtgtggaga
+     3781 agattggggg ctggctgagg aaaaatgtgc tggtggtagc tgcagcagcc cttggaattg
+     3841 cttttgtcga ggtaagagat aaccctgagc aggggctggg actctgtcca gggtgcctgg
+     3901 agggaagggg ctgaggggag gagggtgctg aacaggaggt actggcctgg gagtgtgtgt
+     3961 ttggagtctc ttgcatgggt ctgaggtagc tagcccttct gactcctctc cacccctgtc
+     4021 cccatcgggc cttctaggtt ttgggaattg tctttgcctg ctgcctcgtg aagagtatca
+     4081 gaagtggcta cgaggtgatg taggggtctg gtctcctcag cctcctcatc tgggggagtg
+     4141 gaatagtatc ctccaggttt ttcaattaaa cggattattt tttcagaccg aaaagagatg
+     4201 gtctgagttt gtcttagagt gatgcttgat tccttccttt ccttactgat gttccctgtc
+     4261 ctctgggacc ttaatgcatg tgtacttcga ggtctatttt ggggggtgtt tgggaaagga
+     4321 ggactttgcg aaggtgttgg ttgggcaggc agtgggagaa gtgaggatcc
+//
+

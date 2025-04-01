@@ -1,0 +1,104 @@
+LOCUS       HSU20325                2483 bp    DNA     linear   PRI 13-SEP-1996
+DEFINITION  Human cocaine and amphetamine regulated transcript CART (hCART)
+            gene, complete cds.
+ACCESSION   U20325
+VERSION     U20325.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2483)
+  AUTHORS   Douglass,J. and Daoud,S.
+  TITLE     Characterization of the human cDNA and genomic DNA encoding CART: a
+            cocaine- and amphetamine-regulated transcript
+  JOURNAL   Gene 169 (2), 241-245 (1996)
+   PUBMED   8647455
+REFERENCE   2  (bases 1 to 2483)
+  AUTHORS   Douglass,J.O.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-JAN-1995) James O. Douglass, Vollum Institute, Oregon
+            Health Sciences, University, 3181 SW Sam Jackson Park Road,
+            Portland, OR 97201, USA
+FEATURES             Location/Qualifiers
+     source          1..2483
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="5"
+                     /clone_lib="ATCC 37385"
+     regulatory      72..77
+                     /regulatory_class="TATA_box"
+     exon            103..280
+                     /number=1
+     5'UTR           103..121
+     gene            join(122..280,706..789,1329..1436)
+                     /gene="hCART"
+     CDS             join(122..280,706..789,1329..1436)
+                     /gene="hCART"
+                     /note="psychomotor stimulant regulated protein; CART"
+                     /codon_start=1
+                     /product="cocaine and amphetamine regulated transcript"
+                     /protein_id="AAB08011.1"
+                     /translation="MESSRVRLLPLLGAALLLMLPLLGTRAQEDAELQPRALDIYSAV
+                     DDASHEKELIEALQEVLKKLKSKRVPIYEKKYGQVPMCDAGEQCAVRKGARIGKLCDC
+                     PRGTSCNSFLLKCL"
+     intron          281..705
+                     /number=1
+     exon            706..789
+                     /gene="hCART"
+                     /number=2
+     intron          790..1328
+                     /number=2
+     exon            1329..1866
+                     /number=3
+     3'UTR           1437..1866
+     regulatory      1846..1851
+                     /regulatory_class="polyA_signal_sequence"
+     polyA_site      1867
+ORIGIN      
+        1 cccgggccct cctccacccc cccttccttc ttcgcctcct ccctctttcc tgcacggggg
+       61 ctcgggctca ctataaaagg tgggagcgcg tggtgcccca gcaacgacga gtttcagaac
+      121 gatggagagc tcccgcgtga ggctgctgcc cctcctgggc gccgccctgc tgctgatgct
+      181 acctctgttg ggtacccgtg cccaggagga cgccgagctc cagccccgag ccctggacat
+      241 ctactctgcc gtggatgatg cctcccacga gaaggagctg gtcggtattc ccctcgctct
+      301 cgaccccctt gacgtgtcgc cttgtctctt ctcttgcacg cctccctcct tccccccacc
+      361 cccactccta ttcccagagt cagggcgcgg ggagctgagc gcaacgccca ggcacccact
+      421 gccatccgaa gagcgactcg agctcacggg ctcctggcag tctgttgagc gaatccctca
+      481 tcccggcccc tctgagcaac aggggcccca gcggctcaga gacccgcggt cagtacctgg
+      541 gacagcgtcg ctaagtttcc acccctcgac cattccctgt gtccgcggag tcccaccgca
+      601 gagtgcgtgt gggtccgggg ctccttataa ctagggctgg aagtgcgcac ctgggctggg
+      661 ctcgcagcaa ggcgcaactt caggctccga agcggtgtgt tgcagatcga agcgctgcaa
+      721 gaagtcttga agaagctcaa gagtaaacgt gttcccatct atgagaagaa gtatggccaa
+      781 gtccccatgg taaggtttgt ggtcactccc ttcccgtgtt tttccaagag aaagtacacc
+      841 gccttgaatc gtacacacag ctccgtagga tgtggctaaa taacttaggt aatgggcttg
+      901 caggattctg tgggctcctt cttccttccc gggtgaggaa atgggaaagc aggaacaggg
+      961 gttgtaagaa agtgtaagtc tattgtttgt tgctcaggaa aaaggtctga tttttttccc
+     1021 tctgagaggg caagaaaagg agccaggaaa tgtgatgctc cccttcccac gccccccaac
+     1081 cctcgccact taaaggtgga agaaactagg ataaaactaa taatgtaagt ttctttaaaa
+     1141 aatgtactct cactgaggtt ataagcacaa ggctccctgt ttcagatctg actgtacgtc
+     1201 gacctcttgt gatggtgatg gggtccaatt gcccctttca agagacagaa attgcgttga
+     1261 ctgtgagact tgcctgttgg gaacctgggt ttgttcatac tcgatgacca cacattttgt
+     1321 tgtttcagtg tgacgccggt gagcagtgtg cagtgaggaa aggggcaagg atcgggaagc
+     1381 tgtgtgactg tccccgagga acctcctgca attccttcct cctgaagtgc ttatgaaggg
+     1441 gcgtccattc tcctccatac atccccatcc ctctactttc cccagaggac cacaccttcc
+     1501 tccctggagt ttggcttaag caacagataa agtttttatt ttcctctgaa gggaaagggc
+     1561 tcttttcctg ctgtttcaaa aataaaagaa cacattagat gttactgtgt gaagaataat
+     1621 gccttgtatg gtgttgatac gtgtgtgaag tattcttatt ttatttgtct gacaaactct
+     1681 tgtgtacctt tgtgtaaaga agggaagctt tgtttgaaaa ttgtattttt gtatgtggca
+     1741 tggcagaatg aaaattagat ctagctaatc tcggtagatg tcattacaac ctggaaaata
+     1801 aatcacccta agtgacacaa attgaagcat gtacaaatta tacataataa agtgttttta
+     1861 ataattgccc atagtgcact gctgttttca tataagtaat ttaagtggaa atggtgagat
+     1921 taatcatgct gttgttttca aagaaaaata tttcaaaaat agcagcctat tggaaatgca
+     1981 ctacgtcaga gttgatcgta tagagttgca gcagttagta tacctatttc ttgatgcagc
+     2041 gagtgtgtgt gtatgtgtgt gtgttagtgt gtgtgtgtgt gtgtgtgtga gagagagaga
+     2101 gagagagaaa gagagagatg aatgagatgg agatggttgg agaagaggtt atataatttt
+     2161 gtttattaaa acctttagcc agacccttta ctttaaacag tgagaccaat aaactataaa
+     2221 cagtttcatg ttttagtcac attaaaagca atttgaaaaa ttagaaattt tgttttgaca
+     2281 actcccttat tagaaaatat acattgattt aaagatatgg gctgtttagg gttgttattt
+     2341 gtctaaagac tccaaggtta taagacccat ccatcccaca agtaaattca cactcttgga
+     2401 aaaattctct attccaggag aaagagtcat ttcagaaaat agttttgagg ggaacaaata
+     2461 aaaattggag gaggtgagaa ttc
+//
+

@@ -1,0 +1,89 @@
+LOCUS       HUMATCT4A               1742 bp    DNA     linear   PRI 24-JAN-1994
+DEFINITION  Human T4 surface glycoprotein CD4 gene, complete cds.
+ACCESSION   M35160
+VERSION     M35160.1
+KEYWORDS    glycoprotein; immunoglobulin super gene family; recognition
+            antigen; surface antigen.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1742)
+  AUTHORS   Hodge,T.W., Sasso,D.R. and McDougal,J.S.
+  TITLE     Humans with OKT4-epitope deficiency have a single nucleotide base
+            change in the CD4 gene, resulting in substitution of TRP240 for
+            ARG240
+  JOURNAL   Hum. Immunol. 30 (2), 99-104 (1991)
+   PUBMED   1708753
+REFERENCE   2  (bases 1 to 1742)
+  AUTHORS   Hodge,T.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-JUN-1990) T.W. Hodge, A-25 Bldg. 1, Rm. 1226, Centers
+            for Disease Control, 1600 Clifton Rd. Atlanta, GA 30333 USA
+COMMENT     A cytosine to thymidine transition at nucleotide position 868
+            results in substitution of TRP-240 for ARG-240.
+FEATURES             Location/Qualifiers
+     source          1..1742
+                     /organism="Homo sapiens"
+                     /mol_type="unassigned DNA"
+                     /db_xref="taxon:9606"
+                     /haplotype="OKT4-negative"
+     gene            76..1452
+                     /gene="CD4"
+     CDS             76..1452
+                     /gene="CD4"
+                     /note="T4 surface glycoprotein precursor"
+                     /codon_start=1
+                     /protein_id="AAA16069.1"
+                     /translation="MNRGVPFRHLLLVLQLALLPAATQGKKVVLGKKGDTVELTCTAS
+                     QKKSIQFHWKNSNQIKILGNQGSFLTKGPSKLNDRADSRRSLWDQGNFPLIIKNLKIE
+                     DSDTYICEVEDQKEEVQLLVFGLTANSDTHLLQGQSLTLTLESPPGSSPSVQCRSPRG
+                     KNIQGGKTLSVSQLELQDSGTWTCTVLQNQKKVEFKIDIVVLAFQKASSIVYKKEGEQ
+                     VEFSFPLAFTVEKLTGSGELWWQAERASSSKSWITFDLKNKEVSVKWVTQDPKLQMGK
+                     KLPLHLTLPQALPQYAGSGNLTLALEAKTGKLHQEVNLVVMRATQLQKNLTCEVWGPT
+                     SPKLMLSLKLENKEAKVSKREKAVWVLNPEAGMWQCLLSDSGQVLLESNIKVLPTWST
+                     PVQPMALIVLGGVAGLLLFIGLGIFFCVRCRHRRRQAERMSQIKRLLSEKKTCQCPHR
+                     FQKTCSPI"
+     sig_peptide     76..150
+                     /gene="CD4"
+                     /note="T4 surface glycoprotein signal peptide"
+     mat_peptide     151..1449
+                     /gene="CD4"
+                     /product="T4 surface glycoprotein mature peptide"
+     variation       792
+                     /gene="CD4"
+                     /note="g in OKT4 epitope deficiency; c in wt"
+ORIGIN      
+        1 caagcccaga gccctgccat ttctgtgggc tcaggtccct actgctcagc cccttcctcc
+       61 ctcggcaagg ccacaatgaa ccggggagtc ccttttaggc acttgcttct ggtgctgcaa
+      121 ctggcgctcc tcccagcagc cactcaggga aagaaagtgg tgctgggcaa aaaaggggat
+      181 acagtggaac tgacctgtac agcttcccag aagaagagca tacaattcca ctggaaaaac
+      241 tccaaccaga taaagattct gggaaatcag ggctccttct taactaaagg tccatccaag
+      301 ctgaatgatc gcgctgactc aagaagaagc ctttgggacc aaggaaactt ccccctgatc
+      361 atcaagaatc ttaagataga agactcagat acttacatct gtgaagtgga ggaccagaag
+      421 gaggaggtgc aattgctagt gttcggattg actgccaact ctgacaccca cctgcttcag
+      481 gggcagagcc tgaccctgac cttggagagc ccccctggta gtagcccctc agtgcaatgt
+      541 aggagtccaa ggggtaaaaa catacagggg gggaagaccc tctccgtgtc tcagctggag
+      601 ctccaggata gtggcacctg gacatgcact gtcttgcaga accagaagaa ggtggagttc
+      661 aaaatagaca tcgtggtgct agctttccag aaggcctcca gcatagtcta taagaaagag
+      721 ggggaacagg tggagttctc cttcccactc gcctttacag ttgaaaagct gacgggcagt
+      781 ggcgagctgt ggtggcaggc ggagagggct tcctcctcca agtcttggat cacctttgac
+      841 ctgaagaaca aggaagtgtc tgtaaaatgg gttacccagg accctaagct ccagatgggc
+      901 aagaagctcc cgctccacct caccctgccc caggccttgc ctcagtatgc tggctctgga
+      961 aacctcaccc tggcccttga agcgaaaaca ggaaagttgc atcaggaagt gaacctggtg
+     1021 gtgatgagag ccactcagct ccagaaaaat ttgacctgtg aggtgtgggg acccacctcc
+     1081 cctaagctga tgctgagctt gaaactggag aacaaggagg caaaggtctc gaagcgggag
+     1141 aaggcggtgt gggtgctgaa ccctgaggcg gggatgtggc agtgtctgct gagtgactcg
+     1201 ggacaggtcc tgctggaatc caacatcaag gttctgccca catggtccac cccggtgcag
+     1261 ccaatggccc tgattgtgct ggggggcgtc gccggcctcc tgcttttcat tgggctaggc
+     1321 atcttcttct gtgtcaggtg ccggcaccga aggcgccaag cagagcggat gtctcagatc
+     1381 aagagactcc tcagtgagaa gaagacctgc cagtgccctc accggtttca gaagacatgt
+     1441 agccccattt gaggcacgag gccaggcaga tcccacttgc agcctcccca ggtgtctgcc
+     1501 ccgcgtttcc tgcctgcgga ccagatgaat gtagcagatc ccacgctctg gcctcctgtt
+     1561 cgtcctccct acaatttgcc attgtttctc ctgggttagg ccccggcttc actggttgag
+     1621 tgttgctctc tagtttccag aggcttaatc acaccgtcct ccacgccatt tccttttcct
+     1681 tcaagcctag cccttctctc attatttctc tctgaccctc tccccactgc tcatttggat
+     1741 cc
+//
+

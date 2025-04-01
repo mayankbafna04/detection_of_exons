@@ -1,0 +1,68 @@
+LOCUS       HUMEPC1X                1199 bp    mRNA    linear   PRI 02-APR-1996
+DEFINITION  Human molecular marker (EPC-1) gene, complete cds.
+ACCESSION   M90439
+VERSION     M90439.1
+KEYWORDS    extracellular protein; serine protease inhibitor.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1199)
+  AUTHORS   Pignolo,R.J., Cristofalo,V.J. and Rotenberg,M.O.
+  TITLE     Senescent WI-38 cells fail to express EPC-1, a gene induced in
+            young cells upon entry into the G0 state
+  JOURNAL   J. Biol. Chem. 268 (12), 8949-8957 (1993)
+   PUBMED   8473338
+COMMENT     On Apr 2, 1996 this sequence version replaced gi:291989.
+FEATURES             Location/Qualifiers
+     source          1..1199
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /sex="female"
+                     /cell_line="WI-38"
+                     /cell_type="fibroblast-like"
+                     /tissue_type="lung"
+                     /dev_stage="fetal somatic"
+     gene            1..1199
+                     /gene="EPC-1"
+     CDS             39..1082
+                     /gene="EPC-1"
+                     /codon_start=1
+                     /protein_id="AAA93524.1"
+                     /translation="MSPTTNVLLSPLSVATALSALSLGAEQRTESIIHRALYYDLISS
+                     PDIHGTYKELLDTVTAPQKNLKSASRIVFEKKLRIKSSFVAPLEKSYGTRPRVLTGNP
+                     RLDLQEINNWVQAQMKGKLARSTKEIPDEISILLLGVAHFKGQWVTKFDSRKTSLEDF
+                     YLDEERTVRVPMMSDPKAVLRYGLDSDLSCKIAQLPLTGSMSIIFFLPLKVTQNLTLI
+                     EESLTSEFIHDIDRELKTVQAVLTVPKLKLSYEGEVTKSLQEMKLQSLFDSPDFSKIT
+                     GKPIKLTQVEHRAGFEWNEDGAGTTPSPGLQPAHLTFPLDYHLNQPFIFVLRDTDTGA
+                     LLFIGKILDPRGP"
+     regulatory      1180..1185
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="EPC-1"
+     polyA_site      1199
+                     /gene="EPC-1"
+ORIGIN      
+        1 ccaacttcgg ctatgacctg taccgggtgc gatccagcat gagccccacg accaacgtgc
+       61 tcctgtctcc tctcagtgtg gccacggccc tctcggccct ctcgctggga gcggagcagc
+      121 gaacagaatc catcattcac cgggctctct actatgactt gatcagcagc ccagacatcc
+      181 atggtaccta taaggagctc cttgacacgg tcactgcccc ccagaagaac ctcaagagtg
+      241 cctcccggat cgtctttgag aagaagctgc gcataaaatc cagctttgtg gcacctctgg
+      301 aaaagtcata tgggaccagg cccagagtcc tgacgggcaa ccctcgcttg gacctgcaag
+      361 agatcaacaa ctgggtgcag gcgcagatga aagggaagct cgccaggtcc acaaaggaaa
+      421 ttcccgatga gatcagcatt ctccttctcg gtgtggcgca cttcaagggg cagtgggtaa
+      481 caaagtttga ctccagaaag acttccctcg aggatttcta cttggatgaa gagaggaccg
+      541 tgagggtccc catgatgtcg gaccctaagg ctgttttacg ctatggcttg gattcagatc
+      601 tcagctgcaa gattgcccaa ctgcccttga ccggaagcat gagtatcatc ttcttcctgc
+      661 ccctgaaagt gacccagaat ttgaccttga tagaggagag cctcacctcc gagttcattc
+      721 atgacataga ccgagaactg aagaccgtgc aggcggtcct cactgtcccc aagctgaagc
+      781 tgagttacga aggcgaagtc accaagtccc tgcaggagat gaagctgcaa tccttgtttg
+      841 attcaccaga ctttagcaag atcacaggca aacccatcaa gctgactcag gtggaacacc
+      901 gggctggctt tgagtggaac gaggatgggg cgggaaccac ccccagccca gggctgcagc
+      961 ctgcccacct caccttcccg ctggactatc accttaacca gcctttcatc ttcgtactga
+     1021 gggacacaga cacaggggcc cttctcttca ttggcaagat tctggacccc aggggcccct
+     1081 aatatcccag tttaatattc caatacccta gaagaaaacc cgagggacag cagattccac
+     1141 aggacacgaa ggctgcccct gtaaggtttc aatgcataca ataaaagagc tttatccct
+//
+

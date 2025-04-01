@@ -1,0 +1,161 @@
+LOCUS       HUMTROC                 4567 bp    DNA     linear   PRI 03-AUG-1993
+DEFINITION  Human slow twitch skeletal muscle/cardiac muscle troponin C gene,
+            complete cds.
+ACCESSION   M37984
+VERSION     M37984.1
+KEYWORDS    cardiac muscle troponin C; slow twitch skeletal muscle troponin C.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 4567)
+  AUTHORS   Schreier,T., Kedes,L. and Gahlmann,R.
+  TITLE     Cloning, structural analysis, and expression of the human slow
+            twitch skeletal muscle/cardiac troponin C gene
+  JOURNAL   J. Biol. Chem. 265 (34), 21247-21253 (1990)
+   PUBMED   2250022
+COMMENT     Original source text: Human blood (buffy coat) DNA.
+            Draft entry and computer-readable sequence for [Unpublished (1990)]
+            kindly submitted
+            by R.J.Gahlmann, 23-AUG-1990.
+               University of Southern California
+               School of Medicine HMR413
+               2011 Zonal Ave.
+               Los Angeles, CA 90033.
+FEATURES             Location/Qualifiers
+     source          1..4567
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /tissue_type="blood (buffy coat)"
+     gene            join(1448..1498,2965..2995,3226..3372,3621..3735,
+                     3952..4088,4173..4377)
+                     /gene="TnC"
+     mRNA            join(1448..1498,2965..2995,3226..3372,3621..3735,
+                     3952..4088,4173..4377)
+                     /gene="TnC"
+                     /product="troponin C"
+                     /note="putative"
+     exon            1448..1498
+                     /gene="TnC"
+                     /note="putative"
+                     /number=1
+     CDS             join(1475..1498,2965..2995,3226..3372,3621..3735,
+                     3952..4088,4173..4204)
+                     /gene="TnC"
+                     /note="putative"
+                     /codon_start=1
+                     /product="slow twitch skeletal/cardiac muscle troponin C"
+                     /protein_id="AAA36772.1"
+                     /translation="MDDIYKAAVEQLTEEQKNEFKAAFDIFVLGAEDGCISTKELGKV
+                     MRMLGQNPTPEELQEMIDEVDEDGSGTVDFDEFLVMMVRCMKDDSKGKSEEELSDLFR
+                     MFDKNADGYIDLDELKIMLQATGETITEDDIEELMKDGDKNNDGRIDYDEFLEFMKGV
+                     E"
+     intron          1499..2964
+                     /number=1
+     exon            2965..2995
+                     /gene="TnC"
+                     /note="putative"
+                     /number=2
+     intron          2996..3225
+     exon            3226..3372
+                     /gene="TnC"
+                     /note="putative"
+                     /number=3
+     intron          3373..3620
+     exon            3621..3735
+                     /gene="TnC"
+                     /note="putative"
+                     /number=4
+     intron          3736..3951
+     exon            3952..4088
+                     /gene="TnC"
+                     /note="putative"
+                     /number=5
+     intron          4089..4172
+                     /number=5
+     exon            4173..4377
+                     /gene="TnC"
+                     /note="putative"
+                     /number=6
+ORIGIN      
+        1 cctcgcccgc cccgcgcgtg actgacaggg ccactcaggg cgcgcgtgcg aggtgctcgc
+       61 ttgggtaatc tacctgcgtg ggcccgccgg cggtaccctg cacagcctgc tagaaactga
+      121 gaccccgggt ggtgacagct ctggcatcgc ccctgggtcc tcgggaagag gggacagaag
+      181 gtcccgagtc tcccaggcca cacgaagcaa gtcactgctc ttcctggcct cagtttactc
+      241 ctcctgataa aggaggccat aatagtgcct cacctggctg ttggctcttt ctctttaggg
+      301 caaggcaggt tggaggggaa aataggacct gtgcttaccg ccggagcagg gcgagagtga
+      361 ttctgggcca gttctgaacc tctctgagat tcggagatct cttgtcagtg gggcttctgg
+      421 acaactgagt gggctgattg atgcgcggcc cagcacgcgg cccagtgctc gaggcaggga
+      481 gcgtgtttat caagagggat aaacttgata cgaactctgt acgaaggaag gtgtaggtgg
+      541 atggaggggt gtgtgctgcc actgagcaca agaacccacg gggtggcctg ccaaagttca
+      601 aaacgaggga gacaggttga tctggaccca ggaactacag tgctgaatcc taaaccgggg
+      661 aaagatgaga cctagaagag ggaggtggta acctaattgg agggtgagga gggaaagagc
+      721 ctgccacaga tggggcatct ataggggtgc tgttgataac agagcagctg acttaagccc
+      781 gaagtgggta cttctccctg ggcagatggg aggtctggga caggctcctc tggcagaagg
+      841 gctcctggcc accctgtcct aaggtgggtc agtcacttcc tccttcacca gttccacagc
+      901 atcttactat gagcttggca ttcgaggctt ctcttggcag ggccctgcac tcctagcctc
+      961 tccttgcaca ttgcaccccc attccagaga ggtttagtta aaggcggggg ttaccaagtc
+     1021 agtcagatct tgggcaagtc accactcctc cagagcctca gtttccttat ctggaaagtg
+     1081 gaggtcatgg caacccgcca acctggttgg atgggagcct gagctgttgt gttgcacctt
+     1141 gcctggggcc cacgactttg tagctcctgt cctgcactgg gcttatgttt tcattcattc
+     1201 cagaaacctt ttcagagagt ccctttgggg agtgtggggg acaggaggga aagaaacctg
+     1261 gtccttgtag ccgttcgtct gctccctgcc ctgggcagag gacatgggga ctcaggccag
+     1321 cctgagatca ctgggaccag aggaggggct ggaggatact acacgcaggg gtgggctggg
+     1381 ctgggctggg ctgggccagg aatgcagcgg ggcagggcta tttaagtcaa gggccggctg
+     1441 gcaaccccag caagctgtcc tgtgagccgc cagcatggat gacatctaca aggctgcggt
+     1501 gagggacagg gctgggtagg gctggggtgg gcaggcccac tgggggctca ctcagctgag
+     1561 agtgcggggt tagtagcccc agggaagtgg tggggaccaa ggagaaggcc tacgtgcctt
+     1621 caacccaggc cctcacaggg acagtgattc tggtgtttga ggatgcagaa gggggtaggg
+     1681 ggttccgggt ctgaagggtg gtggaggagg ttgcagcttt ctgatcgtgt ctcactctct
+     1741 gtttccaagt gtctgtggtc tgtggcactg tcgctcagcc acatgtctct gcatttgtct
+     1801 ctggacgttt ttgccttcct cttttcatct cttcctcctg agctgtctga gtccccatta
+     1861 ctgtctccct gtccccaacc cccactttct gcccctcaca ttctgcttct cacatgctca
+     1921 aaatctgcca cccactccag cccttggcgg gccgaagatg cttggagggt ggagggtgtg
+     1981 agaggagggg tctgtagagc ctgagtcctg ggctggagat ggggctttga agtttgaggc
+     2041 agggaagttc tggacatgag ggagaaccaa ggaagaagga acagagaact ggggccccag
+     2101 ctcccatcat gcctggcagg ctcagggctc agtggcttag ctaggggtga gagcgaggga
+     2161 atgagggctg gagagtggtc accccaagcc cctgcaacct cctgggtcac tgagggtctt
+     2221 cagatgctat tctatcctgg gtggtggtac ctccccaacc cagagcaagg acatcctggc
+     2281 atggccagct gtccccaggg gaacccctcc ctcagcctcc ctcactcctg ggcagggaag
+     2341 tgctatagcc agctctgggg gcacgcctgc ttatcctgtg ggagtccatg gagccggggt
+     2401 ggggacagcc ctccacccag tgcccataca aggcctggcg gagttgggga ctaattttgg
+     2461 cttctgaggc ggcactagca gccagggggc cagataacgc tgccccctgc atgccaaagt
+     2521 ccccagaaca atcaccaggt ttcactttgt tcctcgttaa aaatagccca gtggccaccc
+     2581 tggtcaggtt accgtgggtg gcttgcctgc ctccacactg gttttattat cccaacttag
+     2641 ggacagctgt ccttccggcc cacccagctt gagtttcatc aggggccgaa agggcattga
+     2701 gtggtcactg actattgtta ctgagggtca ccttggtcct gaagggggtg cccacctgtc
+     2761 accctggccc tgagcccagt cgcagtgagg ccagctgggt cacgtcaggg ctttgggggc
+     2821 agggagggag gactgagacc tccactctgt ggcctggaaa tagccagcct cctccagctc
+     2881 cagccttctc acctgtggaa tgggttggtt cctacgcagc agctatacct gagtctgaga
+     2941 ccttgagatt ccctttcctt ctaggtagag cagctgacag aagagcagaa aaatggtgag
+     3001 aatccctatc acacatgtgg gagaccagcg ggtccaggct ggcatgggga ccccttatca
+     3061 gaagaggacc ccaggccaga gaccagaggc ttggtccctc ttgctctgcc ctcagagagg
+     3121 tctccgaggg aggtgggcag gttggcaggt ggccccaggg ttctggccct ccgtggtcct
+     3181 ggctgctgag ccctgactac cgtgcccccc aacccctgaa cacagagttc aaggcagcct
+     3241 tcgacatctt cgtgctgggc gctgaggatg gctgcatcag caccaaggag ctgggcaagg
+     3301 tgatgaggat gctgggccag aaccccaccc ctgaggagct gcaggagatg atcgatgagg
+     3361 tggacgagga cggtgagccc ccctcctccc caggctccag aagaacccca gctggctggg
+     3421 ggctggaatg ctggctctgt ttagctggga gcaatttagc ctatccgagc cttggttgcc
+     3481 tcatctataa aatgggcata agggctacac aagcctggcg tttggtgtga ggatgcggtg
+     3541 agaacatggg ggttcgtgtc gaaggtgctg cctgcagtac ctaccctggc ctctgtaacg
+     3601 gccatgctgc ccacccccag gcagcggcac ggtggacttt gatgagttcc tggtcatgat
+     3661 ggttcggtgc atgaaggacg acagcaaagg gaaatctgag gaggagctgt ctgacctctt
+     3721 ccgcatgttt gacaagtgag cacgtgaccc ttgacctctg accctgaccc acactcaagc
+     3781 cgagctgtac aggagggcag tctcagattc caggcctagg gaccctgtgg cctctgcctg
+     3841 ataggggaga gggatgcccc atctcccagt gtccctgctc tgcctcctgg ggcatgggtg
+     3901 gggctgcctc atgccctccc cacagcccta ccctgagccc cctccccaca gaaatgctga
+     3961 tggctacatc gacctggatg agctgaagat aatgctgcag gctacaggcg agaccatcac
+     4021 ggaggacgac atcgaggagc tcatgaagga cggagacaag aacaacgacg gccgcatcga
+     4081 ctatgatggt aagcgggtgg gtgggctgat ctcctgcctc catgccctgc ccagccccta
+     4141 ccctcaaccc acacctgccc ctctttccac agagttcctg gagttcatga agggtgtgga
+     4201 gtagatgctg accttcaccc agagctgcct atgcccagcc tccaactcca gctgagtcct
+     4261 ggggttgggg agggggtcgg ggtcccagga cctgagcctg gccatgtcct caaccccaaa
+     4321 tcccccgact ccctccccag atctgtcctg ggggatgcaa ataaagcctg ctctcccaag
+     4381 gtctgctatc tggctctggt gtccctgggc cgtggactca tccccaggac ccactcttac
+     4441 ccaatggccg cttccttccc tgtcctaggc aggctggctg cagagcctgg cgcctgacca
+     4501 ccgctccaca ctgccttctg caggggggtg agatgagatc ggagactgcc gtgtggcctg
+     4561 ccctgct
+//
+

@@ -1,0 +1,113 @@
+LOCUS       HUMGA733A               2259 bp    DNA     linear   PRI 08-NOV-1994
+DEFINITION  Human gastrointestinal tumor-associated antigen GA733-1 protein
+            gene, complete cds, clone 05516.
+ACCESSION   J04152
+VERSION     J04152.1
+KEYWORDS    GA733-1 gene; integral membrane glycoprotein.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2259)
+  AUTHORS   Linnenbach,A.J., Wojcierowski,J., Wu,S.A., Pyrc,J.J., Ross,A.H.,
+            Dietzschold,B., Speicher,D. and Koprowski,H.
+  TITLE     Sequence investigation of the major gastrointestinal
+            tumor-associated antigen gene family, GA733
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 86 (1), 27-31 (1989)
+   PUBMED   2911574
+COMMENT     Original source text: Homo sapiens (tissue library: of Maniatis)
+            foetus liver DNA.
+            Draft entry and computer-readable sequence for [1] kindly submitted
+            by A.J.Linnenbach, 03-FEB-1989.
+FEATURES             Location/Qualifiers
+     source          1..2259
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /map="Unassigned"
+                     /tissue_type="liver"
+                     /dev_stage="foetus"
+                     /tissue_lib="of Maniatis"
+     protein_bind    109..118
+                     /note="putative"
+                     /bound_moiety="Sp-1"
+     repeat_region   227..234
+                     /note="direct repeat 1 copy A"
+     mRNA            237..2029
+                     /product="GA733-1 protein mRNA"
+     gene            307..1278
+                     /gene="M1S1"
+     CDS             307..1278
+                     /gene="M1S1"
+                     /note="GA733-1 protein precursor"
+                     /codon_start=1
+                     /protein_id="AAA52505.1"
+                     /db_xref="GDB:G00-120-161"
+                     /translation="MARGPGLAPPPLRLPLLLLVLAAVTGHTAAQDNCTCPTNKMTVC
+                     SPDGPGGRCQCRALGSGMAVDCSTLTSKCLLLKARMSAPKNARTLVRPSEHALVDNDG
+                     LYDPDCDPEGRFKARQCNQTSVCWCVNSVGVRRTDKGDLSLRCDDLVRTHHILIDLRH
+                     RPTAGAFNHSDLDAELRRLFRERYRLHPKFVAAVHYEQPTIQIELRQNTSQKAAGEVD
+                     IGDAAYYFERDIKGESLFQGRGGLDLRVRGEPLQVERTLIYYLDEIPPKFSMKRLTAG
+                     LIAVIVVVVVALVAGMAVLVITNRRKSGKYKKVEIKELGELRKEPSL"
+     sig_peptide     307..384
+                     /gene="M1S1"
+                     /note="GA733-1 protein signal peptide (put.); putative"
+     mat_peptide     385..1275
+                     /gene="M1S1"
+                     /product="GA733-1 protein"
+     misc_feature    403..411
+                     /gene="M1S1"
+                     /note="N-linked glycosylation site"
+     misc_feature    664..672
+                     /gene="M1S1"
+                     /note="N-linked glycosylation site"
+     misc_feature    808..816
+                     /gene="M1S1"
+                     /note="N-linked glycosylation site"
+     misc_feature    928..936
+                     /gene="M1S1"
+                     /note="N-linked glycosylation site"
+     repeat_region   1327..1334
+                     /note="direct repeat 1 copy B"
+ORIGIN      221 bp upstream of PstI site.
+        1 gttctcccct tcccggcttt cggtccggag gaggcgggag cagcttccct gttctgatcc
+       61 tatcgcgggc ggcgcagggc cggcttggcc ttccgtggga cggggagggg ggcgggatgt
+      121 gtcacccaaa taccagtggg gacggtcggt ggtggaacca gccgggcagg tcgggtagag
+      181 tataagagcc ggagggagcg gccgggcggc agacgcctgc agaccatccc agacgccgga
+      241 gcccgagccc cgccgagtcc ccgcgcctca tccgcccgcg tccggtccgc gttcctccgc
+      301 cccaccatgg ctcggggccc cggcctcgcg ccgccaccgc tgcggctgcc gctgctgctg
+      361 ctggtgctgg cggcggtgac cggccacacg gccgcgcagg acaactgcac gtgtcccacc
+      421 aacaagatga ccgtgtgcag ccccgacggc cccggcggcc gctgccagtg ccgcgcgctg
+      481 ggctcgggca tggcggtcga ctgctccacg ctgacctcca agtgtctgct gctcaaggcg
+      541 cgcatgagcg cccccaagaa cgcccgcacg ctggtgcggc cgagtgagca cgcgctcgtg
+      601 gacaacgatg gcctctacga ccccgactgc gaccccgagg gccgcttcaa ggcgcgccag
+      661 tgcaaccaga cgtcggtgtg ctggtgcgtg aactcggtgg gcgtgcgccg cacggacaag
+      721 ggcgacctga gcctacgctg cgatgacctg gtgcgcaccc accacatcct cattgacctg
+      781 cgccaccgcc ccaccgccgg cgccttcaac cactcagacc tggacgccga gctgaggcgg
+      841 ctcttccgcg agcgctatcg gctgcacccc aagttcgtgg cggccgtgca ctacgagcag
+      901 cccaccatcc agatcgagct gcggcagaac acgtctcaga aggccgccgg tgaagtggat
+      961 atcggcgatg ccgcctacta cttcgagagg gacatcaagg gcgagtctct attccagggc
+     1021 cgcggcggcc tggacttgcg cgtgcgcgga gaacccctgc aggtggagcg cacgctcatc
+     1081 tattacctgg acgagattcc cccgaagttc tccatgaagc gcctcaccgc cggcctcatc
+     1141 gccgtcatcg tggtggtcgt ggtggccctc gtcgccggca tggccgtcct ggtgatcacc
+     1201 aaccggagaa agtcggggaa gtacaagaag gtggagatca aggaactggg ggagttgaga
+     1261 aaggaaccga gcttgtaggt acccggcggg gcaggggatg gggtggggta ccggatttcg
+     1321 gtatcgtccc agacccaagt gagtcacgct tcctgattcc tcggcgcaaa ggagacgttt
+     1381 atcctttcaa attcctgcct tccccctccc ttttgcgcac acaccaggtt taatagatcc
+     1441 tggcctcagg gtctcctttc tttctcactt ctgtcttgaa ggaagcattt ctaaaatgta
+     1501 tcccctttcg gtccaacaac aggaaacctg actggggcag tgaaggaagg gatggcacag
+     1561 cgttatgtgt aaaaaacaag tatctgtatg acaacccggg atcgtttgca agtaactgaa
+     1621 tccattgcga cattgtgaag gcttaaatga gtttagatgg gaaatagcgt tgttatcgcc
+     1681 ttgggtttaa attatttgat gagttccact tgtatcatgg cctacccgag gagaagagga
+     1741 gtttgttaac tgggcctatg tagtagcctc atttaccatc gtttgtatta ctgaccacat
+     1801 atgcttgtca ctgggaaaga agcctgtttc agctgcctga acgcagtttg gatgtctttg
+     1861 aggacagaca ttgcccggaa actcagtcta tttattcttc agcttgccct tactaccact
+     1921 gatattggta atgttctttt ttgtaaaatg tttgtacata tgttgtcttt gataatgttg
+     1981 ctgtaatttt ttaaaataaa acacgaattt aataaaatat gggaaaggca caaaccagaa
+     2041 gttggcattt gtgaaaagtc cctccagatt tctatcactt tggtctctaa tttcccaaga
+     2101 cttgtatttt ttttttattt caaattataa cacttttttt tcccccagaa gtgggtgttt
+     2161 catgttgcta ctctggtgtg tcccaagata tcctaactgg ccagtgtaaa tgctattctt
+     2221 tctaaataag attatttgga aacttccttc aaactgcag
+//
+

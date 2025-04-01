@@ -1,0 +1,199 @@
+LOCUS       Z14977                  5833 bp    DNA     linear   PRI 23-OCT-2008
+DEFINITION  H.sapiens gene for major histocompatibility complex encoded
+            proteasome subunit LMP2.
+ACCESSION   Z14977 S47822 S47823 S47869 S47870 S47871
+VERSION     Z14977.1
+KEYWORDS    major histocompatibility complex; proteasome subunit.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 5833)
+  AUTHORS   Fruh,K., Yang,Y., Arnold,D., Chambers,J., Wu,L., Waters,J.B.,
+            Spies,T. and Peterson,P.A.
+  TITLE     Alternative exon usage and processing of the major
+            histocompatibility complex-encoded proteasome subunits
+  JOURNAL   J. Biol. Chem. 267 (31), 22131-22140 (1992)
+   PUBMED   1429565
+REFERENCE   2  (bases 1 to 5833)
+  AUTHORS   Fruh,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-AUG-1992) Fruh K., Scripps Research Institute,
+            Immunology, 10666 North Torrey Pines Road, La Jolla, California,
+            USA, 92037
+COMMENT     On or before Sep 28, 2004 this sequence version replaced S47822.1,
+            S47823.1, S47869.1, S47870.1, S47871.1.
+FEATURES             Location/Qualifiers
+     source          1..5833
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="6"
+                     /clone="U15"
+                     /haplotype="HLA DR 7"
+                     /cell_line="MANN"
+     gene            465..5833
+                     /gene="MHC-encoded proteasome subunit gene"
+     mRNA            join(465..570,2424..2491,3547..3678,4289..4418,4648..4789,
+                     5688..5833)
+                     /gene="MHC-encoded proteasome subunit gene"
+     prim_transcript 465..5833
+                     /gene="MHC-encoded proteasome subunit gene"
+     exon            465..570
+                     /gene="MHC-encoded proteasome subunit gene"
+                     /number=1
+     CDS             join(511..570,2424..2491,3547..3678,4289..4418,4648..4789,
+                     5688..5815)
+                     /gene="MHC-encoded proteasome subunit gene"
+                     /codon_start=1
+                     /protein_id="CAA78700.1"
+                     /db_xref="GDB:129006"
+                     /db_xref="GOA:P28065"
+                     /db_xref="HGNC:HGNC:9546"
+                     /db_xref="InterPro:IPR000243"
+                     /db_xref="InterPro:IPR001353"
+                     /db_xref="InterPro:IPR016050"
+                     /db_xref="UniProtKB/Swiss-Prot:P28065"
+                     /translation="MLRAGAPTGDLPRAGEVHTGTTIMAVEFDGGVVMGSDSRVSAGE
+                     AVVNRVFDKLSPLHERIYCALSGSAADAQAVADMAAYQLELHGIELEEPPLVLAAANV
+                     VRNISYKYREDLSAHLMVAGWDQREGGQVYGTLGGMLTRQPFAIGGSGSTFIYGYVDA
+                     AYKPGMSPEECRRFTTDAIALAMSRDGSSGGVIYLVTITAAGVDHRVILGNELPKFYD
+                     E"
+     intron          571..2423
+                     /gene="MHC-encoded proteasome subunit gene"
+                     /number=1
+     exon            2424..2491
+                     /gene="MHC-encoded proteasome subunit gene"
+                     /number=2
+     intron          2492..3546
+                     /gene="MHC-encoded proteasome subunit gene"
+                     /number=2
+     repeat_region   3208..3505
+                     /gene="MHC-encoded proteasome subunit gene"
+                     /rpt_family="ALU"
+     exon            3547..3678
+                     /gene="MHC-encoded proteasome subunit gene"
+                     /number=3
+     intron          3679..4288
+                     /gene="MHC-encoded proteasome subunit gene"
+                     /number=3
+     exon            4289..4418
+                     /gene="MHC-encoded proteasome subunit gene"
+                     /number=4
+     intron          4419..4647
+                     /gene="MHC-encoded proteasome subunit gene"
+                     /number=4
+     exon            4648..4789
+                     /gene="MHC-encoded proteasome subunit gene"
+                     /number=5
+     intron          4790..5687
+                     /gene="MHC-encoded proteasome subunit gene"
+                     /number=5
+     repeat_region   5076..5354
+                     /gene="MHC-encoded proteasome subunit gene"
+                     /rpt_family="ALU"
+     exon            5688..5833
+                     /gene="MHC-encoded proteasome subunit gene"
+                     /number=6
+ORIGIN      
+        1 gtcctcccct actggcggct gggggaggga acgagggcgg ggctctcgga aagtcccagg
+       61 aacaggctga tcctgcgctg gcgagaagct cagccattta ggggaaagcg aaatcgaaag
+      121 cggccgctac tcactagata acgcctactt ccaaaagtgg cctgcccaga ctattttggt
+      181 agcaagcgtg gaaatcagat ctgagaatct cgggagcagc cctggtgccc aattttctcc
+      241 atcacgcaca cccttctcgc ctctccctgc ctcctgcctt tccacttgca ccagttttcc
+      301 caccccagcc tcagggcggg gctgcctcgt cacttgtctc ggggcagatc tgccctacac
+      361 acgttagcgc cgcgcgcaaa gcagccccgc agcacccagg cgcctcctgg cggcgccgcg
+      421 aaggggcggg gctgtcggct gcgcgttgtg cgctgtccca ggttggaaac cagtgcccca
+      481 ggcggcgaag gagagcggtg ccttgcaggg atgctgcggg cgggagcacc aaccggggac
+      541 ttaccccggg cgggagaagt ccacaccggg gttaatgggt ctgggcttga gggttggcag
+      601 aggggtggag gagatgcagc ggccagggga ccctggaagc gcgcgcggag aagtgaatgc
+      661 agagaccaac gggagcgcag ggaggtcgcc tgtagcagcc agcgcttgca acccgcaatg
+      721 agcatagagt atttcttttc tgaggggggt cgtctagagt gtccgtgaag ggaacaggca
+      781 cgcgaggctg gtggaaaaag cgggtgcttt gactcttagc tggaagcgtc aacgggaagc
+      841 tactctaaag cgctttcgct ttcactctgg tcccggacag tgggggctgg ttaaatcaag
+      901 aaagggggtt ggggatggtg caaagagatg aggaaatggt gccctgggtg aagtagaaca
+      961 gcacttggga gaaggaaata taggcactta ttgagaagga ccaactcatc acacagactt
+     1021 ttgataaact tgccactggg caactcttag cccaagcact gataatgggc gttctgtgtt
+     1081 aactagtgat gcccttccct agcttgaccc aggaaggtct ctccttggcc cagatgctgc
+     1141 cttactccct tccctgtgtc ttccctgccc actcccatgt gcccactggg ggggactttg
+     1201 cttaggatgg gcgcctggtg cagatggcag ccccaagact ggctggctgg cttctgctct
+     1261 ggactactgc caccactcgt ggcttggggg cggctttgtt agagaggaat agcctctaac
+     1321 ttgaagttaa ccctgttctt tgaccctcta ttcatgataa gtcggtccgt cggaaagcat
+     1381 actcagagga gcgtcctttg gggccagagt aacttacggc ctggtaagaa agacacagtg
+     1441 aaaccactta taatttggga aatctcccct cactgccaaa tgagcagtgg caagtaggaa
+     1501 gtagaagtgg aaacaaggga taagagttag acctgaattt tagtcccagg tctactatta
+     1561 actctgtgtg actttgcata agtcgtttgc attttctgtg acttggtttc ctcatttgaa
+     1621 ccgaggatct ttaaggctcc ttccaactca atagtagaat aaatgtagct ttatcttccc
+     1681 tcacttcttc ttgattcttt tcttgacctg gaaaagtcag cttaaacttc tcagtcaaat
+     1741 tatctcttgg tacaaattta cctccctggg tgctgagata tgtatttacc tcttgatcgg
+     1801 aaattccata actgaaactt ttattttcac ccatctgtat gtgttccttg ctgcttctct
+     1861 cctgccttgc ccctggacat gctaaccact gccctcctcg attttttcca atgtacagta
+     1921 aattggaaga gctcacttct gatgaaatgg ggggtgagag tggaggattg tgggaccaaa
+     1981 aaaaaaaaaa tagactgacc ttgtttccca agatcatagt caattactct gtgttgggtc
+     2041 tacaccacat ctgcacatac tatgagccct tccgttggag ataattttca cttgcggagc
+     2101 tgcttcactt ctacctgtag gagcctcatc tccacctctc tacagtggag aggattccac
+     2161 taggcaagtt ggaacttagg gacacagttc tttctgtgtt gtatcacagc tgggctgtgg
+     2221 cattcccctg cagccggatg aagcaataga gaaagtggaa agatgaaggg aaaaaaagcc
+     2281 tgtactgaca gtcagctctg gcctgttact gtgtaatctt tgagccagtc acttcgcctc
+     2341 tctgggaatg tttcttcttc tctaacatga gggcatcaag gctgttcttg ccctgacatt
+     2401 ccatattgct gtgtgctctg cagaccacca tcatggcagt ggagtttgac gggggcgttg
+     2461 tgatgggttc tgattcccga gtgtctgcag ggtgagtaaa agtgaagatg tatgcatttg
+     2521 gaaagaagct aatggcctca aatacacact ttccttaccc attcatgaaa agactggcaa
+     2581 actggagcct tggaggaatg gagttgacct tccccaaaag ccactatgat aagctatttg
+     2641 gtgggtgctt gggtctctga atttgtggag gaggatctgg ggtctgaatg tgtatgtgac
+     2701 ctgtcccagt agtgtacagg gatgagtaaa ggaatagggt ctgagagggg gacaggagat
+     2761 agatttttga gggtcttctt tccatctgtg cttagggatc aaaaagatga ttctgtcaag
+     2821 cagatacctg gtttctcatt taccatatat tgaactattt tggctcttct cccactccta
+     2881 accaatttcc tcacatgcaa aatgagtata tggggttagg tcaatattac tgacattatg
+     2941 ttccatagaa cataactctc tcaagattgt taatagcaaa gaaaattgat gaggcatatt
+     3001 tttcttacct tagcattttt tgctttgtta taaaatctaa gcctgaaaaa taagcctaat
+     3061 tttgattaac atctgcagtg attaataata tctgagatga ttatttgcct cctgctttaa
+     3121 tccaagcatt aaacttcatg ctattctctt gtcaaagaaa tttgagagac attgaatgat
+     3181 caccctcaaa aattcctgag ttctggttgg gtgcagtggc tcacatctat aatctcagca
+     3241 ctttgggatg ccgaggtggg cagatattta aggtcaggag tttgagacca gcctggccaa
+     3301 catgttggga ccttgtctct actgaaaata caaacattag ctgggcttgg tggtgggtgc
+     3361 ctgtaatccc agctattcgg gaggctgagg caggagaatc acttgaacca gggaggcgaa
+     3421 gtttgcagtg agcccaagat tgatccactg cactccagcc tgggtgacag agtgagactg
+     3481 tctcaaaaaa aaaaaaaaaa aaaaacctga gttttaactt ggtgactgtt gactccctcc
+     3541 tgacagcgag gcggtggtga accgagtgtt tgacaagctg tccccgctgc acgagcgcat
+     3601 ctactgtgca ctctctggtt cagctgctga tgcccaagcc gtggccgaca tggccgccta
+     3661 ccagctggag ctccatgggt atgaagctct ggagttctga ctccccaccc actagagctc
+     3721 ccccaacctg catgaatccc tgtacagtgt gctgttccag gagctggaca ctgggaaatg
+     3781 gaaaagtctt gtttcggctc ttgctggcac ttgaatctgt cagtttctgc atctgtaaag
+     3841 tggagataat atagtacctc atgagacggt tattttgaga accacattct atatgtgaac
+     3901 acagtttaaa agctgtaaat cactatcctg atataaataa tcaggaagaa ggtgatattg
+     3961 tgacccacca taatatcagg cagttaccat acgagaaatc aaggtcgttg ggacggaagt
+     4021 aaccttatct gcttttcccc ataagagcag ggtccttgca gccacaagaa agttatgtgg
+     4081 gtggggctga ccaaaagagt gagcaattga aagcttctta ccagttggtg gtgtgggact
+     4141 ctggttcccc tgtacatgtg ggagggaggc tgcagtttga gctattgcag ttacagtttt
+     4201 caggggtcgt ttagcaggga tgatggtaac agtataggag aatgagactt aaaattctat
+     4261 caacctttat tcctaatatt tccctcagga tagaactgga ggaacctcca cttgttttgg
+     4321 ctgctgcaaa tgtggtgaga aatatcagct ataaatatcg agaggacttg tctgcacatc
+     4381 tcatggtagc tggctgggac caacgtgaag gaggtcaggt gagtttctcc caaagcactc
+     4441 tctcctctgg gcttccccac tctcctgcag aggaagatgg aagtcctatg tcattctagc
+     4501 aatgagttcc aaggacacta cctctgaaag catagtactt tggggatatg agataccagg
+     4561 gcttcattgc agggtgcaga gaccacttaa tgtctcagtg ggaaggaagg gcttgatgat
+     4621 tctttaacct gaggatccct ttcccaggta tatggaaccc tgggaggaat gctgactcga
+     4681 cagccttttg ccattggtgg ctccggcagc acctttatct atggttatgt ggatgcagca
+     4741 tataagccag gcatgtctcc cgaggagtgc aggcgcttca ccacagacgg taaccagcca
+     4801 agtggaaggg tacctgggga gggctttgaa acatgggaag gaagtagatt atgaggaaca
+     4861 ggaagagaaa tacaggggtg gccatttaag ttaatgccgg gcctggtaca cttttaagag
+     4921 tgaaaagggg caggacaaat gcaaagctca atggggttct tgggcaatac ggataaccca
+     4981 gggctgttct gagtaaatca aatgaggata cacagtcact gtgagaccca gtggtgtgct
+     5041 aagcacagtg gctcacacct gtaatgccaa caatttggga ggctgaggca ggaggattac
+     5101 ttgaccccag gagtttgagg ccagcctagg caagatggtg aaaccctgtc tccacaaaaa
+     5161 aacaataaaa aaaagtaaaa aaaaaattga cctgggcatg gtggtgaaca cctgtggtcc
+     5221 cagttactca ggaggttgag gtggaaagat catctgagcc ggggagatca aggttgtagt
+     5281 gagcggtgat tgaaccactg cgctgcagcc taggtgacag agagagaccc tgtctggaga
+     5341 aaaaaaaaaa aaaagaacca gtggtgtgct gaggtgtact gaggctggct tgggaccact
+     5401 catgagagcg gactgttaaa tagtccagga tttgtgaact gcttagctat ttgtaacttg
+     5461 caattcatca tagcgggagc atttacacca cggacatcag cagatgccac atatggaagc
+     5521 ctttttgtaa aaaaactgat ttaccagcac accactaaat atgccttcct ggaagatgag
+     5581 ttttgaggtg aaagtggtag taggcatatg gatggagggg gagtaaaaag atttttgaag
+     5641 ctaagccatc ctctctctcc ctctctccaa cttgaaaccc tctgcagcta ttgctctggc
+     5701 catgagccgg gatggctcaa gcgggggtgt catctacctg gtcactatta cagctgccgg
+     5761 tgtggaccat cgagtcatct tgggcaatga actgccaaaa ttctatgatg agtgaacctt
+     5821 ccccagactt ctc
+//
+

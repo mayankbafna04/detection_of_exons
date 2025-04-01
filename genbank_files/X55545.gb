@@ -1,0 +1,69 @@
+LOCUS       X55545                  1266 bp    mRNA    linear   PRI 07-OCT-2008
+DEFINITION  Homo sapiens mRNA for CREB protein.
+ACCESSION   X55545
+VERSION     X55545.1
+KEYWORDS    CREB protein; CREB1 gene; nuclear protein.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1266)
+  AUTHORS   Yoshimura,T., Fujisawa,J. and Yoshida,M.
+  TITLE     Multiple cDNA clones encoding nuclear proteins that bind to the
+            tax-dependent enhancer of HTLV-1: all contain a leucine zipper
+            structure and basic amino acid domain
+  JOURNAL   EMBO J. 9 (8), 2537-2542 (1990)
+   PUBMED   2196176
+FEATURES             Location/Qualifiers
+     source          1..1266
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+     gene            1..1266
+                     /gene="CREB1"
+     CDS             144..1169
+                     /gene="CREB1"
+                     /codon_start=1
+                     /product="CREB protein"
+                     /protein_id="CAA39151.1"
+                     /db_xref="GDB:119803"
+                     /db_xref="GOA:P16220"
+                     /db_xref="HGNC:HGNC:2345"
+                     /db_xref="InterPro:IPR001630"
+                     /db_xref="InterPro:IPR003102"
+                     /db_xref="InterPro:IPR004827"
+                     /db_xref="InterPro:IPR011616"
+                     /db_xref="UniProtKB/Swiss-Prot:P16220"
+                     /translation="MTMESGAENQQSGDAAVTEAENQQMTVQAQPQIATLAQVSMPAA
+                     HATSSAPTVTLVQLPNGQTVQVHGVIQAAQPSVIQSPQVQTVQSSCKDLKRLFSGTQI
+                     STIAESEDSQESVDSVTDSQKRREILSRRPSYRKILNDLSSDAPGVPRIEEEKSEEET
+                     SAPAITTVTVPTPIYQTSSGQYIAITQGGAIQLANNGTDGVQGLQTLTMTNAAATQPG
+                     TTILQYAQTTDGQQILVPSNQVVVQAASGDVQTYQIRTAPTSTIAPGVVMASSPALPT
+                     QPAEEAARKREVRLMKNREAARECRRKKKEYVKCLENRVAVLENQNKTLIEELKALKD
+                     LYCHKSD"
+ORIGIN      
+        1 ggaattccgc ggagtgttgg tgagtgacgc ggcggaggtg tagtttgacg cggtgtgtta
+       61 cgtgggggag agaataaaac tccagcgaga tccgggccgt gaacgaaagc agtgacggag
+      121 gagcttgtac caccggtaac taaatgacca tggaatctgg agccgagaac cagcagagtg
+      181 gagatgcagc tgtaacagaa gctgaaaacc aacaaatgac agttcaagcc cagccacaga
+      241 ttgccacatt agcccaggta tctatgccag cagctcatgc aacatcatct gctcccaccg
+      301 taactctagt acagctgccc aatgggcaga cagttcaagt ccatggagtc attcaggcgg
+      361 cccagccatc agttattcag tctccacaag tccaaacagt tcagtcttcc tgtaaggact
+      421 taaaaagact tttctccgga acacagattt caactattgc agaaagtgaa gattcacagg
+      481 agtcagtgga tagtgtaact gattcccaaa agcgaaggga aattctttca aggaggcctt
+      541 cctacaggaa aattttgaat gacttatctt ctgatgcacc aggagtgcca aggattgaag
+      601 aagagaagtc tgaagaggag acttcagcac ctgccatcac cactgtaacg gtgccaactc
+      661 caatttacca aactagcagt ggacagtata ttgccattac ccagggagga gcaatacagc
+      721 tggctaacaa tggtaccgat ggggtacagg gcctgcaaac attaaccatg accaatgcag
+      781 cagccactca gccgggtact accattctac agtatgcaca gaccactgat ggacagcaga
+      841 tcttagtgcc cagcaaccaa gttgttgttc aagctgcctc tggagacgta caaacatacc
+      901 agattcgcac agcacccact agcactattg cccctggagt tgttatggca tcctccccag
+      961 cacttcctac acagcctgct gaagaagcag cacgaaagag agaggtccgt ctaatgaaga
+     1021 acagggaagc agctcgagag tgtcgtagaa agaagaaaga atatgtgaaa tgtttagaaa
+     1081 acagagtggc agtgcttgaa aatcaaaaca agacattgat tgaggagcta aaagcactta
+     1141 aggaccttta ctgccacaaa tcagattaat ttgggattaa tttatttacc aaactagcag
+     1201 tggacagtat attgccatta cccagggagg agcaatacag ctggagtcag tggatagtgt
+     1261 aactga
+//
+

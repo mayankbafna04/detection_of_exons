@@ -1,0 +1,81 @@
+LOCUS       HUMEVI22                1798 bp    DNA     linear   PRI 08-NOV-1994
+DEFINITION  Human EV12 protein gene, exon 1.
+ACCESSION   M55267
+VERSION     M55267.1
+KEYWORDS    EVI2 protein.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1798)
+  AUTHORS   Cawthon,R.M., O'Connell,P., Buchberg,A.M., Viskochil,D.,
+            Weiss,R.B., Culver,M., Stevens,J., Jenkins,N.A., Copeland,N.G. and
+            White,R.
+  TITLE     Identification and characterization of transcripts from the
+            neurofibromatosis 1 region: the sequence and genomic structure of
+            EVI2 and mapping of other transcripts
+  JOURNAL   Genomics 7 (4), 555-565 (1990)
+   PUBMED   2117566
+COMMENT     [WARNING] On Aug 1, 2016 this sequence was replaced by AH002689.2.
+            Original source text: Human lymphoblastoid cell DNA, and cDNA to
+            mRNA.
+FEATURES             Location/Qualifiers
+     source          1..1798
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /map="17q11.2"
+                     /cell_type="lymphoblast"
+     CDS             220..918
+                     /gene="EVI2A"
+                     /number=1
+                     /codon_start=1
+                     /product="EVI2 protein"
+                     /protein_id="AAA52413.1"
+                     /db_xref="GDB:G00-125-191"
+                     /translation="MEHTGHYLHLAFLMTTVFSLSPGTKANYTRLWANSTSSWDSVIQ
+                     NKTGRNQNENINTNPITPEVDYKGNSTNMPETSHIVALTSKSEQELYIPSVVSNSPST
+                     VQSIENTSKSHGEIFKKDVCAENNNNMAMLICLIIIAVLFLICTFLFLSTVVLANKVS
+                     SLRRSKQVGKRQPRSNGDFLASGLWPAESDTWKRTKQLTGPNLVMQSTGVLTATRERK
+                     DEEGTEKLTNKQIG"
+     sig_peptide     220..297
+                     /gene="EVI2A"
+                     /note="G00-125-191"
+     mat_peptide     298..915
+                     /gene="EVI2A"
+                     /product="EVI2 protein"
+                     /note="G00-125-191"
+ORIGIN      
+        1 taatagaaat taaaatgctt cttcatacat agctgaatag aaaagaattt gttgagaagg
+       61 aattcagggt agcgaatatt aggcataagc ttgtagttta cttgtaacat ctcaacacta
+      121 tcttttaact acaattacca aaaactagga tccattattc tttcacaaac taacaaatta
+      181 tattgctatc ccaacagatt gccaagtatg cccacggaca tggaacacac aggacattac
+      241 ctacatcttg cctttctgat gacaacagtt ttttctttgt ctcctggaac aaaagcaaac
+      301 tatacccgtc tgtgggctaa cagtacttct tcctgggatt cagttattca aaacaagaca
+      361 ggcagaaacc aaaatgaaaa cattaacaca aaccctataa ctcctgaagt agattataaa
+      421 ggtaattcta caaacatgcc tgaaacatct cacatcgtag ctttaacttc taaatctgaa
+      481 caggagcttt atataccttc tgtcgtcagc aacagtcctt caacagtaca gagcattgaa
+      541 aacacaagca aaagtcatgg tgaaattttc aaaaaggatg tctgtgcgga aaacaacaac
+      601 aacatggcta tgctaatttg cttaattata attgcagtgc tttttcttat ctgtaccttt
+      661 ctatttctat caactgtggt tttggcaaac aaagtctctt ctctcagacg atcaaaacaa
+      721 gtaggcaagc gtcagcctag aagcaatggc gattttctgg caagcggtct atggcccgct
+      781 gaatcagaca cttggaaaag aacaaaacag ctcacaggac ccaacctagt gatgcaatct
+      841 actggagtgc tcacagctac aagggaaaga aaagatgaag aaggaactga aaaacttact
+      901 aacaaacaga taggttagtg aagaaaaatg caaagtagca atgagaaggc ttatggagta
+      961 aaaatgaagt cagttggtat ttaatcccaa agtgttgttc tgattatcta aaatttgaca
+     1021 tggtagacct tgcaatttag aatcaagcag gtgagacagg gagaagtatg cctgcttaat
+     1081 tatttaaact gtgtactttt gttttgacac tgaatatttt aaaaagcaaa taataaaata
+     1141 actaagcatt tgaggaaaat tttaaggata aattgaggaa actgattaat agagatagca
+     1201 agggataatt aaataaatat tccctatgta gcaacagtgg ttagatgatc tttgtctgaa
+     1261 tgtaataaaa ctttgaatag ttttagtgtg tccttaaagc caagtatatg ctttaacatc
+     1321 aaatggaagt caaattccta atgcatagat agagagagct aaactgtgta atttaatggt
+     1381 atcttccttg ctggatgtgg cagaatccac accagcttat caaccaacac agctaatttt
+     1441 agaataggtc ctttatcttt ccatatggca cacgtaagaa agtgtttttc tactattaat
+     1501 attaaattaa aacctttact tttgtataat aaattaaaac tcagaataaa cctgtgacca
+     1561 cgtatatttg cattcacttt attactttag agaacacatt gtaaagatca ataagaaata
+     1621 gagcacaact aaaataaata agatttatag ccacaccaat aggctagtgt aaacgaaagt
+     1681 atgtttcact gtttatgatt aataatattc atcttttcta taaatactac ttactggaac
+     1741 attaacaaca agtccaaagg ttgattaatt ttgactcagg agcagagcta tgattata
+//
+

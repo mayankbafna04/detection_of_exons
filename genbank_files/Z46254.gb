@@ -1,0 +1,95 @@
+LOCUS       HSENAGENO               2177 bp    DNA     linear   PRI 23-OCT-1994
+DEFINITION  H.sapiens gene for neutrophil-activating peptide 78 (ENA-78).
+ACCESSION   Z46254
+VERSION     Z46254.0
+KEYWORDS    ENA-78 gene.
+SOURCE      Unknown.
+  ORGANISM  Unknown.
+            Unclassified.
+REFERENCE   1  (bases 1 to 2177)
+  AUTHORS   Walz,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-OCT-1994) to the EMBL/GenBank/DDBJ databases. Walz
+            A., University of Bern, Theodor Kocher Institute, Freiestr. 1,
+            Bern, Switzerand 3012
+COMMENT     [WARNING] On Feb 26, 2002 this sequence was replaced by L37036.1.
+FEATURES             Location/Qualifiers
+     source          1..2177
+                     /organism="unknown"
+                     /mol_type="unassigned DNA"
+     source          1..2177
+                     /clone="4H2"
+                     /organism="Homo sapiens"
+     regulatory      539..547
+                     /regulatory_class="CAAT_signal"
+     misc_feature    616..624
+                     /note="kB module"
+     regulatory      675..681
+                     /regulatory_class="TATA_box"
+     gene            join(803..911,1046..1178,1289..1372,1729..1747)
+                     /gene="ENA-78"
+     CDS             join(803..911,1046..1178,1289..1372,1729..1747)
+                     /gene="ENA-78"
+                     /codon_start=1
+                     /product="neutrophil-activating peptide 78 (ENA-78)"
+                     /translation="MSLLSSRAARVPGPSSSLCALLVLLLLLTQPGPIASAGPAAAVL
+                     RELRCVCLQTTQGVHPKMISNLQVFAIGPQCSKVEVVASLKNGKEICLDPEAPFLKKV
+                     IQKILDGGNKEN"
+     exon            803..911
+                     /gene="ENA-78"
+                     /number=1
+     intron          912..1045
+                     /number=1
+     exon            1046..1178
+                     /gene="ENA-78"
+                     /number=2
+     intron          1179..1288
+                     /number=2
+     exon            1289..1372
+                     /gene="ENA-78"
+                     /number=3
+     intron          1373..1728
+                     /number=3
+     exon            1729..1747
+                     /gene="ENA-78"
+                     /number=4
+ORIGIN      
+        1 gaattctcag taagcggact taccaaagta ggtgatctgt aggggagtta acaaaattca
+       61 gtggtccttt caggccactg acttcaagtg gcaagagaca agggtctctt gttatcatgt
+      121 tatcttggct tccaaagctg gttgaagtcc agagattcat aaagtcattc aagaaaccta
+      181 gaatgacctg cctgcaagaa gacaggaagg actttcagtt tatagcaatt caaacatgaa
+      241 taacatttcc tgattaatag taataataat tagaaaggat tgactttcag aaatttttct
+      301 caaatcaagg ctcctgttac tttggttcca ccttttctct ctagaaggag aggaggagca
+      361 tctcccagat gctgcgtgct ccagaaaagc cggcatccct agcccgctct ggcacaggcc
+      421 atgaggcgct gctgaatcct gctgaatagc tactcccttc tagctggagc cacagctccc
+      481 tccaccgcgg aacagggtta caacgtccct ctcggtagag gtgcacgcag ctcctcctgg
+      541 ccaccctccc caccagttcc cattgtctgg cccccctccc ccaacctctt ctttccacac
+      601 tgccccatga gttcagggaa tttccccagc atcccaaagc ttgagtttcc tgtcagtggg
+      661 gagagatgag tgtagataaa aggagtgcag aaggaacgag gaagccacag tgctccggat
+      721 cctccaatct tcgctcctcc aatctccgct cctccaccca gttcaggaac ccgcgaccgc
+      781 tcgcagcgct ctcttgacca ctatgagcct cctgtccagc cgcgcggccc gtgtccccgg
+      841 tccttcgagc tccttgtgcg cgctgttggt gctgctgctg ctgctgacgc agccagggcc
+      901 catcgccagc ggtgagagcg catggcgcgc gggacgcact cgcactcggg cacagaggtg
+      961 catcccagcc tctgcggggt cgctgcgttc cagggaactc tcccagcaac ctgccctata
+     1021 aagggtgtct ctctttcttc cccagctggt cctgccgctg ctgtgttgag agagctgcgt
+     1081 tgcgtttgtt tacagaccac gcaaggagtt catcccaaaa tgatcagtaa tctgcaagtg
+     1141 ttcgccatag gcccacagtg ctccaaggtg gaagtggtgt aagttctgtg ctgctgtgtc
+     1201 cgctgtgacc ttggcaagag agaaatcccg cagcctgggt cttcaacctt ggtatctcat
+     1261 gagtgtatct tctttttctt tccttcagag cctccctgaa gaacgggaag gaaatttgtc
+     1321 ttgatccaga agcccctttt ctaaagaaag tcatccagaa aattttggac gggtacttgt
+     1381 cactttgatc tttgtggttt ctaaatctga tctagggaga ccatagactt cacaaggtct
+     1441 ttattctctg tacgatttaa gtaacacttt tcatgtttag aattaaaagg ttgttgaatt
+     1501 gggaaagttt ttctggattg tcctgggaaa atataccaat cttacatgta attacttgag
+     1561 caattacaca cagcttgtca ctaagttatg ttttttgttt acccattgct tttattgatt
+     1621 tttgtattct ccttttttac caaacatcat aaacgctgag ttttgacaag ggtggagtag
+     1681 aaaggagtgt gaaaaatggt taaactaata taacattttt ctcaacagtg gaaacaagga
+     1741 aaactgatta agagaaatga gcacgcatgg aaaagtttcc cagtcttcag cagagaagtt
+     1801 ttctggaggt ctctgaaccc agggaagaca agaaggaaag attttgttgt tgtttgttta
+     1861 tttgtttttc cagtagttag ctttcttcct ggattcctca ctttgaagag tgtgaggaaa
+     1921 acctatgttt gccgcttaag ctttcagctc agctaatgaa gtgtttagca tagtacctct
+     1981 gctatttgct gttattttat ctgctatgct attgaagttt tggcaattga ctatagtgtg
+     2041 agccaggaat cactggctgt taatctttca aagtgtcttg aattgtaggt gactattata
+     2101 tttccaagaa atattcctta agatattaac tgagaaggct gtggatttaa tgtggaaatg
+     2161 atgtttcata agaattc
+//
+

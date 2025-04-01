@@ -1,0 +1,66 @@
+LOCUS       HUMA2CIIA               1382 bp    DNA     linear   PRI 16-FEB-2008
+DEFINITION  Homo sapiens alpha2CII-adrenergic receptor gene, complete cds.
+ACCESSION   D13538
+VERSION     D13538.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1382)
+  AUTHORS   Yano,K., Takeda,M., Sugimoto,E. and Sagai,H.
+  TITLE     Molecular cloning and expression of a novel human
+            alpha2C-adrenerginc receptor, alpha2CII, gene
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1382)
+  AUTHORS   Yano,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-OCT-1992) Contact:Kazuo Yano Asahi Chemical Ind.
+            Co.,Ltd., Institute for Life Science Research; 632-1 Mifuku,
+            Ohito-cho, Tagata-gun, Shizuoka 410-23, Japan
+FEATURES             Location/Qualifiers
+     source          1..1382
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+     CDS             3..1379
+                     /codon_start=1
+                     /product="alpha2CII-adrenergic receptor"
+                     /protein_id="BAA02737.1"
+                     /translation="MASPALAAALAVAAAAGPNASGAGERGSGGVANASGASWGPPRG
+                     QYSAGAVAGLAAVVGFLIVFTVVGNVLVVIAVLTSRALRAPQNLFLVSLASADILVAT
+                     LVMPFSLANELMAYWYFGQVWCGVYLALDVLFCTSSIVHLCAISLDRYWSVTQAVEYN
+                     LKRTPRRVKATIVAVWLISAVISFPPLVSLYRQPDGAAYPQCGLNDETWYILSSCIGS
+                     FFAPCLIMGLVYARIYRVAKLRTRTLSEKRAPVGPDGASPTTENGLGAAAGAGENGHC
+                     APPPADVEPDESSAAAERRRRRGALRRGGRRRAGAEGGAGGADGQGAAESGALTASRS
+                     PGPGGRLSRASSRSVEFFLSRRRRARSSVCRRKVAQAREKRFTFVLAVVMGVFVLCWF
+                     PFFFSYSLYGICREACQVPGPLFKFFFWIGYCNSSLNPVIYTVFNQDFRRSFKHILFR
+                     RRRRGFRQ"
+ORIGIN      
+        1 ccatggcgtc cccggcgctg gcggcggcgc tggcggtggc ggcagcggcg ggccccaatg
+       61 cgagcggcgc gggcgagagg ggcagcggcg gggttgccaa tgcctcgggg gcttcctggg
+      121 ggccgccgcg cggccagtac tcggcgggcg cggtggcagg gctggctgcc gtggtgggct
+      181 tcctcatcgt cttcaccgtg gtgggcaacg tgctggtggt gatcgccgtg ctgaccagcc
+      241 gggcgctgcg cgcgccacag aacctcttcc tggtgtcgct ggcctcggcc gacatcctgg
+      301 tggccacgct ggtcatgccc ttctcgttgg ccaacgagct catggcctac tggtacttcg
+      361 ggcaggtgtg gtgcggcgtg tacctggcgc tcgatgtgct gttttgcacc tcgtcgatcg
+      421 tgcatctgtg tgccatcagc ctggaccgct actggtcggt gacgcaggcc gtcgagtaca
+      481 acctgaagcg cacaccacgc cgcgtcaagg ccaccatcgt ggccgtgtgg ctcatctcgg
+      541 ccgtcatctc cttcccgccg ctggtctcgc tctaccgcca gcccgacggc gccgcctacc
+      601 cgcagtgcgg cctcaacgac gagacctggt acatcctgtc ctcctgcatc ggctccttct
+      661 tcgcgccctg cctcatcatg ggcctggtct acgcgcgcat ctaccgagtg gccaagctgc
+      721 gcacgcgcac gctcagcgag aagcgcgccc ccgtgggccc cgacggtgcg tccccgacta
+      781 ccgaaaacgg gctgggcgcg gcggcaggcg caggcgagaa cgggcactgc gcgcccccgc
+      841 ccgccgacgt ggagccggac gagagcagcg cagcggccga gaggcggcgg cgccggggcg
+      901 cgttgcggcg gggcgggcgg cggcgagcgg gcgccgaggg gggcgcgggc ggtgcggacg
+      961 ggcagggggc ggctgagtcg ggggcgctga ccgcctccag gtccccgggg cccggtggcc
+     1021 gcctgtcgcg cgccagctcg cgctccgtcg agttcttcct gtcgcgccgg cgccgggcgc
+     1081 gcagcagcgt gtgccgccgc aaggtggccc aggcgcgcga gaagcgcttc acctttgtgc
+     1141 tggctgtggt catgggtgtg ttcgtgctct gctggttccc cttcttcttc agctacagcc
+     1201 tgtacggcat ctgccgcgag gcctgccagg tgcccggccc gctcttcaag ttcttcttct
+     1261 ggatcggcta ctgcaacagc tcgctcaacc cggtcatcta cacggtcttc aaccaggatt
+     1321 tccggcgatc ctttaagcac atcctcttcc gacggaggag aaggggcttc aggcagtgac
+     1381 tc
+//
+

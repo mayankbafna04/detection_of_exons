@@ -1,0 +1,68 @@
+LOCUS       X00089                   866 bp    DNA     linear   PRI 18-APR-2005
+DEFINITION  Human histone H2a gene.
+ACCESSION   X00089
+VERSION     X00089.1
+KEYWORDS    histone; histone H2A.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 866)
+  AUTHORS   Zhong,R., Roeder,R.G. and Heintz,N.
+  TITLE     The primary structure and expression of four cloned human histone
+            genes
+  JOURNAL   Nucleic Acids Res. 11 (21), 7409-7425 (1983)
+   PUBMED   6647026
+FEATURES             Location/Qualifiers
+     source          1..866
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+     regulatory      135..158
+                     /regulatory_class="promoter"
+                     /note="CAAT box"
+     regulatory      173..178
+                     /regulatory_class="promoter"
+                     /note="TATA box"
+     precursor_RNA   207..735
+                     /note="put. primary transcript"
+     CDS             256..648
+                     /note="unnamed protein product; histone H2a"
+                     /codon_start=1
+                     /protein_id="CAA24951.1"
+                     /db_xref="GDB:9864317"
+                     /db_xref="GOA:P04908"
+                     /db_xref="HGNC:HGNC:4724"
+                     /db_xref="HGNC:HGNC:4734"
+                     /db_xref="InterPro:IPR002119"
+                     /db_xref="InterPro:IPR007125"
+                     /db_xref="InterPro:IPR009072"
+                     /db_xref="PDB:2CV5"
+                     /db_xref="PDB:3A6N"
+                     /db_xref="PDB:3AFA"
+                     /db_xref="UniProtKB/Swiss-Prot:P04908"
+                     /translation="MSGRGKQGGKARAKAKTRSSRAGLQFPVGRVHRLLRKAHYSERV
+                     GAGAPVYLAAVLEYLTAEILELAGNAARDNKKTRIIPRHLQLAIRNDEELNKLLGRVT
+                     IAQGGVLPNIQAVLLPKKTESHHKAKGK"
+     regulatory      710..725
+                     /regulatory_class="other"
+                     /note="dyad symmetry"
+ORIGIN      
+        1 ctagagtgat ctatacacca taaaatagag tatttctcta cacagcccta ctaaaggaat
+       61 gagaaagctg tactccacta catactctgg tgtactctgg ctcagttctt ggactcctct
+      121 tttcttggcg aactcaactg gtatgaattc ctcacagcct acctccagtc agtataaata
+      181 cttctctgcc ttgcgttcta atgtagtttc attacatttt cttgtggcga ttttcccttc
+      241 ttatcagaag tagttatgtc tggtcgcggc aaacaaggcg gtaaagctcg cgccaaggca
+      301 aagactcggt cttctcgtgc aggtttgcag tttcctgtgg gccgagtgca ccgcctgctc
+      361 cgcaaggcac actactccga gcgcgtcggg gctggcgccc cggtgtatct cgcggcggtg
+      421 cttgagtacc tgaccgccga gatcctagag ctggcgggca atgcggcccg cgacaacaag
+      481 aagacccgca tcatcccgcg ccacctgcaa ttggccatcc gcaatgacga ggagcttaat
+      541 aaacttttgg ggcgtgtgac catcgcgcag ggtggcgttt tgcctaatat tcaggcggtg
+      601 ctgctgccta agaaaactga gagccatcat aaggccaagg gaaagtgaag agttaacgct
+      661 tcatgcactg ctgtttttct gtcagcagac aaaatcagcc taacagcaag gctcttttca
+      721 gagccaccta cgacttccat taaatgagct gttgtgcttt ggattatgcc gcccataaag
+      781 atgtttttga ggtgttttta atggctttga gtgtggcact tttagtaatt tgtcctgcag
+      841 aaattagatc catagaaacc tcagga
+//
+

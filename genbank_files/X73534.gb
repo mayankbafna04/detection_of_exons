@@ -1,0 +1,117 @@
+LOCUS       X73534                  3606 bp    DNA     linear   PRI 05-JUL-1993
+DEFINITION  H.sapiens gene for transcription elongation factor.
+ACCESSION   X73534
+VERSION     X73534.1
+KEYWORDS    transcription elongation factor.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1
+  AUTHORS   Park,H.R., Jeon,C.J., Yoo,O.J., Agarwal,K. and Baek,K.H.
+  TITLE     Characterization of the gene encoding human transcriptional
+            elongation factor TFIIS
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 3606)
+  AUTHORS   Agarwal,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-JUN-1993) K. Agarwal, University of Chigaco, 920 East
+            58th Street, Dept of Biochemistry & Molecular Biology, Chicago, IL
+            60637, USA
+FEATURES             Location/Qualifiers
+     source          1..3606
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /clone="pHGIIS"
+                     /tissue_type="placenta"
+     prim_transcript 688..>3283
+     CDS             848..1753
+                     /codon_start=1
+                     /product="transcription elongation factor"
+                     /protein_id="CAA51940.1"
+                     /db_xref="GDB:344752"
+                     /db_xref="GOA:P23193"
+                     /db_xref="HGNC:HGNC:11612"
+                     /db_xref="InterPro:IPR001222"
+                     /db_xref="InterPro:IPR003617"
+                     /db_xref="InterPro:IPR003618"
+                     /db_xref="InterPro:IPR006289"
+                     /db_xref="InterPro:IPR016492"
+                     /db_xref="InterPro:IPR017890"
+                     /db_xref="InterPro:IPR017923"
+                     /db_xref="PDB:1TFI"
+                     /db_xref="UniProtKB/Swiss-Prot:P23193"
+                     /translation="MEDEVVRFAKKMDKMVQKKNAAGALDLLKELKNIPMTLELLQST
+                     RIGMSVNAIRKQSTDEEVTSLAKSLIKSWKKLLDGPSTEKDLDEKKKEPAITSQNSPE
+                     AREESTSSGNVSNRKDETNARDTYVSSFPRAPSTSDSVQLKCREMLAAALRTGDDYIA
+                     IGADEEELGSQIEEAIYQEIRNTDMKYKNRVRSRISNLKDAKNPYLRKNVLCGNIPPD
+                     LFARMTAEEMASDELKEMWKNLTKEAIREHQMAKTGGTQTDLFTCGKCKKKNCTYTQV
+                     QTRSADEPVTTFVVCNECGNRWKFC"
+     regulatory      3279..3283
+                     /regulatory_class="polyA_signal_sequence"
+ORIGIN      
+        1 tctagacaag ttgatttatg agtgaatgat ttgtgaacta aattacatag acaaaacatt
+       61 cggaagtatt gtctaacaaa tgtttagggc cgggtgcggt ggctcatgcc tgtaatccca
+      121 gcactttggg aggccgaggt gggtggatca caaggtgagg ggttcgagac cagcctaacc
+      181 agcatgaaga aaccccgact ctactataaa tacaaaaaaa aattagctgg gcgtggtggc
+      241 gggtacctgt aattccagct actcaggagg ttgaggcagg agaattgctt gaacccggga
+      301 ggcggaggtt gcagtgggcc gagatcacgc cactgcactc cagcctgggc gacagagcga
+      361 gactccgtct caaaaaaaaa aaaaaaaaaa aaaaaagaaa aaaaaaaccc caaaaaaaca
+      421 aatgtttaaa tgagcttccc aaactctgtg gacaggtgtc ttgtgagctt agatcctcat
+      481 aactgtcagt gaggctggtc aggttgtggg aacagcccaa gtccctgggt ctgttgactc
+      541 gattcttgag cagccactcc agttaatccc aaattctcta gaaatacata attttctata
+      601 agtgccatga agtaggggta aaatattggg aggcatcagt ctaaacagca ctgtacagaa
+      661 catatccagt gatctttaaa gaatatcatt cgccgcgggc ttcgtttgtg aggaaggggg
+      721 cctaggcccg ggcctgcggt ggtgggggtt gctgcgcgcc gggggtcgct cctgctgtgt
+      781 cttccgctcc agcttcgccc acttcccctt gccagcgggg tgggcgcgga gaagacctgc
+      841 cggagccatg gaggacgaag tggtccgctt tgccaagaag atggacaaga tggtgcagaa
+      901 gaagaacgcg gctggagcat tggatttgct aaaggagctt aagaatattc ctatgaccct
+      961 ggaattactg cagtccacaa gaatcggaat gtcagttaat gctattcgca agcagagtac
+     1021 agatgaggaa gttacatctt tggcaaagtc tctcatcaaa tcctggaaaa aattattaga
+     1081 tgggccatca actgagaaag accttgacga aaagaagaaa gaacctgcaa ttacatcgca
+     1141 gaacagccct gaggcaagag aagaaagtac ttccagcggc aatgtaagca acagaaagga
+     1201 tgagacaaat gctcgagata cttatgtttc atcctttcct cgggcaccaa gcacttctga
+     1261 ttctgtgcag ttgaagtgta gggagatgct tgctgcagct cttcgaacag gggatgacta
+     1321 cattgcaatt ggagctgatg aggaagaatt aggatctcaa attgaagaag ctatatatca
+     1381 agaaataagg aatacagaca tgaaatacaa aaatagagta cgaagtagga tatcaaatct
+     1441 taaagatgca aaaaatccat atttaaggaa aaatgtcctc tgtgggaata ttcctcctga
+     1501 cttatttgct agaatgacag cagaggaaat ggctagtgat gagctgaaag agatgtggaa
+     1561 aaacttgacc aaagaagcca tcagagagca tcagatggcc aagactggtg ggacccagac
+     1621 tgacttgttc acatgtggca aatgtaaaaa gaagaattgc acttacacac aggtacaaac
+     1681 ccgtagtgct gatgaaccag tgacaacatt tgttgtctgt aatgaatgtg gaaatcgatg
+     1741 gaagttctgt tgagttggaa gaattggcaa aatatctgga ccattaagaa aacgtatttt
+     1801 gtaactagtt ttaaactagg ccaagcaact agttttcctg caaatcaaat ttttaaagca
+     1861 acttgagtta gactttgttt ttgacctcac atcccttcct taaatgcctt ctgtagtttc
+     1921 agatcagtag ggagaccata taataattgt atggtacctg tttcaaaaca tattttttct
+     1981 gtttttataa gtaagttgat attaattaaa ctcttggcaa tatttcttct ttcttaaagg
+     2041 aaaatacacc ttaacttttt ttcttttaca ctgtgaaaca tacacagtag aaattctgtt
+     2101 actctctgtt attaatacat aaatgaaaat actttttttt ccatattggc atgtagctac
+     2161 aaatattaaa ggaggagaaa aggtaatata attttaggtt taccaaatat ggtgtgtatt
+     2221 caaataatac ttgaccagct tatctaaaat gtacataatt ttgaggtagc ttatgaattt
+     2281 gattttaatt attatgttca caagcttgga atattagata ttattttgca tctgtaacta
+     2341 accgtgatca tcatctcttg taatttcttg tacatgtata ttacttgttc ttaatagatt
+     2401 tttggaaaca agactttatt gagatcagtt tggttttcct gttaatttac ctgtttgact
+     2461 ttataatgtg ttttagtttt gcagaagaac actgttgtag tttagaaggc ttttcataaa
+     2521 tcccctcata ggcaaagatg agaacttccc actatttttt tcccctctta ggaagacata
+     2581 ctggaaagaa tatgtttagc atcttagtgt agtatagcta ttgtaaacag ttcatgacta
+     2641 gattttgatt cggaaatcta tactgaccaa ggattaatct taaggactgt ataattcatt
+     2701 aaagctgtgg tctttccatg tggagactga tagaaaataa ttttgtccca agtcttattt
+     2761 gctgactttt tctgtcatga gtgagattgt tgaacaaact gaatatatgg gctatagcaa
+     2821 gtagctttac agtacagatc ttacaattaa gttttgcttt tgttaaagtg tgtaccattt
+     2881 tttctgtttg gagtaagaca aaaattgttt tgacataggt tccctagggt acacttgctc
+     2941 tagcatactt taaaggccac tgttgcaaag tctacatttt atgctgaatc tgcattctgt
+     3001 caggcacccg tagaaagacc tcagtacatg ctttgcactc tcctttgctc cctttttcca
+     3061 atttcttatt gcatatcatt ttgttgtaat acagaaagta gcatttttaa atgtccgtgt
+     3121 taagaattgg ccctctggta ccgactcacc tctattttgt cagttcatag ttgaagattt
+     3181 tgttttattt caaaaacaaa gtacattttt aaaataattt ttcagaataa aataatccca
+     3241 cttttaaatt aaatgatcca ttataaaatt tgtaattcaa taaagttttt tttgttgtta
+     3301 aacataaaaa aaaagaatat tattaaagag tatgatttaa aatgcatatt ttcttttctt
+     3361 tttttttttt gagacagagt ttgctctttt tgtttaggct ggagcgtaat ggcgtgatct
+     3421 cagctcactg caacctctgc ctcccagatt caaacgattt tcatgcctca gcctcctgag
+     3481 tagctgggat tgcaggcacc tgacaccacg cctggctaat tttttgtatt tttatagtag
+     3541 agacagagtt tcaccatgtt ggccagtctg gtcttgaact cctgacctca ggtgatccac
+     3601 ccgcct
+//
+

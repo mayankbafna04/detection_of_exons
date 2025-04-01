@@ -1,0 +1,128 @@
+LOCUS       X66310                  3271 bp    DNA     linear   PRI 18-APR-2005
+DEFINITION  H.sapiens GLUDP1 gene for glutamate dehydrogenase.
+ACCESSION   X66310
+VERSION     X66310.1
+KEYWORDS    GLUDP1 gene; glutamate dehydrogenase.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 3271)
+  AUTHORS   Michaelidis,T.
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 3271)
+  AUTHORS   Michaelidis,T.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-MAY-1992) T.M. Michaelidis, University of Crete, Inst
+            of Mol Biology & Biotechnology, Forth Dept Of Biology, P O Box
+            1527, GR-711 10 Heraklion/Crete, GREECE
+FEATURES             Location/Qualifiers
+     source          1..3271
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="X"
+                     /map="q22-q23"
+                     /clone="L9,L10,L101"
+                     /tissue_type="placenta"
+                     /clone_lib="phage library"
+                     /dev_stage="embryo"
+     misc_feature    1..307
+                     /note="5' flanking sequence"
+     repeat_region   35..44
+                     /rpt_type=DIRECT
+     gene            308..1984
+                     /gene="GLUDP1"
+     CDS             308..1984
+                     /gene="GLUDP1"
+                     /EC_number="1.4.1.3"
+                     /codon_start=1
+                     /product="glutamate dehydrogenase (NAD(P)+)"
+                     /protein_id="CAA46995.1"
+                     /db_xref="GOA:P49448"
+                     /db_xref="HGNC:HGNC:4336"
+                     /db_xref="InterPro:IPR006095"
+                     /db_xref="InterPro:IPR006096"
+                     /db_xref="InterPro:IPR006097"
+                     /db_xref="InterPro:IPR016040"
+                     /db_xref="UniProtKB/Swiss-Prot:P49448"
+                     /translation="MYRYLAKALLPSRAGPAALGSAANHSAALLGRGRGQPAAASQPG
+                     LALAARRHYSELVADREDDPNFFKMVEGFFDRGASIVEDKLVKDLRTQESEEQKRNRV
+                     RGILRIIKPCNHVLSLSFPIRRDDGSWEVIEGYRAQHSQHRTPCKGGIRYSTDVSVDE
+                     VKALASLMTYKCAVVDVPFGGAKAGVKINPKNYTENELEKITRRFTMELAKKGFIGPG
+                     VDVPAPDMNTGEREMSWIADTYASTIGHYDINAHACVTGKPISQGGIHGRISATGRGV
+                     FHGIENFINQASYMSILGMTPGFRDKTFVVQGFGNVGLHSMRYLHRFGAKCIAVGESD
+                     GSIWNPDGIDPKELEDFKLQHGSILGFPKAKPYEGSILEVDCDILIPAATEKQLTKSN
+                     APRVKAKIIAEGANGPTTPEADKIFLERNILVIPDLYLNAGGVTVSYFEWLKNLNHVS
+                     YGRLTFKYERDSNYHLLLSVQESLERKFGKHGGTIPIVPTAEFQDSISGASEKDIVHS
+                     ALAYTMERSARQIMHTAMKYNLGLDLRTAAYVNAIEKVFKVYSEAGVTFT"
+     sig_peptide     308..466
+                     /gene="GLUDP1"
+     mat_peptide     467..1981
+                     /gene="GLUDP1"
+                     /product="glutamate dehydrogenase (NAD(P)+)"
+                     /EC_number="1.4.1.3"
+     3'UTR           1982..3233
+     misc_feature    3234..3271
+                     /note="3' flanking sequence"
+     repeat_region   3242..3250
+                     /rpt_type=DIRECT
+ORIGIN      
+        1 ccaaagctct gggtaattat taaacattag aagtatagaa caaacaggcc agccaggccc
+       61 ggcgaggccg cggcgggtcc ggcgccccgg acctccggac ccggaggtcc ggcgccctgg
+      121 ttggcgccct gcccccaaag tccgtcctcc ccgttaggtg gcgcccaagg ggaggggaca
+      181 gccgggcagg caggaagctg cggcttaaaa gggcaacccg cgccggaccc ttccttccta
+      241 gtcgcgggga gtctgagaaa gcgcacctgt tccgcgaccg tcacgcaccc ctcctccgcc
+      301 tgccgcgatg taccgctacc tggccaaagc gctgctgccg tcccgggccg ggcccgctgc
+      361 cctgggctcc gcggccaacc actcggccgc gttgctgggc cggggccgcg gacagcccgc
+      421 cgccgcctcg cagccggggc tcgcattggc cgcccggcgc cactacagcg agttggtggc
+      481 cgaccgcgag gacgacccca acttcttcaa gatggtggag ggcttcttcg atcgcggcgc
+      541 cagcatcgtg gaggacaagt tggtgaagga cctgaggacc caggaaagcg aggagcagaa
+      601 gcggaaccgg gtgcgcggca tcctgcggat catcaagccc tgcaaccatg tgctgagtct
+      661 ctccttcccc atccggcgcg acgacggctc ctgggaggtc atcgaaggct accgggccca
+      721 gcacagccag caccgcacgc cctgcaaggg aggtatccgt tacagcactg atgtgagtgt
+      781 agatgaagta aaagctttgg cttctctgat gacatacaag tgtgcagtgg ttgatgtgcc
+      841 gtttgggggt gctaaagctg gtgttaagat caatcccaag aactataccg aaaatgaatt
+      901 ggaaaagatc acaaggaggt tcaccatgga gctagcaaag aagggcttta ttggtcctgg
+      961 cgttgatgtg cctgctccag acatgaacac aggtgagcgg gagatgtcct ggattgctga
+     1021 tacctatgcc agcaccatag ggcactatga tattaatgca cacgcctgtg ttactggtaa
+     1081 acccatcagc caagggggaa tccatggacg catctctgct actggccgtg gtgtcttcca
+     1141 tgggattgaa aacttcatca atcaagcttc ttacatgagc attttaggaa tgacaccagg
+     1201 gtttagagat aaaacatttg ttgttcaggg atttggtaat gtgggcctac actctatgag
+     1261 atatttacat cgttttggtg ctaaatgtat tgctgttggt gagtctgatg ggagtatatg
+     1321 gaatccagat ggtattgacc caaaggaact ggaagacttc aaattgcaac atgggtccat
+     1381 tctgggcttc cccaaggcaa agccctatga aggaagcatc ttggaggtcg actgtgacat
+     1441 actgatccca gctgccactg agaagcagtt gaccaaatcc aacgcaccca gagtcaaagc
+     1501 caagatcatt gctgaaggtg ccaatgggcc aacaactcca gaagctgata agatcttcct
+     1561 ggagagaaac attttggtta ttccagatct ctacttgaat gctggaggag tgacagtatc
+     1621 ttactttgag tggctgaaga atctaaatca tgtcagctat ggccgtttga ccttcaaata
+     1681 tgaaagggat tctaactacc acttgctcct gtctgttcaa gagagtttag aaagaaaatt
+     1741 tggaaagcat ggtggaacta ttcccattgt acccacggca gagttccaag acagtatatc
+     1801 gggtgcatct gagaaagaca ttgtgcactc tgccttggca tacacaatgg agcgttctgc
+     1861 caggcaaatt atgcacacag ccatgaagta taacctggga ttggacctga gaacagctgc
+     1921 ctatgtcaat gccattgaaa aagtcttcaa agtgtacagt gaagctggtg tgaccttcac
+     1981 atagatggat catggctgac ttcctcacta acctcttcac gtgtaacttc tgcagaccta
+     2041 ccacaagttt acatgtaacc acagaaatcc ctttctctcc tgacatcatt actaatggat
+     2101 accattctca acaagtcaat ccaaatcagc ccgttaagga gaaagaaatt aatatacaag
+     2161 ctgagtgtga aagtagaaat cacctacacc agagagctat tttggtattt tgcctttaaa
+     2221 taaaaagcct cctccatatg gctgtgcagc cttgctctgt ggcttttccc agcacaatca
+     2281 gtgctagtgc tggggaaggg acagtcaaga gcagtcagtt gcttacttat tttgctctgg
+     2341 atgagtctgg gacacgctgt aactttaaca catttaagaa gaaggtgtgt ggccttttca
+     2401 gaaggtggca tggtcctcaa gtgagttctt agtattttat atcagcaaaa taactcaatt
+     2461 ttgcagattg caaacaaata taaaagctgt ttctgtttat gaattttatt cttttagaat
+     2521 agaataagta catgctgctg taataaaatt gcctttaatc acttaacaag cctaaccttg
+     2581 actcagtgaa tgcctataaa aataataaat gaaaaaaaac cagtattttt atatcataaa
+     2641 agtttcattt gtagcttatc attcatgtat tgtccagcag acattaaaag ccctgtggat
+     2701 aattacgtta tcttcatacc tgcaaaacgg tggaggctat tttcgttaaa actgtcagaa
+     2761 ttcgctgtta taattatgac acatagtcca aagaatgcag taaccttttt atcatgttaa
+     2821 ctaattgttc tcttttgaag atctatggtt gactaattaa acaataattc aagtagagtg
+     2881 tcccagaaaa aaaccacttg ggctccctgt ttggagtctg gctggctctg agcattgcca
+     2941 atggccccta ctcacctgac tttgtatcct cttcttttag aggctttgca ttctgcaccc
+     3001 agcttcacta acagtgggct gaaaccaacc ttgggttgag tgtttcattt gggagttatt
+     3061 tggccagggc cttttgaaca atagtgtccc catgaagtgc tagataatat atgtgtaaga
+     3121 atcagctttt ttttttttaa ctataatatc cttcagaaat ttctaactac tttgtaactg
+     3181 catggcttaa cctggtgata aaagcagtta ttaaaagtct acgttttttt ttaaaaaaaa
+     3241 gatagaacaa ataatgggag attgggttaa c
+//
+

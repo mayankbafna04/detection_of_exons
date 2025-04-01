@@ -1,0 +1,149 @@
+LOCUS       X75755                  4251 bp    DNA     linear   PRI 18-APR-2005
+DEFINITION  H.sapiens PR264 gene.
+ACCESSION   X75755
+VERSION     X75755.1
+KEYWORDS    PR264 gene; SC35 gene; splicing factor SC35.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1
+  AUTHORS   Sureau,A. and Perbal,B.
+  TITLE     Several mRNAs with variable 3' untranslated regions and different
+            stability encode the human PR264/SC35 splicing factor
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 91 (3), 932-936 (1994)
+   PUBMED   8302870
+REFERENCE   2  (bases 1 to 4251)
+  AUTHORS   Perbal,B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-NOV-1993) B. Perbal, Inst. Curie, Centre Univ.
+            Batiment 110, 91405 Orsay Cedex, FRANCE
+FEATURES             Location/Qualifiers
+     source          1..4251
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="17"
+                     /map="q25"
+                     /clone="E830"
+                     /cell_type="normal fibroblasts"
+                     /clone_lib="genomic"
+     gene            order(961..1019,1217..1578,1913..2216)
+                     /gene="PR264/SC35"
+     regulatory      961..964
+                     /regulatory_class="CAAT_signal"
+                     /gene="PR264/SC35"
+     regulatory      1014..1019
+                     /regulatory_class="TATA_box"
+                     /gene="PR264/SC35"
+     gene            order(1108..1578,1913..2223,2502..2605,3204..4233)
+                     /gene="HPR4"
+     mRNA            join(1108..1578,1913..2223,2502..2605,3204..4233)
+                     /gene="HPR4"
+     gene            order(1114..1578,1913..2223,2502..2605,3204..4245)
+                     /gene="HPR6"
+     mRNA            join(1114..1578,1913..2223,2502..2605,3204..4245)
+                     /gene="HPR6"
+     gene            order(1119..1578,1913..3301,3800..4233)
+                     /gene="HPR5"
+     mRNA            join(1119..1578,1913..3301,3800..4233)
+                     /gene="HPR5"
+     CDS             join(1217..1578,1913..2216)
+                     /gene="PR264/SC35"
+                     /codon_start=1
+                     /protein_id="CAA53383.1"
+                     /db_xref="GDB:132412"
+                     /db_xref="GOA:Q01130"
+                     /db_xref="HGNC:HGNC:10783"
+                     /db_xref="InterPro:IPR000504"
+                     /db_xref="InterPro:IPR012677"
+                     /db_xref="PDB:2KN4"
+                     /db_xref="UniProtKB/Swiss-Prot:Q01130"
+                     /translation="MSYGRPPPDVEGMTSLKVDNLTYRTSPDTLRRVFEKYGRVGDVY
+                     IPRDRYTKESRGFAFVRFHDKRDAEDAMDAMDGAVLDGRELRVQMARYGRPPDSHHSR
+                     RGPPPRRYGGGGYGRRSRSPRRRRRSRSRSRSRSRSRSRSRYSRSKSRSRTRSRSRST
+                     SKSRSARRSKSKSSSVSRSRSRSRSRSRSRSPPPVSKRESKSRSRSKSPPKSPEEEGA
+                     VSS"
+     regulatory      3503..3509
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="HPR4"
+                     /note="polyA1"
+     regulatory      4211..4217
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="HPR4"
+                     /note="polyA2"
+ORIGIN      
+        1 aagcttttta gattccgggg acattttggc tcagctctgc cggaggcagc agcccagggc
+       61 agtcagctct cctcggggcg aagccactga caatcctgga gaaagaaatg agatggtgag
+      121 tggagaaggc agatgtagga gccaggcagc caagctgtca acttccagtt cctggatcgg
+      181 aaccccaggt ttagggcgaa gttctcccca ccggcagtta ggatactcct aagaagcgat
+      241 ccgagtacgg aagagcacaa cccccggaga agcgccaaga atttatccgc tccaggttga
+      301 ggggcccacg aaggggatta aagggccaag tgccagccgc agcagccggc gcggccccgc
+      361 cctcccagcc tgactcactg cggccaggcg accgggtcac ctgaccgcag ccgcggcgcc
+      421 ggccgctcgg cccgctggga aacgtagtcc cgggtgacct ggcacgcgca agcgctcggc
+      481 ggggagtccc caccgccagg acgcagagcc gacggagctc tcgggctctg gcgaaagggg
+      541 gttgggaagc ggactccggc gaagagcagt caggaacggc tggacggggc cgagagacga
+      601 cgcagcggag tctgaggggg ccggggtcac agggagaggc aaatgagggc agaagcactc
+      661 ttcagacgga gacggggctg acggctgagc aaaaaagggg cgtgaacttg gagtattggc
+      721 atgaaaaaaa ggtgggggcc cagatgggga gcacctcctc ttcctcctgc ccaatcgcga
+      781 tcgtccggcc tcccaggcgg aaaaagcgtt tcgcgggctt tccaactgcc cgctaattcc
+      841 gctccccctc cctccagccg tgactccgcg ctttttggcc cgcccgccgg gctgtgcgca
+      901 ggcgcttcgg gtaggggcgg ggcgcgcggc agggtcgtta cgaagcgggg cgcggtgggc
+      961 caatcagaag gtttcatttc cgggtggcgc gggcgccatt ttgtgaggag cgatataaac
+     1021 gggcgcagag gccggctgcc cgcccagttg ttacttaggt gcgctagcct gcggagcccg
+     1081 tccgtgctgt tctgcggcaa ggcctttccc agtgtcccca cgcggaaggc aactgcctga
+     1141 gaggcgcggc gtcgcaccgc ccagagctga ggaagccggc gccagttcgc ggggctccgg
+     1201 gccgccactc agagctatga gctacggccg cccccctccc gatgtggagg gtatgacctc
+     1261 cctcaaggtg gacaacctga cctaccgcac ctcgcccgac acgctgaggc gcgtcttcga
+     1321 gaagtacggg cgcgtcggcg acgtgtacat cccgcgggat cgctacacca aggagtcccg
+     1381 cggcttcgcc ttcgttcgct ttcacgacaa gcgcgacgct gaggacgcta tggatgccat
+     1441 ggacggggcc gtgctggacg gccgcgagct gcgggtgcaa atggcgcgct acggccgccc
+     1501 cccggactca caccacagcc gccggggacc gccaccccgc aggtacgggg gcggtggcta
+     1561 cggacgccgg agccgcaggt aaacggggct gaggggaccg cgggaggcgg ggcggggcgc
+     1621 gcgggaggcc cgggcgacct cacaaaggtc cgcggcgaag cacgtggtgc gggcccggac
+     1681 ggggcggggg tgcacgccgc gtctcgcgac cctccggcca ccccgcgagc ttccgccgtc
+     1741 tgcgacccgg gagtggccgg ggtgtgggcg gcgcggggcg gaggaccccg cctcgcgact
+     1801 ggggaaatgg cgtctggcgg cgagataatg gcggcctggg cgggagcgcg cgggcggggc
+     1861 cggccccgct gcctggaatt aaccccgctg tgcttgctcg tcccgcccgc agccctaggc
+     1921 ggcgtcgccg cagccgatcc cggagtcgga gccgttccag gtctcgcagc cgatctcgct
+     1981 acagccgctc gaagtctcgg tcccgcactc gttctcgatc tcggtcgacc tccaagtcca
+     2041 gatccgcacg aaggtccaag tccaagtcct cgtcggtctc cagatctcgt tcgcggtcca
+     2101 ggtcccggtc tcggtccagg agtcctcccc cagtgtccaa gagggaatcc aaatccaggt
+     2161 cgcgatcgaa gagtcccccc aagtctcctg aagaggaagg agcggtgtcc tcttaagaaa
+     2221 atggtaatgt ctgggaatcc gagacacata accctaattc ataaatggga tttggggtag
+     2281 gtctttttga gtcgtgttaa tgtaagaatg actcctatca ttaggagtgc tgctcggagg
+     2341 ttactcacct ttgggagtaa tactgaagag aggggtctgc agaaaggatg tgtatgaagc
+     2401 ttagataata atggctgttt cgtaaactgt ttgagaccta ttaatgaaaa tgactatttc
+     2461 ttgctgtttt tatccaacgt ctgcattttc cccctttaaa gctgcggtct cctgtttgat
+     2521 aaaagaatat tggccagtat tgcagatttt aactgatttg gctgatcctc cagggaccag
+     2581 tttctgtggg cgtgtattgg agcaggtttg tctttaaatg ttaaagatgc actatcctct
+     2641 tagagaaaca atcagttcaa ctattgttgt actgactggg acttcatatt ctaatggatg
+     2701 tggcaaaaga attgcaataa gaagcagtga acatttggaa ccccaaaaga aagttacagg
+     2761 tattgcactg ggtggggaaa ggatagtgtg tctttaactc ttaaattgtt tggtcctatt
+     2821 ttaaaaggaa gggccctaag tagctcagat attaaagtag tatctcaatt accaaatgtt
+     2881 cattgaacat tacttaatga aatatagacc aatctctgac tcgagttgtt ttgtttggat
+     2941 acagcccttt tttttctttt ttttccttcc ccttaccttt cttcaccttg gttatttggc
+     3001 caggaatacg taaattcaaa cttgtacatg ctgatggtag cctttgtgaa attttcctaa
+     3061 ttgggccttt taaaaacata ggctgggtgg aacatttctg taccctactg gtttgaccag
+     3121 agccttagta agtacgtgcc tgaaactgaa accatgtgca ctttaatgga aggtaagctg
+     3181 aacttctttc ttttcaaacc tagatgtatc ggcaagcagt gtaaacggag gacttgggga
+     3241 aaaaggacca catagtccat cgaagaagag tccttggaac aagcaactgg ctattgaaaa
+     3301 ggttattttg taacatttgt ctaacttttt acttgtttaa gctttgcctc agttggcaaa
+     3361 cttcatttta tgtgccattt tgttgctgtt attcaaattt cttgtaattt agtgaggtga
+     3421 acgacttcag atttcattat tggatttgga tatttgaggt aaaatttcat tttgttatat
+     3481 agtgctgact ttttttgttt gaaattaaac agattggtaa cctaatttgt ggcctcctga
+     3541 cttttaagga aaacgtgtgc agccattaca cacagcctaa agctgtcaag agattgactc
+     3601 ggcattgcct tcattcctta aaattaaaaa cctacaaaag ttggtgtaaa tttgtatatg
+     3661 ttatttacct tcagatctaa atggtaatct gaacccaaat ttgtataaag acttttcagg
+     3721 tgaaaagact tgattttttg aaaggattgt ttatcaaaca caattctaat ctcttctctt
+     3781 atgtattttt gtgcactagg cgcagttgtg tagcagttga gtaatgctgg ttagctgtta
+     3841 aggtggcgtg ttgcagtgca gagtgcttgg ctgtttcctg ttttctcccg attgctcctg
+     3901 tgtaaagatg ccttgtcgtg cagaaacaaa tggctgtcca gtttattaaa atgcctgaca
+     3961 actgcacttc cagtcacccg ggccttgcat ataaataacg gagcatacag tgagcacatc
+     4021 tagctgatga taaatacacc tttttttccc tcttccccct aaaaatggta aatctgatca
+     4081 tatctacatg tatgaactta acatggaaaa tgttaaggaa gcaaatggtt gtaactttgt
+     4141 aagtacttat aacatggtgt atctttttgc ttatgaatat tctgtattat aaccattgtt
+     4201 tctgtagttt aattaaaaca ttttcttggt gttagctttt ctcagaatac g
+//
+

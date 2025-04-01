@@ -1,0 +1,73 @@
+LOCUS       X57130                  1034 bp    DNA     linear   PRI 18-APR-2005
+DEFINITION  H.sapiens H1.1 gene for histone H1.
+ACCESSION   X57130
+VERSION     X57130.1
+KEYWORDS    H1.1 gene; histone H1.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1034)
+  AUTHORS   Eick,S., Nicolai,M., Mumberg,D. and Doenecke,D.
+  TITLE     Human H1 histones: conserved and varied sequence elements in two H1
+            subtype genes
+  JOURNAL   Eur. J. Cell Biol. 49 (1), 110-115 (1989)
+   PUBMED   2759094
+REFERENCE   2  (bases 1 to 1034)
+  AUTHORS   Kardalinou,E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-DEC-1990) Kardalinou E., Zentrum Biochemie, Abteilung
+            Molecularbiologie, Humboldallee 23, D-3400 Goettinger, FRG
+FEATURES             Location/Qualifiers
+     source          1..1034
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /tissue_type="placenta"
+                     /clone_lib="genomic DNA in EMBL3"
+     regulatory      59..63
+                     /regulatory_class="CAAT_signal"
+     regulatory      82..86
+                     /regulatory_class="TATA_box"
+     gene            168..815
+                     /gene="H1.1"
+     CDS             168..815
+                     /gene="H1.1"
+                     /codon_start=1
+                     /product="histone H1"
+                     /protein_id="CAA40409.1"
+                     /db_xref="GOA:Q02539"
+                     /db_xref="HGNC:HGNC:4715"
+                     /db_xref="InterPro:IPR005818"
+                     /db_xref="InterPro:IPR005819"
+                     /db_xref="InterPro:IPR011991"
+                     /db_xref="UniProtKB/Swiss-Prot:Q02539"
+                     /translation="MSETVPPAPAASAAPEKPLAGKKAKKPAKAAAASKKKPAGPSVS
+                     ELIVQAASSSKERGGVSLAALKKALAAAGYDVEKNNSRIKLGIKSLVSKGTLVQTKGT
+                     GASGSFKLNKKASSVETKPGASKVATKTKATGASKKLKKATGASKKSVKTPKKAKKPA
+                     ATRKSSKNPKKPKTVKPKKVAKSPAKAKAVKPKAAKARVTKPKTAKPKKAAPKKK"
+     regulatory      849..864
+                     /regulatory_class="terminator"
+                     /note="histone mRNA terminator"
+ORIGIN      
+        1 cagctgcgcg aaacacatcg gcagcgcgca gggcgcggag gggcgggact gacgggcacc
+       61 aatcacggcg cagtcccacc ctataaatag gctgcgttgg ggcctttttt tcgcatcctg
+      121 cttcgtcagg tttataccac tttatttggt gtgctgtgtt agtcaccatg tctgaaacag
+      181 tgcctcccgc ccccgccgct tctgctgctc ctgagaaacc tttagctggc aagaaggcaa
+      241 agaaacctgc taaggctgca gcagcctcca agaaaaaacc cgctggccct tccgtgtcag
+      301 agctgatcgt gcaggctgct tcctcctcta aggagcgtgg tggtgtgtcg ttggcagctc
+      361 ttaaaaaggc gctggcggcc gcaggctacg acgtggagaa gaacaacagc cgcattaagc
+      421 tgggcattaa gagcctagta agcaagggaa cgttggtgca gacaaagggt accggagcct
+      481 cgggttcctt caagctcaac aagaaggcgt cctccgtgga aaccaagccc ggcgcctcaa
+      541 aggtggctac aaaaactaag gcaacgggtg catctaaaaa gctcaaaaag gccacggggg
+      601 ctagcaaaaa gagcgtcaag actccgaaaa aggctaaaaa gcctgcggca acaaggaaat
+      661 cctccaagaa tccaaaaaaa cccaaaactg taaagcccaa gaaagtagct aaaagccctg
+      721 ctaaagctaa ggctgtaaaa cccaaggcgg ccaaggctag ggtgacgaag ccaaagactg
+      781 ccaaacccaa gaaagcggca cccaagaaaa agtaaattca gttagaagtt tcttctagta
+      841 acccaaacgg ctcttttaag agccacctac gcatttcagg aaaagagctg tagtacacag
+      901 atgaaatccc ccaagcaaat gcaacacgcc ctcaattata ttagaatcac ttggagagtc
+      961 gatagaactt taacatagcc tcatctagta agaatttact actcaatcta tcaaagatag
+     1021 caaggattga attc
+//
+

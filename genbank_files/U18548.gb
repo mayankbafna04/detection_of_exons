@@ -1,0 +1,75 @@
+LOCUS       HSU18548                1230 bp    DNA     linear   PRI 08-MAR-1996
+DEFINITION  Human GPR12 G protein coupled-receptor gene, complete cds.
+ACCESSION   U18548
+VERSION     U18548.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1230)
+  AUTHORS   Song,Z.H., Modi,W. and Bonner,T.I.
+  TITLE     Molecular cloning and chromosomal localization of human genes
+            encoding three closely related G protein-coupled receptors
+  JOURNAL   Genomics 28 (2), 347-349 (1995)
+   PUBMED   8530049
+REFERENCE   2  (bases 1 to 1230)
+  AUTHORS   Bonner,T.I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-DEC-1994) Tom I. Bonner, Laboratory of Cell Biology,
+            National Institute of Mental Health, Bldg 36, Room 3A-07, Bethesda,
+            MD 20892-4090, USA
+FEATURES             Location/Qualifiers
+     source          1..1230
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="13"
+                     /map="13q12"
+                     /clone="h6-7 c1"
+                     /clone_lib="human genomic in pWE15 cosmid vector
+                     (Stratagene)"
+     exon            130..1230
+                     /note="based on discontinuity in similarity to rat G
+                     protein coupled-receptor cDNA, GenBank Accession Number
+                     X61496, and mouse cDNA, GenBank Accession Number D21061,
+                     5' of this point; another rat cDNA, GenBank Accession
+                     Number U12184, has similarity extending 5' of this point
+                     to base 1 as though it is not spliced"
+     CDS             145..1149
+                     /note="putative GPR12 G protein coupled-receptor, ligand
+                     unknown"
+                     /codon_start=1
+                     /protein_id="AAA91630.1"
+                     /translation="MNEDLKVNLSGLPRDYLDAAAAENISAAVSSRVPAVEPEPELVV
+                     NPWDIVLCTSGTLISCENAIVVLIIFHNPSLRAPMFLLIGSLALADLLAGIGLITNFV
+                     FAYLLQSEATKLVTIGLIVASFSASVCSLLAITVDRYLSLYYALTYHSERTVTFTYVM
+                     LVMLWGTSICLGLLPVMGWNCLRDESTCSVVRPLTKNNAAILSVSFLFMFALMLQLYI
+                     QICKIVMRHAHQIALQHHFLATSHYVTTRKGVSTLAIILGTFAACWMPFTLYSLIADY
+                     TYPSIYTYATLLPATYNSIINPVIYAFRNQEIQKALCLICCGCIPSSLAQRARSPSDV
+                     "
+ORIGIN      
+        1 aagcttgtgg catttggtac tggtatctga gcaggggctg gctttctgtt tgtctgtgtg
+       61 ttttttgcat gatcttggat tgtcaccctg ctgtatttaa acattaaaaa gcctgtcttt
+      121 tcgttgaaga ggacaggggt taaaatgaat gaagacctga aggtcaattt aagcgggctg
+      181 cctcgggatt atttagatgc cgctgctgcg gagaacatct cggctgctgt ctcctcccgg
+      241 gttcctgccg tagagccaga gcctgagctc gtagtcaacc cctgggacat tgtcttgtgt
+      301 acctcgggaa ccctcatctc ctgtgaaaat gccattgtgg tccttatcat cttccacaac
+      361 cccagcctgc gagcacccat gttcctgcta ataggcagcc tggctcttgc agacctgctg
+      421 gccggcattg gactcatcac caattttgtt tttgcctacc tgcttcagtc agaagccacc
+      481 aagctggtca cgatcggcct cattgtcgcc tctttctctg cctctgtctg cagcttgctg
+      541 gctatcactg ttgaccgcta cctctcactg tactacgctc tgacgtacca ttcggagagg
+      601 acggtcacgt ttacctatgt catgctcgtc atgctctggg ggacctccat ctgcctgggg
+      661 ctgctgcccg tcatgggctg gaactgcctc cgagacgagt ccacctgcag cgtggtcaga
+      721 ccgctcacca agaacaacgc ggccatcctc tcggtgtcct tcctcttcat gtttgcgctc
+      781 atgcttcagc tctacatcca gatctgtaag attgtgatga ggcacgccca tcagatagcc
+      841 ctgcagcacc acttcctggc cacgtcgcac tatgtgacca cccggaaagg ggtctccacc
+      901 ctggctatca tcctggggac gtttgctgct tgctggatgc ctttcaccct ctattccttg
+      961 atagcggatt acacctaccc ctccatctat acctacgcca ccctcctgcc cgccacctac
+     1021 aattccatca tcaaccctgt catatatgct ttcagaaacc aagagatcca gaaagcgctc
+     1081 tgtctcattt gctgcggctg catcccgtcc agtctcgccc agagagcgcg ctcgcccagt
+     1141 gatgtgtagc acccttgcac ccaggaggac tctgcattta ccaagcactt ccactgcctg
+     1201 gccaaggttt gagatgcttc ccttgaattc
+//
+

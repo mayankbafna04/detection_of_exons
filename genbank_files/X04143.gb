@@ -1,0 +1,83 @@
+LOCUS       X04143                  1675 bp    DNA     linear   PRI 14-NOV-2006
+DEFINITION  Human gene for bone gla protein (BGP).
+ACCESSION   X04143
+VERSION     X04143.1
+KEYWORDS    bone gla protein; osteocalcin.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1675)
+  AUTHORS   Celeste,A.J., Rosen,V., Buecker,J.L., Kriz,R., Wang,E.A. and
+            Wozney,J.M.
+  TITLE     Isolation of the human gene for bone gla protein utilizing mouse
+            and rat cDNA clones
+  JOURNAL   EMBO J. 5 (8), 1885-1890 (1986)
+   PUBMED   3019668
+FEATURES             Location/Qualifiers
+     source          1..1675
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+     regulatory      420..425
+                     /regulatory_class="TATA_box"
+     CDS             join(496..559,817..849,1026..1095,1297..1426)
+                     /codon_start=1
+                     /product="BGP"
+                     /protein_id="CAA27763.1"
+                     /db_xref="GDB:118760"
+                     /db_xref="GOA:P02818"
+                     /db_xref="HGNC:HGNC:1043"
+                     /db_xref="InterPro:IPR000294"
+                     /db_xref="InterPro:IPR002384"
+                     /db_xref="UniProtKB/Swiss-Prot:P02818"
+                     /translation="MRALTLLALLALAALCIAGQAGAKPSGAESSKAFVSKQEGSEVV
+                     KRPRRYLYQWLGAPVPYPDPLEPRREVCELNPDCDELADHIGFQEAYRRFYGPV"
+     exon            <496..559
+                     /number=1
+     intron          560..816
+                     /number=1
+     exon            817..849
+                     /number=2
+     intron          850..1025
+                     /number=2
+     exon            1026..1095
+                     /number=3
+     intron          1096..1296
+                     /number=3
+     exon            1297..>1426
+                     /number=4
+     regulatory      1562..1567
+                     /regulatory_class="polyA_signal_sequence"
+ORIGIN      
+        1 acggggctga cagtagaaat cacaggctgt gagacagctg gagcccagct ctgcttgaac
+       61 ctattttagg tctctgatcc ccgcttcctc tttagactcc cctagagctc agccagtgct
+      121 caacctgagg ctgggggtct ctgaggaaga gtgagttgga gctgaggggt ctggggctgt
+      181 cccctgagag aggggccaga ggcagtgtca agagccgggc agtctgattg tggctcaccc
+      241 tccatcactc ccaggggccc ctggcccagc agccgcagct cccaaccaca atatcctctg
+      301 gggtttggcc tacggagctg gggcggatga cccccaaata gccctggcag attcccccta
+      361 gacccgcccg caccatggtc aggcatgccc ctcctcatcg ctgggcacag cccagagggt
+      421 ataaacagtg ctggaggctg gcggggcagg ccagctgagt cctgagcagc agcccagcgc
+      481 agccaccgag acaccatgag agccctcaca ctcctcgccc tattggccct ggccgcactt
+      541 tgcatcgctg gccaggcagg tgagtgcccc cacctcccct caggccgcat tgcagtgggg
+      601 gctgagagga ggaagcacca tggcccacct cttctcaccc ctttggctgg cagtcccttt
+      661 gcagtctaac caccttgttg caggctcaat ccatttgccc cagctctgcc cttgcagagg
+      721 gagaggaggg aagagcaagc tgcccgagac gcaggggaag gaggatgagg gccctgggga
+      781 tgagctgggg tgaaccaggc tccctttcct ttgcaggtgc gaagcccagc ggtgcagagt
+      841 ccagcaaagg tgcaggtatg aggatggacc tgatgggttc ctggaccctc ccctctcacc
+      901 ctggtccctc agtctcattc ccccactcct gccacctcct gtctggccat caggaaggcc
+      961 agcctgctcc ccacctgatc ctcccaaacc cagagccacc tgatgcctgc ccctctgctc
+     1021 cacagccttt gtgtccaagc aggagggcag cgaggtagtg aagagaccca ggcgctacct
+     1081 gtatcaatgg ctggggtgag agaaaaggca gagctgggcc aaggccctgc ctctccggga
+     1141 tggtctgtgg gggagctgca gcagggagtg gcctctctgg gttgtggtgg gggtacaggc
+     1201 agcctgccct ggtgggcacc ctggagcccc atgtgtaggg agaggaggga tgggcatttt
+     1261 gcacgggggc tgatgccacc acgtcgggtg tctcagagcc ccagtcccct acccggatcc
+     1321 cctggagccc aggagggagg tgtgtgagct caatccggac tgtgacgagt tggctgacca
+     1381 catcggcttt caggaggcct atcggcgctt ctacggcccg gtctagggtg tcgctctgct
+     1441 ggcctggccg gcaaccccag ttctgctcct ctccaggcac ccttctttcc tcttcccctt
+     1501 gcccttgccc tgacctccca gccctatgga tgtggggtcc ccatcatccc agctgctccc
+     1561 aaataaactc cagaagagga atctgtgggc ctgtgagtct gtccagttta tggagtgtgg
+     1621 gagggaggtg tcaggaggat gggggtgagg aggttttacc ttcttcagtt ctaga
+//
+

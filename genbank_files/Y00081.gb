@@ -1,0 +1,199 @@
+LOCUS       Y00081                  5961 bp    DNA     linear   PRI 14-NOV-2006
+DEFINITION  Human (BSF-2/IL6) gene for B cell stimulatory factor-2.
+ACCESSION   Y00081
+VERSION     Y00081.1
+KEYWORDS    B cell stimulatory factor-2; BSF-2/IL6 gene; hepatocyte stimulating
+            factor; hybridoma plasmacytoma growth factor; interferon beta II;
+            interleukin 6.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 5961)
+  AUTHORS   Yasukawa,K., Hirano,T., Watanabe,Y., Muratani,K., Matsuda,T.,
+            Nakai,S. and Kishimoto,T.
+  TITLE     Structure and expression of human B cell stimulatory factor-2
+            (BSF-2/IL-6) gene
+  JOURNAL   EMBO J. 6 (10), 2939-2945 (1987)
+   PUBMED   3500852
+REFERENCE   2  (bases 1 to 5961)
+  AUTHORS   Hirano,T. and Kishimoto,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-SEP-1987) Toshio Hirano, Institute for Molecular and
+            Cellular Biology, Osaka University, 1-3, Yamada-oka, Suita, Osaka
+            565, Japan
+FEATURES             Location/Qualifiers
+     source          1..5961
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /cell_type="tonsillar mononuclear cells"
+     misc_feature    879..909
+                     /note="sequence homologous to 5'flanking region of IL2"
+     misc_feature    993..998
+                     /note="enhancer-like element"
+     regulatory      1016..1022
+                     /regulatory_class="promoter"
+                     /note="TATA box like sequence"
+     misc_feature    1027..1032
+                     /note="enhancer-like element"
+     misc_feature    1073..1078
+                     /note="enhancer-like element"
+     misc_feature    1082..1087
+                     /note="enhancer-like element"
+     misc_feature    1084..1089
+                     /note="enhancer-like element"
+     regulatory      1108..1114
+                     /regulatory_class="promoter"
+                     /note="TATA box like sequence"
+     regulatory      1131..1138
+                     /regulatory_class="promoter"
+                     /note="TATA box like sequence"
+     CDS             join(1223..1241,1396..1586,2634..2747,3454..3600,
+                     5342..5509)
+                     /codon_start=1
+                     /product="B cell stimulatory factor-2 (BSF-2)"
+                     /protein_id="CAA68278.1"
+                     /db_xref="GDB:120748"
+                     /db_xref="GOA:P05231"
+                     /db_xref="HGNC:HGNC:6018"
+                     /db_xref="InterPro:IPR003573"
+                     /db_xref="InterPro:IPR003574"
+                     /db_xref="InterPro:IPR009079"
+                     /db_xref="InterPro:IPR012351"
+                     /db_xref="PDB:1ALU"
+                     /db_xref="PDB:1IL6"
+                     /db_xref="PDB:1N2Q"
+                     /db_xref="PDB:1P9M"
+                     /db_xref="PDB:2IL6"
+                     /db_xref="UniProtKB/Swiss-Prot:P05231"
+                     /translation="MNSFSTSAFGPVAFSLGLLLVLPAAFPAPVPPGEDSKDVAAPHR
+                     QPLTSSERIDKQIRYILDGISALRKETCNKSNMCESSKEALAENNLNLPKMAEKDGCF
+                     QSGFNEETCLVKIITGLLEFEVYLEYLQNRFESSEEQARAVQMSTKVLIQFLQKKAKN
+                     LDAITTPDPTTNASLLTKLQAQNQWLQDMTTHLILRSFKEFLQSSLRALRQM"
+     exon            <1223..1241
+                     /number=1
+     intron          1242..1395
+                     /number=1
+     exon            1396..1586
+                     /number=2
+     intron          1587..2633
+                     /number=2
+     exon            2634..2747
+                     /number=3
+     intron          2748..3453
+                     /number=3
+     exon            3454..3600
+                     /number=4
+     intron          3601..5341
+                     /number=4
+     exon            5342..>5509
+                     /number=5
+     regulatory      5831..5836
+                     /regulatory_class="polyA_signal_sequence"
+     regulatory      5909..5914
+                     /regulatory_class="polyA_signal_sequence"
+ORIGIN      
+        1 ggatcctcct gcaagagaca ccatcctgag ggaagagggc ttctgaacca gcttgaccca
+       61 ataagaaatt cttgggtgcc gacgcggaca gagattcaga gcctagagcc gtgcctgcgt
+      121 ccgtactttc cttctagctt cttttgattt caaatcaaga cttagaggga gagggagcga
+      181 taaacacaaa ctctgcaaga tgccacaagg tcctcctttg acatccccaa caaagaggtg
+      241 agtagtaatc tccccctttc tgccctgaac caagtgggct tcagtaattt cagggctcca
+      301 ggagactggg catgcaggtg ccgatgaaac agtggtgaag agactcagtg gcagtgggga
+      361 gagcactggc agcacaggca aacctctggc acaagagcaa agtcctactg gagattccaa
+      421 gggtcacttg ggagagggca ggcagcagcc aacctcctct aagtgggctg aagcaggtga
+      481 agaaatggca gacaagcgcg gtggcaaaaa ggagtcacac actccacctg gagacgcctt
+      541 gaagtaactg cacgaaattt gagggtggcc aggcagtcta caacagccgc tcacagggag
+      601 agccagaaca cagaagaact cagatgactg gtagtattac cttcttcata atccaggctt
+      661 ggggggctgc gatggagtca gaggaaactc agttcagaac atctttggtt tttacaaata
+      721 caaattaact ggaacgctaa attctagcct gttaatctgg tcactgaaaa aaaaattttt
+      781 ttttttcaaa aaacatagct ttagcttatt ttttttctct ttgtaaaact tcgtgcatga
+      841 cttcagcttt actctttgtc aagacatgcc aaagtgctga gtcactaata aaagaaaaaa
+      901 agaaagtaaa ggaagagtgg ttctgcttct tagcgctagc ctcaatgacg acctaagctg
+      961 cacttttccc cctagttgtg tcttgcgatg ctaaaggacg tcacattgca caatcttaat
+     1021 aaggtttcca atcagcccca cccgctctgg ccccaccctc accctccaac aaagatttat
+     1081 caaatgtggg attttcccat gagtctcaat attagagtct caacccccaa taaatatagg
+     1141 actggagatg tctgaggctc attctgccct cgagccaccg ggaacgaaag agaagctcta
+     1201 tctcccctcc aggagcccag ctatgaactc cttctccaca agtaagtgca ggaaatcctt
+     1261 agccctggaa ctgccagccg gtcgagccct gtgtgaggga ggggtgtgtg gcccagggat
+     1321 gcggggcgcc agcagcagag gcaggctccc agctgtgctg tcagtcaccc ctgcgctcgc
+     1381 tcccctccgg cacaggcgcc ttcggtccag ttgccttctc cctggggctg ctcctggtgt
+     1441 tgcctgctgc cttccctgcc ccagtacccc caggagaaga ttccaaagat gtagccgccc
+     1501 cacacagaca gccactcacc tcttcagaac gaattgacaa acaaattcgg tacatcctcg
+     1561 acggcatctc agccctgaga aaggaggtgg gaaggcttgg cgatggggtt gaagggcccg
+     1621 gtgcgatgcg tctcccctcc ctgcgtgtgg gggggctgcc tgcataagga ggtctttgct
+     1681 gggttctaga gcactgtaga tttgaggcca acgacctaga ctgacttctg tatttatcct
+     1741 ttgctggtgt caggaggttc ctttcctttc tggaaaatgc agaatgggtc tgaaatccat
+     1801 gcccaccttt ggcatgagct gagggttatt gcttctcagg gcttcctttt ccctttccaa
+     1861 aaaattaggt ctgtgaagct cctttttgtc ccccgggctt tggaaggact agaaaagtgc
+     1921 cacctgaaag gcatgttcag cttctcagag cagttgcagt actttttggt tatgtaaact
+     1981 caatggttag gattcctcaa agccattcca gctaagattc atacctcaga gcccaccaaa
+     2041 gtggcaaatc ataaataggt taaagcatct ccccactttc aatgcaaggt attttggtcc
+     2101 tgtttggtag aaagaaaaga acacaggagg ggagattggg agcccagact cgaattctgg
+     2161 ttctgccaaa ccagccttgt gatcttgggt aaattcccta ccacctctgg actccatcag
+     2221 taaaattggg ggtggactag gtgatctcat agatccttcc tgctggaaca ttctatggct
+     2281 tgaattatat tctcctaatt attgtcaaaa ttgctgttat taagtatcta ctgtgtgcca
+     2341 ggcactttaa ataaatattg tgtctaatct tcaaaacaaa tttgcaagga aggtttttgg
+     2401 agataaggaa actgagactc aggattaagt aacacaccta aagtcaaagg tgagcttgga
+     2461 actgaaccca agtgtgcccc cactccactg gaatttgctt gccaggatgc caatgagttg
+     2521 tagcttcatt tttcttagag actttcctgg ctgtggttga acaatgaaaa ggccctctag
+     2581 tggtgtttgt tttagggaac ttaggtgata acaattctgg tattctttcc cagacatgta
+     2641 acaagagtaa catgtgtgaa agcagcaaag aggcactggc agaaaacaac ctgaaccttc
+     2701 caaagatggc tgaaaaagat ggatgcttcc aatctggatt caatgaggta ccaacttgtc
+     2761 gcactcactt ttcactattc cttaggcaaa acttctccct cttgcatgca gtcctgtata
+     2821 catatagatc caggcagcaa caaaaagtgg gtaaatgtaa agaatgttat gtaaatttca
+     2881 tgaggaggcc aagttcaagc ttttttaaag gcagtttatt cttggacagg tatggccaga
+     2941 gatggtgcca ctgtggtgag attttaacaa ctgtcaaatg tttaaaactc ccacaggttt
+     3001 aattagttca tcctgggaaa ggtactcgca gggccttttc cctctctggc tgcccctggc
+     3061 agggtccagg tctgccctcc ctccctgccc agctcattct ccacagtgag ataacctgca
+     3121 ctgtcttctg attattttat aaaaggaggt tccagcccag cattaacaag ggcaagagtg
+     3181 caggaagaac atcaaggggg acaatcagag aaggatcccc attgccacat tctagcatct
+     3241 gttgggcttt ggataaaact aattacatgg ggcctctgat tgtccagtta tttaaaatgg
+     3301 tgctgtccaa tgtcccaaaa catgctgcct aagaggtact tgaagttctc tagaggagca
+     3361 gagggaaaag atgtcgaact gtggcaattt taacttttca aattgattct atctcctggc
+     3421 gataaccaat tttcccacca tctttcctct taggagactt gcctggtgaa aatcatcact
+     3481 ggtcttttgg agtttgaggt atacctagag tacctccaga acagatttga gagtagtgag
+     3541 gaacaagcca gagctgtgca gatgagtaca aaagtcctga tccagttcct gcagaaaaag
+     3601 gtgggtgtgt cctcattccc tcaacttggt gtgggggaag acaggctaaa gacagtgtcc
+     3661 tggacaactc agggatgcaa tgccacttcc aaaagagaag gctacacgta aacaaaagag
+     3721 tctgagaaat agtttctgat tgttattgtt aaatcttttt ttgtttgttt ggttggttgg
+     3781 ctctcttctg caaaggacat caataactgt attttaaact atatattaac tgaggtggat
+     3841 tttaacatca atttttaata gtgcaagaga tttaaaacca aaggcggggg ggcgggcaga
+     3901 aaaaagtgcc atccaactcc agccagtgat ccacagaaac aaagaccaag gagcacaaaa
+     3961 tgattttaag attttagtca ttgccaagtg acattcttct cactgtggtt gtttcaattc
+     4021 tttttcctac cttttaccag agagttagtt cagagaaatg gtcagagact caagggtgga
+     4081 aagaggtacc aaaggctttg gccaccagta gctggctatt cagacagcag ggagtagact
+     4141 tgctggctag catgtggagg agccaaagct caataagaag gggcctagaa tgaaaccctt
+     4201 ggtgctgatc ctgcctctgc catttctact taagccaggg tttctcatat gttaacatgc
+     4261 tagggaattc cctgggcatc ttcttgtggt gtggagtctg acttagcaag cctcgggtgg
+     4321 gtttgagggt caaatttcta ccaggcttat atccctggtg atgctgcaga attccaggac
+     4381 cacacttgga ggtttaaggc cttccacaag ttacttatcc catatggtgg gtctatggaa
+     4441 aggtgtttcc cagtcctctt tacaccacca gatcagtggt ctttcaacag atcctaaagg
+     4501 gatggtgaga gggaaactgg agaaaagtat cagatttaga ggccatgaag aacccatatt
+     4561 aaaatgcctt taagtatggg ctcttcattc atatactaaa tatgaactat gtgccaggca
+     4621 ttatttcata tgacagaata caaacaaata agatagtgat gctggtcagg cttggtggct
+     4681 catgcctgta ttccctaaac tttgggagcc taaggtgaga actccttgaa ctcctaaggc
+     4741 caggagttca agaccagcct ggataacata gcaagacccc atctctacaa aaaaccaaaa
+     4801 ccaaacaaac aaaaatgata gtggtgcttc cctcaggatg cttgtggtct aatgggagac
+     4861 agaacagcaa agggatgatt agaagttggt tgctgtgagc caggcacagt gctatataat
+     4921 cccagcgcta tgggaggctg aggtgggtgg atcatttagg ccaggagttt aagaccagcc
+     4981 tggtcaacat ggtaaaaccc catcttactt aaaaatacaa aaaagttagc caggcatggt
+     5041 ggcatacacc tgtaacccag ctactcagga ggctgaggca catgaatcac ttgaacccag
+     5101 gaggcagagg ttgctgtgca ccactgcact ccagcctggg tgacagaacg agaccttgac
+     5161 tcaaaaaaaa aaaaaagaag tttgttgcta tggaagggtc ctactcagag caggcacccc
+     5221 agttaatctc attcacccca catttcacat ttgaacatca tcccatagcc cagagcatcc
+     5281 ctccactgca aaggatttat tcaacattta aacaatcctt tttactttca ttttccttca
+     5341 ggcaaagaat ctagatgcaa taaccacccc tgacccaacc acaaatgcca gcctgctgac
+     5401 gaagctgcag gcacagaacc agtggctgca ggacatgaca actcatctca ttctgcgcag
+     5461 ctttaaggag ttcctgcagt ccagcctgag ggctcttcgg caaatgtagc atgggcacct
+     5521 cagattgttg ttgttaatgg gcattccttc ttctggtcag aaacctgtcc actgggcaca
+     5581 gaacttatgt tgttctctat ggagaactaa aagtatgagc gttaggacac tattttaatt
+     5641 atttttaatt tattaatatt taaatatgtg aagctgagtt aatttatgta agtcatattt
+     5701 atattttaag aagtaccact tgaaacattt tatgtattag ttttgaaata ataatggaaa
+     5761 gtggctatgc agtttgaata tcctttgttt cagagccaga tcatttcttg gaaagtgtag
+     5821 gcttacctca aataaatggc taacttatac atatttttaa agaaatattt atattgtatt
+     5881 tatataatgt ataaatggtt tttataccaa taaatggcat tttaaaaaat tcagcaactt
+     5941 tgagtgtgtc acgtgaagct t
+//
+

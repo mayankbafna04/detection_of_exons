@@ -1,0 +1,121 @@
+LOCUS       HUMPGAMMG               3771 bp    DNA     linear   PRI 07-JAN-1995
+DEFINITION  Human phosphoglycerate mutase (PGAM-M) gene, complete cds.
+ACCESSION   J05073
+VERSION     J05073.1
+KEYWORDS    phosphoglycerate mutase.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 3771)
+  AUTHORS   Tsujino,S., Sakoda,S., Mizuno,R., Kobayashi,T., Suzuki,T.,
+            Kishimoto,S., Shanske,S., DiMauro,S. and Schon,E.A.
+  TITLE     Structure of the gene encoding the muscle-specific subunit of human
+            phosphoglycerate mutase
+  JOURNAL   J. Biol. Chem. 264 (26), 15334-15337 (1989)
+   PUBMED   2549058
+COMMENT     Original source text: Human DNA, clones PGAM4.11 and PGAM5.11.
+            Draft entry and computer-readable sequence for [1] kindly submitted
+            by E.A.Schon, 07-AUG-1989.
+FEATURES             Location/Qualifiers
+     source          1..3771
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /map="7p13-p12"
+     prim_transcript 921..3751
+                     /note="PGAM-M mRNA and introns"
+     CDS             join(963..1376,1480..1660,3549..3715)
+                     /gene="PGAM2"
+                     /note="phosphoglycerate mutase"
+                     /codon_start=1
+                     /protein_id="AAA60073.1"
+                     /db_xref="GDB:G00-120-280"
+                     /translation="MATHRLVMVRHGESTWNQENRFCGWFDAELSEKGTEEAKRGAKA
+                     IKDAKMEFDICYTSVLKRAIPTLWAILDGTDQMWLPVVRTCRFNERHYGGLTGLNKAE
+                     TAAKHGEEQVKIWRRSFDIPPPPMDEKHPYYNSISKERRYAGLKPGELPTCESLKDTI
+                     ARALPFWNEEIVPQIKAGKRVLIAAHGNSLRGIVKHLEGMSDQAIMELNLPTGIPIVY
+                     ELNKELKPTKPMQFLGDEETVRKAMEAVAAQGKAK"
+     gene            join(963..1376,1480..1660,3549..3714)
+                     /gene="PGAM2"
+     exon            <963..1376
+                     /gene="PGAM2"
+                     /note="phosphoglycerate mutase, (EC 2.7.5.3)"
+                     /number=1
+     intron          1377..1479
+                     /note="PGAM-M intron A"
+     exon            1480..1660
+                     /gene="PGAM2"
+                     /number=2
+     intron          1661..3548
+                     /note="PGAM-M intron B"
+     exon            3549..>3715
+                     /note="phosphoglycerate mutase"
+                     /number=3
+ORIGIN      Chromosome 7.
+        1 ccatggcccc ttcattaggg ccccaattgt gactttattg ctcatagtct cttccctgcc
+       61 ttggtggctc tcatccccca aacctgaatg cagaagtctt ggtcctagac tcaactccgt
+      121 gccacccttc agcctacgtt gtgggttcct gctaagctga gcatttacct aacaatcaag
+      181 acttctgaca gtcctcagtc ctgcccccaa acccccttgg atttctcttt ttcaaggtgg
+      241 tttcggctag gagagtgagc gtggcttggg tgagggcaga tagggtggga gcatggggca
+      301 tgtatggatg agaccttgac aaagggaccc cggaggaaag acaggggccc tttccccctt
+      361 tgtcctggaa acccggctca gccccagccc ttgcccattc tgctgctgct gcctggtacc
+      421 ttccacaagg ccagactcct ctccacaaag ctgtggtctg caccagctcc tctggctctc
+      481 ctcctctgcc tgctgagggc cgcctcctag cctggctgcc aatcacagga gaaaggggtt
+      541 gggattttgt ttgtgcctct gtctgagcag agaatggctg ataggcactg agcgttgccc
+      601 tggagagccc ctctgtccct gctatcccca tctcccctgg cccagacttc tgcccttcac
+      661 gcccatccct gaccagcagc cccactcagt ctgggctctg ggtgccagct gtatagacat
+      721 gccacctgaa cccaggccag agctggtgat gcgtggggct attttaagca cagcctcttg
+      781 gcctgcacac tcccctggcc cccagccccc agcagctcag ctactggtca cctgccaccg
+      841 cctggaatgc tgattggcag ttggctgggg tgggtggggg ctgggaagac actattataa
+      901 agctgggagt gttgggaagc agccgtcccc gtccagagtc ctctgtggtc cctgctgcca
+      961 ccatggccac tcaccgcctc gtgatggtcc ggcacggcga gagcacatgg aaccaggaga
+     1021 accgtttctg tggctggttc gatgcagagc tgagtgaaaa ggggaccgag gaggccaagc
+     1081 ggggagccaa ggccatcaag gatgccaaga tggagtttga catctgctac acgtcagtgc
+     1141 tgaagcgggc catcccgacc ctctgggcca tcctggacgg cacggaccag atgtggctgc
+     1201 ctgtggtgcg cacttgccgc ttcaatgagc ggcattacgg gggcctcaca ggcctcaaca
+     1261 aggcagaaac ggccgccaag cacggggagg agcaggtgaa gatctggagg cgctccttcg
+     1321 acatcccgcc gcccccgatg gacgagaagc acccctacta caactccatt agcaaggtgg
+     1381 gctgcctttg ctgggaaggc ctctgggaag ctgcagagtg gggagtcggg tgggggccca
+     1441 ctggcttggg agggaaagca gcgtgcctgt gtcccccagg agcgtcggta cgcaggcctg
+     1501 aagcccgggg aactccccac ctgcgagagc ctcaaggaca ccattgcccg ggccctgccc
+     1561 ttctggaacg aggagattgt tccccagatc aaggccggca agcgagtgct cattgcagcc
+     1621 cacgggaaca gcctgcgggg cattgtcaag cacctggaag gtaggccacc ttcaggagcc
+     1681 tgggcagggt gggtgggcag cagccagctg gcttctcatc tcagcaaagt ctctcgccat
+     1741 gaccagcttt ctagcgtggc tccacatcat tcactgaaaa gaggctgaga agccattttt
+     1801 tagttttgtg aaattttccc catttctgtg taactggaca cactccacag gggctgactg
+     1861 cactcgaagc tcgctgtgtc ccgaggtggg gcaggctcca aaggtggcat ctgccaaggg
+     1921 acacccagct aggaaacgga agggctgggc ttagagcatc tggctccaaa tcccaactta
+     1981 ctgtggggcc ctggacaagc cacctccatc tctgggcctc tcccttttcc ggggtggtgg
+     2041 ggagctcccc ctggtactga attcctcttg atgtaggctt ggacccctcg cagggccctc
+     2101 ccccatcagg tcctcagaat ccctgcatga gcttcaccac ctatctccct ctggagcccc
+     2161 tctctgggca aaggaaagac caatcaaaag aggggtgcag gactatggag tggccagact
+     2221 ctgggcttgc agctgggctc ccactgaaga gcaagggctg acaaatgggc ccgggatgca
+     2281 tgggcgcagt aaggcctcgc ccagagtgac tggcacctcc gtccgcctcc caccttagta
+     2341 ttctgacaca agggcagtct aaattagcat ctgaatgacc ttaaagcttg ttgagtcctg
+     2401 gaaaggctag aagggtgtgc cccagacctc ctgctcctag ggccgttggg cagttggcca
+     2461 gagcacccag accggcaggc cccggagacc cagccagccc caagcctgcc cgctccaaac
+     2521 acggacacct ggcacctggc actggggcca ggcagaggga aggaccacct gcctcctctc
+     2581 ccttccggag acttcatgca gccccatgac cctcccacag cctggtttgg ggaaagggga
+     2641 cgcacttttg gtggtgaata tgagggattt cactctgact ccccagagaa cattttctta
+     2701 aacccctccc tgcacggagc aggggtggag tggcgcgaac atcaaaggtc gagctgctat
+     2761 tcccagctca ggggctgcag gaggcaggca gggtcaggtt tcgaccaggc tcggcctccc
+     2821 tgtccctcct ccagctccat tccgcacttg ctcctctgtt caggatgtct agaatttaga
+     2881 gcactttaga aacaaagggt gctgggcacg gtggctcact cctgtaatcc cagcactttg
+     2941 ggaggctgag gcaggcagat cacctgaggt caggagtttg agaccagcct gaccaacatg
+     3001 gtaaaacccg tttctactaa aaatacaaaa ttagccgggt gtggtggcgc tcacctgtaa
+     3061 tcccagctac ttgggaggct gaggcagaat cacttcaacc caggagatgg aggttgcagt
+     3121 gagccaagat cgtgccactg cactccagcc tgggcaagag gagtaaaact ccatctcaaa
+     3181 aaaaagaaaa agaaaaagaa aagaaaaaaa aaaaccaaag ggtgagtgtc ccttcctgac
+     3241 cctcaacttc agtctggctg gagtcacact gggctgaggg aactatggac agcaccacca
+     3301 cagatcacag ccacttgggt ggggctgaag tccccatttt tttcaccact gggctatttc
+     3361 tgtaggctgc ttggtctaac tcagttactc cttgaccttt ggcaacattt ctgtggcctc
+     3421 gttctcaggg ctgggaagga attggtgcca ggggaactgg ctctgtggac cataaaggtc
+     3481 acatagtgtc tgctgtgtaa acaggctggg gacagagggg ctaaggacac ctattccttc
+     3541 cggcataggg atgtcagacc aggcgatcat ggagctgaac ctgcccacgg ggatccccat
+     3601 tgtgtatgag ctgaacaagg agctgaagcc caccaagccc atgcagttcc tgggtgatga
+     3661 ggaaacggtg cggaaggcca tggaggctgt ggctgcccag ggcaaggcca agtgaggggt
+     3721 gggcttgggc aataaaggca cctcccccaa cagcctggag tctccagcgc a
+//
+

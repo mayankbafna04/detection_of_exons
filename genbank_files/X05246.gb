@@ -1,0 +1,101 @@
+LOCUS       X05246                  1911 bp    DNA     linear   PRI 18-APR-2005
+DEFINITION  Human testis-specific PGK-2 gene for phosphoglycerate kinase
+            (ATP:3-phospho-D-glycerate 1-phosphotransferase, EC 2.7.2.3).
+ACCESSION   X05246 Y00261
+VERSION     X05246.1
+KEYWORDS    phosphoglycerate kinase.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1911)
+  AUTHORS   McCarrey,J.R. and Thomas,K.
+  TITLE     Human testis-specific PGK gene lacks introns and possesses
+            characteristics of a processed gene
+  JOURNAL   Nature 326 (6112), 501-505 (1987)
+   PUBMED   3453121
+FEATURES             Location/Qualifiers
+     source          1..1911
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+     CDS             71..1324
+                     /note="unnamed protein product; PGK (AA 1-417)"
+                     /codon_start=1
+                     /protein_id="CAA28872.1"
+                     /db_xref="GDB:119488"
+                     /db_xref="GOA:P07205"
+                     /db_xref="HGNC:HGNC:8898"
+                     /db_xref="InterPro:IPR001576"
+                     /db_xref="InterPro:IPR015824"
+                     /db_xref="InterPro:IPR015901"
+                     /db_xref="InterPro:IPR015911"
+                     /db_xref="UniProtKB/Swiss-Prot:P07205"
+                     /translation="MSLSKKLTLDKLDVRGKRVIMRVDFNVPMKKNQITNNQRIKASI
+                     PSIKYCLDNGAKAVVLMSHLGRPDGVPMPDKYSLAPVAVELKSLLGKDVLFLKDCVGA
+                     EVEKACANPAPGSVILLENLRFHVEEEGKGQDPSGKKIKAEPDKIEAFRASLSKLGDV
+                     YVNDAFGTAHRAHSSMVGVNLPHKASGFLMKKELDYFAKALENPVRPFLAILGGAKVA
+                     DKIQLIKNMLDKVNEMIIGGGMAYTFLKVLNNMEIGASLFDEEGAKIVKDIMAKAQKN
+                     GVRITFPVDFVTGDKFDENAQVGKATVASGISPGWMGLDCGPESNKNHAQVVAQARLI
+                     VWNGPLGVFEWDAFAKGTKALMDEIVKATSKGCITVIGGGDTATCCAKWNTEDKVSHV
+                     STGRGASLELLEGKILPGVEALSNM"
+     misc_feature    135..136
+                     /note="position of intron I in PGK-1"
+     misc_feature    186..187
+                     /note="position of intron II in PGK-1"
+     misc_feature    342..343
+                     /note="position of intron III in PGK-1"
+     misc_feature    487..488
+                     /note="position of intron IV in PGK-1"
+     misc_feature    591..592
+                     /note="position of intron V in PGK-1"
+     misc_feature    711..712
+                     /note="position of intrion VI in PGK-1"
+     misc_feature    826..827
+                     /note="position of intron VII in PGK-1"
+     misc_feature    1006..1007
+                     /note="position of intron VIII in PGK-1"
+     misc_feature    1184..1185
+                     /note="position of intron IX in PGK-1"
+     misc_feature    1224..1888
+                     /note="polyA rich sequence"
+     misc_feature    1283..1284
+                     /note="position of intron X in PGK-1"
+     misc_feature    1711..1716
+                     /note="polyA signal"
+ORIGIN      
+        1 gcccctcaac agcaagttgg ttcttcagca ttaagatcca ggtgtcagcc tatgtcttta
+       61 tattgtcaag atgtctcttt ctaagaagtt gactttagac aaactggatg ttagagggaa
+      121 gcgagtcatc atgagagtag acttcaatgt tcccatgaag aagaaccaga ttacaaacaa
+      181 ccagaggatc aaggcttcca tcccaagcat caagtactgc ctggacaatg gagccaaggc
+      241 agtagttctt atgagtcatc taggtcggcc tgatggtgtt cccatgcctg acaaatattc
+      301 cttagcacct gttgctgttg agctcaaatc cttgctgggc aaggatgttc tgttcctgaa
+      361 ggactgtgta ggcgcagaag tggagaaagc ctgtgccaac ccagctcctg gttcagtcat
+      421 cctgctggag aacctgcgct ttcatgtgga ggaagaaggg aagggccaag atccctctgg
+      481 aaagaagatt aaagctgagc cagataaaat agaagccttc cgagcatcac tttccaagct
+      541 aggggacgtc tatgtcaatg atgcttttgg cactgcacac cgcgctcata gttccatggt
+      601 gggagtgaat ctgccccata aagcatccgg attcttgatg aagaaggaac tagattactt
+      661 tgctaaagcc ttggaaaacc cagtgagacc ctttctggct atacttggtg gagccaaagt
+      721 ggcagacaag atccaactta tcaaaaatat gctggacaaa gtcaatgaga tgattattgg
+      781 tggtggaatg gcttatacct tccttaaggt actcaacaac atggagattg gtgcttccct
+      841 gtttgatgaa gagggagcca agatcgttaa agatatcatg gccaaagcac aaaagaatgg
+      901 tgtaaggatt acttttcctg ttgattttgt tactggggac aagtttgacg agaacgctca
+      961 ggttggaaaa gccactgtag catctggcat atctcctggc tggatgggtt tggactgtgg
+     1021 tcctgagagc aacaagaatc atgctcaagt tgtggctcaa gcaaggctaa ttgtttggaa
+     1081 tgggccgtta ggagtatttg aatgggatgc ctttgctaag ggaaccaaag ccctcatgga
+     1141 tgaaattgtg aaagccactt ccaagggctg catcactgtt atagggggtg gagacactgc
+     1201 tacttgctgt gccaaatgga acactgaaga taaagtcagc catgtcagca ctggacgcgg
+     1261 tgccagtcta gagcttctgg aaggtaaaat ccttcctgga gtagaggccc tcagcaacat
+     1321 gtagttaata tagtgttact tccttctgtt ttctgtccat ggcccttaag tcagcttaat
+     1381 gcttttacat ctcgatgtga cttttgttaa aatctactcc tagatcaaga cctatgtaat
+     1441 ggacaagcag caggccatca ggaactctta atatcagcac agcaattcat tttagtttgg
+     1501 tcacgcattt gcctgttcaa gttctcattt gaacttcacc attgtgctat ctagggagga
+     1561 catattctta agttgcctat taaagaaagt gagctgaaga aactgaatct ttttatttta
+     1621 gtccaacttt gctattgttt cataatttga aacccaaaag ataaaactta atttgttggg
+     1681 aaagggtgga atgaaagttg acaaacaaac aataaatatg cccaaataaa ctgagaaaaa
+     1741 taattacata taaagaactc atgggtacca ttaaagttct gctaagggga aatgttatac
+     1801 taaataggac caaaaaaaag agaaatgaaa gacacttatt aaaccaagga atttttaaaa
+     1861 agaaaagaaa ttaaactcaa ggtaagaatt atgtttgtgt gcattatcaa t
+//
+

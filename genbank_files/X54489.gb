@@ -1,0 +1,119 @@
+LOCUS       X54489                  1895 bp    DNA     linear   PRI 14-NOV-2006
+DEFINITION  Human gene for melanoma growth stimulatory activity (MGSA).
+ACCESSION   X54489
+VERSION     X54489.1
+KEYWORDS    beta-thromboglobulin; beta-thromboglobulin superfamily; growth
+            factor; melanoma growth stimulatory activity.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1895)
+  AUTHORS   Baker,N.E., Kucera,G. and Richmond,A.
+  TITLE     Nucleotide sequence of the human melanoma growth stimulatory
+            activity (MGSA) gene
+  JOURNAL   Nucleic Acids Res. 18 (21), 6453 (1990)
+   PUBMED   2129556
+REFERENCE   2  (bases 1 to 1895)
+  AUTHORS   Richmond,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-AUG-1990) Richmond A., Vanderbilt University, Dept.
+            of Cell Biology, Nashville, Tennessee 37232, USA
+COMMENT     See also X12510.
+FEATURES             Location/Qualifiers
+     source          1..1895
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /tissue_type="blood"
+                     /clone_lib="lambda fix blood genomic"
+     regulatory      21..27
+                     /regulatory_class="TATA_box"
+     gene            51..1895
+                     /gene="MGSA"
+     mRNA            join(51..229,328..451,565..648,1180..1895)
+                     /gene="MGSA"
+     prim_transcript 51..1895
+                     /gene="MGSA"
+     exon            51..229
+                     /gene="MGSA"
+                     /number=1
+     CDS             join(130..229,328..451,565..648,1180..1195)
+                     /gene="MGSA"
+                     /codon_start=1
+                     /product="melanoma growth stimulatory activity preprotein"
+                     /protein_id="CAA38361.1"
+                     /db_xref="GDB:120181"
+                     /db_xref="GOA:P09341"
+                     /db_xref="HGNC:HGNC:4602"
+                     /db_xref="InterPro:IPR001089"
+                     /db_xref="InterPro:IPR001811"
+                     /db_xref="InterPro:IPR002473"
+                     /db_xref="InterPro:IPR018048"
+                     /db_xref="PDB:1MGS"
+                     /db_xref="PDB:1MSG"
+                     /db_xref="PDB:1MSH"
+                     /db_xref="PDB:1ROD"
+                     /db_xref="UniProtKB/Swiss-Prot:P09341"
+                     /translation="MARAALSAAPSNPRLLRVALLLLLLVAAGRRAAGASVATELRCQ
+                     CLQTLQGIHPKNIQSVNVKSPGPHCAQTEVIATLKNGRKACLNPASPIVKKIIEKMLN
+                     SDKSN"
+     mat_peptide     join(330..451,565..648,1180..1192)
+                     /gene="MGSA"
+                     /product="melanoma growth stimulatory activity protein"
+     sig_peptide     130..329
+                     /gene="MGSA"
+     intron          230..327
+                     /gene="MGSA"
+                     /number=1
+     exon            328..451
+                     /gene="MGSA"
+                     /number=2
+     intron          452..564
+                     /gene="MGSA"
+                     /number=2
+     exon            565..648
+                     /gene="MGSA"
+                     /number=3
+     intron          649..1179
+                     /gene="MGSA"
+                     /number=3
+     exon            1180..1895
+                     /gene="MGSA"
+                     /number=4
+ORIGIN      
+        1 gctttccagc cccaaccatg cataaaaggg gttcgcggat ctcggagagc cacagagccc
+       61 gggccgcagg cacctcctcg ccagctcttc cgctcctctc acagccgcca gacccgcctg
+      121 ctgagcccca tggcccgcgc tgctctctcc gccgccccca gcaatccccg gctcctgcga
+      181 gtggcactgc tgctcctgct cctggtagcc gctggccggc gcgcagcagg tgggtaccgg
+      241 cgccctgggg tccccgggcc ggacgcggct ggggtaggca cccagcgccg acagcctcgc
+      301 tcagtcagtg agtctcttct tccctaggag cgtccgtggc cactgaactg cgctgccagt
+      361 gcttgcagac cctgcaggga attcacccca agaacatcca aagtgtgaac gtgaagtccc
+      421 ccggacccca ctgcgcccaa accgaagtca tgtaagtccc gccccgcgct gcctctgcca
+      481 ccgccggggt cccagaccct cctgctgccc caaccctgtc cccagcccga cctcctgcct
+      541 cacgagattc ccttccctct gcagagccac actcaagaat gggcggaaag cttgcctcaa
+      601 tcctgcatcc cccatagtta agaaaatcat cgaaaagatg ctgaacaggt gagttatggt
+      661 ttccatgtac acaggcgact ggagccgttg gtcagaaata ctggcatgtg ccccctaaaa
+      721 ataaaatcag gaaaacccag gggttagttg aaggactaga aattgggatt attgttttca
+      781 caattaaggt ttcctttacg ataattactg ctctggtgcc agaggatatt cccaatgcct
+      841 ggcgtcccca ccctggttct tccttcgttc caatgaatgt aggtaaaact gccttcattt
+      901 gaggcccagt aggacaaaca gcaacaggtt ctggctgttt ttaatccaat agtacagtgg
+      961 agaccaccgc cccaccccac ccccattcct aaaagagcat cccaagctta gaggtccctg
+     1021 ccacacagca cagctgtcat aggcagtagc cacttggttg ccaggctggg gaaactgcat
+     1081 tcggagaact ctagaggctg gaggagcagg gcaggagaag agtgttgtgc aatcagcttt
+     1141 cccgagcacc tactcagggc acccattttc tcattgcagt gacaaatcca actgaccaga
+     1201 agggaggagg aagctcactg gtggctgttc ctgaaggagg ccctgccctt ataggaacag
+     1261 aagaggaaag agagacacag ctgcagaggc cacctggatt gtgcctaatg tgtttgagca
+     1321 tcgcttagga gaagtcttct atttatttat ttattcatta gttttgaaga ttctatgtta
+     1381 atattttagg tgtaaaataa ttaagggtat gattaactct acctgcacac tgtcctatta
+     1441 tattcattct ttttgaaatg tcaaccccaa gttagttcaa tctggattca tatttaattt
+     1501 gaaggtagaa tgttttcaaa tgttctccag tcattatgtt aatatttctg aggagcctgc
+     1561 aacatgccag ccactgtgat agaggctggc ggatccaagc aaatggccaa tgagatcatt
+     1621 gtgaaggcag gggaatgtat gtgcacatct gttttgtaac tgtttagatg aatgtcagtt
+     1681 gttatttatt gaaatgattt cacagtgtgt ggtcaacatt tctcatgttg aaactttaag
+     1741 aactaaaatg ttctaaatat cccttggaca ttttatgtct ttcttgtaag gcatactgcc
+     1801 ttgtttaatg gtagttttac agtgtttctg gcttagaaca aaggggctta attattgatg
+     1861 ttttcataga gaatataaaa ataaagcact tatag
+//
+

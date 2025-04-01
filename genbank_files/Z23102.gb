@@ -1,0 +1,110 @@
+LOCUS       Z23102                  2093 bp    DNA     linear   PRI 14-NOV-2006
+DEFINITION  H.sapiens gene for RNA polymerase II 14.5 kDa subunit.
+ACCESSION   Z23102
+VERSION     Z23102.1
+KEYWORDS    RNA polymerase II.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2093)
+  AUTHORS   Acker,J., Wintzerith,M., Vigneron,M. and Kedinger,C.
+  TITLE     Structure of the gene encoding the 14.5 kDa subunit of human RNA
+            polymerase II
+  JOURNAL   Nucleic Acids Res. 21 (23), 5345-5350 (1993)
+   PUBMED   8265347
+REFERENCE   2  (bases 1 to 2093)
+  AUTHORS   Kedinger,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-JUN-1993) claude Kedinger, U184INSERM-LGME UPR6520
+            CNRS-Inst.Chimie Biol.ULP, Strasbourg, 11, rue Humann, Strasbourg,
+            Alsace, 67085, France
+FEATURES             Location/Qualifiers
+     source          1..2093
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /cell_line="HeLa cells"
+     regulatory      1..372
+                     /regulatory_class="promoter"
+     mRNA            join(373..448,533..587,834..907,996..1070,1181..1232,
+                     1430..>1530)
+     exon            373..448
+                     /number=1
+     CDS             join(390..448,533..587,834..907,996..1070,1181..1232,
+                     1430..1492)
+                     /codon_start=1
+                     /product="RNA Polymerase II subunit 14.5 kD"
+                     /protein_id="CAA80649.1"
+                     /db_xref="GDB:250749"
+                     /db_xref="GOA:P36954"
+                     /db_xref="HGNC:HGNC:9196"
+                     /db_xref="InterPro:IPR001222"
+                     /db_xref="InterPro:IPR001529"
+                     /db_xref="InterPro:IPR019761"
+                     /db_xref="UniProtKB/Swiss-Prot:P36954"
+                     /translation="MEPDGTYEPGFVGIRFCQECNNMLYPKEDKENRILLYACRNCDY
+                     QQEADNSCIYVNKITHEVDELTQIIADVSQDPTLPRTEDHPCQKCGHKEAVFFQSHSA
+                     RAEDAMRLYYVCTAPHCGHRWTE"
+     intron          449..532
+                     /number=1
+     exon            533..587
+                     /number=2
+     intron          588..833
+                     /number=2
+     exon            834..907
+                     /number=3
+     intron          908..995
+                     /number=3
+     misc_feature    930
+                     /note="That base was not found in an independent allele.
+                     The intron 3 can therefore be shorter by one base pair."
+     exon            996..1070
+                     /number=4
+     intron          1071..1180
+                     /number=4
+     exon            1181..1232
+                     /number=5
+     intron          1233..1429
+                     /number=5
+     exon            1430..>1530
+                     /number=6
+ORIGIN      
+        1 gagctcgccc agtccgcgaa gggtaaactc gcgcatgcgc actggccttc aaccaagcca
+       61 agcgccttgg cttctgtcct ggatgctcag tgttttgcgg tttacgatgc gcatcgtttt
+      121 cccggctctg gcaccagatc catactattc tgtaaactga ggcggcgatg cccaaaaatt
+      181 ggaagcaatt actctaagat atcaaaagat tgaagcaagc catgaaacct ctgcgcggag
+      241 agagccgagc ccgaggcggc ggggagccag caagtgtgcg cagctccgcc ctcttttggc
+      301 gaagcaccta ggcctggccc ctcccgcgac ctgtagcgcg gcggagcaag cgcagaaggc
+      361 tgggagggct gcgcgggctg cgcgtcgcca tggagcccga cgggacttac gagccgggct
+      421 tcgtgggtat tcgcttctgc caggaatggt gaggcggagg gagcgggtga tgttagaagg
+      481 cgggcgagga atggctccag gactaacccc tggcacctcc ccctccccac agtaacaaca
+      541 tgctgtaccc caaggaagac aaggagaacc gcattctgct ctacgcggtg agcgccgggg
+      601 tcttccccgg caggtccacc tgttcccagc gtggccccgc cctgccccct gcctctgtga
+      661 tcggactccc tgttcgccct ccgctgcacc tcaagtgatc ctgactctca tgtcctgccc
+      721 atccccaaag agagtcctgt cgtcatatcc tccgggatca ccctgccctc tcctcccaat
+      781 cttgtctgga atccttccgt gacccccttt cccccacact cgccctctcg tagtgccgga
+      841 actgtgatta ccagcaggag gccgacaaca gctgcatcta tgtcaacaag atcacgcacg
+      901 aagtggagtg agtggcgggc cctgagctgg ggggcggggg tgttggctct ggaggctggg
+      961 tctgagcgta attttgcacc cccgcgtccc tgcagcgaac tgacccagat tatcgccgac
+     1021 gtgtcccagg accccacgtt gccgcggacc gaggaccacc cgtgccaaaa gtgagcgttc
+     1081 agctggtact ggggaggtaa agtgaggctc gtctcctcac tgggcgaagg gaggagggaa
+     1141 gggtgtgaag cctccggtga ccgagcccct accctctcag gtgcggccac aaggaggctg
+     1201 tgttcttcca gtcacacagt gcgcgggccg aggtaagtgg cgcgagggct ttctaagtat
+     1261 ctggggcttg tttggtcctt tctgggggcg gggatatcaa tgtgggtgac cctgcgcttc
+     1321 ttggaactct gccgggccct tacctattgg tgaagttctc ttgcctgttc ttttggggta
+     1381 aggcgctgct gggtccaaat ccttcctaac catgcatcat ttctgccagg acgccatgcg
+     1441 cctttactac gtgtgcacag ccccacactg cggccaccgc tggaccgagt gacctcctct
+     1501 ctcccccgag tgtaataaac accagattcc atgcgtgagt tttctgtgtt tatttgcctc
+     1561 gtggggagga cgctggcaca ccgtatcagg ctgcgcggtg cagggcgcgg tgctgtgcgt
+     1621 aggtgtcggg ccgggagctg gtgaagccgc agtcctcgca cacgtgcagc ttctcgcggc
+     1681 gctcacggta agcgtagctg gcccggcctg tccatgcacc ttagcaaggt gagcttccag
+     1741 ggagcagcgc tgcgtaaacg ctttcccgca agcactggag cggaagggcc ggatccctgc
+     1801 acagatgggc gcagagggga gggctggaca gagagggcaa tgggctctgg actaaagcgc
+     1861 ccccaccctg ctttccagtg gcgagcattt ctggtaccta ttccaagctc tacagactct
+     1921 tccgcccatg acccaccatc tgctaccgac acccagtgga gacatgggac agacacctgt
+     1981 gtctccactc tcccacacca ggatgctccc tcccctgggg gatggagagg gaggccttcc
+     2041 cttgcctcgc gatctggagc ctgaatcgta taaccggcat ccgtctacac tct
+//
+

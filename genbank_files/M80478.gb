@@ -1,0 +1,143 @@
+LOCUS       HUMGPIX                 3207 bp    DNA     linear   PRI 10-JAN-1997
+DEFINITION  Human platelet glycoprotein IX precursor (gpIX) gene, complete cds.
+ACCESSION   M80478
+VERSION     M80478.1
+KEYWORDS    platelet glycoprotein IX; transcription factor.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (sites)
+  AUTHORS   Hickey,M.J., Deaven,L.L. and Roth,G.J.
+  TITLE     Human platelet glycoprotein IX. Characterization of cDNA and
+            localization of the gene to chromosome 3
+  JOURNAL   FEBS Lett. 274 (1-2), 189-192 (1990)
+   PUBMED   2253772
+REFERENCE   2  (bases 1 to 3207)
+  AUTHORS   Hickey,M.J. and Roth,G.J.
+  TITLE     Characterization of the gene encoding human platelet glycoprotein
+            IX
+  JOURNAL   J. Biol. Chem. 268 (5), 3438-3443 (1993)
+   PUBMED   8429020
+REFERENCE   3  (bases 1 to 3207)
+  AUTHORS   Roth,G.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-FEB-1992) Gerald J. Roth, Hematology, Seattle VA
+            Medical Center, Seattle, WA 98108, USA
+REFERENCE   4  (bases 1 to 3207)
+  AUTHORS   Roth,G.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-JAN-1997) Gerald J. Roth, Hematology, Seattle VA
+            Medical Center, Seattle, WA 98108, USA
+  REMARK    Sequence update by submitter
+COMMENT     On Jan 10, 1997 this sequence version replaced gi:1431634.
+FEATURES             Location/Qualifiers
+     source          1..3207
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="3"
+                     /tissue_type="liver"
+                     /dev_stage="fetus"
+                     /tissue_lib="EMBL"
+     gene            620..2313
+                     /gene="gpIX"
+     protein_bind    620..625
+                     /gene="gpIX"
+                     /note="transcription factor, also known as GF-1, NF-E1,
+                     and Eryf-1; putative"
+                     /bound_moiety="GATA-1"
+     regulatory      650..655
+                     /regulatory_class="GC_signal"
+                     /gene="gpIX"
+     exon            687..758
+                     /gene="gpIX"
+     intron          759..1401
+                     /gene="gpIX"
+     exon            1402..1527
+                     /gene="gpIX"
+     intron          1528..1635
+                     /gene="gpIX"
+     exon            1636..2313
+                     /gene="gpIX"
+                     /note="putative"
+     CDS             1648..2181
+                     /gene="gpIX"
+                     /note="putative"
+                     /codon_start=1
+                     /product="platelet glycoprotein IX precursor"
+                     /protein_id="AAB40042.1"
+                     /translation="MPAWGALFLLWATAEATKDCPSPCTCRALETMGLWVDCRGHGLT
+                     ALPALPARTRHLLLANNSLQSVPPGAFDHLPQLQTLDVTQNPWHCDCSLTYLRLWLED
+                     RTPEALLQVRCASPSLAAHGPLGRLTGYQLGSCGWQLQASWVRPGVLWDVALVAVAAL
+                     GLALLAGLLCATTEALD"
+     sig_peptide     1648..1695
+                     /gene="gpIX"
+     mat_peptide     1696..2175
+                     /gene="gpIX"
+                     /product="platelet glycoprotein IX"
+     old_sequence    2011..2022
+                     /gene="gpIX"
+                     /note="ggcccgctg in old_sequence"
+                     /citation=[1]
+     regulatory      2281..2286
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="gpIX"
+ORIGIN      
+        1 aagctttatg tcactaacat aaatggaaaa tggtgtccct cccctaagta gaatgtgctc
+       61 tagaagaaaa tgtactgcaa atgttaaaac cataggccaa aattctagct agagattcac
+      121 acttggtaga ggctctgctt cccaggccta cagctgtttg ttagaaagag gcatggagaa
+      181 gcactaggca ggagctaaaa acaccatggc accaagaaga gactccgtcc ttgagtatac
+      241 aggaggaggg aggagagtta aaaatgaagt cactctcccc accatggtgt tctcagccag
+      301 tgggagctgc ccagcccaca cctctgtgag gcaggcagga ccggtcactg ctcccacttt
+      361 acagatgagg aaaactgaga ttcggaggaa caaccagcag agccacgttt ctcaggggtc
+      421 tcctagttcc caccttctgg gagcaggtga ggggccaccc tcagtcctcc acagacctga
+      481 ttccaaagcc catcaaggca ctggcggcac agtgggaccc ccttctataa accggggttg
+      541 agatgtggtt ctgtgcccaa ggcgcgggcc cctgagcggc tcctgcctct ggaaataggc
+      601 cccaaggctg cactgggggg ataagccagg ctattttcat cacttccttc cgcccgctcc
+      661 cgcagcggcc acctcagctg tatcccatag agttgccacc caggcctcag ccaggacctt
+      721 tcaggccaga caggagcacc tgaccaaagg cttcacaggt aagtggccct ccgtattacc
+      781 cagcatggcc tcccacaggg agagaggagg tcagttcctg tccctttaac aagacagggt
+      841 tgggtgggac attccctctg agacaccatc tccttggctg agtcaagatg agtgagttga
+      901 tttgacactt attcactgga aacctgctgt gggtaggggg agctctgctg gtggagggga
+      961 aacgcctgtg gggaagaacc aaacagaggg ccacggttgc cgagacccga gtgtgagtct
+     1021 ggcctctgac accacaccgg tggccctggg cacattgctt tccctctctg ggcctcagtt
+     1081 tccccaagtc agtgttagcc cagatgagtg gttttccaga tggggtccca ctgagttccc
+     1141 ctccctgctc cagccagtgt ccctgtcctg ctgtcttctg catctgggaa tcaggtaaca
+     1201 gctcacttag ctggtggggg gtgctgggcg cagcctgcag ggccctccaa ggctctttcc
+     1261 tagtctctgg ggactgtggt cctgggctgg gactcattta gcagccatct gctcctctca
+     1321 tccccaagca ggggatgggg tctctgctaa gggccaggaa gtcccttccc cttcccaaaa
+     1381 acaaacttac ccaatccaca gccgccctca ccgcccggcc ttctacggtg tccagagaca
+     1441 gttagccagg cctgggctgg gcacactcca ccttccctag tcaccagctg gtttcccaga
+     1501 ggagaaggct gagacccgag aagggaggtg agtgcacccc gtcccatgtc aggctccgct
+     1561 acatccccag tgcttgccgt ccctgaggat cggtccaggc tgccaggccc tccctcacag
+     1621 cccctctctc tgcagccagc ctgtcccatg cctgcctggg gagccctgtt cctgctctgg
+     1681 gccacagcag aggccaccaa ggactgcccc agcccatgta cctgccgcgc cctggaaacc
+     1741 atggggctgt gggtggactg caggggccac ggactcacgg ccctgcctgc cctgccggcc
+     1801 cgcacccgcc accttctgct ggccaacaac agccttcagt ccgtgccccc gggagccttt
+     1861 gaccacctgc cccagctgca gaccctcgat gtgacgcaga acccctggca ctgtgactgc
+     1921 agcctcacct atctgcgcct ctggctggag gaccgcacgc ccgaggccct gctgcaggtc
+     1981 cgctgtgcca gccccagcct cgctgcccat ggcccgctgg gccggctgac aggctaccag
+     2041 ctgggcagct gtggctggca gctgcaggcg tcctgggtgc gcccgggggt cttgtgggac
+     2101 gtggcgctgg tcgccgtggc cgcgctgggc ctggctcttc tggctggcct gctgtgtgcc
+     2161 accacagagg ccctggattg agccaggccc ccagaacctg gctccagcca gggggccagt
+     2221 ccctgaggca ggtccccaga ctccaccaag cctggtcagc ccaaaccacc agaagcccag
+     2281 aataaactgg cagctcagct gttttatata agctcagaga tttttttttt tttcccctct
+     2341 cagcatttga gtctgactcc ttctgaaaac ctggctcgat tttgttataa ccagacatca
+     2401 gttggggctt ccctgtttct caagttgtta gtaaaatggg ctgcccacct cccccaccct
+     2461 tcacccttaa ctgcacagtc tctggacatc tcaagccagg acctgggact ctgggtctca
+     2521 tggcctcagc cgtctgcttc tggtgtgggc caccctggac aggccaggcc agctttgcac
+     2581 cggggccagc cctcaccaca ttccccagaa atctcgctct tccagcacgg tagtgagcag
+     2641 agcagggtgt cccaaaggcc cctggaggga ggagaggagg ggtttccatc cccacgacag
+     2701 aaatggcttg gcgggccctt ttccatcacg gcctctgacc actccacctt ggctgtgagg
+     2761 ctgccagggc gcacctggcc ccatcctctc ctccgtcttc tctctccttt ttctcctctc
+     2821 tactcttctc cacaaacaag acaaatctct ctatttctca tggaaaacaa gctcctacag
+     2881 ggctaacatc tgcacctcca aaccctgggg tccccctcct accccaagcc ctgatcacca
+     2941 aatccttcaa acaaggcaac tctccccctc tgaggaatcc tggtgccaga tgttaaaatc
+     3001 ataaactttt ctccaccaca tgaggtaaca tttatgggcc tgttactgcc aagccaaatc
+     3061 caaatataat tacacgagga ccccaccctt gaggggttcc atgtgtaacc agcagaccag
+     3121 cctgggtggg cctgtgggtc ggaagattcc accaggtagc ccaagcgggt gcagagtgca
+     3181 gctggagggc actgactcac agagctc
+//
+

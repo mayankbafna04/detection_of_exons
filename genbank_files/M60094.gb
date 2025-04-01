@@ -1,0 +1,70 @@
+LOCUS       HUMH1T                  1759 bp    DNA     linear   PRI 27-APR-1993
+DEFINITION  Human testicular H1 histone (H1) gene, complete cds.
+ACCESSION   M60094
+VERSION     M60094.1
+KEYWORDS    histone H1.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1759)
+  AUTHORS   Drabent,B., Kardalinou,E. and Doenecke,D.
+  TITLE     Structure and expression of the human gene encoding testicular H1
+            histone (H1t)
+  JOURNAL   Gene 103 (2), 263-268 (1991)
+   PUBMED   1889752
+COMMENT     Original source text: Human leukocyte DNA.
+FEATURES             Location/Qualifiers
+     source          1..1759
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /cell_type="leukocyte"
+     mRNA            487..1211
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+     gene            530..1153
+                     /gene="H1t"
+     CDS             530..1153
+                     /gene="H1t"
+                     /codon_start=1
+                     /product="testicular H1 histone"
+                     /protein_id="AAA35944.1"
+                     /translation="MSETVPAASASAGLAAMEKLPTKKRGRKPAGLISASRKVPNLSV
+                     SKLITEALSVSQERVGMSLVALKKALAAAGYDVEKNNSRIKLSLKSLVNKGILVQTRG
+                     TGASGSFKLSKKVIPKSTRSKAKKSVSAKTKKLVLSRDSKSPKTAKTNKRAKKPRATT
+                     PKTVRSGRKAKGAKGKQQQKSPVKARASKSKLTQHHEVNVRKATSKK"
+ORIGIN      
+        1 gtcactccgc aattagacag ctaagagatc tgtgttactt ccctcacata tataaataat
+       61 tttaaataaa aatcatggcg tgaataattt ctttcctcta ccgatttgaa gctatccatt
+      121 tggaagacca ctctgaagag atgaaataag tcttctgcca aagattactt attaatttac
+      181 aaggaaaagg ggaagttttg ttcctctccg tgaatttgat tgaaaatcga gggctttctc
+      241 gaatagtttt ggcatccagg gtcatttttc attaaaaaga gaaaagtcat gtcaaatatg
+      301 aatttccgca gattattcag cactagaccc tgggagattc tgtaaagagg ggttttgtta
+      361 tactcaactt ttccgggtaa aacaaacaca aatactcctc ctccaagggg cgggggcggt
+      421 gcctaggtga tgcaccaatc acagcgcgcc ctaccctata taagccccga ggccgcccgg
+      481 gtgtttcatg cttttcgctg gttattacat cttgcgtttc tctgttgtta tgtctgaaac
+      541 cgtgcctgca gcttctgcca gtgctggtct agccgctatg gagaaacttc caaccaagaa
+      601 gcgagggagg aagccggctg gcttgataag tgcaagtcgc aaagtgccga acctctctgt
+      661 gtccaagttg atcaccgagg ccctttcagt gtcacaggaa cgagtaggta tgtctttggt
+      721 tgcgctcaag aaggcattgg ccgctgctgg ctacgacgta gagaagaata acagccgcat
+      781 caaactgtcc ctcaagagct tagtgaacaa gggaatcctg gtgcaaacca ggggtactgg
+      841 tgcttccggt tcctttaagc ttagtaagaa ggtgattcct aaatctacac gaagcaaggc
+      901 taaaaagtca gtttctgcca agaccaagaa gctggtttta tccagggact ccaagtcacc
+      961 aaagactgct aaaaccaata agagagccaa gaagccgaga gcgacaactc ctaaaactgt
+     1021 taggagcggg agaaaggcta aaggagccaa gggtaagcaa cagcagaaga gcccagtgaa
+     1081 ggcaagggct tcgaagtcaa aattgaccca acatcatgaa gttaatgtta gaaaggccac
+     1141 atctaagaag taaagagctt tccgggaggc caatttggaa agaacccaaa ggctctttta
+     1201 agagccaccc acattatttt aagatggcgt aacactggaa acaagtttct gtgacagtta
+     1261 tctataggtt taagttgtga tgcagctgag ttgaaaaggc ttgagattgg agaattaatt
+     1321 caggccaggc ttcaagacca tcctgggcaa catagccaga ctaccatcta taccaggggt
+     1381 cctcattccc ccggccaccg accggtaacc ggtccctgtc catggcacgt tatgaattga
+     1441 gccgcacagc tgaggggtga gcgaacatta accaactgag ctccaccgcc tgtcaggtta
+     1501 gctgcagcat tagatagatt ctcataagct caaactgtat tgtgaatggc acatgcaagg
+     1561 gatctaggtt tcaggctcct tgtgacaatc taatgcctga tgatctgagg ttggagcagt
+     1621 tttagtccgg aaatcattgc tcccagcccc tgcaccccct ggtccgtggt ataattgtct
+     1681 tacacaaacg gtctcttgtg tcaaaaaggt tggagactac tggtttttac aaaaaagtaa
+     1741 attagtcaag catggttgg
+//
+

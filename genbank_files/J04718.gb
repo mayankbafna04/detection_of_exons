@@ -1,0 +1,199 @@
+LOCUS       HUMPCNA                 6340 bp    DNA     linear   PRI 07-JAN-1995
+DEFINITION  Human proliferating cell nuclear antigen (PCNA) gene, complete cds.
+ACCESSION   J04718
+VERSION     J04718.1
+KEYWORDS    proliferating cell nuclear antigen.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 6340)
+  AUTHORS   Travali,S., Ku,D.H., Rizzo,M.G., Ottavio,L., Baserga,R. and
+            Calabretta,B.
+  TITLE     Structure of the human gene for the proliferating cell nuclear
+            antigen
+  JOURNAL   J. Biol. Chem. 264 (13), 7466-7472 (1989)
+   PUBMED   2565339
+COMMENT     Original source text: Human leukocyte DNA, (library of C.Croce),
+            and cDNA to mRNA, clone EMBL3-S2.
+            Draft entry and printed copy of sequence [1] kindly provided by
+            D.-H.Ku, 15-MAR-1989.
+FEATURES             Location/Qualifiers
+     source          1..6340
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /map="20pter-p12"
+     regulatory      748..753
+                     /regulatory_class="other"
+                     /note="GC box"
+     regulatory      1090..1095
+                     /regulatory_class="other"
+                     /note="GC box"
+     regulatory      1110..1115
+                     /regulatory_class="other"
+                     /note="GC box"
+     regulatory      1124..1129
+                     /regulatory_class="CAAT_signal"
+     regulatory      1145..1150
+                     /regulatory_class="other"
+                     /note="GC box"
+     prim_transcript 1268..6191
+                     /note="PCNA mRNA and introns"
+     CDS             join(1427..1647,2356..2453,2550..2617,3556..3750,
+                     5636..5759,5846..5925)
+                     /gene="PCNA"
+                     /note="proliferating cell nuclear antigen (PCNA)"
+                     /codon_start=1
+                     /protein_id="AAA60040.1"
+                     /db_xref="GDB:G00-120-261"
+                     /translation="MFEARLVQGSILKKVLEALKDLINEACWDISSSGVNLQSMDSSH
+                     VSLVQLTLRSEGFDTYRCDRNLAMGVNLTSMSKILKCAGNEDIITLRAEDNADTLALV
+                     FEAPNQEKVSDYEMKLMDLDVEQLGIPEQEYSCVVKMPSGEFARICRDLSHIGDAVVI
+                     SCAKDGVKFSASGELGNGNIKLSQTSNVDKEEEAVTIEMNEPVQLTFALRYLNFFTKA
+                     TPLSSTVTLSMSADVPLVVEYKIADMGHLKYYLAPKIEDEEGS"
+     gene            join(1427..1647,2356..2453,2550..2617,3556..3750,
+                     5636..5759,5846..5924)
+                     /gene="PCNA"
+     exon            <1427..1647
+                     /gene="PCNA"
+                     /note="proliferating cell nuclear antigen (PCNA)"
+                     /number=1
+     intron          1648..2355
+                     /note="PCNA intron A"
+     exon            2356..2453
+                     /gene="PCNA"
+                     /note="proliferating cell nuclear antigen"
+     intron          2454..2549
+                     /note="PCNA intron B"
+     exon            2550..2617
+                     /gene="PCNA"
+                     /note="proliferating cell nuclear antigen"
+                     /number=3
+     intron          2618..3555
+                     /note="PCNA intron C"
+     exon            3556..3750
+                     /gene="PCNA"
+                     /note="proliferating cell nuclear antigen"
+                     /number=4
+     intron          3751..5635
+                     /note="PCNA intron D"
+     exon            5636..5759
+                     /gene="PCNA"
+                     /note="proliferating cell nuclear antigen"
+                     /number=5
+     intron          5760..5845
+                     /note="PCNA intron E"
+     exon            5846..>5925
+                     /note="proliferating cell nuclear antigen"
+                     /number=6
+ORIGIN      1 bp upstream of EcoRI site; chromosome 20pter-20q13.
+        1 gaattctgct gaccaaggta ttaaaagtaa ctaaagagaa gtggtgtgaa gaaagcaaga
+       61 gagaaacaac aaatcctgtc catcctgtaa caattgaaaa tttctggctg ggcgtggtgg
+      121 ctcaggcctg taatcccagc actttgagag gccgaggcag gtggatcacc tgaggtcagg
+      181 tgttcaagac cagcctggcc aacatggtga aaccccgtct ctactaaaaa aaaataataa
+      241 taataataca aaaattagcc gggtgtggtg gtaggcacct gtaatcccag atactcggga
+      301 ggctgaggca ggagactcac ttgaacctgg gaggcggagg ttgcaatgag ctgagatcgc
+      361 gcgactgtac tccagcctgg atgacagagc aggactccat ctcaaaaagg aaggcgggga
+      421 aaaggggaaa tattaaatgt gtacgctctt tgactcagct gtattacttc aaggagttga
+      481 tatcaccaaa attgcctaag tgctcaaagg tgtttgtagt taaacaacag gagattgata
+      541 aattatgtta tatacatgtg atgctatgtt ttaaagaggt actgatatga taaaaagatg
+      601 tacgtggcat aaaattaaat gtacttatta agtacttttc caagtgttta cggaatgagt
+      661 gcatttttga aaaaaaaaaa gtgtattcga acttttaaaa aagctttaaa agctttatac
+      721 aataacgatt gagtgattat aagagctggc gggggaatgt taagaggatg atagggagct
+      781 aagtttaaca gaacaattca cctctttatc ttgtgacacc tacgagcgca tcaattctgt
+      841 aattgaaaaa taaagtgcat atttgcagca gctgtactct cttcaggctg caaggaggct
+      901 tttcctcccg gtaggcttga tttgcatttc actttcactt tcgtggctgg aaactttcta
+      961 cccacgtagt gaggctagag gagccaccta aagctggggc ttgacgaagc cgggaccggg
+     1021 acccgatctc cacatatgcc cggacttctt ctgcggccgg gttcaggagt caaagaggcg
+     1081 gggagacctg cgcgacgctg ccccgccctg cgcccgcttc ctccaatgta tgctctaggg
+     1141 ggcgggcctc gcggggagca tggacacgat tggccctaaa gtcttccccg caaggccgtg
+     1201 ggctggacag cgtggtgacg tcgcaacgcg gcgcagggtg agagcgcgcg cttgcggacg
+     1261 cggcggcatt aaacggttgc aggcgtagag agtggtcgtt gtctttctag gtctcagccg
+     1321 gtcgtcgcga cgttcgcccg ctcgctctga ggctcctgaa gccgaaacta gctagacttt
+     1381 cctccttccc gcctgcctgt agcggcgttg ttgccactcc gccaccatgt tcgaggcgcg
+     1441 cctggtccag ggctccatcc tcaagaaggt gttggaggca ctcaaggacc tcatcaacga
+     1501 ggcctgctgg gatattagct ccagcggtgt aaacctgcag agcatggact cgtcccacgt
+     1561 ctctttggtg cagctcaccc tgcggtctga gggcttcgac acctaccgct gcgaccgcaa
+     1621 cctggccatg ggcgtgaacc tcaccaggtg agcctcgcgc cccgggaagc cgccccggcc
+     1681 cgcctgcacc tccggctgtg gcgagcgctt cgagcctagc cctcattggc tggcgtgggc
+     1741 atccagagct tctcattggc ctgcacgcag tggtggggcc caagctgaga tgagcggtta
+     1801 cggaaaagcc cgcgctggct gctgcgcgaa cctgcttttt cgcgccaaag tcacaaagcg
+     1861 ggtggtggcg ggaaaatcaa gggtttttcc gcagtgccag gaacactgtt ccagggactc
+     1921 tttgctcact aaacctgttg gccttgaatg gacgctttag ctgtggcttt cttgtttctg
+     1981 agacggtctc ggtctcggtg tgttgcccgg gctggtctcc aacttctggg ctcaagcgat
+     2041 cctcccggct cagtcgcgtc gactttaaat gctttataat gcccttgcga gaaatgtggc
+     2101 agcctgtcat cctacttagt ggtaggagat tgtttctatc cagaagggac actgctggtg
+     2161 gtattttagt ataaatactg ccagatgcgt ccaaaacgtc tgcattaata atggcatcct
+     2221 ccagcagtcc gtttaccctc caccagttct gagacggcct gacgggtgag agtggtaacc
+     2281 ccttctaacc gcgttcgaaa tacagccctt cagcagacgg cgttgatttt aaagcatgtg
+     2341 tctcctgtct tctagtatgt ccaaaatact aaaatgcgcc ggcaatgaag atatcattac
+     2401 actaagggcc gaagataacg cggatacctt ggcgctagta tttgaagcac caagtaagtc
+     2461 gtaccttttt accgagtcac gaagctacag gaaaatcaaa actctgtgtg agtagaaact
+     2521 caaaagctat ctgcgtttct tttggtaaga ccaggagaaa gtttcagact atgaaatgaa
+     2581 gttgatggat ttagatgttg aacaacttgg aattccagtg agtatcagtt tctcattgta
+     2641 gagagtgctg tacacaggca cgatagttat gtcatagaat gtttgtttat ttttacagac
+     2701 agggtcttgg ctctgttgcc caggctggag tgcagtagtg ccatatagct ctctctaacc
+     2761 tgggattcct gggctcaagc agtcctcttg ccttagtctc ctaagtggct aggaaggact
+     2821 acgggcctgt cccaccacac ctggctaatt tttttcattt ttgtgtgtgg gacgtggggg
+     2881 cagtctagcc aggctggctg gaactcctgg cctcaagtga tcctcctccg tcaagatatg
+     2941 ttaatataat ttaaagccta cttcataaca acttttctag aaatatatct actggtgcat
+     3001 gtttcaaaga gatgatttta gtatttggat agttgttcac cacaagtcta ataatctcca
+     3061 caggttaaat ttattgttta tgccagttgt ctatttgcat taacttccat gaactcttta
+     3121 aattgttctc tagaatgctt gctttttatt aatgaggttt taaagctagc ttgagagaaa
+     3181 tttatccagg ttaggttata aacaccaaag gagagaagaa atgtttgaat gttgaaaatg
+     3241 cctaatatat tctcttgctt tcttttagaa agtgattagg cctgcttgcg ccatcatgat
+     3301 ttctgtgcca tactctaatg ttctcttact ttatccctgg aggatgagga ggaggaggct
+     3361 cttgttccct ggatggtgca tttaatagcc atttattttt ttgagtggag tttgttaaga
+     3421 aattacgcaa gtcatatttt aaagtaatca gaaaatatga ttctgagttg tttaggtgtt
+     3481 gccttttaag aaagtgaggg tgccaaatca ttaaatttct aacaattaac ttttggaaaa
+     3541 ttttgttctt aataggaaca ggagtacagc tgtgtagtaa agatgccttc tggtgaattt
+     3601 gcacgtatat gccgagatct cagccatatt ggagatgctg ttgtaatttc ctgtgcaaaa
+     3661 gacggagtga aattttctgc aagtggagaa cttggaaatg gaaacattaa attgtcacag
+     3721 acaagtaatg tcgataaaga ggaggaagct gtaagtagtt tttaagtaaa aagaaaatag
+     3781 tttgaagaga attataatac tgcttattag gttaattgct aaaattaaaa gtagacagaa
+     3841 ttggatccca agtaatttct gaaaattgag atactgttga aatctgtgaa tgatttataa
+     3901 gtgtcatcca atttagaatt atatttgcaa gaagggaata caaattcagc acgtgtacat
+     3961 accacagcaa cagtggttta tggatcaagt ccacaccggc tcttaagggt aggattggga
+     4021 agttaggcgt ataacttagc ttctggagat acttactctc ttaccaaata attgagcata
+     4081 ggacagcagc tcaatagaag gatatgttag gagtaaaagt ctacctgttt ggagcactta
+     4141 tgtaatccta atatagctta catgttgtgg gtccaattgg tagcccattt taaaggtgga
+     4201 gaagcaggct gagcaacctt aagtgacaat ttagccaaag tcacaggctg taggaatcaa
+     4261 aggttaaaca ggaaggagac tctcactaag gctagaaagc agactccatg caactttgag
+     4321 agtacctaga gagaccctta tttaaccaaa atagaaagaa catagcaaaa ccccatctct
+     4381 cataaaaata taaaaattga ccgggtgatg agtggcgaca cacctgtaaa cccgactact
+     4441 ggaatgcatg agatgggaga atgacttgaa ccgaggaggc ggaggttgca gtgagcccag
+     4501 atcatgccac tcccctccag cctgggtgac agagcaagat tccatcttaa acaaacaaaa
+     4561 aaaactcgct aacctgggca taaattaaaa ctttgtaaat caaggacaaa ggtcctaaac
+     4621 ctcataactt gcattaggat taaatacggt agcattaaag agcttagcat atctgtgtgt
+     4681 ggcatattat aagcttacaa taaatactat atattgctct cttgtccctt gaatgggtag
+     4741 tcaacattta gtttaaataa aggtaaaatt cagttgaaag gttttttttt aaattaataa
+     4801 agtctaggag ctgattcttt atctgtttcc tgaatcacat ttccactcct gccaacctcg
+     4861 tttttttctt ttgctgtttt tctttgtttt tgagacaggg cttgctctgt gccacccagg
+     4921 ctggagtgcg gtggtgcagt cggttcacta cagcctcaaa ctccagggct taagtgatcc
+     4981 tcctgcctca gtttcccaag agccgggaca caggtgtgtg ccaacacact agcctggttt
+     5041 ccctaatttc attttcccct tgaccattac aactatttgt tgaagaaatt agatcattta
+     5101 ttagtttcag agtttggatt ttacctgatt gcattcctgt gtatctaata acctctacct
+     5161 gtgtgtccta cagactggta gctatagcct ggagccttga tatcagggtg ttttgtttcg
+     5221 ggggtgagag agcaagaata tggtggtggt gtgtgtgcct ctagtaggag gcacagggtg
+     5281 tctggatgtg tttgcaatgt tagcagctat aagtcattgt ctagatccat taagtcatta
+     5341 attagagttt gcagagctga aattaatacg ttttatcact tattggctgc ttattagaaa
+     5401 acttccataa gaaaagcttc ccattatata atttggttat ctaaattata gctataccaa
+     5461 aagacaaagg ctagataatc gagtcttttt gcatttatgt atcagtcttc aaaattttca
+     5521 tagcgtccct ccaaagtgac caatacaagt gtttgtgggt ttttataaat atataatgag
+     5581 ctaatagatt gcaactttct tgatgttttt caatgatgaa tcttttgttt tgtaggttac
+     5641 catagagatg aatgaaccag ttcaactaac ttttgcactg aggtacctga acttctttac
+     5701 aaaagccact ccactctctt caacggtgac actcagtatg tctgcagatg taccccttgg
+     5761 taagataata aatttgaacc ttgttttgat ggtagtcata tgtgatacat actcctcagt
+     5821 aattaaccat cttcctgtct ttcagttgta gagtataaaa ttgcggatat gggacactta
+     5881 aaatactact tggctcccaa gatcgaggat gaagaaggat cttaggcatt cttaaaattc
+     5941 aagaaaataa aactaagctc tttgagaact gcttctaaga tgccagcata tactgaagtc
+     6001 ttttctgtca ccaaatttgt acctctaagt acatatgtag atattgtttt ctgtaaataa
+     6061 cctatttttt ttctctattc tctccaattt gtttaaagaa taaagtccaa agtctgatct
+     6121 ggtctagtta acctagaagt atttttgtct cttagaaata cttgtgattt ttataataca
+     6181 aaagggtctt gactctaaat gcagttttaa gaattgtttt tgaatttaaa taaagttact
+     6241 tgaatttcaa agatcacagg gcagtgtctt catttgacca ggactgttga aagtatccta
+     6301 ctgaattccc agctacagtc accctttgtt caaactgttc
+//
+

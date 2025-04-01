@@ -1,0 +1,152 @@
+LOCUS       HUMSEMI                 4164 bp    DNA     linear   PRI 16-MAY-1994
+DEFINITION  Human semenogelin I (SEMGI) gene, complete cds.
+ACCESSION   M81650
+VERSION     M81650.1
+KEYWORDS    gel-forming protein; semenogelin I; seminal plasma protein.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 4164)
+  AUTHORS   Lilja,H., Abrahamsson,P.A. and Lundwall,A.
+  TITLE     Semenogelin, the predominant protein in human semen. Primary
+            structure and identification of closely related proteins in the
+            male accessory sex glands and on the spermatozoa
+  JOURNAL   J. Biol. Chem. 264 (3), 1894-1900 (1989)
+   PUBMED   2912989
+REFERENCE   2  (bases 1 to 4164)
+  AUTHORS   Ulvsback,M., Lazure,C., Lilja,H., Spurr,N.K., Rao,V.V., Loffler,C.,
+            Hansmann,I. and Lundwall,A.
+  TITLE     Gene structure of semenogelin I and II. The predominant proteins in
+            human semen are encoded by two homologous genes on chromosome 20
+  JOURNAL   J. Biol. Chem. 267 (25), 18080-18084 (1992)
+   PUBMED   1517240
+COMMENT     Original source text: Homo sapiens (library: lambda EMBL3) blood
+            DNA.
+FEATURES             Location/Qualifiers
+     source          1..4164
+                     /organism="Homo sapiens"
+                     /mol_type="unassigned DNA"
+                     /db_xref="taxon:9606"
+                     /cell_type="leukocyte"
+                     /tissue_type="blood"
+                     /tissue_lib="lambda EMBL3"
+     regulatory      668..673
+                     /regulatory_class="TATA_box"
+                     /note="putative"
+     gene            696..3430
+                     /gene="SEMGI"
+     mRNA            join(696..792,1037..2393,3264..3430)
+                     /gene="SEMGI"
+                     /note="mRNA start site experimentally determined"
+     exon            696..792
+                     /gene="SEMGI"
+                     /number=1
+     CDS             join(717..792,1037..2349)
+                     /gene="SEMGI"
+                     /codon_start=1
+                     /protein_id="AAA18168.1"
+                     /translation="MKPNIIFVLSLLLILEKQAAVMGQKGGSKGRLPSEFSQFPHGQK
+                     GQHYSGQKGKQQTESKGSFSIQYTYHVDANDHDQSRKSQQYDLNALHKTTKSQRHLGG
+                     SQQLLHNKQEGRDHDKSKGHFHRVVIHHKGGKAHRGTQNPSQDQGNSPSGKGISSQYS
+                     NTEERLWVHGLSKEQTSVSGAQKGRKQGGSQSSYVLQTEELVANKQQRETKNSHQNKG
+                     HYQNVVEVREEHSSKVQTSLCPAHQDKLQHGSKDIFSTQDELLVYNKNQHQTKNLNQD
+                     QQHGRKANKISYQSSSTEERRLHYGENGVQKDVSQSSIYSQTEEKAQGKSQKQITIPS
+                     QEQEHSQKANKISYQSSSTEERRLHYGENGVQKDVSQRSIYSQTEKLVAGKSQIQAPN
+                     PKQEPWHGENAKGESGQSTNREQDLLSHEQNGRHQHGSHGGLDIVIIEQEDDSDRHLA
+                     QHLNNDRNPLFT"
+     sig_peptide     717..785
+                     /gene="SEMGI"
+                     /note="putative"
+     intron          793..1036
+                     /gene="SEMGI"
+                     /number=1
+     exon            1037..2393
+                     /gene="SEMGI"
+                     /number=2
+     intron          2394..3263
+                     /gene="SEMGI"
+                     /number=2
+     exon            3264..3430
+                     /gene="SEMGI"
+                     /number=3
+     regulatory      3407..3412
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="SEMGI"
+     polyA_site      3430
+                     /gene="SEMGI"
+                     /note="putative"
+ORIGIN      
+        1 gaattcagac ttcctgagaa ggttgcagct ggtctccatc cttcaactga caacccaatg
+       61 caattgtatt catctctcat taaagttact agcaacaact aagaaaaact ttggatacat
+      121 gtcagtcttt attgtgttga acttgacaga catatttgac attggagtgc cccatttact
+      181 tgtttaaaat ttctttcttt ggattccata acgtttcatt atcttctata tcattggact
+      241 tctatgattg ctcattctta ggtaaaatag aacgtgtctc aagatcattt ttaaaacaaa
+      301 aggaagtatg gagttctatc taaaatagag tatttaaatt attgcatcat gaagggaaac
+      361 tcacatttag aatataaagg cattctcaga aaccaattgc ttttgtagcc tgaagccagt
+      421 ctctttccta cttttgtcta taattctgta aaattaaagt gatctggcat gatgatctaa
+      481 aaggactgat aaaaatttgc tggggctgcc agaagaaaga aaatgccttt gacattatgt
+      541 tgctggggac attgactttg tcccacactc agcaggggtg aggaagttgg catttactga
+      601 taagctaaga aaagtcagtg ccttttgtaa tttaagctcc acccatggca cactcactca
+      661 aggaagatat aaatgacaag gtcggctcag ctctcagaca aggttttcca agcaagatga
+      721 agcccaacat catctttgta ctttccctgc tcctcatctt ggagaagcaa gcagctgtga
+      781 tgggacaaaa aggtgagtgg agagggtaag ccttggggaa agctgctcag acagctaata
+      841 atctaagatt atttggggtg caaacagtaa cctgtttagg cacagattct tctctttgaa
+      901 gagaattgat tttctccacc caaagcttca gcttttctag aaatatcaat aatttgttgg
+      961 gggaaaagtg gggggtaaga gttgtaaggg agctttggag ataatgaatg cataccttct
+     1021 tattatcaat taccaggtgg atcaaaaggc cgattaccaa gtgaattttc ccaatttcca
+     1081 cacggacaaa agggccagca ctattctgga caaaaaggca agcaacaaac tgaatccaaa
+     1141 ggcagttttt ctattcaata cacatatcat gtagatgcca atgatcatga ccagtcccga
+     1201 aaaagtcagc aatatgattt gaatgcccta cataagacga caaaatcaca acgacatcta
+     1261 ggtggaagtc aacaactgct ccataataaa caagaaggca gagaccatga taaatcaaaa
+     1321 ggtcattttc acagggtagt tatacaccat aaaggaggca aagctcatcg tgggacacaa
+     1381 aatccttctc aagatcaggg gaatagccca tctggaaagg gaatatccag tcaatattca
+     1441 aacacagaag aaaggctgtg ggttcatgga ctaagtaaag aacaaacttc cgtctctggt
+     1501 gcacaaaaag gtagaaaaca aggcggatcc caaagcagtt atgttctcca aactgaagag
+     1561 ctagtagcta acaaacaaca acgtgagact aaaaattctc atcaaaataa agggcattac
+     1621 caaaatgtgg ttgaagtgag agaggaacat tcaagtaaag tacaaacctc actctgtcct
+     1681 gcgcaccaag acaaactcca acatggatcc aaagacattt tttctaccca agatgagctc
+     1741 ctagtatata acaagaatca acaccagaca aaaaatctca atcaagatca acagcatggc
+     1801 cgaaaggcaa ataaaatatc ataccaatct tcaagtacag aagaaagacg actccactat
+     1861 ggagaaaatg gtgtgcagaa agatgtatcc caaagcagta tttatagcca aactgaagag
+     1921 aaagcacagg gcaagtctca aaaacagata acaattccca gtcaagagca agagcatagc
+     1981 caaaaggcaa ataaaatatc ataccaatct tcaagtacgg aagaaagacg actccactat
+     2041 ggagaaaatg gtgtgcagaa agatgtatcc caacgcagta tttatagcca aactgaaaag
+     2101 ctagtagcag gcaagtctca aatccaggca ccaaatccta agcaagagcc atggcatggt
+     2161 gaaaatgcaa aaggagagtc tggccaatct acaaatagag aacaagacct actcagtcat
+     2221 gaacaaaacg gcagacacca acatggatct catgggggat tggatattgt aattatagag
+     2281 caggaagatg acagtgatcg tcatttggca caacatctta acaacgaccg aaacccatta
+     2341 tttacataaa cctaccattc ggtaaccatg tgaaaggatg gaccaatatc aaggtaattt
+     2401 ttttttagca aataggggag atatctctct cattgtttag aattgttggg gactctccag
+     2461 gacttttgtg ggattgataa ccattgttcg caccaataga agtgctgtat aacaagtggt
+     2521 aggaagatga gcctccccat tccctggtga ggagagggtc tggtagtggc acagaaggat
+     2581 gtttggccta tcatgaggtc ctagaattcc tatccttaat tgaatattct tcaataatat
+     2641 ttttttgtat atgcctacct gctaaaggtt tttttgaaca ggtactgact acatatgcat
+     2701 atttataagt ttatggtata ctcttgtcag ttcttatact ttagattagt aaacctcagt
+     2761 ttctttccta tatagtataa aggattacag ccattaatgt tttctttctg cacaccagtg
+     2821 aatgttcttg catccctgtt agggttcatc tatgctcctt cagagaccac aagcccaaag
+     2881 actatcagtc ctccctctca gaatacagga aagagatatg tagaaagatc cttgttcatg
+     2941 ttgtgaaaga gaagatggaa agggagacac aagagatggt gagggatctc atgggccaat
+     3001 tgggtgttta caacatcagg agaagaaaac tgaagccctg agaggggtaa tggtgcttcc
+     3061 ctgcctcttt gcagtaagta acactgcact tgaagagagg gcaagcagta gaaacagtgg
+     3121 ccccagctgg caactagtgg cctggtatcc tagtagtaga gggctggtac agttggagct
+     3181 gaaggggaca gggggcccag ctaccatccc cacccttcac tttttactat actcacatca
+     3241 ctgattctct tctttctctc taggtgtcag ttgacctcag tgaattctgt gatgtttctg
+     3301 agatgcagac tcccgtgtag tttcagattc ttggtccatg gatgacacca cctgcccatg
+     3361 cttccttgaa ttaggctttc ctaacctgaa gcgccttcaa acttccaata aagagatcat
+     3421 tttctgcttc atctgctttt gactcctgtt ttctctggat tcctagtggc tcaaggggtt
+     3481 gagggcattt ctaatgtaag tggttttgaa agaaaataaa gggatatttt tgaagcacta
+     3541 gggagaatag taatcaaagc cacatttcaa gatatattga tagaaaccaa cactaaaaat
+     3601 agggtgctgt tagtctacca gtcacatgtc taccacctga ggccaacact aaaggctttc
+     3661 atgaccctgg tactaataag accccaggaa ctaaaaatat cccagaaaga caagagaaaa
+     3721 tgtattgcaa caggccctgg gaaagtccct gatctgctgg tgatcaattc cacagtagac
+     3781 acatcccttc aattagctta agaatgtctt acgcctacag tatccattga gatgcaatta
+     3841 caccaaaggt gatatgttaa atctgcacaa cttcagtaac agcaagtggg ttaaaatgtc
+     3901 acctgtggat ggaaagacca gatgaccagt caaaggaatc ttgaggcagg tggtgtcttc
+     3961 ataatggaaa tactgctgcc tatactgcct tttccccctc tattttaaaa aagtttccag
+     4021 agaaatctaa accttcagga gaagaggcca acatagggga gtgagaaaat cacaagccta
+     4081 agaataagag atttggattg tagttccaat tctgccataa taacctgtat atctttacct
+     4141 aaatatgttc ttccctgcaa gctt
+//
+

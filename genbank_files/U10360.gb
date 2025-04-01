@@ -1,0 +1,56 @@
+LOCUS       HSU10360                 750 bp    DNA     linear   PRI 18-NOV-1994
+DEFINITION  Human interferon-gamma gene, complete cds.
+ACCESSION   U10360
+VERSION     U10360.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 750)
+  AUTHORS   Realini,C., Dubiel,W., Pratt,G., Ferrell,K. and Rechsteiner,M.
+  TITLE     Molecular cloning and expression of a gamma-interferon-inducible
+            activator of the multicatalytic protease
+  JOURNAL   J. Biol. Chem. 269 (32), 20727-20732 (1994)
+   PUBMED   8051173
+REFERENCE   2  (bases 1 to 750)
+  AUTHORS   Realini,C.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JUN-1994) Claudio A. Realini, Biochemistry,
+            University of Utah, School of Medicine, 317 Wintrobe, Salt Lake
+            City, UT 84132, USA
+FEATURES             Location/Qualifiers
+     source          1..750
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /cell_type="erythrocyte"
+                     /tissue_type="blood"
+     CDS             1..750
+                     /note="identical to interferon-gamma coding sequence from
+                     GenBank Accession Number L07633"
+                     /codon_start=1
+                     /product="interferon-gamma"
+                     /protein_id="AAA53230.1"
+                     /translation="MAMLRVQPEAQAKVDVFREDLCTKTENLLGSYFPKKISELDAFL
+                     KEPALNEANLSNLKAPLDIPVPDPVKEKEKEERKKQQEKEDKDEKKKGEDEDKGPPCG
+                     PVNCNEKIVVLLQRLKPEIKDVIEQLNLVTTWLQLQIPRIEDGNNFGVAVQEKVFELM
+                     TSLHTKLEGFHTQISKYFSERGDAVTKAAKQPHVGDYRQLVHELDEAEYRDIRLMVME
+                     IRNAYAVLYDIILKNFEKLKKPRGETKGMIY"
+ORIGIN      
+        1 atggccatgc tcagggtcca gcccgaggcc caagccaagg tggatgtgtt tcgtgaagac
+       61 ctctgtacca agacagagaa cctgctcggg agctatttcc ccaagaagat ttctgagctg
+      121 gatgcatttt taaaggagcc agctctcaat gaagccaact tgagcaatct gaaggcccca
+      181 ttggacatcc cagtgcctga tccagtcaag gagaaagaga aagaggagcg gaagaaacag
+      241 caggagaagg aagacaagga tgaaaagaag aagggggagg atgaagacaa aggtcctccc
+      301 tgtggcccag tgaactgcaa tgaaaagatc gtggtccttc tgcagcgctt gaagcctgag
+      361 atcaaggatg tcattgagca gctcaacctg gtcaccacct ggttgcagct gcagatacct
+      421 cggattgagg atggtaacaa ttttggagtg gctgtccagg agaaggtgtt tgagctgatg
+      481 accagcctcc acaccaagct agaaggcttc cacactcaaa tctctaagta tttctctgag
+      541 cgtggtgatg cagtgactaa agcagccaag cagccccatg tgggtgatta tcggcagctg
+      601 gtgcacgagc tggatgaggc agagtaccgg gacatccggc tgatggtcat ggagatccgc
+      661 aatgcttatg ctgtgttata tgacatcatc ctgaagaact tcgagaagct caagaagccc
+      721 aggggagaaa caaagggaat gatctattga
+//
+

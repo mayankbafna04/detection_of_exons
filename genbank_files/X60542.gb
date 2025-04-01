@@ -1,0 +1,62 @@
+LOCUS       X60542                   726 bp    DNA     linear   PRI 16-AUG-1991
+DEFINITION  Human CNTF gene for ciliary neurotrophic factor.
+ACCESSION   X60542
+VERSION     X60542.1
+KEYWORDS    ciliary neurotrophic factor; CNTF gene.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1
+  AUTHORS   McDonald,J.R., Ko,C., Mismer,D., Smith,D.J. and Collins,F.
+  TITLE     Expression and characterization of recombinant human ciliary
+            neurotrophic factor from Escherichia coli
+  JOURNAL   Biochim. Biophys. Acta In press
+REFERENCE   2  (bases 1 to 726)
+  AUTHORS   McDonald,J.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-JUN-1991) J.R. McDonald, Synergen Inc, 1885 33rd
+            Street, Boulder Colorado 80301, USA
+FEATURES             Location/Qualifiers
+     source          1..726
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /tissue_type="placenta"
+                     /clone_lib="charon 30"
+     gene            80..682
+                     /gene="CNTF"
+     CDS             80..682
+                     /gene="CNTF"
+                     /codon_start=1
+                     /product="ciliary neurotrophic factor"
+                     /protein_id="CAA43032.1"
+                     /db_xref="GDB:125919"
+                     /db_xref="GOA:P26441"
+                     /db_xref="HGNC:HGNC:2169"
+                     /db_xref="InterPro:IPR000151"
+                     /db_xref="InterPro:IPR009079"
+                     /db_xref="InterPro:IPR012351"
+                     /db_xref="PDB:1CNT"
+                     /db_xref="UniProtKB/Swiss-Prot:P26441"
+                     /translation="MAFTEHSPLTPHRRDLCSRSIWLARKIRSDLTALTESYVKHQGL
+                     NKNINLDSADGMPVASTDQWSELTEAERLQENLQAYRTFHVLLARLLEDQQVHFTPTE
+                     GDFHQAIHTLLLQVAAFAYQIEELMILLEYKIPRNEADGMPINVGDGGLFEKKLWGLK
+                     VLQELSQWTVRSIHDLRFISSHQTGIPARGSHYIANNKKM"
+ORIGIN      
+        1 gagtcacatc tcttatttgg accagtatag acagaagtaa acccagctga cttgtttcct
+       61 gggacagttg agttaaggga tggctttcac agagcattca ccgctgaccc ctcaccgtcg
+      121 ggacctctgt agccgctcta tctggctagc aaggaagatt cgttcagacc tgactgctct
+      181 tacggaatcc tatgtgaagc atcagggcct gaacaagaac atcaacctgg actctgcgga
+      241 tgggatgcca gtggcaagca ctgatcagtg gagtgagctg accgaggcag agcgactcca
+      301 agagaacctt caagcttatc gtaccttcca tgttttgttg gccaggctct tagaagacca
+      361 gcaggtgcat tttaccccaa ccgaaggtga cttccatcaa gctatacata cccttcttct
+      421 ccaagtcgct gcctttgcat accagataga ggagttaatg atactcctgg aatacaagat
+      481 cccccgcaat gaggctgatg ggatgcctat taatgttgga gatggtggtc tctttgagaa
+      541 gaagctgtgg ggcctaaagg tgctgcagga gctttcacag tggacagtaa ggtccatcca
+      601 tgaccttcgt ttcatttctt ctcatcagac tgggatccca gcacgtggga gccattatat
+      661 tgctaacaac aagaaaatgt agcagttagt cccttctctc ttccttgctt tctcttctaa
+      721 tggaat
+//
+

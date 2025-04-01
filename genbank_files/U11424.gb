@@ -1,0 +1,94 @@
+LOCUS       HSU11424                1944 bp    DNA     linear   PRI 16-OCT-2008
+DEFINITION  Homo sapiens thiopurine methyltransferase processed pseudogene
+            (pseudoTPMT) gene, complete cds.
+ACCESSION   U11424
+VERSION     U11424.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1944)
+  AUTHORS   Lee,D., Szumlanski,C., Houtman,J., Honchel,R., Rojas,K.,
+            Overhauser,J., Wieben,E.D. and Weinshilboum,R.M.
+  TITLE     Thiopurine methyltransferase pharmacogenetics. Cloning of human
+            liver cDNA and a processed pseudogene on human chromosome 18q21.1
+  JOURNAL   Drug Metab. Dispos. 23 (3), 398-405 (1995)
+   PUBMED   7628307
+REFERENCE   2  (bases 1 to 1944)
+  AUTHORS   Szumlanski,C.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-JUN-1994) Carol L. Szumlanski, Pharmacology, Mayo
+            Medical School/Mayo Clinic/Mayo Foundation, 200 First St. SW,
+            Rochester, MN 55905, USA
+FEATURES             Location/Qualifiers
+     source          1..1944
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="18"
+                     /map="18q21.1"
+                     /cell_type="lymphocyte"
+                     /clone_lib="lymphocyte genomic library in the lambda dash
+                     vector, Stratagene"
+     repeat_region   64..73
+                     /note="5' direct repeat"
+                     /rpt_type=direct
+     gene            168..908
+                     /gene="pseudoTPMT"
+     CDS             168..908
+                     /gene="pseudoTPMT"
+                     /EC_number="2.1.1.67"
+                     /function="S-methylation"
+                     /codon_start=1
+                     /product="thiopurine methyltransferase processed
+                     pseudogene"
+                     /protein_id="AAC50129.1"
+                     /translation="MDGTRTSLDIEEYSNTEVQKNQVLTLEEWQDKWVNGNTAFHQEQ
+                     GPQLLKKHLDTFLKGESGLRVFFPLCRKEVEMKWFADRGHSVVGVEISELGIREFFTE
+                     QNLSYSEEPITEIPGTKAFKSSSGNISSYCCSIFDLPRTNIGTFDMIWDRGALVAINP
+                     GDRKCYADIMLSLLGKKFQYLLCVFLTIQLNIQVHHFMFHMLKLKGCLVKYAIYIVLR
+                     RLMLLKNDIKIGGLTIFLKSYIYLQKSK"
+     regulatory      1828..1833
+                     /regulatory_class="polyA_signal_sequence"
+     polyA_site      1849
+     repeat_region   1880..1889
+                     /note="3' direct repeat"
+                     /rpt_type=direct
+ORIGIN      
+        1 taaatcagat ccctgaggac ctccacttga tatcatcttt agtcccatta atgcccttaa
+       61 aaacaatttg cttgggatga cactagtggc ggaggcaatg gccagcaacc ctctgtaagc
+      121 gaggcgtgga agacatatgc ttgtgagaaa aaggtgtcta tgaaactatg gatggtacaa
+      181 gaacttcact tgacattgaa gagtactcca atactgaggt acagaaaaac caagtactaa
+      241 ctctggaaga atggcaagac aagtgggtga acggcaacac tgcttttcat caggaacaag
+      301 gacctcagct attaaagaaa catttagata cttttcttaa aggagagagt ggactgaggg
+      361 tattttttcc tctttgcaga aaagaggttg agatgaaatg gtttgcagac cggggacaca
+      421 gcgtagttgg tgtggaaatc agtgaacttg ggatacgaga attttttaca gagcagaatc
+      481 tatcttactc agaagaacca atcaccgaaa ttcctggaac caaagcattt aagagttctt
+      541 cggggaacat ttcatcatac tgttgcagta tttttgatct tcccaggaca aatattggca
+      601 catttgacat gatttgggat agaggagcat tagttgccat taatccaggt gatcgcaaat
+      661 gctatgcgga tataatgtta tccctcctgg gaaagaagtt tcaatatctc ctgtgtgtct
+      721 ttcttacgat ccaactaaac atccaggtcc accattttat gttccacatg ctgaaattga
+      781 aaggttgttt ggtaaaatat gcaatataca ttgtcttgag aaggttgatg cttttgaaga
+      841 atgacataaa aattggggga ttgaccatct ttctgaaaag ttatatctac ttacagaaaa
+      901 gtaaatgaga catagataaa atcacattga catgtttttg aggaattgaa aattatgcta
+      961 aagcctgaaa atgtaatgga tgaatttttt aaattgttta taaatcacat gatagatcta
+     1021 tactaaaaat ggctttttag taaagctgtt tactttttct aaaaaagttt taggagaaaa
+     1081 agatgtaact aaacttttca agtagctcct ttggagagga gattatgatg tgaaagatta
+     1141 tgcctgtgtg tcttacagat tgcaagatat tttatcaatc agtgtgtgtt acctgtacaa
+     1201 ttaaaaaaat attttaaaat gcaatgcata ttaaacataa tacacacaga aaaactggca
+     1261 tttattttat ttttttgaga tggagtttcg ttctcgttgc ccaacctgga gtgcaatggc
+     1321 acaatctcag ctcactgcaa cctctgcctc ccaggttcaa gtgattctcc tgcctcagcc
+     1381 tcccaagtag ctgagattac aggtgtgcgc caccatgccc agctaatttt ttgtattttt
+     1441 agtagagaca gggtttcacc atgttggtca ggctggtctc gaactccaga cctcaggtga
+     1501 tctacccacc tcagcctccc aaagtgctgg gattacaggc gtgagccact gtgcctggcc
+     1561 tgacattctt tatgaaattt agaattgttg aaaaaaatat aacacttcag tagggttcaa
+     1621 ggtggtccca aaagttatat aaaagattag tttttactat aaacccttgt cttttactca
+     1681 gatcctagca tcccttttca catggtttct ccatatatgt aacagaatca agaaacaaat
+     1741 tttaattaaa caatctgtaa cagaatcaag aaacaaataa attttaatta aacaatctat
+     1801 atggaacaaa cattcccaaa ttctaagaat aaatttttct ttaagtttaa aacaaacaaa
+     1861 caaaaaaaca aaaaaaaaac aatttgcttt tctgattttg tttagattac tgtttccaag
+     1921 ttattgcaag tggatgaagt atac
+//
+

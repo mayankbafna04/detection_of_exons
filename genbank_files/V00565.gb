@@ -1,0 +1,321 @@
+LOCUS       V00565                  4992 bp    DNA     linear   PRI 30-MAR-1995
+DEFINITION  Human gene for preproinsulin, from chromosome 11. Includes a highly
+            polymorphic region upstream from the insulin gene containing
+            tandemly repeated sequences.
+ACCESSION   V00565
+VERSION     V00565.1
+KEYWORDS    germ line; insulin; repetitive sequence; signal peptide; tandem
+            repeat.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1925 to 3715)
+  AUTHORS   Bell,G.I., Pictet,R.L., Rutter,W.J., Cordell,B., Tischer,E. and
+            Goodman,H.M.
+  TITLE     Sequence of the human insulin gene
+  JOURNAL   Nature 284 (5751), 26-32 (1980)
+   PUBMED   6243748
+REFERENCE   2  (bases 1928 to 3651)
+  AUTHORS   Ullrich,A., Dull,T.J., Gray,A., Brosius,J. and Sures,I.
+  TITLE     Genetic variation in the human insulin gene
+  JOURNAL   Science 209 (4456), 612-615 (1980)
+   PUBMED   6248962
+REFERENCE   3  (bases 1 to 2227)
+  AUTHORS   Bell,G.I., Selby,M.J. and Rutter,W.J.
+  TITLE     The highly polymorphic region near the human insulin gene is
+            composed of simple tandemly repeating sequences
+  JOURNAL   Nature 295 (5844), 31-35 (1982)
+   PUBMED   7035959
+REFERENCE   4  (bases 1 to 4992)
+  AUTHORS   Bell,G.I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-APR-1982)
+COMMENT     This entry is assembled from and replaces the previous entries
+            <HSINS1> and <HSINSUZ1>, and contains other new data.
+            
+            Some sequence and feature data have been adapted from the Los
+            Alamos sequence data base entry HUMINS1.
+            The immediate translation product of the gene is preproinsulin. The
+            signal peptide facilitates membrane transit of the insulin
+            precursor, and is cleaved off in the process.  In the resulting
+            proinsulin molecule, the peptide chains A and B are joined by the
+            connecting peptide C, which is believed to help in the formation of
+            the disulphide bridges required for insulin.  (See [1].).
+FEATURES             Location/Qualifiers
+     source          1..4992
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+     misc_feature    1340..1823
+                     /note="polymorphic region (tandem repeats)"
+     misc_difference 2101
+                     /note="G is AGG in [2];
+                     conflict"
+                     /citation=[2]
+     misc_feature    2156..2161
+                     /note="TATAAA (Hogness) box"
+     precursor_RNA   2186..3615
+                     /note="preproinsulin primary transcript"
+     mRNA            2186..2227
+                     /note="preproinsulin mRNA (part 1)"
+     intron          2228..2406
+                     /note="intron"
+     variation       2401
+                     /note="T can be A (see [2])"
+     mRNA            2407..2610
+                     /note="preproinsulin mRNA (part 2)"
+     CDS             join(2424..2610,3397..3542)
+                     /codon_start=1
+                     /product="preproinsulin"
+                     /protein_id="CAA23828.1"
+                     /db_xref="GDB:119349"
+                     /db_xref="GOA:P01308"
+                     /db_xref="HGNC:HGNC:6081"
+                     /db_xref="InterPro:IPR004825"
+                     /db_xref="InterPro:IPR016179"
+                     /db_xref="InterPro:IPR022352"
+                     /db_xref="InterPro:IPR022353"
+                     /db_xref="PDB:1A7F"
+                     /db_xref="PDB:1AI0"
+                     /db_xref="PDB:1AIY"
+                     /db_xref="PDB:1B9E"
+                     /db_xref="PDB:1BEN"
+                     /db_xref="PDB:1EFE"
+                     /db_xref="PDB:1EV3"
+                     /db_xref="PDB:1EV6"
+                     /db_xref="PDB:1EVR"
+                     /db_xref="PDB:1FU2"
+                     /db_xref="PDB:1FUB"
+                     /db_xref="PDB:1G7A"
+                     /db_xref="PDB:1G7B"
+                     /db_xref="PDB:1GUJ"
+                     /db_xref="PDB:1HIQ"
+                     /db_xref="PDB:1HIS"
+                     /db_xref="PDB:1HIT"
+                     /db_xref="PDB:1HLS"
+                     /db_xref="PDB:1HTV"
+                     /db_xref="PDB:1HUI"
+                     /db_xref="PDB:1IOG"
+                     /db_xref="PDB:1IOH"
+                     /db_xref="PDB:1J73"
+                     /db_xref="PDB:1JCA"
+                     /db_xref="PDB:1JCO"
+                     /db_xref="PDB:1K3M"
+                     /db_xref="PDB:1KMF"
+                     /db_xref="PDB:1LKQ"
+                     /db_xref="PDB:1LPH"
+                     /db_xref="PDB:1MHI"
+                     /db_xref="PDB:1MHJ"
+                     /db_xref="PDB:1MSO"
+                     /db_xref="PDB:1OS3"
+                     /db_xref="PDB:1OS4"
+                     /db_xref="PDB:1Q4V"
+                     /db_xref="PDB:1QIY"
+                     /db_xref="PDB:1QIZ"
+                     /db_xref="PDB:1QJ0"
+                     /db_xref="PDB:1RWE"
+                     /db_xref="PDB:1SF1"
+                     /db_xref="PDB:1SJT"
+                     /db_xref="PDB:1SJU"
+                     /db_xref="PDB:1T0C"
+                     /db_xref="PDB:1T1K"
+                     /db_xref="PDB:1T1P"
+                     /db_xref="PDB:1T1Q"
+                     /db_xref="PDB:1TRZ"
+                     /db_xref="PDB:1TYL"
+                     /db_xref="PDB:1TYM"
+                     /db_xref="PDB:1UZ9"
+                     /db_xref="PDB:1VKT"
+                     /db_xref="PDB:1W8P"
+                     /db_xref="PDB:1XDA"
+                     /db_xref="PDB:1XGL"
+                     /db_xref="PDB:1XW7"
+                     /db_xref="PDB:1ZEG"
+                     /db_xref="PDB:1ZEH"
+                     /db_xref="PDB:1ZNJ"
+                     /db_xref="PDB:2AIY"
+                     /db_xref="PDB:2C8Q"
+                     /db_xref="PDB:2C8R"
+                     /db_xref="PDB:2CEU"
+                     /db_xref="PDB:2G54"
+                     /db_xref="PDB:2G56"
+                     /db_xref="PDB:2H67"
+                     /db_xref="PDB:2HH4"
+                     /db_xref="PDB:2HHO"
+                     /db_xref="PDB:2HIU"
+                     /db_xref="PDB:2JMN"
+                     /db_xref="PDB:2JUM"
+                     /db_xref="PDB:2JUU"
+                     /db_xref="PDB:2JUV"
+                     /db_xref="PDB:2JV1"
+                     /db_xref="PDB:2JZQ"
+                     /db_xref="PDB:2K91"
+                     /db_xref="PDB:2K9R"
+                     /db_xref="PDB:2KJJ"
+                     /db_xref="PDB:2KJU"
+                     /db_xref="PDB:2KQP"
+                     /db_xref="PDB:2OLY"
+                     /db_xref="PDB:2OLZ"
+                     /db_xref="PDB:2OM0"
+                     /db_xref="PDB:2OM1"
+                     /db_xref="PDB:2OMG"
+                     /db_xref="PDB:2OMH"
+                     /db_xref="PDB:2OMI"
+                     /db_xref="PDB:2QIU"
+                     /db_xref="PDB:2R34"
+                     /db_xref="PDB:2R35"
+                     /db_xref="PDB:2R36"
+                     /db_xref="PDB:2RN5"
+                     /db_xref="PDB:2VJZ"
+                     /db_xref="PDB:2VK0"
+                     /db_xref="PDB:2W44"
+                     /db_xref="PDB:2WBY"
+                     /db_xref="PDB:2WC0"
+                     /db_xref="PDB:2WRU"
+                     /db_xref="PDB:2WRV"
+                     /db_xref="PDB:2WRW"
+                     /db_xref="PDB:2WRX"
+                     /db_xref="PDB:2WS0"
+                     /db_xref="PDB:2WS1"
+                     /db_xref="PDB:2WS4"
+                     /db_xref="PDB:2WS6"
+                     /db_xref="PDB:2WS7"
+                     /db_xref="PDB:3AIY"
+                     /db_xref="PDB:3BRR"
+                     /db_xref="PDB:3BXQ"
+                     /db_xref="PDB:3E7Y"
+                     /db_xref="PDB:3E7Z"
+                     /db_xref="PDB:3EXX"
+                     /db_xref="PDB:3FQ9"
+                     /db_xref="PDB:3HYD"
+                     /db_xref="PDB:3I3Z"
+                     /db_xref="PDB:3I40"
+                     /db_xref="PDB:3ILG"
+                     /db_xref="PDB:3INC"
+                     /db_xref="PDB:3IR0"
+                     /db_xref="PDB:3JSD"
+                     /db_xref="PDB:3KQ6"
+                     /db_xref="PDB:4AIY"
+                     /db_xref="PDB:5AIY"
+                     /db_xref="UniProtKB/Swiss-Prot:P01308"
+                     /translation="MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCG
+                     ERGFFYTPKTRREAEDLQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSL
+                     YQLENYCN"
+     sig_peptide     2424..2495
+                     /note="peptide pre (signal peptide)"
+     mat_peptide     2496..2585
+                     /product="proinsulin peptide B"
+     mat_peptide     join(2586..2610,3397..3476)
+                     /product="proinsulin peptide C (part 1) (2610 is 1st base
+                     in codon)"
+     mat_peptide     3477..3539
+                     /product="proinsulin peptide A"
+     intron          2611..3396
+                     /note="intron"
+     misc_difference 3068
+                     /note="G is GG in [2];
+                     conflict"
+                     /citation=[2]
+     variation       3229
+                     /note="G can be C (see [2])"
+     mRNA            3397..3615
+                     /note="preproinsulin mRNA (part 3)"
+     variation       3551
+                     /note="T can be C (see [2])"
+     variation       3564
+                     /note="A can be C (see [2])"
+     misc_difference 3638..3639
+                     /note="TT is T in [2];
+                     conflict"
+                     /citation=[2]
+     unsure          4381..4441
+                     /note="sequence unconfirmed"
+ORIGIN      
+        1 ctcgaggggc ctagacattg ccctccagag agagcaccca acaccctcca ggcttgaccg
+       61 gccagggtgt ccccttccta ccttggagag agcagcccca gggcatcctg cagggggtgc
+      121 tgggacacca gctggccttc aaggtctctg cctccctcca gccaccccac tacacgctgc
+      181 tgggatcctg gatctcagct ccctggccga caacactggc aaactcctac tcatccacga
+      241 aggccctcct gggcatggtg gtccttccca gcctggcagt ctgttcctca cacaccttgt
+      301 tagtgcccag cccctgaggt tgcagctggg ggtgtctctg aagggctgtg agcccccagg
+      361 aagccctggg gaagtgcctg ccttgcctcc ccccggccct gccagcgcct ggctctgccc
+      421 tcctacctgg gctcccccca tccagcctcc ctccctacac actcctctca aggaggcacc
+      481 catgtcctct ccagctgccg ggcctcagag cactgtggcg tcctggggca gccaccgcat
+      541 gtcctgctgt ggcatggctc agggtggaaa gggcggaagg gaggggtcct gcagatagct
+      601 ggtgcccact accaaacccg ctcggggcag gagagccaaa ggctgggtgt gtgcagagcg
+      661 gccccgagag gttccgaggc tgaggccagg gtgggacata gggatgcgag gggccggggc
+      721 acaggatact ccaacctgcc tgcccccatg gtctcatcct cctgcttctg ggacctcctg
+      781 atcctgcccc tggtgctaag aggcaggtaa ggggctgcag gcagcagggc tcggagccca
+      841 tgccccctca ccatgggtca ggctggacct ccaggtgcct gttctgggga gctgggaggg
+      901 ccggaggggt gtaccccagg ggctcagccc agatgacact atgggggtga tggtgtcatg
+      961 ggacctggcc aggagagggg agatgggctc ccagaagagg agtgggggct gagagggtgc
+     1021 ctggggggcc aggacggagc tgggccagtg cacagcttcc cacacctgcc cacccccaga
+     1081 gtcctgccgc cacccccaga tcacacggaa gatgaggtcc gagtggcctg ctgaggactt
+     1141 gctgcttgtc cccaggtccc caggtcatgc cctccttctg ccaccctggg gagctgaggg
+     1201 cctcagctgg ggctgctgtc ctaaggcagg gtgggaacta ggcagccagc agggagggga
+     1261 cccctccctc actcccactc tcccaccccc accaccttgg cccatccatg gcggcatctt
+     1321 gggccatccg ggactgggga caggggtcct ggggacaggg gtccggggac agggtcctgg
+     1381 ggacaggggt gtggggacag gggtctgggg acaggggtgt ggggacaggg gtgtggggac
+     1441 aggggtctgg ggacaggggt gtggggacag gggtccgggg acaggggtgt ggggacaggg
+     1501 gtctggggac aggggtgtgg ggacaggggt gtggggacag gggtctgggg acaggggtgt
+     1561 ggggacaggg gtcctgggga caggggtgtg gggacagggg tgtggggaca ggggtgtggg
+     1621 gacaggggtg tggggacagg ggtcctgggg ataggggtgt ggggacaggg gtgtggggac
+     1681 aggggtcccg gggacagggg tgtggggaca ggggtgtggg gacaggggtc ctggggacag
+     1741 gggtctgagg acaggggtgt gggcacaggg gtcctgggga caggggtcct ggggacaggg
+     1801 gtcctgggga caggggtctg gggacagcag cgcaaagagc cccgccctgc agcctccagc
+     1861 tctcctggtc taatgtggaa agtggcccag gtgagggctt tgctctcctg gagacatttg
+     1921 cccccagctg tgagcaggga caggtctggc caccgggccc ctggttaaga ctctaatgac
+     1981 ccgctggtcc tgaggaagag gtgctgacga ccaaggagat cttcccacag acccagcacc
+     2041 agggaaatgg tccggaaatt gcagcctcag cccccagcca tctgccgacc cccccacccc
+     2101 gccctaatgg gccaggcggc aggggttgac aggtagggga gatgggctct gagactataa
+     2161 agccagcggg ggcccagcag ccctcagccc tccaggacag gctgcatcag aagaggccat
+     2221 caagcaggtc tgttccaagg gcctttgcgt caggtgggct cagggttcca gggtggctgg
+     2281 accccaggcc ccagctctgc agcagggagg acgtggctgg gctcgtgaag catgtggggg
+     2341 tgagcccagg ggccccaagg cagggcacct ggccttcagc ctgcctcagc cctgcctgtc
+     2401 tcccagatca ctgtccttct gccatggccc tgtggatgcg cctcctgccc ctgctggcgc
+     2461 tgctggccct ctggggacct gacccagccg cagcctttgt gaaccaacac ctgtgcggct
+     2521 cacacctggt ggaagctctc tacctagtgt gcggggaacg aggcttcttc tacacaccca
+     2581 agacccgccg ggaggcagag gacctgcagg gtgagccaac cgcccattgc tgcccctggc
+     2641 cgcccccagc caccccctgc tcctggcgct cccacccagc atgggcagaa gggggcagga
+     2701 ggctgccacc cagcaggggg tcaggtgcac ttttttaaaa agaagttctc ttggtcacgt
+     2761 cctaaaagtg accagctccc tgtggcccag tcagaatctc agcctgagga cggtgttggc
+     2821 ttcggcagcc ccgagataca tcagagggtg ggcacgctcc tccctccact cgcccctcaa
+     2881 acaaatgccc cgcagcccat ttctccaccc tcatttgatg accgcagatt caagtgtttt
+     2941 gttaagtaaa gtcctgggtg acctggggtc acagggtgcc ccacgctgcc tgcctctggg
+     3001 cgaacacccc atcacgcccg gaggagggcg tggctgcctg cctgagtggg ccagacccct
+     3061 gtcgccagcc tcacggcagc tccatagtca ggagatgggg aagatgctgg ggacaggccc
+     3121 tggggagaag tactgggatc acctgttcag gctcccactg tgacgctgcc ccggggcggg
+     3181 ggaaggaggt gggacatgtg ggcgttgggg cctgtaggtc cacacccagt gtgggtgacc
+     3241 ctccctctaa cctgggtcca gcccggctgg agatgggtgg gagtgcgacc tagggctggc
+     3301 gggcaggcgg gcactgtgtc tccctgactg tgtcctcctg tgtccctctg cctcgccgct
+     3361 gttccggaac ctgctctgcg cggcacgtcc tggcagtggg gcaggtggag ctgggcgggg
+     3421 gccctggtgc aggcagcctg cagcccttgg ccctggaggg gtccctgcag aagcgtggca
+     3481 ttgtggaaca atgctgtacc agcatctgct ccctctacca gctggagaac tactgcaact
+     3541 agacgcagcc tgcaggcagc cccacacccg ccgcctcctg caccgagaga gatggaataa
+     3601 agcccttgaa ccagccctgc tgtgccgtct gtgtgtcttg ggggccctgg gccaagcccc
+     3661 acttcccggc actgttgtga gcccctccca gctctctcca cgctctctgg gtgcccacag
+     3721 gtgccaacgc caggcaggcc cagcatgcag tggctctccc caaagcggcc atgcctgttg
+     3781 gctgcctgct gcccccaccc tgtggctcag ggtccagtat gggagcttcg ggggtctctg
+     3841 aggggccagg gatggtgggg ccactgagaa gtgactctgt cagtagccga cctggagtcc
+     3901 ccagagacct tgttcaggaa agggaatgag aacattccag caattttccc cccacctagc
+     3961 cctcccaggt tctattttta gagttatttc tgatggagtc cctgtggagg gaggaggctg
+     4021 ggctgaggga gggggtcctg cagggcgggg ggctgggaag gtggggagag gctgccgaga
+     4081 gccacccgct atccccagct ctgggcagcc ccgggacagt cacacaccct ggcctcgcgg
+     4141 cccaagctgg cagccgtctg cagccacagc ttatgccagc ccaggtccag ccagacacct
+     4201 gagggaccca ctggtgcctt ggaggaagca ggagaggtca gatggcacca tgagctgggg
+     4261 caggtgcagg gaccgtggca gcacctggca gggcctcaga acccatgcct tgggcacccc
+     4321 ggccatgagg ccctgaggat tgcagcccaa gagaagcagg gaacgccagg gccacagggg
+     4381 cagagaccag gccagggtcc cttgcggccc ttagcccacc ccctcccagt aagcaggggc
+     4441 tgcttggcta ggcttccttt tgctacagac ctgctgctca cccagaggcc cacgggccct
+     4501 agtgacaagg tcgttgtggc tccaggtcct tgggggtcct gacacagagc ctcttctgca
+     4561 gcacccctga ggacagggtg ctccgctggg cacccagcct agtgggcaga cgagaaccta
+     4621 ggggctgcct gggcctactg tggcctggga ggtcagcggg tgaccctagc taccctgtgg
+     4681 ctgggccagt ctgcctgcca cccaggccaa accaatctgc acctttcctg agagctccac
+     4741 ccagggctgg gctggggatg gctgggcctg gggctggcat gggctgtggc tgcagaccac
+     4801 tgccagcttg ggcctcgagg ccaggagctc accctccagc tgccccgcct ccagagtggg
+     4861 ggccagggct gggcaggcgg gtggacggcc ggacactggc cccggaagag gagggaggcg
+     4921 gtggctggga tcggcagcag ccgtccatgg gaacacccag ccggccccac tcgcacgggt
+     4981 agagacaggc gc
+//
+

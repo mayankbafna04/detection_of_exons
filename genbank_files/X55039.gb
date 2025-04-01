@@ -1,0 +1,169 @@
+LOCUS       X55039                  3717 bp    DNA     linear   PRI 14-NOV-2006
+DEFINITION  Human hCENP-B gene for centromere autoantigen B (CENP-B).
+ACCESSION   X55039
+VERSION     X55039.1
+KEYWORDS    centromere associated protein; centromere autoantigen B;
+            chromosomal protein; hCENP-B gene; helix-loop-helix protein.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1
+  AUTHORS   Earnshaw,W.C., Sullivan,K.F., Machlin,P.S., Cooke,C.A.,
+            Kaiser,D.A., Pollard,T.D., Rothfield,N.F. and Cleveland,D.W.
+  TITLE     Molecular cloning of cDNA for CENP-B, the major human centromere
+            autoantigen
+  JOURNAL   J. Cell Biol. 104 (4), 817-829 (1987)
+   PUBMED   2435739
+REFERENCE   2  (bases 1 to 3717)
+  AUTHORS   Sullivan,K.F. and Glass,C.A.
+  TITLE     CENP-B is a highly conserved mammalian centromere protein with
+            homology to the helix-loop-helix family of proteins
+  JOURNAL   Chromosoma 100 (6), 360-370 (1991)
+   PUBMED   1893793
+REFERENCE   3  (bases 1 to 3717)
+  AUTHORS   Sullivan,K.F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-JAN-1991) K.F. Sullivan, Department of Molecular
+            Biology, Research Institute of Scripps Clinic MB6, 10666 N Torrey
+            Pines Road, La Jolla CA 92037, U S A
+COMMENT     See also X55038 and X05299.
+FEATURES             Location/Qualifiers
+     source          1..3717
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /cell_type="peripheral lymphocytes"
+                     /clone_lib="lambda EMBL 3 genomic"
+     gene            936..2735
+                     /gene="hCENP-B"
+     CDS             936..2735
+                     /gene="hCENP-B"
+                     /codon_start=1
+                     /product="centromere autoantigen B (CENP-B)"
+                     /protein_id="CAA38879.1"
+                     /db_xref="GDB:118768"
+                     /db_xref="GOA:P07199"
+                     /db_xref="HGNC:HGNC:1852"
+                     /db_xref="InterPro:IPR004875"
+                     /db_xref="InterPro:IPR004906"
+                     /db_xref="InterPro:IPR006600"
+                     /db_xref="InterPro:IPR006695"
+                     /db_xref="InterPro:IPR009057"
+                     /db_xref="InterPro:IPR011526"
+                     /db_xref="InterPro:IPR012287"
+                     /db_xref="InterPro:IPR015115"
+                     /db_xref="PDB:1BW6"
+                     /db_xref="PDB:1HLV"
+                     /db_xref="PDB:1UFI"
+                     /db_xref="UniProtKB/Swiss-Prot:P07199"
+                     /translation="MGPKRRQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLST
+                     ILKNKRAILASERKYGVASTCRKTNKLSPYDKLEGLLIAWFQQIRAAGLPVKGIILKE
+                     KALRIAEELGMDDFTASNGWLDRFRRRHGVVSCSGVARARARNAAPRTPAAPASPAAV
+                     PSEGSGGSTTGWRAREEQPPSVAEGYASQDVFSATETSLWYDFLPDQAAGLCGGDGRP
+                     RQATQRLSVLLCANADGSEKLPPLVAGKSAKPRAGQAGLPCDYTANSKGGVTTQALAK
+                     YLKALDTRMAAESRRVLLLAGRLAAQSLDTSGLRHVQLAFFPPGTVHPLERGVVQQVK
+                     GHYRQAMLLKAMAALEGQDPSGLQLGLTEALHFVAAAWQAVEPSDIAACFREAGFGGG
+                     PNATITTSLKSEGEEEEEEEEEEEEEEGEGEEEEEEGEEEEEEGGEGEELGEEEEVEE
+                     EGDVDSDEEEEEDEESSSEGLEAEDWAQGVVEAGGSFGAYGAQEEAQCPTLHFLEGGE
+                     DSDSDSEEEDDEEEDDEDEDDDDDEEDGDEVPVPSFGEAMAYFAMVKRYLTSFPIDDR
+                     VQSHILHLEHDLVHVTRKNHARQAGVRGLGHQS"
+     misc_difference 2683
+                     /gene="hCENP-B"
+                     /note="conflict"
+                     /citation=[1]
+                     /replace="t"
+     misc_difference 2709
+                     /gene="hCENP-B"
+                     /note="conflict"
+                     /citation=[1]
+                     /replace="c"
+     misc_difference 2713
+                     /gene="hCENP-B"
+                     /note="conflict"
+                     /citation=[1]
+                     /replace="t"
+     misc_difference 3209..3210
+                     /note="conflict"
+                     /citation=[1]
+                     /replace="cca"
+     misc_difference 3224..3226
+                     /note="conflict"
+                     /citation=[1]
+                     /replace="ct"
+     misc_difference 3237..3239
+                     /note="conflict"
+                     /citation=[1]
+                     /replace="gt"
+     misc_difference 3496
+                     /note="conflict"
+                     /citation=[1]
+                     /replace="n"
+     regulatory      3520..3525
+                     /regulatory_class="polyA_signal_sequence"
+ORIGIN      
+        1 tagatttaca actgtaatgc tgattttaaa aataacttaa gtgtgtaaca ataggttaca
+       61 tacgctagtg ttcattcata gctggaatgc tacacaatca ttaaaaagcg tgttggcaat
+      121 gatacttacc gatatggcaa aattctcact acttgatgcc aggtaaaaca gcaggagatg
+      181 ccagatatac agtctataca gtctgatgcc agttttatat aataaatttt taaaaagaaa
+      241 acgacatgca tctagagaaa agactggaag gaaatgtatc aaaatgttac ctgtgcatct
+      301 ctccaggtga cgtgaaaagc gtttttcaac ttcttgaatt tttcaggttc cgcaaaaaaa
+      361 aaagtgcgtt atttttacct taattaaaaa aaaaaaaaac aaacaaaaac cctggttctt
+      421 attctttttg agcagcaagt cgctgtccgc cgggcgcagt agcgatgcac cgcgtccccg
+      481 cccgcgtcgc tgccgggtcg ccggaggccg cagcacgggc aggtccagca ggccgcagcg
+      541 cccccccgcc ggtatgtgcc cggcggcggg aagggggtgg gcgcggaggg cggggaggag
+      601 gcgccgggcg tccccgcgct tcccgcgaga tcccgctccg ccccgctcgc cgcgcgtccc
+      661 agctccccgc gccggccact tcctgccttc cgcgcccgcg ccgcccgccc tcgtctgcgc
+      721 ccgtcgcctg ccgcccgccg cccgggacgc ggcccgccgg cgtccccgga ggtgcccggc
+      781 ccggccgggt cgtcgccccg ccgccgcgcc gcgagccgct ttgtctcggg cggggcgcgc
+      841 gggagaggcc gccaggtgcc ccccgccacg ggcccgggcc cccgccccgg ggcggcggcg
+      901 gcggcgccgg gccccggggc ggggggcgcg ccgggatggg ccccaagagg cgacagctga
+      961 cgttccggga gaagtcacgg atcatccagg aggtggagga gaatccggac ctgcgcaagg
+     1021 gcgagatcgc gcggcgcttc aacatcccgc cgtccacgct gagcacgatc ctgaagaaca
+     1081 agcgcgccat cctggcgtcg gagcgcaagt acggggtggc ctccacctgc cgcaagacca
+     1141 acaagctgtc tccctacgac aagctcgagg gcttgctcat cgcctggttc cagcagatcc
+     1201 gcgccgccgg cctgccggtc aagggcatca tcctcaagga gaaggcgctg cgcatagccg
+     1261 aggagctggg catggacgac ttcaccgcct ccaacggctg gctggaccgc ttccgccggc
+     1321 gccacggcgt ggtgtcctgc agcggcgtgg cccgcgcccg cgcgcgaaac gctgcccccc
+     1381 gcaccccggc ggcgcctgcc agtccggccg cggtgccctc ggagggcagt ggcgggagca
+     1441 ctactggttg gcgcgctcgg gaggagcagc cgccgtcggt ggccgagggc tacgcctcgc
+     1501 aggacgtgtt cagcgccacc gagaccagtc tatggtacga cttcctgccc gaccaggccg
+     1561 cggggctgtg cggaggcgac ggacggccgc gtcaagccac ccagcgcctg agcgtcctgc
+     1621 tatgcgccaa tgccgacggc agcgagaagc tgcccccgct ggtggccggc aagtcggcca
+     1681 agccccgcgc aggccaagcc ggcctgccct gcgactacac cgccaactcc aagggtggtg
+     1741 tcaccaccca ggccctggcc aagtacttga aggccttgga cacccgaatg gctgcagagt
+     1801 ctcgccgggt cctgctgttg gccggccgct tggctgccca gtccttggac acctcgggcc
+     1861 tgcggcatgt gcagctggcc ttcttccctc ccggcaccgt gcatccgctg gagaggggag
+     1921 tggtccagca ggtgaagggc cactaccgcc aggccatgct gctcaaggcc atggccgcgc
+     1981 tagagggcca ggatccctca ggcctgcagc tgggtctcac ggaggccctg cactttgtgg
+     2041 ctgccgcctg gcaggcagtg gagccttcgg acatagccgc ctgctttcgt gaggctggct
+     2101 ttgggggtgg ccctaatgcc accatcacca cttccctcaa gagtgaggga gaggaagagg
+     2161 aggaggagga ggaagaagag gaggaggaag agggtgaagg agaggaagag gaggaggaag
+     2221 gggaggagga ggaggaggaa gggggggaag gagaggaatt gggggaggaa gaggaggtgg
+     2281 aggaggaggg tgatgttgat agtgatgaag aagaggagga agatgaggag agctcctcgg
+     2341 agggcttgga ggctgaggac tgggcccagg gagtagtgga ggccggtggc agcttcgggg
+     2401 cttatggtgc ccaggaggaa gcccagtgcc ctactctgca tttcctggaa ggtggggagg
+     2461 actctgattc agacagtgag gaagaggacg atgaggaaga ggatgatgaa gatgaagacg
+     2521 acgatgatga tgaggaggat ggtgatgagg tgcctgtacc cagctttggg gaggccatgg
+     2581 cttactttgc catggtcaag aggtacctga cctccttccc cattgatgac cgcgtgcaga
+     2641 gccacatcct ccacttggaa cacgatctgg ttcatgtgac caggaagaac cacgccaggc
+     2701 aggcgggagt tcgaggtctt ggacatcaaa gctgagtcac tggacctagc tgtgccccca
+     2761 acctagattg gcagcaccac cccagggcag aggactctct gggcacccgc tgtgcatgga
+     2821 gccagagtgc agagccccag atcctttagt aatgcttccc ctggtcctgc aacaggcccg
+     2881 gtcacctcgg ccgggcccgg ggctgaggtc agcctcactg cctgcttatt gcctctttct
+     2941 cagaatcctc tttcctcccc atttggccct gggctcaggg gaccaggtgg ggcgggtggg
+     3001 gagctgtccg gtgctaccac accgtgccct cagtggacta accacagcag cagccaggga
+     3061 tgggccctgg aggttcccgg ccggagagtg cctctcccct ctgccatcca cgtcaggtct
+     3121 ttggtggggg gaccccaaag ccattctggg aagggctcca gaagaaggtc cagcctaggc
+     3181 cccctgcaag gctggcagcc cccaccccca ccccccaggc cgccttgaga agcacagttt
+     3241 aactcactgc gggctcctga gcctgcttct gcctgctttc cacctcccca gtccctttct
+     3301 ctggccctgt ccatgtgact ttggcccttg gttttctttc cagattggag gtttccaaga
+     3361 ggccccccac cgtggaagta accaagggcg cttccttgtg ggcagctgca ggccccatgc
+     3421 ctctcctccc tctctctggc agggcccatc ctgggcagag gggcctgggg ctgggcccag
+     3481 agtccagccg tccagctgct cctttcccag tttgatttca ataaatctgt ccactcccct
+     3541 tttgtggggg tgaacgtttt aacagccaag ggtgcatcct tcatggtctg ggcttgcgtc
+     3601 tgtcttgggg gacttattcg tcctggctct ctttggtcct tgctctggtg ggacatggag
+     3661 gcaagtgttg agagggttgc cctgaccgga agaggggcag gaggagacct caagctt
+//
+

@@ -1,0 +1,98 @@
+LOCUS       HUMPPPA                 2775 bp    DNA     linear   PRI 08-JAN-1995
+DEFINITION  Human pancreatic polypeptide gene, complete cds.
+ACCESSION   M11726
+VERSION     M11726.1
+KEYWORDS    hormone.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2775)
+  AUTHORS   Leiter,A.B., Montminy,M.R., Jamieson,E. and Goodman,R.H.
+  TITLE     Exons of the human pancreatic polypeptide gene define functional
+            domains of the precursor
+  JOURNAL   J. Biol. Chem. 260 (24), 13013-13017 (1985)
+   PUBMED   2997153
+COMMENT     Original source text: Human liver DNA.
+FEATURES             Location/Qualifiers
+     source          1..2775
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /map="17p11.1-qter"
+     prim_transcript 937..2601
+                     /note="mRNA and introns"
+     intron          995..1750
+                     /note="intron A"
+     CDS             join(1751..1941,2192..2263,2455..2479)
+                     /note="pancreatic polypeptide precursor"
+                     /codon_start=1
+                     /protein_id="AAA60156.1"
+                     /translation="MAAARLCLSLLLLSTCVALLLQPLLGAQGAPLEPVYPGDNATPE
+                     QMAQYAADLRRYINMLTRPRYGKRHKEDTLAFSEWGSPHAAVPRELSPLDL"
+     gene            1751..1941
+                     /gene="PPY"
+     exon            <1751..1941
+                     /gene="PPY"
+                     /note="pancreatic polypeptide precursor, (first translated
+                     exon); G00-120-311"
+                     /number=2
+     intron          1942..2191
+                     /note="intron B"
+     exon            2192..2263
+     intron          2264..2454
+                     /note="intron C"
+     exon            2455..>2479
+                     /note="pancreatic polypeptide precursor"
+                     /number=4
+ORIGIN      Chromosome 17p11.1-qter.
+        1 tagccaaaaa gtgggaaatt ataacaatac ttgacggccc cacttaggaa aaaaaacagt
+       61 ccaggtttgg agttaaattt tggggtctga ctggctgtgg ggtttggggc cagtgatttg
+      121 acatctctga gcagatttca gaccctgaat ctgtaaaatg ggttgttgtg gggatttagt
+      181 gaggtgactg agctggcagc actttggaaa atgtgaggct ttacaaatga agctggtttt
+      241 tagcacttcc ttggaatggg ggctctgaga tggggaggga aatggatact ggaaaccggc
+      301 acccccctca acatttcccc tgaacctagg cacatgagtc cattctgcat cctatgcacc
+      361 caccaaatgg gtttctccaa gcctggcacc ccactccttt ccaccttgcc tgaggaccct
+      421 gaggcccctt ccctcttccc accttgttct agttgcaagc tgcagaggat ggcctgagtt
+      481 tccattcttc agcctggagg ctctggctgt agcctcagtc ttccagctgc agcctcaatc
+      541 ttctgcccca agagaatccg ttggatgatt tgggttgatc tttgggaggc aggagagcta
+      601 gttccaaggc ctgtgaccaa aacctttcag tcactctcga gtcccagaac cccatctttc
+      661 ttgaaccaag cctgctctgg tgcccaaagg gaaggggtgt cagtgatggg ggcccacagg
+      721 agacttttac tgtggtccag ttttatctgt tatgctgctg gtctggcacc cacagaactg
+      781 ccctgtcccc ctcccgtctc tggcctcagt actggcgttg ccagtatgag gagacagtga
+      841 gaggaggggt gagggcttcg gagtgagaga ggctgacagg aggcggggac tctggggggc
+      901 tgaggactat aaagcggccc agccgagggc aggggcccat ccggcctgag gcaggtgctc
+      961 gcttggtcta gtgcccattt actctggact ccgggtaagt gggctcacgc ctgcctgggg
+     1021 ctctgggggc ctcccccagg ctggggcctg ggatggagag gaggtggtgc tttgcagggc
+     1081 caggggcctt gggaggccta aggtcctgct tgggtcttgc tttctgcatc tggacagacc
+     1141 tgtcacgcta gaagagccgt ctgctgactg cacgtgtgtg tgcacactcg tgtgcatggc
+     1201 ctgtgaactg gaatgtgtga ctgtgacctt gtgagtgaac tggggtccct gtgtgagtgc
+     1261 ctttgctggt ctgtgcagga cgacatggac aatagcgtct tctccaggac cgatatctgt
+     1321 gtctctatcg cagggtggag ggccagcacc cacaaggcca tggtttctgt ccttggcttc
+     1381 ccgagttcat tctgtgtccc ccaccctgtg ggtgacctgc atgcccttat tcccactagc
+     1441 tgctgcctcc tgggagccat gaggccctag atgtcatcag tcccgtgtct ccaggactca
+     1501 catccccatt ttaactaact tgcgaggccc tggcttgctg ggctgctcac aggacaggct
+     1561 gtccgtgcct tcagagcagt gtctaggagg tggagtggcc agcttggagt ggccctttgc
+     1621 tctgccccct tgtccccaag cttggagaaa tggatgatgg gctaaggggc tggatagttg
+     1681 ggccctgctt cctaggcacg ggaaaatctg caggcccggg cactccacct cccctctgct
+     1741 tgctcctcag atggctgccg cacgcctctg cctctccctg ctgctcctgt ccacctgcgt
+     1801 ggctctgtta ctacagccac tgctgggtgc ccagggagcc ccactggagc cagtgtaccc
+     1861 aggggacaat gccacaccag agcagatggc ccagtatgca gctgatctcc gtagatacat
+     1921 caacatgctg accaggccta ggtgtgtgcc acagttgggg agagagatcc cagcccctgg
+     1981 gaccctgggc ccactccaca ttcctggcca caccctatcc ccagccccag cccccagccc
+     2041 cttctaggcc tgctcttggg aaacagggca tctgtcgctc aacaggccag accaatgtgc
+     2101 ctgggcaaga tggtgtccta caggtcagat atgaaacagg tgggctggca cctgggcaca
+     2161 gtgcttgccc ctgctgcctc ttccctccca ggtatgggaa aagacacaaa gaggacacgc
+     2221 tggccttctc ggagtggggg tccccgcatg ctgctgtccc caggtgagtt tgactccctg
+     2281 ccctgtctgt ccaggctccc tggggctgaa atgggggtgg tgggactgaa tcagggcttg
+     2341 gaaaggtgta gtggggggtg gaagagggag aacaggagcc cagggccagc gtgaggcctc
+     2401 ctgagggcac gaggcctacc ccctacactg ccatgttctg ccctgtcctc acagggagct
+     2461 cagcccgctg gacttataat gccaccttct gtctcctacg actccatgag cagcgccagc
+     2521 ccagctctcc cctctgcacc cttggctctg gccaagcttg ctccctgctc ccacacaggc
+     2581 tcaataaagc aagtcaaagc cacagcctgt cctgtgtctc tgtggacccc tggtgggggc
+     2641 agcaggaagt gccaaagtgc caaatgcatg ggagagaaag gggagggcag ggcagggcga
+     2701 ggaaaagggg atcatccaga acgttggcgg gggtcatcag agtcactcaa ctcatcctct
+     2761 ccccttcgca gaggg
+//
+

@@ -1,0 +1,113 @@
+LOCUS       HUMUBILP                3583 bp    DNA     linear   PRI 03-AUG-1993
+DEFINITION  Human ubiquitin-like protein (GdX) gene, complete cds.
+ACCESSION   J03589
+VERSION     J03589.1
+KEYWORDS    ubiquitin-like protein.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 3583)
+  AUTHORS   Toniolo,D., Persico,M. and Alcalay,M.
+  TITLE     A 'housekeeping' gene on the X chromosome encodes a protein similar
+            to ubiquitin
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 85 (3), 851-855 (1988)
+   PUBMED   2829204
+COMMENT     Original source text: Human SV40-transformed fibroblast DNA,
+            (library of Okayama and Berg) clones lambda-Gd[T7,11,5A,3C], and
+            fibroblast, cDNA to mRNA, clone pGd6405.
+FEATURES             Location/Qualifiers
+     source          1..3583
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+     prim_transcript 550..3443
+                     /note="UB-lp mRNA and introns (alt.)"
+     prim_transcript 550..3181
+                     /note="UB-lp mRNA and introns (alt.)"
+     CDS             join(585..632,836..941,1188..1396,1518..1628)
+                     /note="ubiquitin-like protein"
+                     /codon_start=1
+                     /protein_id="AAA36790.1"
+                     /translation="MQLTVKALQGRECSLQVPEDELVSTLKQLVSEKLNVPVRQQRLL
+                     FKGKALADGKRLSDYSIGPNSKLNLVVKPLEKVLLEEGEAQRLADSPPPQVWQLISKV
+                     LARHFSAADASRVLEQLQRDYERSLSRLTLDDIERLASRFLHPEVTETMEKGFSK"
+     exon            <585..632
+                     /note="ubiquitin-like protein"
+     intron          633..835
+                     /note="UB-lp intron A"
+     exon            836..941
+                     /number=2
+     intron          942..1187
+                     /note="UB-lp intron B"
+     exon            1188..1396
+                     /number=3
+     intron          1397..1517
+                     /note="UB-lp intron C"
+     exon            1518..>1628
+                     /note="ubiquitin-like protein"
+                     /number=4
+ORIGIN      X chromosome.
+        1 cccgggtgtc ccactctggg agaggtggga ggatgagggc agaggcgtag cccccctgcc
+       61 ccctctcaag ctcagtggag cgtttcgcag ccagaccaga aaggaggagg taggaagcca
+      121 ccagacaggg agcgggggcg ggccgtctgt gggtatgcag ggccaggcgc cgccagcagt
+      181 cctagcgcgt ggggtgggcc gagcagtccg cgggggcgag cgtaccttct ggccctccct
+      241 tctccatgtc ccagctccca gatgacgcca acttggcccg actggttcct gctcccaact
+      301 cccccgcgtc gttgctttgg gaggggtccg ccggccaggg cggtcgatgc gcgcgtgcta
+      361 ggcgggaccc cggggggctc ctcccgggcg caattgggcc ggggggcggg gccggggcgc
+      421 ggacggggca ggagggcggg gccgggaagc gcgggcggcg ggcgcgcccc tctcgctgct
+      481 tccggcggcg gcgggcggtt ccagcgcgcg cgcccggggc ggcggcgcgc ggcggggggt
+      541 ggttggggtg cgcgccggcc cgagtggacg ccgtcgcgac cgccatgcag ctgacggtga
+      601 aggcgctgca gggccgcgag tgcagcctgc aggtagggtc cccgggccgg gccgccgggt
+      661 ccggcgcgct ctctcgcccg ctcctggcag ggggaccggc agggccgagg gcgggcacgg
+      721 ggaggccggg ccgagggccg ggagccggga gagctgccct cgggggcgga cgcgtgggct
+      781 tcgccgtctg ggggccgcgg gctcaaccct tgcctcccac cctccgcgcg gccaggtgcc
+      841 agaggacgag ctggtgtcca cgctgaagca gctggtctcc gagaagctga acgtcccagt
+      901 gcgccagcag cggctgctgt tcaagggcaa ggccctggca ggtacccagg gagaggagac
+      961 gcccggggag ccccgcagga agcgggaccg gggtgcgcgg gccgaggcca gcagccgtgt
+     1021 gtcgggtcgg ggtgcgggcg ccaagcgcca catgacccca agggaggcgg ccgcatgcct
+     1081 cacagccgga tgccgcagcg ctccgctccc cgcccgaggc ggcctcgcgc cccgggccac
+     1141 ccccacggcg gtggaggagg aggaacccat cgatctgtct ttggcagatg ggaaacgact
+     1201 ctcggattat agcatcgggc ccaactccaa gctcaaccta gtggtcaaac ccctggagaa
+     1261 ggtgctacta gaagaaggcg aggcccagag gctggccgac tccccacccc cgcaggtctg
+     1321 gcagctgatc tccaaagtct tggcccgcca cttcagtgcg gcagatgcca gcagggtcct
+     1381 ggaacagcta cagagggtga gaagggtaac cctgggcatc ctcttcaggc ccagttgctc
+     1441 ccagccccta cctctgttgc agtgtatgcc ccccccccac tggcagcccc tgaatcttcc
+     1501 tgcccttctc tccccaggat tacgagaggt ccctgagtcg cctgacgctg gacgacatcg
+     1561 aacggttggc cagccgcttc ctgcaccctg aagtgactga gacaatggag aagggcttct
+     1621 ccaaatagaa ttctcggagc atggggaggt gcccaacgcc aggctaccgc tgcatgtcgc
+     1681 actaagtgtg ttctcctgtt gcagttgggc tcatcatcgt catagctggc atgtacctgg
+     1741 ctctggccag gtgctaggca ctcctcacag cttgacctgg gtttgcttcc acaccctcag
+     1801 aagaggagag ccggcacagc agaggcaccg gcgatgaagt ggcacagccc cagtcggaat
+     1861 ccagcggctt ctgaaagtgc cttggtgtga gaaggaggaa ggggccgctt ggagagctgg
+     1921 gctctcgcat gtcatgttta gcccactgag aatataccct caggtgactc ctcccgatcc
+     1981 tgaaagggaa agcagctgtc acctgacttc tggcgggtcc aacatagccc tcagcttacc
+     2041 tctgcaggag gccgagtgac agccagccct ggaacccccc gacccccgca gctgctgcag
+     2101 ccagtgtgcc agtgtgcgtt cgacaaatgg aaaagcagat tggggccagg gagtcagcaa
+     2161 ggcaccccag ctctgtgatg tgactttggg cgagtctcag tgccacttgg tccccagcca
+     2221 tggactctat acagtgaggg ccactcaccg acctgagtca gtgtcctctg tctcacaggg
+     2281 cccctctccc ttctgttcag taaacaaact gaagccaaaa atgaagccgt ggccaagcgt
+     2341 gacccagaga tggggtgtcc tggcccttag tgacacagct cctctctggg gcaccctatc
+     2401 tgcttgtctc gtccaggaag cgttagggcg atggggactc ggcaaggcag tgtcagagct
+     2461 gggactgggc gtaggccttt gtcctcatcc ccagcactgg cctccctgtg ggaagatgaa
+     2521 catatcccag ccacctgtgt acaggggctc actttgtgtg ctccttgttg cctggagaag
+     2581 aaccttgggg tgccagggtg ggggcagaag catgggctgg gttccggttc atcctcctcc
+     2641 accctgccgt gtgtgtgggc acaagaggac atctaaccac ctgctccttg gaggaggccc
+     2701 ccaggggtgg tagaggctgg aaggaagcca catcaggagg acgccactcc ggcccttcac
+     2761 ccttgccaag tgagctgctc acagtgtggt cagggctgcg cgtgctggag gccctcctgc
+     2821 ctgggccttg tggggcaaat attgggtccc caggctggaa agatggacag aggcccaatg
+     2881 ggtgaaggct ttgaagagca cacagaagcc cctggccccc cacgagagct ggagagccat
+     2941 gtatatggct tcaaagccac ctacggcagg gacacactcg tgagcatgtg tggcctgcag
+     3001 ttcaggtgat acatttacca gtgttcttgt ttgtgtggtg ccaggaaatt gattttggaa
+     3061 aaagtgaaat aacattaaag gtgaatgtga ggcttctact tttatccaaa aggagctata
+     3121 ttagctaggc tgtttctgat atccaatcat tggtttaaca ataaaggcaa tttgtttaat
+     3181 cagttaacgg aaatttcttg gcttatgaaa tgaaaagtcc agtggtattg gcattggcag
+     3241 caggtgagca atttcaccca gtgtcttctg cctccctctg cgttggtatc tgctacatcc
+     3301 caggccacca cctccgagga tgaaaagatg gctgcctgca gcttccacgg aatccctccc
+     3361 tcactgccag agcagcatct tctctgtgta ccacctctgc tgtctcagat gcccccagca
+     3421 aataaacact cttctcgttg gtcagaactg gattgtgcgt ccaatcattt tggctggggt
+     3481 agggggtaat tctccgtcag ggctggctcc acttggagct aggcatgggg accacttttc
+     3541 actggacaca catcggctat gcaatgggac agcaaggact act
+//
+

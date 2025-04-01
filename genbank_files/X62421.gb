@@ -1,0 +1,82 @@
+LOCUS       X62421                  1543 bp    mRNA    linear   PRI 07-OCT-2008
+DEFINITION  Homo sapiens mRNA for DnaJ protein homologue.
+ACCESSION   X62421
+VERSION     X62421.1
+KEYWORDS    dnaJ protein.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1
+  AUTHORS   Raabe,T. and Manley,J.L.
+  TITLE     A human homologue of the Escherichia coli DnaJ heat-shock protein
+  JOURNAL   Nucleic Acids Res. 19 (23), 6645 (1991)
+   PUBMED   1754405
+REFERENCE   2  (bases 1 to 1543)
+  AUTHORS   Raabe,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-OCT-1991) T. Raabe, Columbia University, Dept of
+            Biological Sciences, 715 Sherman Fairchild center, New York NY
+            10027, USA
+COMMENT     On Nov 26, 1998 this sequence version replaced gi:30850.
+FEATURES             Location/Qualifiers
+     source          1..1543
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /tissue_type="placenta"
+     5'UTR           1..48
+     CDS             49..1068
+                     /codon_start=1
+                     /product="homologue to E.coli DnaJ protein"
+                     /protein_id="CAA44287.1"
+                     /db_xref="GDB:3929189"
+                     /db_xref="GOA:P25685"
+                     /db_xref="HGNC:HGNC:5270"
+                     /db_xref="InterPro:IPR001623"
+                     /db_xref="InterPro:IPR002939"
+                     /db_xref="InterPro:IPR003095"
+                     /db_xref="InterPro:IPR008971"
+                     /db_xref="InterPro:IPR015609"
+                     /db_xref="InterPro:IPR018253"
+                     /db_xref="PDB:1HDJ"
+                     /db_xref="PDB:2QLD"
+                     /db_xref="UniProtKB/Swiss-Prot:P25685"
+                     /translation="MGKDYYQTLGQAAALGRGDQAGLPPPGLRYHPDKNKEPGAEEKF
+                     KEIAEAYDVLSDPRKREIFDRYLEEGLKGSGPSGGTAEEPMVPLSATHSMETLMPCLL
+                     SSSVAEIPLTPFLGSGTGRKAWTLMTHSLASLWGMGGFTNVNFGRSCSAQEPARKKQD
+                     PPVTHDLRVSLEEIYSGCTKKTKISHKRLNPDGKSIRNEDKILTIEVKKGWKEGTKIT
+                     FPKEGDQTSNNIPADIVFVLKDKPHNIFKRDGSDVIYPARISLREALCGCTVNVPTLD
+                     GRTIPVVFKDVIRPGMRRKVPGEGLPLPKTPEKRGDLIIEFEAIFPERIPQTSRTVLE
+                     QVLPI"
+     3'UTR           1069..1543
+ORIGIN      
+        1 ggggccgggg gacggcgaca cggggtcggc gggccgcagg agggggtcat gggtaaagat
+       61 tactaccaga cgttgggcca ggccgcggcg ctcggacgag gagatcaagc gggcctaccg
+      121 ccgccaggcc tgcgctacca cccggacaag aacaaggagc ccggcgccga ggagaagttc
+      181 aaggagatcg ctgaggccta cgacgtgctc agcgacccgc gcaagcgcga gatcttcgac
+      241 cgctacttgg aggaaggcct aaaggggagt ggccccagtg gcggtacggc ggaggagcca
+      301 atggtacctc tttcagctac acattccatg gagaccctca tgccatgttt gctgagttct
+      361 tcggtggcag aaatcccttt gacacctttt ttgggcagcg gaacggggag gaaggcatgg
+      421 acattgatga cccattctct ggcttcccta tggggcatgg gtggcttcac caacgtgaac
+      481 tttggccgct cttgctctgc ccaagagccc gcccgaaaga agcaagatcc cccagtcacg
+      541 cacgaccttc gagtctccct tgaagagatc tacagcggct gtaccaagaa gacgaaaatc
+      601 tcccacaagc ggctaaaccc cgacggaaag agcattcgaa acgaagacaa aatattgacc
+      661 atcgaagtga agaaggggtg gaaagaagga accaaaatca ctttccccaa ggaaggagac
+      721 cagacctcca acaacattcc agctgatatc gtctttgttt taaaggacaa gccccacaat
+      781 atctttaaga gagatggctc tgatgtcatt tatcctgcca ggatcagcct ccgggaggct
+      841 ctgtgtggct gcacagtgaa cgtccccact ctggacggca ggacgatacc cgtcgtattc
+      901 aaagatgtta tcaggcctgg catgcggcga aaagttcctg gagaaggcct ccccctcccc
+      961 aaaacacccg agaaacgtgg ggacctcatt attgagtttg aagcgatctt ccccgaaagg
+     1021 attccccaga catcaagaac cgtacttgag caggttcttc caatatagct atctgagctc
+     1081 cccaaggact gaccagggac ctttccagag ctcaaggatt tctggacctt tctaccagtt
+     1141 gtggaccatg agagggtggg agggcccagg gagggctttc gtactgctga atgttttcca
+     1201 gagcatatat tacaatcttt caaagtcgca cactagactt cagtggtttt tcgagctata
+     1261 gggcatcagg tggtgggaac agcaggaaaa ggcattccag tctgccccac tgggtctggc
+     1321 agccctcccg ggatgggccc acatccacct ccagtccctg gccaggggtg agaggcagac
+     1381 cagcagatgg acttgatccc tctgtgtctt tttgcttctg gctggtagat aatgtcaacc
+     1441 tgcagtcttg attcccagac cctgtacact cctccttttc tgccgcgcga tcagtttgtg
+     1501 ctttattctg tatttgtctc ccatgtcttg ctcttctcct gga
+//
+

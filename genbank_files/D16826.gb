@@ -1,0 +1,68 @@
+LOCUS       HUMSSTR4                1317 bp    DNA     linear   PRI 13-FEB-2003
+DEFINITION  Homo sapiens gene for fourth somatostatin receptor subtype,
+            complete cds.
+ACCESSION   D16826
+VERSION     D16826.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1317)
+  AUTHORS   Yamada,Y., Kagimoto,S., Kubota,A., Yasuda,K., Masuda,K., Someya,Y.,
+            Ihara,Y., Li,Q., Imura,H., Seino,S. and Seino,Y.
+  TITLE     Cloning, functional expression and pharmacological characterization
+            of a fourth (hSSTR4) and a fifth (hSSTR5) human somatostatin
+            receptor subtype
+  JOURNAL   Biochem. Biophys. Res. Commun. 195 (2), 844-852 (1993)
+   PUBMED   8373420
+REFERENCE   2  (bases 1 to 1317)
+  AUTHORS   Yamada,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-JUL-1993) Yuichiro Yamada, Kyoto University Faculty
+            of Medicine, Metabolism and Clinical Nutrition; 54
+            Shogoin-Kawahara-cho, Sakyo-ku, Kyoto, Kyoto 606, Japan
+            (E-mail:yseino, Tel:81-75-751-3560, Fax:81-75-771-6601)
+FEATURES             Location/Qualifiers
+     source          1..1317
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /clone="lambda hSSTR1-4"
+     CDS             51..1217
+                     /codon_start=1
+                     /product="fourth somatostatin receptor subtype"
+                     /protein_id="BAA04106.1"
+                     /translation="MSAPSTLPPGGEEGLGTAWPSAANASSAPAEAEEAVAGPGDARA
+                     AGMVAIQCIYALVCLVGLVGNALVIFVILRYAKMKTATNIYLLNLAVADELFMLSVPF
+                     VASSAALRHWPFGSVLCRAVLSVDGLNMFTSVFCLTVLSVDRYVAVVHPLRAATYRRP
+                     SVAKLINLGVWLASLLVTLPIAIFADTRPARGGQAVACNLQWPHPAWSAVFVVYTFLL
+                     GFLLPVLAIGLCYLLIVGKMRAVALRAGWQQRRRSEKKITRLVLMVVVVFVLCWMPFY
+                     VVQLLNLVVTSLDATVNHVSLILSYANSCANPILYGFLSDNFRRSFQRVLCLRCCLLE
+                     GAGGAEEEPLDYYATALKSKGGAGCMCPPLPCQQEALQPEPGRKRIPLTRTTTF"
+ORIGIN      
+        1 gcagcgctag ctccgccgcg ctcagctgcc ctgcgccggc acccctggtc atgagcgccc
+       61 cctcgacgct gccccccggg ggcgaggaag ggctggggac ggcctggccc tctgcagcca
+      121 atgccagtag cgctccggcg gaggcggagg aggcggtggc ggggcccggg gacgcgcggg
+      181 cggcgggcat ggtcgctatc cagtgcatct acgcgctggt gtgcctggtg gggctggtgg
+      241 gcaacgccct ggtcatcttc gtgatccttc gctacgccaa gatgaagacg gctaccaaca
+      301 tctacctgct caacctggcc gtagccgacg agctcttcat gctgagcgtg cccttcgtgg
+      361 cctcgtcggc cgccctgcgc cactggccct tcggctccgt gctgtgccgc gcggtgctca
+      421 gcgtcgacgg cctcaacatg ttcaccagcg tcttctgtct caccgtgctc agcgtggacc
+      481 gctacgtggc cgtggtgcac cctctgcgcg cggcgaccta ccggcggccc agcgtggcca
+      541 agctcatcaa cctgggcgtg tggctggcat ccctgttggt cactctcccc atcgccatct
+      601 tcgcagacac cagaccggct cgcggcggcc aggccgtggc ctgcaacctg cagtggccac
+      661 acccggcctg gtcggcagtc ttcgtggtct acactttcct gctgggcttc ctgctgcccg
+      721 tgctggccat tggcctgtgc tacctgctca tcgtgggcaa gatgcgcgcc gtggccctgc
+      781 gcgctggctg gcagcagcgc aggcgctcgg agaagaaaat caccaggctg gtgctgatgg
+      841 tcgtggtcgt ctttgtgctc tgctggatgc ctttctacgt ggtgcagctg ctgaacctcg
+      901 tcgtgaccag ccttgatgcc accgtcaacc acgtgtccct tatcctcagc tatgccaaca
+      961 gctgcgccaa ccctattctc tatggcttcc tctccgacaa cttccgccga tccttccagc
+     1021 gggttctctg cctgcgctgc tgcctcctgg aaggtgctgg aggtgctgag gaggagcccc
+     1081 tggactacta tgccactgct ctcaagagca aaggtggggc agggtgcatg tgccccccac
+     1141 tcccctgcca gcaggaagcc ctgcaaccag aacccggccg caagcgcatc cccctcacca
+     1201 ggaccaccac cttctgagga gcccttcccc tacccaccct gcgtggccac ctcccaaggg
+     1261 gtgggcacca ttcctacagc cccgaagact gcatctcctg aatgctcacc taagctc
+//
+

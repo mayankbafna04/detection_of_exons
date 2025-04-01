@@ -1,0 +1,137 @@
+LOCUS       HUMHMG2A                4341 bp    DNA     linear   PRI 31-DEC-1994
+DEFINITION  Human high mobility group 2 protein (HMG-2) gene, complete cds.
+ACCESSION   M83665
+VERSION     M83665.1
+KEYWORDS    HMG-2 protein; high mobility group 2 protein.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 4341)
+  AUTHORS   Shirakawa,H. and Yoshida,M.
+  TITLE     Structure of a gene coding for human HMG2 protein
+  JOURNAL   J. Biol. Chem. 267 (10), 6641-6645 (1992)
+   PUBMED   1551873
+FEATURES             Location/Qualifiers
+     source          1..4341
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /cell_type="blood"
+     gene            join(952..1048,1649..1818,2104..2249,2323..2497,
+                     3080..3616)
+                     /gene="HMG-2"
+     mRNA            join(952..1048,1649..1818,2104..2249,2323..2497,
+                     3080..3616)
+                     /gene="HMG-2"
+                     /product="high mobility group 2 protein"
+     exon            952..1048
+                     /gene="HMG-2"
+                     /number=1
+     intron          1049..1648
+                     /note="does not fit consensus"
+                     /number=1
+     exon            1649..1818
+                     /gene="HMG-2"
+                     /number=2
+     CDS             join(1669..1818,2104..2249,2323..2497,3080..3238)
+                     /gene="HMG-2"
+                     /codon_start=1
+                     /product="high mobility group 2 protein"
+                     /protein_id="AAA58659.1"
+                     /translation="MGKGDPNKPRGKMSSYAFFVQTCREEHKKKHPDSSVNFAEFSKK
+                     CSERWKTMSAKEKSKFEDMAKSDKARYDREMKNYVPPKGDKKGKKKDPNAPKRPPSAF
+                     FLFCSEHRPKIKSEHPGLSIGDTAKKLGEMWSEQSAKDKQPYEQKAAKLKEKYEKDIA
+                     AYRAKGKSEAGKKGPGRPTGSKKKNEPEDEEEEEEEEDEDEEEEDEDEE"
+     intron          1819..2103
+                     /number=2
+     exon            2104..2249
+                     /gene="HMG-2"
+                     /number=3
+     intron          2250..2322
+                     /number=3
+     exon            2323..2497
+                     /gene="HMG-2"
+                     /number=4
+     intron          2498..3079
+                     /number=4
+     exon            3080..3616
+                     /gene="HMG-2"
+                     /number=5
+ORIGIN      
+        1 gaattccgga cccggtagga gggggcgggg ccgggggaga aggcgccgcc tccgcccctt
+       61 cgggacccgg agggtgccct tgtttacctc ccagtatttg tcacccgaga caaagaggga
+      121 aggaaggagg agccttctga gggaaactcc ctcggcggga agcatcttac tttcagaacg
+      181 ttttttaaca ccctacggac gcgggaacgg ttccctcccg gccccccgcg ccctttccga
+      241 ggttccctgc cttgacttcc ccgagttcta cgacaacctc agcgacagcg ggaggagctg
+      301 ggcaatcggt tttgcagggc aaactccagg ctctcctcat ttattattct ctgggcggcg
+      361 cacgggagac cctgcagggc aacagagcag agcgactaca gctcccagga gccaacgctg
+      421 cagggctgag ccgacgcggg ggacagacag gacctaaatg gtggtcggag gaagggcaag
+      481 gcagacctct tctgttacct tagcgccagc aaaccgagcc gccgccgtcg ccaagccagg
+      541 agaccaaccc ccagtctccc gactaagtat ttttaaatct ggcggggctt tccttcccga
+      601 gccaaccact cccaccgttt acagccccaa ccagtcagcg tgaggcccgc catttttcaa
+      661 accctcttcc cgccgccaat caggatcgag cagtacattc ctctcctgac cggttctaac
+      721 gggtctggga gttaacgacc tgggcgaccc accgaacctg ctaggctggg gcgtggaggg
+      781 cgggtctggt aagacactga ccaatcgtta gcctccgtgg caagggggcg gggactatct
+      841 gggtttgaat aatcgtcaga accaatcaga ttagtgggga tgtggcccgt ggcctagctc
+      901 gtcaagttgc cgtggcgcgg agaactctgc aaaacaagag gctgaggatt gcgttagaga
+      961 taaaccagtt cacgccggag ccccgtgagg gaagcgtctc cgttgggtcc ggccgctctg
+     1021 cgggactctg aggaaaagct cgcaccaggc aagaataccc tccaataccc tcgggttcgt
+     1081 ggacctgcct ttccccattc cctcagagcc tctactcggt ctcggcgcag tggctctcgg
+     1141 ggtctgaccc ggcgagcggc atttggggtg cgggccggcg agggctgggt ctgtggaggg
+     1201 ccggcgggca gtcggaggag gcggaaactg cccctgaccg ggcccggttc tgggagtttt
+     1261 caatgtcggt cacgaggtgc ttagcggtta agtgaggctc gcgacgtggg agctggggga
+     1321 catttctgtc aggaaaggcg ttttgagggc gcttgcggag tcaccggact cggtgaaggg
+     1381 tgggcggcgg cgtctcgggc cccgggagcc acttgctggg ctgagccgcg gccgctcggg
+     1441 ccgggaggag gaggaggagg agggtgtgcg ccggggcgcg ggcgggggcg cggcggccgc
+     1501 ccttgggagg acgccctcgg gaggaggggg gcgcgggcag ggcgggagcg gatttgggcg
+     1561 ggaagcggag ccccgccagc gcccgccctg gcagctgcgg cgtccgcgcc gacctccggc
+     1621 ttcccctctc ccccctcggc cccgtcaggt ggacgcggat ctgtcaacat gggtaaagga
+     1681 gaccccaaca agccgcgggg caaaatgtcc tcgtacgcct tcttcgtgca gacctgccgg
+     1741 gaagagcaca agaagaaaca cccggactct tccgtcaatt tcgcggaatt ctccaagaag
+     1801 tgttcggaga gatggaaggt gaggcaggag agggacggag ctcagggggt gcaggtgtgg
+     1861 ttttcggcta ggagggcctt aggcaggtag taggcaactc atgagcttca actttgccac
+     1921 cccagtgact cacctgaata tcttaagagt tccaggcaga cgattttagg tttttactta
+     1981 tataagactt cgaaagcaaa atgctgttaa ggaaaatgtg gtccttaaag atgatcttgt
+     2041 cgtctttgga tgtttatagg taacaatttt gctgtatttt tggctcttat tttatgtcca
+     2101 cagaccatgt ctgcaaagga gaagtcgaag tttgaagata tggcaaaaag tgacaaagct
+     2161 cgctatgaca gggagatgaa aaattacgtt cctcccaaag gtgataagaa ggggaagaaa
+     2221 aaggacccca atgctcctaa aaggccaccg taagtttaaa ataacccaaa ttgctccttg
+     2281 gatttttcct tcagtttatt aaactctgtt gcttcctttc agatctgcct tcttcctgtt
+     2341 ttgctctgaa catcgcccaa agatcaaaag tgaacaccct ggcctatcca ttggggatac
+     2401 tgcaaagaaa ttgggtgaaa tgtggtctga gcagtcagcc aaagataaac aaccatatga
+     2461 acagaaagca gctaagctaa aggagaaata tgaaaaggta cagtgtcatc ttttttaaag
+     2521 ccgtggataa gactaggtat aggtaataac tgtagaaaac ctgggaaatt tagttaatct
+     2581 tgtattaatg gttgtcagct atgttttgaa aaggcctaat gaaaattgta cacttcaaca
+     2641 caaggtaatt gaaaccttcc ttttgactga aaccagtgtt tgtagcacta gtatattcct
+     2701 gcagacagac ttgtagttac ttgtagttat tgtatagtct gtatagtctg ttattttttt
+     2761 ttttaagcag agagtcaaag aaattgtttt atgtagatat atataaaatg tgaaggtaca
+     2821 ggagggacta tggcactgtg tgtgatgtaa aagggtattg gtagtgaaag tactgatact
+     2881 gctgtatcgc aacccttgtc attttacgtc attaacttgt taaagcctag tgggataagt
+     2941 gctctaaaaa cttagactgg ttaccttttt agacagttat tagggttatt ggtcaatcat
+     3001 cttagattgt ttacaactaa gtggtttttc acagttgagt aatgataccg gatgctttat
+     3061 ttttttgaca atatttcagg atattgctgc atatcgtgcc aagggcaaaa gtgaagcagg
+     3121 aaagaagggc cctggcaggc caacaggctc aaagaagaag aacgaaccag aagatgagga
+     3181 ggaggaggag gaagaagaag atgaagatga ggaggaagag gatgaagatg aagaataaat
+     3241 ggctatcctt taatgatgcg tgtggaatgt gtgtgtgtgc tcaggcaatt attttgctaa
+     3301 gaatgtgaat tcaagtgcag ctcaatacta gcttcagtat aaaaactgta cagatttttg
+     3361 tatagctgat aagattctct gtagagaaaa tacttttaaa aaatgcaggt tgtagctttt
+     3421 tgatgggcta ctcatacagt tagattttac agcttctgat gttgaatgtt cctaaatatt
+     3481 taatggtttt tttaatttct tgtgtatggt agcacagcaa acttgtagga attagtatca
+     3541 atagtaaatt ttgggttttt taggatgttg catttcgttt ttttaaaaaa aattttgtaa
+     3601 taaaattatg tatattattt ctattgtctt tgtcttaata tgctaagtta attttcactt
+     3661 taaaaaagcc atttgaagac cagagctatg ttgatttttt tcggtatttc tgcctagtag
+     3721 tagttcttag acacagttga cctagtaaaa tgtttgagaa ttaaaaccaa acatgctcat
+     3781 atttgcaaaa tgttctttaa aagttacatg ttgaactcag tgaactttat aagaatttat
+     3841 gcagttttac agaacgttaa gttttgtact tgacgtttct gtttattagc taaattgttc
+     3901 ctcaggtgtg tgtatatata tatacatata tatatatata tatatgtata tatatacaca
+     3961 tatatacgta tatatacata tatatgtata tggagtctca ctctgttgcc caggctggag
+     4021 tgcagtggca cgatcccagc tcactgcaac ctccgcctcc cgggttcaag cgattcttct
+     4081 gcctcagcct ccctggtagc tggggctaca gccatgtgcc accaagccca gctaatttat
+     4141 atttttagta gagacagggt ttcaccatgt tggtgaggct ggtctggaac tgacctcaaa
+     4201 tgatctgccc acctcagcct cccaaagtgt tgggattaac aggtgtgagc caccacgcct
+     4261 gtcccagtat attgtttaac aagtttattt tgggtgaaaa attctcttta atgggaagaa
+     4321 gaggggctag aatgtgaatt c
+//
+

@@ -1,0 +1,77 @@
+LOCUS       HUMEVI2B3P              2158 bp    DNA     linear   PRI 27-APR-1993
+DEFINITION  Human EVI2B3P gene, exon and complete cds.
+ACCESSION   M60830
+VERSION     M60830.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2158)
+  AUTHORS   Cawthon,R.M., Andersen,L.B., Buchberg,A.M., Xu,G.F., O'Connell,P.,
+            Viskochil,D., Weiss,R.B., Wallace,M.R., Marchuk,D.A., Culver,M. et
+            al.
+  TITLE     cDNA sequence and genomic structure of EV12B, a gene lying within
+            an intron of the neurofibromatosis type 1 gene
+  JOURNAL   Genomics 9 (3), 446-460 (1991)
+   PUBMED   1903357
+FEATURES             Location/Qualifiers
+     source          1..2158
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+     exon            81..2158
+                     /note="in EVI2B cDNAs this sequence is immediately
+                     followed by a polyA tail; putative"
+     CDS             102..1448
+                     /note="open reading frame"
+                     /codon_start=1
+                     /protein_id="AAA35816.1"
+                     /translation="MDPKYFILILFCGHLNNTFFSKTETITTEKQSQPTLYTSSMSQV
+                     LANSQNTTGNPLGQPTQFSDTFSGQSISPAKVTAGQPTPAVYTSSEKPEAHTSAGQPL
+                     AYNTKQPTPIANTSSQQAVFTSARQLPSARTSTTQPPKSFVYTFTQQSSSVQIPSRKQ
+                     ITVHNPSTQPTSTVKNSPRSTPGFILDTTSNKQTPQKNNYNSIAAILIGVLLTSMLVA
+                     IIIIVLWKCLRKPVLNDQNWAGRSPFADGETPDICMDNIRENEISTKRTSIISLTPWK
+                     PSKSTLLADDLEIKLFESSENIEDSNNPKTEKIKDQVNGTSEDSADGSTVGTAVSSSD
+                     DADLPPPPPLLDLEGQESNQSDKPTMTIVSPLPNDSTSLPPSLDCLNQDCGDHKSEII
+                     QSFPPLDSLNLPLPPVDFMKNQEDSNLEIQCQEFSIPPNSDQDLNESLPPPPAELL"
+ORIGIN      
+        1 aatataatga aaagtcaaag ttttaactag acaccaatga cgcctaactg tctttctctt
+       61 tcattataaa cccgctatag ataacgagga aatattctga aatggatccc aaatatttca
+      121 tcttaatttt gttttgtgga cacctgaaca atacattttt ttcaaagaca gagacaatta
+      181 caacagagaa gcagtcacag cctaccttat acacatcatc aatgtcacag gtattggcta
+      241 attctcaaaa cacaacaggg aatcctttgg gtcaaccaac acaattcagc gacacttttt
+      301 ctggacaatc aatatcacct gccaaagtca ctgctggaca accaacacca gctgtctata
+      361 cctcttctga aaaaccagaa gcacatactt ctgctggaca accacttgcc tacaacacca
+      421 aacaaccaac accaatagcc aacacctcct cccagcaagc cgtgttcacc tctgccagac
+      481 aactaccatc tgcccgtact tctaccacac aaccaccaaa gtcatttgtc tatactttta
+      541 ctcaacaatc atcatctgtc cagatccctt ctagaaaaca aataactgtt cataatccat
+      601 ccacacaacc aacatcaact gtcaaaaatt cacctaggag tacaccagga tttatcttag
+      661 atactaccag taacaaacaa accccacaaa aaaacaatta taattcaata gctgccatac
+      721 taattggtgt acttctgact tctatgttgg tagctataat catcattgta ctttggaaat
+      781 gcttaaggaa accagtttta aatgatcaaa attgggcagg tagatctcca tttgctgatg
+      841 gagaaacccc tgacatttgt atggataaca tcagagaaaa tgaaatatcc acaaaacgta
+      901 catcaatcat ttcacttaca ccctggaaac caagcaaaag cacactttta gcagatgact
+      961 tagaaattaa gttgtttgaa tcaagtgaaa acattgaaga ctccaacaac cccaaaacag
+     1021 agaaaataaa agatcaagta aatggtacat cagaagatag tgctgatggt tcaacagttg
+     1081 gaactgctgt ttcttcttca gatgatgcag atctgcctcc accacctccc cttctggatt
+     1141 tggaaggaca ggaaagtaac caatctgaca aacccacaat gacaattgta tctcctcttc
+     1201 caaatgattc tactagtctc cctccatctc tggactgtct caatcaagac tgtggagatc
+     1261 ataaatctga gataatacaa tcatttccac cgcttgactc acttaacttg cccctgccac
+     1321 cagtagattt tatgaaaaac caagaagatt ccaaccttga gatccagtgt caggagttct
+     1381 ctattcctcc caactctgat caagatctta atgaatccct gccacctcca cctgcagaac
+     1441 tgttataaat attacaactt gctttttagc tgatcttcca tcctcaaatg actctttttt
+     1501 ctttatatgt taacatatat aaaatggcaa ctgatagtca attttgattt ttattcagga
+     1561 actatctgaa atctgctcag agcctatgtg catagatgaa actttttttt aaaaaaagtt
+     1621 atttaacagt aatctattta ctaattatag tacctatctt taaagtatag tacattttac
+     1681 atatgtaaat ggtatgtttc aataatttaa gaactctgaa acaatctaca tatacttatt
+     1741 acccagtaca gttttttttc ccctgaaaag ctgtgtataa aattatggtg aataaacttt
+     1801 tatgtttcca tttcaaagac cagggtggag aggaataaga gactaagtat atgcttcaag
+     1861 ttttaaatta atacctcaag tattaaataa atattccaag tttgtgggaa tgggagatta
+     1921 aaatgcatgt ttgagaatag agaaattttc ttcttggttt cattgcaaag agtaaaacaa
+     1981 acatgttaaa acatcaactg aagggttggg ttaggaacat ttaccctgaa aaaaatatga
+     2041 ggatgcatca taaaatgtaa atattttcct accatgttgg gggggcacaa attttaaaac
+     2101 tggcatcttt acaagtttct tctttataaa cacccaaaca aaatcaagtt ttataaag
+//
+

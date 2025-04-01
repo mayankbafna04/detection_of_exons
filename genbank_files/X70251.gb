@@ -1,0 +1,95 @@
+LOCUS       X70251                  1250 bp    DNA     linear   PRI 10-NOV-2005
+DEFINITION  Homo sapiens CKII-alpha gene.
+ACCESSION   X70251 S53154
+VERSION     X70251.1
+KEYWORDS    casein kinase II.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1
+  AUTHORS   Devilat,I. and Carvallo,P.
+  TITLE     Structure and sequence of an intronless gene for human casein
+            kinase II-alpha subunit
+  JOURNAL   FEBS Lett. 316 (2), 114-118 (1993)
+   PUBMED   8420794
+REFERENCE   2  (bases 1 to 1250)
+  AUTHORS   Carvallo,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-APR-1993) Carvallo P., Universidad de Chile, Casilla
+            70086, Santiago 7, CHILE
+COMMENT     On Nov 15, 2005 this sequence version replaced S53154.1.
+FEATURES             Location/Qualifiers
+     source          1..1250
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+     gene            41..1216
+                     /gene="CKII alpha"
+     CDS             41..1216
+                     /gene="CKII alpha"
+                     /codon_start=1
+                     /product="casein kinase II alpha subunit"
+                     /protein_id="CAA49758.1"
+                     /db_xref="GDB:129560"
+                     /db_xref="GOA:P68400"
+                     /db_xref="HGNC:HGNC:2457"
+                     /db_xref="InterPro:IPR000719"
+                     /db_xref="InterPro:IPR002290"
+                     /db_xref="InterPro:IPR008271"
+                     /db_xref="InterPro:IPR011009"
+                     /db_xref="InterPro:IPR017441"
+                     /db_xref="InterPro:IPR017442"
+                     /db_xref="PDB:1JWH"
+                     /db_xref="PDB:1NA7"
+                     /db_xref="PDB:1PJK"
+                     /db_xref="PDB:2PVR"
+                     /db_xref="PDB:2ZJW"
+                     /db_xref="PDB:3BQC"
+                     /db_xref="PDB:3C13"
+                     /db_xref="PDB:3FWQ"
+                     /db_xref="PDB:3H30"
+                     /db_xref="PDB:3JUH"
+                     /db_xref="PDB:3MB6"
+                     /db_xref="PDB:3MB7"
+                     /db_xref="UniProtKB/Swiss-Prot:P68400"
+                     /translation="MSGPVPSRARVYTDVNTHRPREYWDYESHVVEWGNQDDYQLVRK
+                     LGRGKYSEVFEAINITNNEKVVVKILKPVKKKKIKREIKILENLRGGPNIITLADIVK
+                     DPVSRTPALVFEHVNNTDFKQLYQTFTDYDIRFYMYEILKALDYCHSMGIMHRDVKPH
+                     NVMIDHEHRKLRLIDWGLAEFYHPGQEYNVRVASRYFKGPELLVDYQMYDYSLDMWSL
+                     GCMLASMIFRKEPFFHGHDNYDQLVRIAKVLGTEDLYGYIDKYNIELDPRFNDILGRH
+                     SRKRWERFVHRENQHLVSPEALDFLDKLLRYDHQSRLTAREAMEHPYFYTVVKDQARM
+                     GSSSMPGGSTPVSSANVMSGISSVPTPSPLGPLAGSPVIAAANPLGMPVPAAAGAQQ"
+     variation       425..427
+                     /gene="CKII alpha"
+     variation       809..811
+                     /gene="CKII alpha"
+     variation       902..904
+                     /gene="CKII alpha"
+     variation       1094..1096
+                     /gene="CKII alpha"
+ORIGIN      
+        1 ccaaacatca agtccagctt tgtccgccaa cctgtctgac atgtcgggac ccgtgccaag
+       61 cagggccaga gtttacacag atgttaatac acacagacct cgagaatact gggattacga
+      121 gtcacatgtg gtggaatggg gaaatcaaga tgactaccag ctggttcgaa aattaggccg
+      181 aggtaaatac agtgaagtat ttgaagccat caacatcaca aataatgaaa aagttgttgt
+      241 taaaattctc aagccagtaa aaaagaagaa aattaagcgt gaaataaaga ttttggagaa
+      301 tttgagagga ggtcccaaca tcatcacact ggcagacatt gtaaaagacc ctgtgtcacg
+      361 aacccccgcc ttggtttttg aacacgtaaa caacacagac ttcaagcaat tgtaccagac
+      421 gttcacagac tatgatattc gattttacat gtatgagatt ctgaaggccc tggattattg
+      481 tcacagcatg ggaattatgc acagagatgt caagccccat aatgtcatga ttgatcatga
+      541 gcacagaaag ctacgactaa tagactgggg tttggctgag ttttatcatc ctggccaaga
+      601 atataatgtc cgagttgctt cccgatactt caaaggtcct gagctacttg tagactatca
+      661 gatgtacgat tatagtttgg atatgtggag tttgggttgt atgctggcaa gtatgatctt
+      721 tcggaaggag ccatttttcc atggacatga caattatgat cagttggtga ggatagccaa
+      781 ggttctgggg acagaagatt tatatggcta tattgacaaa tacaacattg aattagatcc
+      841 acgtttcaat gatatcttgg gcagacactc tcgaaagcga tgggaacgct ttgtccaccg
+      901 tgaaaatcag caccttgtca gccctgaggc cttggatttc ctggacaaac tgctgcgata
+      961 tgaccaccag tcacggctta ctgcaagaga ggccatggag cacccctatt tctacactgt
+     1021 tgtgaaggac caggctcgaa tgggttcatc tagcatgcca gggggcagta cacccgtcag
+     1081 cagcgccaat gtgatgtcag ggatttcttc agtgccaacc ccttcacccc ttggacctct
+     1141 ggcaggctca ccagtgattg ctgctgccaa cccccttggg atgcctgttc cagctgccgc
+     1201 tggcgctcag cagtaacggc cctatctgtc tcctgatgcc tgagcagagg
+//
+

@@ -1,0 +1,108 @@
+LOCUS       Z00010                  2352 bp    DNA     linear   PRI 14-NOV-2006
+DEFINITION  H.sapiens germ line pseudogene for immunoglobulin kappa light chain
+            leader peptide and variable region (subgroup V kappa I).
+ACCESSION   Z00010 X00903
+VERSION     Z00010.1
+KEYWORDS    germ line; Ig light chain; immunoglobulin; pseudogene; signal
+            peptide; variable region.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2352)
+  AUTHORS   Pech,M., Jaenichen,H.R., Pohlenz,H.D., Neumaier,P.S., Klobeck,H.G.
+            and Zachau,H.G.
+  TITLE     Organization and evolution of a gene cluster for human
+            immunoglobulin variable regions of the kappa type
+  JOURNAL   J. Mol. Biol. 176 (2), 189-204 (1984)
+   PUBMED   6086934
+REFERENCE   2  (bases 1491 to 2192)
+  AUTHORS   Straubinger,B., Pech,M., Muhlebach,K., Jaenichen,H.R., Bauer,H.G.
+            and Zachau,H.G.
+  TITLE     Molecular footprints of human immunoglobulin gene evolution: a new
+            sequence family
+  JOURNAL   Nucleic Acids Res. 12 (13), 5265-5275 (1984)
+   PUBMED   6087280
+REFERENCE   3
+  AUTHORS   Zachau,H.G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-AUG-1984) Prof. H.G. Zachau, Universitaet Muenchen,
+            Goethestrasse 33, 8000 Muenchen 2
+FEATURES             Location/Qualifiers
+     source          1..2352
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+     unsure          263
+                     /note="may be C or T"
+     misc_feature    299..313
+                     /note="put. regulatory element pd"
+     misc_feature    330..339
+                     /note="put. regulatory element dc"
+     regulatory      372..379
+                     /regulatory_class="TATA_box"
+     CDS             join(427..481,608..723)
+                     /codon_start=1
+                     /product="immunoglobulin kappa light chain subgroup V"
+                     /protein_id="CAA77299.1"
+                     /translation="MDMRVPAQLLGLLLLWLPGARCAIQLTQSPSSLSASVGDRVTIT
+                     CRASQGISSALA"
+     exon            <427..481
+                     /note="leader peptide"
+                     /number=1
+     intron          482..607
+                     /number=1
+     exon            608..903
+                     /number=2
+     misc_feature    906..912
+                     /note="heptanucleotide box, not canonical"
+     misc_feature    1581..2064
+                     /note="L-sequence region"
+     unsure          2257
+                     /note="not unambiguously determined"
+     unsure          2300
+                     /note="not unambiguously determined"
+ORIGIN      
+        1 cgggatcata tgagagtctt ttggagacct gataatcata ccgtctaaca ttttattata
+       61 tatttcctac aaacaagaat attctcctaa ataatcccca tacaccaatg aaatacatta
+      121 ctccatcaac tcctgaggaa tatttcaaat tgtcaaaaaa aacctaaaaa atgtctctca
+      181 taataaaata gttcccagta gaaacacatt ctctggagac aaatttgtgc taccctggtc
+      241 ttacctggga cacctgggga caytgaactg gtgctgagtt actgagatga gccagccctg
+      301 cagctgtgcc cagcctgccc atcctctgct catttgcata ttcccagaac acaacctcct
+      361 gccctgaaga cttcttaata ggctggtcac acttcttgca ggagtcagac ccactcagga
+      421 cacagcatgg acatgagggt ccccgctcag ctcctggggc ttctgctgct ctggctccca
+      481 ggtaaggaag gagaacacta gcagtttact cagcccaggg ggctcagtac agcctggcta
+      541 ttcagggaaa ttctcttact acatgattaa ttgtgtggac catttgtgtt tatgcttcca
+      601 atctcaggtg ccagatgtgc catccagttg acccagtctc catcctccct gtctgcatct
+      661 gtaggagaca gagtcaccat cacttgccgg gcaagtcagg gcattagcag tgctttagcc
+      721 tgatatcagc agaaaccagg gaaagctcct aagctcctga tctatgatgc ctccagtttg
+      781 gaaagtgggg tcccatcaag gttcagcggc agtggatctg ggacagattt cactctcacc
+      841 atcagcagcc tgcagcctga agattttgca acttattact gtcaacagtt taataattac
+      901 cctcacatag tgttacaaac ccgaacataa acccccaggg aagcagatgt gtgagactgg
+      961 gccgccccag ctgcttctcc tgatgcctcc attggctgag agtgttcctc agatgcagcc
+     1021 acactctgat ggtgttggta gaggaggata tgagatcacc tctgcatccc aatttctttt
+     1081 tcttttctca gccccagctg cacagacatt acaatgcctc tgctgattta ataaagatag
+     1141 agatcatgac acctgaagag tctagtttat ggctttggtt agaattcata taacagagaa
+     1201 gaagccatta tagatattct aagcaggaat agtcttaata gatagaatta gagtctaaag
+     1261 tattgaagtc taaataaaat gtacagataa atttaatgtt ttatttgcta agaaattttt
+     1321 gccaaatggg gcatacagga aaactcaatg gtcttcaata tgttggaaga gcaaagagtt
+     1381 ttattaaaag ggaaattatt acctattgtt ctttgagaaa ttttgttggc tgtagtaagg
+     1441 gttgggagct ggcaagctca gactggtaag cagtggtggt caaactgaat cctagaatta
+     1501 tattaagtta tctcagaagt tgtgggtaaa tttgctttca ggttacaata agccaaagca
+     1561 gtgaagcttg cagagaattt tgttactgaa atgccaggga ttcagtatag atcctgcggc
+     1621 tcaccacaca gaaagccaat cactaagaca acaagtgttg tcaaagaaca ggctttaatc
+     1681 aggtgctgca gccgaggaga cgggacacca ttctcaaatg tatctccctg acaaaataaa
+     1741 ttaggcgttt atatagcagg gaagaaatgt ggaaaacagg aattagagag gggtaaggaa
+     1801 gataatttag tcaacaggaa gctggaggtc agttaggcaa tcataatggg tgaagggtct
+     1861 gatgtctcac tgtccccatt cagtgatata taactttcag ctccttgata gtatctagag
+     1921 gcctgatggt tggtttcctg aaaaaagaac tcagattaac aaatgtaact accttgagtt
+     1981 ttaagactgg gggagtcagt ttctatgttt attcaaaaaa tcataaacat tagttccatg
+     2041 ggataatagg gtctatttca attgcattct tcagacaata ttttgcaccc tgagtggttt
+     2101 tccctcctgg tttcttggct ctgttgggta tgtcaagaat gaccgaattc tatgattaac
+     2161 ttttacacta caacctttca aagccaagga tatagtagtc aggcaggttg acattagaag
+     2221 caggattctc tggtactccc tcagaaaata gaatgcntct cgccactgaa gtatgggcta
+     2281 tctaaccatg tggtcctcan tcctgtctga aagcttaagg gtggggttgc agctgctctc
+     2341 agcttcctat ag
+//
+

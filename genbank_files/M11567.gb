@@ -1,0 +1,135 @@
+LOCUS       HUMAGG                  4668 bp    DNA     linear   PRI 30-OCT-1994
+DEFINITION  Human angiogenin gene, complete cds, and three Alu repetitive
+            sequences.
+ACCESSION   M11567
+VERSION     M11567.1
+KEYWORDS    Alu repeat; angiogenin; repeat region.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 4668)
+  AUTHORS   Kurachi,K., Davie,E.W., Strydom,D.J., Riordan,J.F. and Vallee,B.L.
+  TITLE     Sequence of the cDNA and gene for angiogenin, a human angiogenesis
+            factor
+  JOURNAL   Biochemistry 24 (20), 5494-5499 (1985)
+   PUBMED   2866795
+COMMENT     Original source text: Human DNA, library of Maniatis et al., clone
+            lambda-HAG1, and liver, cDNA to mRNA, clone pHAG1.
+            Draft entry and sequence in computer readable form for [1] kindly
+            provided by K.Kurachi, 29-MAY-1986.
+            There is only one gene encoding angiogenin in the human genome. The
+            signal peptide could start at position 1815 instead of 1809.
+FEATURES             Location/Qualifiers
+     source          1..4668
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /map="14q11"
+     repeat_region   1082..1398
+                     /note="Alu repeat copy A"
+     mRNA            1697..2425
+                     /product="angiogenin mRNA"
+     gene            1809..2252
+                     /gene="ANG"
+     CDS             1809..2252
+                     /gene="ANG"
+                     /codon_start=1
+                     /product="angiogenin"
+                     /protein_id="AAA51678.1"
+                     /db_xref="GDB:G00-119-679"
+                     /translation="MVMGLGVLLLVFVLGLGLTPPTLAQDNSRYTHFLTQHYDAKPQG
+                     RDDRYCESIMRRRGLTSPCKDINTFIHGNKRSIKAICENKNGNPHRENLRISKSSFQV
+                     TTCKLHGGSPWPPCQYRATAGFRNVVVACENGLPVHLDQSIFRRP"
+     sig_peptide     1809..1880
+                     /gene="ANG"
+                     /note="angiogenin signal peptide; G00-119-679"
+     mat_peptide     1881..2249
+                     /gene="ANG"
+                     /product="angiogenin; G00-119-679"
+     repeat_region   2524..2855
+                     /note="Alu repeat copy B"
+     repeat_region   3351..3663
+                     /note="Alu repeat copy C"
+ORIGIN      132 bp upstream of XbaI site.
+        1 tgtttgcatt aagttcatag attataattt gtaatggaat caacaccaaa tgcaaattag
+       61 aaagagagcc cactttgctc acccagtcac gtcttcccat gtaaccatag aacgttgggg
+      121 tcctgtgtct ttctagatcc acagtcttgc tctcagaaca ggctagccac accacaggcc
+      181 tagtgccagg acccatggcc tttttttaag ctcagactcc cttctgtgaa cagcaatatc
+      241 cccacaactt gtacaacatt ggtgcttcct gcaagggcta cagaactatt tgatacgaaa
+      301 atgttcattg acttacacac aagagaagca caaaataaaa aattaataat taatttaatg
+      361 tctttgaaaa tgtaccattt atttttacat ttggggtcat aagaattgta ttacacttaa
+      421 gaatgcaata caatttgaag atcagatttt tctccctttg tgagaatttc tcagtatgtg
+      481 tgatgactac caagaaatca tagccagtca taaattcagt gagttactca taaacgaaca
+      541 agaaccacct acttcttggg gaggtaggtc tgcttccctt caactcagga tacaactgct
+      601 ttcaactgct ttcttcacat tagctgacta attagctaga agcctgtcgt aaacaatttt
+      661 atggttgact ccttccctgg gctcagggtt ccctagaaca gagaggtccc caaatcccgg
+      721 tctgtggcct gtccgcctaa gctctgcctc ctgccagatc agcaggcagc attagattct
+      781 cataggagct ggacgcctat tgtgaactgc gcatgtgcgg gatccagatt gtgcactctt
+      841 tatgagaatc taactaatgc ttgatgatct atctgaacca gaacaatttc atcctgaaac
+      901 catcccccac caatccatag aaatactgtc ttccacaaaa atgatccctg gtgccaaaaa
+      961 tgttagagac cactccccta aaactctctt cttagctctc acctcctgta ttactatctc
+     1021 atctcagtac attgaagccc ccatcttttc cccatggatg cctcatttcc tattagggag
+     1081 gcattttttt attttttgtt tttatttttt tccgagacgg agtctcgctc tgtcgccaag
+     1141 gctggagtgc agtggcgcga tctcggctca ctgcaagctc cgcctcccgg gttcacgcca
+     1201 ttctcctgcc tcagcctccc aagtagctgg gactacaggc gcccgcacta cgcccggcta
+     1261 attttttgta tttttagtag agacggggtt tcaccgtggt agccaggatg gtctcgatct
+     1321 cctgacctcg tgatccgccc gccttggcct cccaaagtgc tgggattaca ggcgtgagac
+     1381 cgcgcccggc cgtcatttgg tatgtcttaa tgtgcctcag gacctagcac agtccctggt
+     1441 acccagtaga gacctatgta atgttcgtta ttcaataata aatacatgaa ttaaagagtg
+     1501 agagtggatt ttgtaatgtt acgactgata gagaaatact cagtgattct aagggatggg
+     1561 gaagaacggt tggagctaga ggttgtgctc aggaaactat taaatagacg ttccgcagga
+     1621 agggattgac gaagtgtgag gttaatgagg aagggaaaat agaatataaa atttggtggt
+     1681 ggaaaagatc tgattcatga tgccgtgtca gagagcaaag ctcctgtcct tttggcctaa
+     1741 tttggtgatg ctgttcttgg gtctaccaca cctccttttg ccctccgcag gagcctgtgt
+     1801 tggaagagat ggtgatgggc ctgggcgttt tgttgttggt cttcgtgctg ggtctgggtc
+     1861 tgaccccacc gaccctggct caggataact ccaggtacac acacttcctg acccagcact
+     1921 atgatgccaa accacagggc cgggatgaca gatactgtga aagcatcatg aggagacggg
+     1981 gcctgacctc accctgcaaa gacatcaaca catttattca tggcaacaag cgcagcatca
+     2041 aggccatctg tgaaaacaag aatggaaacc ctcacagaga aaacctaaga ataagcaagt
+     2101 cttctttcca ggtcaccact tgcaagctac atggaggttc cccctggcct ccatgccagt
+     2161 accgagccac agcggggttc agaaacgttg ttgttgcttg tgaaaatggc ttacctgtcc
+     2221 acttggatca gtcaattttc cgtcgtccgt aaccagcggg cccctggtca agtgctggct
+     2281 ctgctgtcct tgccttccat ttcccctctg cacccagaac agtggtggca acattcattg
+     2341 ccaagggccc aaagaaagag ctacctggac cttttgtttt ctgtttgaca acatgtttaa
+     2401 taaataaaaa tgtcttgata tcagtaagaa tcagagtctt ctcactgatt ctgggcatat
+     2461 tgatctttcc cccattttct ctacttggct gctccctgag aggactgcat aggatagaaa
+     2521 tgcctttttc ttttcttttc gttttttttt tttttttttt ttgagatgga gtctcactct
+     2581 gtcgcccagg cttaagtgca atggcacaat ctcggctcac tgcaacctct ctctcctggg
+     2641 ttcaagtgat tctcctgcct cagcctccca aatagctgag attacaggca tgcaccacca
+     2701 cacctggcta atttttgtgt ttttagtaga gacagggttt caccgttttg gccaggttgg
+     2761 tcttgaactc ctgacctcgg gagatccgcc caccttggcc tctctttgtg ctgggattac
+     2821 aggcatgagc cactgagccg ggccactttt tccttatcag tcagttttta caagtcatta
+     2881 gggaggtaga ctttacctct ctgtgaagga aagtatggta tgttgatcta cagagagaga
+     2941 tggaaaaatt ccagggctcg tagctactaa gcagaatttc caagataggc aaattgtttt
+     3001 ttctgtcaaa taataagcta atattacttc tacaaatatg agaccttgga gagaagtttc
+     3061 caaggaccaa gtaccaacat accaacagat tattatagtt tctctcactc ttacacacac
+     3121 acacacacat atacacatat gtaatccagc atgaatacca aaattcattc agggtagcca
+     3181 ccttttgtct taatcgagag ataattttga tgtttgaatg gaatgctccc aggatattct
+     3241 cttgtcatgg ttattttata taaaattcaa aaaccaatta cattatttcc tctgtaatct
+     3301 tttactttat caactaatgt ctggcaagtg tgatgttttg gggaagttat agaagattcc
+     3361 ggccaggcgc ttatctcacg cttgtaatcc agcactttgg gaagctgagg cggacagatc
+     3421 acgaggtcaa gagatcaaga ccatcctgga caacatggtg aaaccttgtc tctactaaaa
+     3481 atgtgaaaat tagctgggcg tggtggcaca cacctatagt cccagctact cgggaggctg
+     3541 aggcaggaga atcgcttgaa cctaggaggc ggaggttgca ctgagccgag atcacgccac
+     3601 tgcactccag cctgggcgac agagcgagac tccatctcaa aaaaaaaaaa aaaagaaaga
+     3661 tcccagttta tcccagttta tcccttattc ttcctcaatt ctcaagattt gtttttaagt
+     3721 taacataact taggttaaca cactctttgt aaaatacact gttcaatcta cagactcagt
+     3781 ggttagcttc ctgttaacta atttctgttg acaggtactt ggatatttta tttagaaagt
+     3841 ggttgccaat aaattagtta taagtcgcca gtttcactgc cttgtgaaca cataattatt
+     3901 gtggtctcag tattccctat ggtggcttct cctgctcctg gtattgccct gaaatgggcc
+     3961 aaaagccgtg gctccccaat gctcaggtta tagaacattg tccaggtacc acctaggaga
+     4021 gcccagcctc actgaaagta ttcaaattta ggaatgggtt tgagaagtag gtagctggta
+     4081 tgtgcttagc acaagaatct ctcttccttg ggttagtctg tttcaaaact gaaaacactg
+     4141 tcattcctta agaaaatagg aaaaagtatt ccaaacctct gtcactagaa aatttgccat
+     4201 attaccaaat ctcaaaaacc tctcaggaaa tgagaaagtc ccagtttctg gtaaactatt
+     4261 tgggcccttt tctcaagttc tccttccagt gctatttcct tgaggtgagg caaagttact
+     4321 caagatcatc gctgccactc aaggccttga tagggcaagt gaaaggcatg gaccattatt
+     4381 atattgatca cagcataagc tgtgaaaacc cacatcttct ccaaacatct gcttggagca
+     4441 ttatcatcgc atagtttgct ctggtgttca gggaaatcgc tgtttcatag gaaatcacat
+     4501 ggcagtggga tgggagtgtt tcctgacctg ccgatggtac tggcacctga gcaagcattc
+     4561 ctagtccttt ttggtctggg cctcttgttc tatcacaacc acaagctgtt taaaataaaa
+     4621 acgtcaagtc acaggcaggt cattttatcc tgcgtgaatc aattgaag
+//
+

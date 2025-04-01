@@ -1,0 +1,147 @@
+LOCUS       HSU20982                4619 bp    DNA     linear   PRI 07-MAR-1995
+DEFINITION  Human insulin-like growth factor binding protein-4 (IGFBP4) gene,
+            promoter and complete cds.
+ACCESSION   U20982
+VERSION     U20982.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 4619)
+  AUTHORS   Strong,D.D., Morales,S., Lee,K., Boonyaratanakornkit,V.,
+            Baylink,D.J. and Mohan,S.
+  TITLE     Cloning of the human insulin-like growth factor binding protein-4
+            gene and identification of the proximal promoter
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 4619)
+  AUTHORS   Strong,D.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-FEB-1995) Donna D. Strong, J.L. Pettis Veterans'
+            Hospital, Research 151, 11201 Benton Street, Loma Linda, CA 92357,
+            USA
+FEATURES             Location/Qualifiers
+     source          1..4619
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /clone="HIGFBP43"
+                     /sex="female"
+                     /tissue_type="placenta"
+                     /clone_lib="pWE15 cosmid library of Clontech, Palo Alto,
+                     CA"
+     regulatory      1..396
+                     /regulatory_class="promoter"
+     gene            join(397..1030,1579..1736,2525..2659,2760..>3992)
+                     /gene="IGFBP4"
+     mRNA            join(397..1030,1579..1736,2525..2659,2760..>3992)
+                     /gene="IGFBP4"
+     exon            397..1030
+                     /gene="IGFBP4"
+     5'UTR           397..681
+                     /gene="IGFBP4"
+     CDS             join(682..1030,1579..1736,2525..2659,2760..2894)
+                     /gene="IGFBP4"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="IGF binding protein-4"
+                     /codon_start=1
+                     /product="insulin-like growth factor binding protein-4"
+                     /protein_id="AAA62670.1"
+                     /translation="MLPLCLVAALLLAAGPGPSLGDEAIHCPPCSEEKLARCRPPVGC
+                     EELVREAGCGCCATCALGLGMPCGVYTPRCGSGLRCYPPRGVEKPLHTLMHGQGVCME
+                     LAEIEAIQESLQPSDKDEGDHPNNSFSPCSAHDRRCLQKHFAKIRDRSTSGGKMKVNG
+                     APREDARPVPQGSCQSELHRALERLAASQSRTHEDLYFIPIPNCDRNGNFHPKQCHPA
+                     LDGQRGKCWCVDRKTGVKLPGGLEPKGELDCHQLADSFRE"
+     intron          1031..1578
+     exon            1579..1736
+                     /gene="IGFBP4"
+     intron          1737..2524
+     exon            2525..2659
+                     /gene="IGFBP4"
+     intron          2660..2759
+     exon            2760..>3992
+                     /gene="IGFBP4"
+     3'UTR           2895..>3992
+                     /gene="IGFBP4"
+ORIGIN      
+        1 gcagagccgg gagtccgggc taggaagtcc ctttctcggt gggagactga ggccgccttg
+       61 gcggggcggg acgagactcc tccgaggtcg ggaaaggggg ccccgcagca gccccttggc
+      121 ttcccttctc ccttgcctcc cctccggggc tccggttcag aggcactctg ggcgcctgct
+      181 acagcttcca aactgcgccg cttccttctt cggcagaaaa ggactttcag atgcggcggc
+      241 ggcggcggcg gcgactcagg acagcgcccc ctccccctaa cggccgcctc tccctctccc
+      301 cctcgccgcc ccggctcccc cacctctggg aaggcgctgg gggtgtggcc agggaccggt
+      361 ataaagtccg ggggagccgg tcccgggcag ccgctcagcc ccctgcccct cgccgccccc
+      421 cgccgcctgc ctgggccggg ccgaggatgc ggcgcagcgc ctcggcggcc aggcttgctc
+      481 ccctccggca cgcctgctaa cttcccccgc tacgtccccg ttcgcccgcc gggccgcccc
+      541 gtctccccgc ggcctccggg tccgggtcct ccaggacggc caggccgtgc cgccgtgtgc
+      601 cctccgccgc tcgcccgcgc gccgcgcgct ccccgcctgc gcccagcgcc ccgcgcccgc
+      661 gccccagtcc tcgggcggtc catgctgccc ctctgcctcg tggccgccct gctgctggcc
+      721 gccgggcccg ggccgagcct gggcgacgaa gccatccact gcccgccctg ctccgaggag
+      781 aagctggcgc gctgccgccc ccccgtgggc tgcgaggagc tggtgcgaga ggcgggctgc
+      841 ggctgttgcg ccacttgcgc cctgggcttg gggatgccct gcggggtgta caccccccgt
+      901 tgcggctcgg gcctgcgctg ctacccgccc cgaggggtgg agaagcccct gcacacactg
+      961 atgcacgggc aaggcgtgtg catggagctg gcggagatcg aggccatcca ggaaagcctg
+     1021 cagccctctg gtaaggtacc cctgcctccc aattccctcc tgagtagcgc tcccttccca
+     1081 gcggcttctt ccccattcca gccgccctgg aaggccctta aaaatcccct atgagttgaa
+     1141 gagaaggcag gtacgtggca gggccgaaaa aatcagagag ccacagggag aacgatcaga
+     1201 tggagagggg aatggtggga ctgaatggaa ggggacagga tccagcaggg ggtccccctg
+     1261 cctgcctcag acctccctgc agggcccagg ggaccctcct gccatctggg cagctgcagc
+     1321 tggtgactca tctgagcgct ggcctgagtg ggtgagggac aagtcaagga cttcaagagg
+     1381 aatattctcc tgagagatcc aggggagagg ggaggaggta ggggctgctc ttgtttcttc
+     1441 ccgctcccca ggccccctgc tcttctccag cccaagccga agaatcccca ggaaggagaa
+     1501 cgtgggtggg aggctgggtt ggtgtgacgc tctgacctct tccggtgctg acctctcctt
+     1561 atcgctacct gaatacagac aaggacgagg gtgaccaccc caacaacagc ttcagcccct
+     1621 gtagcgccca tgaccgcagg tgcctgcaga agcacttcgc caaaattcga gaccggagca
+     1681 ccagtggggg caagatgaag gtcaatgggg cgccccggga ggatgcccgg cctgtggtaa
+     1741 ggacctccga tgcacaaatg tgcatgtgca tagacacaca cacacacaca tgccccctgc
+     1801 cccccacatg cacgcaccca cacacaccat caccaccaga tctggggcgt gttcattcag
+     1861 cacacattct agggtgacta ctgtgtgcaa ggtgcaacta gtgtgagaca tcagggccca
+     1921 gagaaagcac tcattccctt ccttgggatt cctttcctgc ccatcagtta tatacatcgg
+     1981 gggaggttaa gtgattatta aatactgaaa aacttctata ccaattggta aaaagcagtt
+     2041 acccaaagcg ccctggggtt tcttggcctt tggggggttc cccaccccag accttctcag
+     2101 taaccaaggg taatgctggc catagcaggg ggcctgggac cctgctccag ggtctggcta
+     2161 atttcccttc tgtaaggtct tacaagttgt cagttggaag ttttatctgt cccttctgca
+     2221 tagaaatcac cccctccctg gctttctgca taggttccca cagccccttt ccccacagtg
+     2281 tcccctcact tcccacccct cctttgtaga agctctttgg ctcgagaccc tttcctccac
+     2341 gtctctaccc tcccagtgtg tcctccagac ccaggcctct ctcttcacct cactgggtcc
+     2401 tgcccagccc ctgggggtca ggcctccttt cgggggcctt cagttctcac ttagctctga
+     2461 ccccaggcct gggcctcctg cctctcttcc ttctgctgag caattttgtc ttcccctcct
+     2521 ccagccccag ggctcctgcc agagcgagct gcaccgggcg ctggagcggc tggccgcttc
+     2581 acagagccgc acccacgagg acctctactt catccccatc cccaactgcg accgcaacgg
+     2641 caacttccac cccaagcagg tgggtctctg tctcccgctg gcttggccct ggactcagct
+     2701 ctggggcatg gtctcttttc ctgcgtcgga actgacccct catgtccttc tcttggcagt
+     2761 gtcacccagc tctggatggg cagcgtggca agtgctggtg tgtggaccgg aagacggggg
+     2821 tgaagcttcc ggggggcctg gagccaaagg gggagctgga ctgccaccag ctggctgaca
+     2881 gctttcgaga gtgaggcctg ccagcaggcc agggactcag cgtcccctgc tactcctgtg
+     2941 ctctggaggc tgcagagctg acccagagtg gagtctgagt ctgagtcctg tctctgcctg
+     3001 cggcccagaa gtttccctca aatgcgcgtg tgcacgtgtg cgtgtgcgtg cgtgtgtgtg
+     3061 tgtttgtgag catgggtgtg cccttggggt aagccagagc ctggggtgtt ctctttggtg
+     3121 ttacacagcc caagaggact gagactggca cttagcccaa gaggtctgag ccctggtgtg
+     3181 tttccagatc gatcctggat tcactcactc actcattcct tcactcatcc agccacctaa
+     3241 aaacatttac tgaccatgta ctacgtgcca gctctagttt tcagccttgg gaggttttat
+     3301 tctgacttcc tctgattttg gcatgtggag acactcctat aaggagagtt caagcctgtg
+     3361 ggagtagaaa aatctcattc ccagagtcag aggagaagag acatgtacct tgaccatcgt
+     3421 ccttcctctc aagctagccc agagggtggg agcctaagga agcgtggggt agcagatgga
+     3481 gtaatggtca cgaggtccag acccactccc aaagctcaga cttgccaggc tccctttctc
+     3541 ttcttcccca ggtccttcct ttaggtctgg ttgttgcacc atctgcttgg ttggctggca
+     3601 gctgagagcc ctgctgtggg agagcgaagg gggtcaaagg aagacttgaa gcacagaggg
+     3661 ctagggaggt ggggtacatt tctctgagca gtcagggtgg gaagaaagaa tgcaagagtg
+     3721 gactgaatgt gcctaatgga gaagacccac gtgctagggg atgaggggct tcctgggtcc
+     3781 tgttccccta ccccatttgt ggtcacagcc atgaagtcac cgggatgaac ctatccttcc
+     3841 agtggctcgc tccctgtagc tctgcctccc tctccatatc tccttcccct acacctccct
+     3901 ccccacacct ccctactccc ctgggcatct tctggcttga ctggatggaa ggagacttag
+     3961 gaacctacca gttggccatg atgtcttttc ttctttttct tttttttaac aaaacagaac
+     4021 aaaaccaaaa aatgtccaga tgattgtgtt tggttgattt attctcagtt agacacaggg
+     4081 atgcaccagg ggtggagaga cggggacaga ttttgggagg tgagtattgt gtggtcccca
+     4141 gacctgtctg tatggtaagg gactgcagaa ggacggccaa tccaccttcc tcttccctgc
+     4201 aacggaagtt tcctagggaa ctccttggct tcaaagtctg cgctgtcttt acttagactc
+     4261 ctggtgggca aacaatggct cctgaaaggg gggcatgacc aaggacagcc ctgtggggca
+     4321 gagctgtctc tgggatcagc tggcatgtgg ggctggggca ttctagggca tcgggcggac
+     4381 tgggcttgca tctggatttg atttattaat ttgttgggga ggggcaggga cactgccctg
+     4441 catttgagga aagggggtag atgcttcagc acattccaca gctctgactg ccgagatctc
+     4501 tgactcgggg cattgtgctg agattggatt ctgaggttgg gaggggttga ctttgctgta
+     4561 gactcagtgc cagccacagc ttcagagatt gtgctcacat ggtatgcctg gactcttgg
+//
+

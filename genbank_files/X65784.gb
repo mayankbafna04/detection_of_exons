@@ -1,0 +1,43 @@
+LOCUS       X65784                   459 bp    DNA     linear   PRI 15-NOV-2001
+DEFINITION  H.sapiens CAR gene.
+ACCESSION   X65784
+VERSION     X65784.1
+KEYWORDS    cell adhesion regulation.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 459)
+  AUTHORS   Pullman,W.E. and Bodmer,W.F.
+  TITLE     Cloning and characterization of a gene that regulates cell adhesion
+  JOURNAL   Nature 356 (6369), 529-532 (1992)
+   PUBMED   1560826
+  REMARK    Erratum:[Nature. 1993 Feb 11;361(6412):564. PMID: 8429914]
+FEATURES             Location/Qualifiers
+     source          1..459
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /cell_line="SW1222 colon cancer cell line"
+     gene            1..429
+                     /gene="cell adhesion regulator"
+     CDS             1..429
+                     /gene="cell adhesion regulator"
+                     /codon_start=1
+                     /protein_id="CAA46667.1"
+                     /db_xref="GDB:132403"
+                     /translation="MGKVISASRVSMEHFEFQGYRQSFPVWLRPPRGSRAFRLQTDPC
+                     SCRCLHDRPSSCGSLGMLRGSDMKGPCEPIVLSPAALSSSSLINGPVRPRHWAPEDSP
+                     LPPAAMWTWCKLRTSCWSSHACSVGDALVFTALRIVEILY"
+ORIGIN      
+        1 atggggaagg ttatcagtgc ttcccgagtg agcatggaac acttcgagtt ccagggttat
+       61 agacagtcgt tcccagtgtg gctgaggcca cccagaggca gcagagcatt cagactccaa
+      121 acagacccct gttcatgccg atgcttgcac gaccgcccca gttcctgtgg ctccctcgga
+      181 atgctaaggg gatcggacat gaaaggaccc tgtgagccga ttgtcctatc tccagcggcc
+      241 ctgtcatcca gctcactcat caatgggcca gtcaggccca ggcactgggc tccggaggac
+      301 tcaccactgc cccctgctgc catgtggacc tggtgcaagt tgaggacttc ttgctggtct
+      361 agtcacgcat gcagtgttgg ggatgccttg gtttttactg ctctgagaat tgttgagata
+      421 ctttactaat aaactgtgta gttggaaaaa aaaaaaaaa
+//
+

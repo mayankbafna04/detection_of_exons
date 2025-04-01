@@ -1,0 +1,139 @@
+LOCUS       Z48950                  3276 bp    DNA     linear   PRI 14-NOV-2006
+DEFINITION  H.sapiens hH3.3B gene for histone H3.3.
+ACCESSION   Z48950
+VERSION     Z48950.1
+KEYWORDS    histone H3.3.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 261 to 3276)
+  AUTHORS   Albig,W., Bramlage,B., Gruber,K., Klobeck,H.G., Kunz,J. and
+            Doenecke,D.
+  TITLE     The human replacement histone H3.3B gene (H3F3B)
+  JOURNAL   Genomics 30 (2), 264-272 (1995)
+   PUBMED   8586426
+REFERENCE   2  (bases 1 to 3276)
+  AUTHORS   Albig,W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-MAR-1995) Albig W., Georg-August-Universitaet
+            Goettingen, Biochemie und Molekulare Zellbiologie, Humboldtallee
+            23, Goettingen, D, 37073
+FEATURES             Location/Qualifiers
+     source          1..3276
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /cell_line="GM2132"
+                     /cell_type="leukocyte"
+     regulatory      626..630
+                     /regulatory_class="CAAT_signal"
+     regulatory      696..700
+                     /regulatory_class="TATA_box"
+     prim_transcript 741..3043
+     5'UTR           join(741..847,1320..1329)
+     exon            741..847
+                     /number=1
+     intron          848..1319
+                     /number=1
+     exon            1320..1457
+                     /number=2
+     gene            order(1330..1457,1541..1694,1781..1909)
+                     /gene="hH3.3B"
+     CDS             join(1330..1457,1541..1694,1781..1909)
+                     /gene="hH3.3B"
+                     /function="chromatin condensation"
+                     /codon_start=1
+                     /product="histone H3.3"
+                     /protein_id="CAA88778.1"
+                     /db_xref="GDB:125249"
+                     /db_xref="GDB:642141"
+                     /db_xref="GOA:P84243"
+                     /db_xref="HGNC:HGNC:4764"
+                     /db_xref="HGNC:HGNC:4765"
+                     /db_xref="InterPro:IPR000164"
+                     /db_xref="InterPro:IPR007125"
+                     /db_xref="InterPro:IPR009072"
+                     /db_xref="PDB:3JVK"
+                     /db_xref="PDB:3MUK"
+                     /db_xref="PDB:3MUL"
+                     /db_xref="UniProtKB/Swiss-Prot:P84243"
+                     /translation="MARTKQTARKSTGGKAPRKQLATKAARKSAPSTGGVKKPHRYRP
+                     GTVALREIRRYQKSTELLIRKLPFQRLVREIAQDFKTDLRFQSAAIGALQEASEAYLV
+                     GLFEDTNLCAIHAKRVTIMPKDIQLARRIRGERA"
+     intron          1458..1540
+                     /number=2
+     exon            1541..1694
+                     /gene="hH3.3B"
+                     /number=3
+     intron          1695..1780
+                     /number=4
+     exon            1781..3043
+                     /number=5
+     3'UTR           1910..3043
+     regulatory      2233..2238
+                     /regulatory_class="polyA_signal_sequence"
+     regulatory      2463..2468
+                     /regulatory_class="polyA_signal_sequence"
+     regulatory      3027..3032
+                     /regulatory_class="polyA_signal_sequence"
+     polyA_site      3043
+ORIGIN      
+        1 catatggaaa tcaaaaaata ttttgtgaca ccttaaaaac atacaaaaca gttcctctaa
+       61 aataatttat taacatgttt atttgtattt attatttacc ccttcccacc ccaccaagag
+      121 acctgctttt tgttaaaaat gtatgtgcat gatatatgaa atacttgata atataacatg
+      181 atttactgaa ttctaattct cacactacgc acttaactat caaaatatta tgaaaggtaa
+      241 ataatccagg gaacacattt tattttacat cggaaaatat ttacaaaaat tttgttaaag
+      301 tagcctctct gggtgcatag cattcgcttg atgcctgtga gtttagactc ctgctcattc
+      361 tgatagagac caatgcaatt catttgcatt gactttctat tgcagagctt tggaaccaag
+      421 ggaaggatcc aaacatagct ccattttatc caatcagaag ggccgcttag tgctaaactc
+      481 tgattcgtcc attcctcttt gcatccatcc aatcattagg ccactttaac agccaatcag
+      541 cggcgtagat atgcaccaat catggaacag tgccgaagca cggcctttgt gtcgggggat
+      601 gtcagcgcgt cggcgaaagc gcccaccaat agaaaaagtc gttggtgtat gcaaataagg
+      661 gttctatgac gcagagacgc agcgtgaagc gtgcctataa aaacggaggc gacgcggggg
+      721 cttggagcgc agagcggttt ggtcgttcgt tgggcggtgc tggtttttcg ctcgtcgact
+      781 gcggctcttc ctcgggcagc ggaagcggcg cggcggtcgg agaagtggcc taaaacttcg
+      841 gcgttgggta ggcgttcgta ggtttacccg cggcttcagg ttctgccaac cgttggcgcc
+      901 gcgcgccgcg gccgttggga gccgagcggc gggggctgct cgggccgctg gcgtcgggtc
+      961 gggtatgggg ccgggaggtt tccccttggg gctttgttcc ggaactgtgt ccccgccttt
+     1021 tcccggcggt gattcagagg tcccgacgcc gggttccggg cagtcgggcc tccgcccgtc
+     1081 gaggaaggga agtgactcct ccccgcgctc cccctcccgg gggaggctgc cgctcctcgc
+     1141 agcctgagtc attaggggag ggggaggagg ttggcggccc tcggccatct gctgccgcga
+     1201 ggtggggcgc ggggaggcgg gaggcccggc ggtggggcca ggatctgttc cctccccccg
+     1261 cagccctggg gggcggcccg ggtgagcgcg gcgccttatc ttcggggcgt ctttcttagg
+     1321 tgaaagaaaa tggcccgaac caagcagact gctcgtaagt ccaccggtgg gaaagccccc
+     1381 cgcaaacagc tggccacgaa agccgccagg aaaagcgctc cctctaccgg cggggtgaag
+     1441 aagcctcatc gctacaggta ggtcgggcgg gggaacaatg gcccggcggt ggccggcttt
+     1501 gtgcggcagc gtccgctcac tcctcccctg ctcgctgcag gcccgggacc gtggcgcttc
+     1561 gagagattcg tcgttatcag aagtcgaccg agctgctcat ccggaagctg cccttccaga
+     1621 ggttggtgag ggagatcgcg caggatttca aaaccgacct gaggtttcag agcgcagcca
+     1681 tcggtgcgct gcaggtaaga caaaggcctg gagccggggg agggctgggc ggtttccgct
+     1741 ccccgagtgg gattaatagt gcggctctcg tcctcaacag gaggctagcg aagcgtacct
+     1801 ggtgggtctg ttcgaagata ccaacctgtg tgccatccac gctaagagag tcaccatcat
+     1861 gcccaaagac atccagttgg ctcgccggat acggggagag agagcttaag tgaaggcagt
+     1921 ttttatggcg ttttgtagta aattctgtaa aatactttgg tttaatttgt gacttttttt
+     1981 gtaagaaatt gtttataata tgttgcattt gtacttaagt cattccatct ttcactcagg
+     2041 atgaatgcga aaagtgactg ttcacagacc tcagtgatgt gagcactgtt gctcaggagt
+     2101 gacaagttgc taatatgcag aagggatggg tgatacttct tgcttctcat gatgcatgtt
+     2161 tctgtatgtt aatgacttgt tgggtagcta ttaaggtact agagttgata aatgtgtaca
+     2221 gggtcctttt gcaataaaac tggttatgac ttgatccaag tgtttaacaa ttggggctgt
+     2281 taagtctgac catacatcac tgtgatagaa tgtgggcttt ttcaagggtg aagatacaag
+     2341 tcttaaccac agtgtaactt acagtttcct ttaaaaaaaa aaaaagtaaa cctggcagct
+     2401 atagaataca ctatgtgcat ttataatagc tattttatat attgtagtat caacattttt
+     2461 aaattaaatg ttttacattc acaagtggtg gggagtcttg tcattaaggt gtgtgtaatt
+     2521 tagagtccag ttggttttct tctgactgca cttgttctca tagtagtaaa atgctatgcg
+     2581 catttatacc ttgcataagt cctcattcta ccacatgtta accctctagc tgataatgca
+     2641 aacactaact gggggatttt atttataagg gctctagaaa aaacgagtta ttcacaccag
+     2701 catcatctta actaacattc tgaactagtt agtgcagctt ttcattgtgt tgtgtggttg
+     2761 gtctcataac taggttgagt ttttctcctc tgctgaggaa acagtaccga agttcttttt
+     2821 cttgtggcat ttgtattata aaaacttggt gtgggggagg agcacaaaac tccagcccac
+     2881 tgaacctctg ccaattaaga tggtgttggg ttaggttaca tctggttact gtcctgggaa
+     2941 aatcattttt atagagatgg ccttccaagt ggttttaaaa tttactgaag tttttaggtc
+     3001 aattatgtat gttgactaaa tttacaaata aacttgttta tccaactaag tgtccaaaac
+     3061 ctaaattgaa tgtactaagt tttcacatgt cccattatct aggtccttgt atactaatgt
+     3121 tttgaactta gatcatttca ggtgttgttt ggtggataaa ggaacctttt atttataaag
+     3181 atactgtaga aagcatgtga acagctctct gcttgattaa gatgccataa tagtgctgta
+     3241 tttgcagtgt gggctaagac aaagtatatt aagctt
+//
+

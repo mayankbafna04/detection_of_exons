@@ -1,0 +1,69 @@
+LOCUS       HSU03486                1260 bp    DNA     linear   PRI 04-NOV-1999
+DEFINITION  Homo sapiens connexin40 gene, complete cds.
+ACCESSION   U03486
+VERSION     U03486.2
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1260)
+  AUTHORS   Kanter,H.L., Saffitz,J.E. and Beyer,E.C.
+  TITLE     Molecular cloning of two human cardiac gap junction proteins,
+            connexin40 and connexin45
+  JOURNAL   J. Mol. Cell. Cardiol. 26 (7), 861-868 (1994)
+   PUBMED   7966354
+REFERENCE   2  (bases 1 to 1260)
+  AUTHORS   Beyer,E.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-NOV-1993) Pediatrics, Washington University School of
+            Medicine, One Children's Place, St. Louis, MO 63110, USA
+REFERENCE   3  (bases 1 to 1260)
+  AUTHORS   Beyer,E.C. and Christensen,E.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-OCT-1999) Children's Hospital, University of Chicago,
+            Chicago, IL 60637-1470, USA
+  REMARK    Sequence update by submitter
+COMMENT     On Oct 22, 1999 this sequence version replaced U03486.1.
+FEATURES             Location/Qualifiers
+     source          1..1260
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+     CDS             65..1141
+                     /function="gap junction channel protein"
+                     /codon_start=1
+                     /product="connexin40"
+                     /protein_id="AAA60457.2"
+                     /translation="MGDWSFLGNFLEEVHKHSTVVGKVWLTVLFIFRMLVLGTAAESS
+                     WGDEQADFRCDTIQPGCQNVCYDQAFPISHIRYWVLQIIFVSTPSLVYMGHAMHTVRM
+                     QEKRKLREAERAKEVRGSGSYEYPVAEKAELSCWEEGNGRIALQGTLLNTYVCSILIR
+                     TTMEVGFIVGQYFIYGIFLTTLHVCRRSPCPHPVNCYVSRPTEKNVFIVFMLAVAALS
+                     LLLSLAELYHLGWKKIRQRFVKPRQHMAKCQLSGPSVGIVQSCTPPPDFNQCLENGPG
+                     GKFFNPFSNNMASQQNTDNLVTEQVRGQEQTPGEGFIQVRYGQKPEVPNGVSPGHRLP
+                     HGYHSDKRRLSKASSKARSDDLSV"
+ORIGIN      
+        1 cttttctctc tttctctctc tcccatttgc agaagttttg gcatctgttc cctgctgtgc
+       61 caacatgggc gattggagct tcctgggaaa tttcctggag gaagtacaca agcactcgac
+      121 cgtggtaggc aaggtctggc tcactgtcct cttcatattc cgtatgctcg tgctgggcac
+      181 agctgctgag tcttcctggg gggatgagca ggctgatttc cggtgtgata cgattcagcc
+      241 tggctgccag aatgtctgct acgaccaggc tttccccatc tcccacattc gctactgggt
+      301 gctgcagatc atcttcgtct ccacgccctc tctggtgtac atgggccacg ccatgcacac
+      361 tgtgcgcatg caggagaagc gcaagctacg ggaggccgag agggccaaag aggtccgggg
+      421 ctctggctct tacgagtacc cggtggcaga gaaggcagaa ctgtcctgct gggaggaagg
+      481 gaatggaagg attgccctcc agggcactct gctcaacacc tatgtgtgca gcatcctgat
+      541 ccgcaccacc atggaggtgg gcttcattgt gggccagtac ttcatctacg gaatcttcct
+      601 gaccaccctg catgtctgcc gcaggagtcc ctgtccccac ccggtcaact gttacgtatc
+      661 ccggcccaca gagaagaatg tcttcattgt ctttatgctg gctgtggctg cactgtccct
+      721 cctccttagc ctggctgaac tctaccacct gggctggaag aagatcagac agcgatttgt
+      781 caaaccgcgg cagcacatgg ctaagtgcca gctttctggc ccctctgtgg gcatagtcca
+      841 gagctgcaca ccaccccccg actttaatca gtgcctggag aatggccctg ggggaaaatt
+      901 cttcaatccc ttcagcaata atatggcctc ccaacaaaac acagacaacc tggtcaccga
+      961 gcaagtacga ggtcaggagc agactcctgg ggaaggtttc atccaggttc gttatggcca
+     1021 gaagcctgag gtgcccaatg gagtctcacc aggtcaccgc cttccccatg gctatcatag
+     1081 tgacaagcga cgtcttagta aggccagcag caaggcaagg tcagatgacc tatcagtgtg
+     1141 accctccttt atgggaggat caggaccagg tgggaacaaa ggaggctcag agaggaaaga
+     1201 cgtgtccctt ctgaactgat gctttctcac tgtcatcact gcttggctcc tttggcccgg
+//
+

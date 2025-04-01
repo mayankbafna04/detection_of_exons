@@ -1,0 +1,135 @@
+LOCUS       HUMRPS17A               4029 bp    DNA     linear   PRI 09-JAN-1995
+DEFINITION  Human ribosomal protein S17 gene, complete cds.
+ACCESSION   M18000
+VERSION     M18000.1
+KEYWORDS    40S ribosomal subunit; Alu repeat; ribosomal protein.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 4029)
+  AUTHORS   Chen,I.T. and Roufa,D.J.
+  TITLE     The transcriptionally active human ribosomal protein S17 gene
+  JOURNAL   Gene 70 (1), 107-116 (1988)
+   PUBMED   3240863
+COMMENT     Original source text: Human leukocyte DNA, clone HGS17-7.
+            Draft entry and computer-readable copy of sequence in [1] kindly
+            submitted by D.Roufa 22-DEC-1987.
+FEATURES             Location/Qualifiers
+     source          1..4029
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /map="Unassigned"
+     prim_transcript 173..3844
+                     /note="S17 mRNA and introns"
+     gene            join(198..200,493..644,1641..1746,2255..2320,3718..3798)
+                     /gene="RPS17"
+     CDS             join(198..200,493..644,1641..1746,2255..2320,3718..3798)
+                     /gene="RPS17"
+                     /note="S17 ribosomal protein"
+                     /codon_start=1
+                     /protein_id="AAA60285.1"
+                     /db_xref="GDB:G00-128-851"
+                     /translation="MGRVRTKTVKKAARVIIEKYYTRLGNDFHTNKRVCEEIAIIPSK
+                     KLRNKIAGYVTHLMKRIQRGPVRGISIKLQEEERERRDNYVPEVSALDQEIIEVDPDT
+                     KEMLKLLDFGSLSNLQVTQPTVGMNFKTPRGPV"
+     exon            <198..200
+                     /gene="RPS17"
+                     /note="S17 ribosomal protein"
+                     /number=1
+     intron          201..492
+                     /note="intron A"
+     exon            493..644
+                     /gene="RPS17"
+                     /number=2
+     intron          645..1640
+                     /note="intron B"
+     repeat_region   929..1197
+                     /note="Alu repetitive sequence element"
+     exon            1641..1746
+                     /gene="RPS17"
+                     /number=3
+     intron          1747..2254
+                     /note="intron C"
+     exon            2255..2320
+                     /gene="RPS17"
+                     /number=4
+     intron          2321..3717
+                     /note="intron D"
+     exon            3718..>3798
+                     /gene="RPS17"
+                     /note="S17 ribosomal protein"
+                     /number=5
+ORIGIN      
+        1 gtcgggggcg ggacaggaca ccctgcccac cggaggggcg cgccaccgcc gcccccgctc
+       61 cactccgcca gggggcgctg tgtggctccc gagtaggctc agagcgaccg tggccgggcg
+      121 gaagcggctt tctggcctaa gctttaacag gcttcgcctg tgcttcctgt ttcctctttt
+      181 accaaggacc cgccaacatg gtaggtgttt tggctcgagg ccgccatcct ccacaatcgt
+      241 cccccatctg cagcttcccg cggtcctcag cccacagaga ggccctgggc cggaaggcgc
+      301 agagccctgt caggctggag cgcaacgggc cggcggcttc cgcattaagc ccggcgcccg
+      361 gcactgttta gccgggccct ctccggctca gcgcagccgg cggtccccaa ccacaccggc
+      421 cggggctcgg cgccgcactc ttcccagaag gttgcgctgg ctcgtgagtg atcctgtcct
+      481 ctccacccgc agggccgcgt tcgcaccaaa accgtgaaga aggcggcccg ggtcatcata
+      541 gaaaagtact acacgcgcct gggcaacgac ttccacacga acaagcgcgt gtgcgaggag
+      601 atcgccatta tccccagcaa aaagctccgc aacaagatag cagggtgagt cgggccttcc
+      661 tcggcctccg ggcgtccgcg atctgtttgt gtgctctgcc gccctccgac tcgggaagag
+      721 acggtgcctt ggtggtttcg ttagcctgag actccctggt gtcccggaga agggctagag
+      781 ctctgcgtgt gcaggatttc tgttgtgaac ttaggcctgt gtcatgactg gccgcggtga
+      841 ccctgggtcg aaggtagcca ccgtcagacc tcttgctttg aagctacgtt gcttttagtt
+      901 gtcaactttt ttctttcttt tttttctttt ttttttgaga cggaatcttg ccctggcgcc
+      961 caggctagag tgcagtggcg ccatctcggc tcactgcaac ctccgtctcc cgggttcaac
+     1021 gcgattgtca tgcctcagcc ttcccagtag ctgggattag aggcacgtgc taccacactc
+     1081 ggctaatttt tgtattttta gtagacaaca gggtttcaca atgttgacca ggctggtctc
+     1141 gaacacctga cctcaagcga tccgcccgcc tcggcctccc aaattgctgg gattacaggc
+     1201 gtgagcacct cgcccggctg gatgtcaact tctaatgctt acttcacagt tgcagttact
+     1261 gttcgagaga tttataggca tatggcctgg aagaatagtg ccaaagtcaa cgtattaatt
+     1321 gccaagttat gtgaatttga aattggaaga aaatgaaggc tgtgaagggt cgtgaaactg
+     1381 cggggcgggg cggggcgagt ggggggtggg gcgcttgatc atcatgaagg agagtttgaa
+     1441 tagagagtga gaaagccaag gggaaggaat gctcaggcca gtggaggttc tatgtgtagg
+     1501 aggtcccagg atagtgagtc ctcttccttc tcactgtgga aaagaactaa agcgggtatt
+     1561 tatatatcca catgtgctca gtaccaggtg ggagttgatt tgtcttctca ctgttctctt
+     1621 tggctgtgtg tgctttgtag ttatgtcacg catctgatga agcgaattca gagaggccca
+     1681 gtaagaggta tctccatcaa gctgcaggag gaggagagag aaaggagaga caattatgtt
+     1741 cctgaggtaa actttctgga tatttgggct tctggctaat cctcaaatga taaagctatg
+     1801 ggttcttggc ttccaaaggg acctcagctg aatctgagac ctttaatcca tacattccat
+     1861 aaccagctgt gggtgcccat aggcccccta ccagtttctt agcctccatt ctgctcttct
+     1921 ggaaccagtt aagtctattc catatttcat gagagccctt aatgttgatt tgatgactgc
+     1981 tgtcgtggct cgattgtttg cccctaatat agtattcttt ggtgtaaaca cagacttcaa
+     2041 gtgttctgaa tactgaatga gggcatggga aggtaaggcc agaagaacag gtcatcgggg
+     2101 tctgtaatac tgtaagagac tgctcacctt gtgagaggaa tgctatcctt gtgcagctcc
+     2161 tcttccccat atttaagaac ctggggagag gaggaggaga ggtgagtgat aatctcattg
+     2221 attggtattt tgaccctacc tcgtttcctt gtaggtctca gccttggatc aggagattat
+     2281 tgaagtagat cctgacacta aggaaatgct gaagcttttg gtaagtgttt gctggattcc
+     2341 taaagtggta ttttcctggt caaaaaccat cagtaggtct tattatccaa ggtcacccag
+     2401 ctagtaagtg gcagagttgg gaatcccatc taaacttgta gccactaaac tggactgctt
+     2461 tcataagggg tgtagcggaa gttgtgtgca ttgagttagt tcgccacaag atcatgattc
+     2521 ccaaatctag tgcttccagg acacttttct ctcttggctg cttctgttct tggtttatag
+     2581 ctggcttacg ttgccccctt tgtgtcagcc ctggctgaat ctgcctgctt ttcttctgtg
+     2641 aaggcattcc tttggtgtct ccatgctaac cactcagaaa tgagctttgg tccatttcca
+     2701 ggtacataca aggcactact taggtagttc acgagtatct tcattgcact ttgatgtttt
+     2761 ttctatggct tatcttagtc cttttgcata cttgggtgaa agcatgggct tcatgggcgg
+     2821 ttggtgattt tgaacaactt catttttcct atttttatgg tcattaaatg tttaagacac
+     2881 tcaaaaaggt agtagcaaaa tgaactcaca tgtactttcc cagctacagc cccgctgtgg
+     2941 gtcttttctt cctgaaataa ccactgcgct gaatgcagca tttttgttga aactaaaatg
+     3001 ggtttctgag gaccaaatag gacatggagt tccaggtata agttgggccc ttggcttctt
+     3061 gccctgccta ccagcctgaa cttgtttgag ggcagggtct gctcttgcct ccctcccttc
+     3121 tgcttgatgc cttgtgtact tgggcccttc acaaatgttg attagattag taatagctct
+     3181 tacccagggc tggtcctgga aagcaagtgg cactgtgtat tctcaaaggg acagagtttt
+     3241 gctttagagg acatttggca atgtccagac acatttttcg ttctcatagc caggggatac
+     3301 ctgctaactt ctaatgggta gaggccaagg atgttgctaa actttctgca atacacagta
+     3361 cagctgccta taacaaagaa tgtccagccc aggatgtcta cgttgccaag attgagaaac
+     3421 ggtgttttag agtgattgat aggaaggggt tgtgaaaaca gatacaaatg gcatggtaca
+     3481 ttgggtaaaa gtcatagagt tgtaaatggg gataccacat ggtcaggtgt gtgttgaagg
+     3541 aagatcactc tggaaaacgt gggaggcatt gagaaccctg ttggctctta aagggtcctt
+     3601 caggtcgcct ctggaccccc ttgagagtgc tgtggctcta ggggcctgtg ttttcttctg
+     3661 gggtccactc acagatctca ccagtaactg ctcactgaat ccattttctc gttccaggac
+     3721 ttcggcagtc tgtccaacct tcaggtcact cagcctacag ttgggatgaa tttcaaaacg
+     3781 cctcggggac ctgtttgaat tttttctgta gtgctgtatt attttcaata aatctgggac
+     3841 aacagccttg cctgtgtcat ctttgcagtt gtgtgtgggt agaggaaagg caggagctct
+     3901 cgaggcaaca gatcagctgg cacttgtctg ggattcaggt gctgctgcat ctggtttatg
+     3961 gggagtgggt tcaccagagt ttagtaaagg agcaagggca agcctgaacg tgttgagagt
+     4021 ggtctgcag
+//
+

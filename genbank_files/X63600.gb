@@ -1,0 +1,179 @@
+LOCUS       X63600                  4311 bp    DNA     linear   PRI 14-NOV-2006
+DEFINITION  H.sapiens genes for acid sphingomyelinase ASM.
+ACCESSION   X63600
+VERSION     X63600.1
+KEYWORDS    acid sphingomyelinase; ASM gene; sphingomyelin phosphodiesterase.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1
+  AUTHORS   Newrzella,D. and Stoffel,W.
+  TITLE     Molecular cloning of the acid sphingomyelinase of the mouse and the
+            organization and complete nucleotide sequence of the gene
+  JOURNAL   Biol. Chem. Hoppe-Seyler 373 (12), 1233-1238 (1992)
+   PUBMED   1292508
+REFERENCE   2
+  AUTHORS   Hofmann,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-DEC-1991) K. Hofmann, Institut fuer Biochemie,
+            Universitaet Koeln, Joseph Stelzmann Str. 52, 5000 Koeln, FRG
+  REMARK    revised by [3]    MAT
+REFERENCE   3  (bases 1 to 4311)
+  AUTHORS   Hofmann,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-OCT-1994) K. Hofmann, Institut fuer Biochemie,
+            Universitaet Koeln, Joseph Stelzmann Str. 52, 5000 Koeln, FRG
+COMMENT     On Oct 9, 1994 this sequence version replaced gi:28882.
+FEATURES             Location/Qualifiers
+     source          1..4311
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /clone="CTG3"
+                     /clone_lib="genomic"
+     protein_bind    70..79
+                     /note="putative"
+                     /bound_moiety="Sp1"
+     gene            order(230..541,1008..1780,2833..3004,3234..3310,
+                     3513..3658,3815..4224)
+                     /gene="ASM"
+     mRNA            join(<230..541,1008..1780,2833..3004,3234..3310,
+                     3513..3658,3815..>4224)
+                     /gene="ASM"
+     CDS             join(230..541,1008..1780,2833..3004,3234..3310,3513..3658,
+                     3815..4224)
+                     /gene="ASM"
+                     /EC_number="3.1.4.12"
+                     /codon_start=1
+                     /product="acid sphingomyelinase"
+                     /protein_id="CAA45145.1"
+                     /db_xref="GDB:128144"
+                     /db_xref="GOA:P17405"
+                     /db_xref="HGNC:HGNC:11120"
+                     /db_xref="InterPro:IPR004843"
+                     /db_xref="InterPro:IPR008139"
+                     /db_xref="InterPro:IPR011001"
+                     /db_xref="InterPro:IPR011160"
+                     /db_xref="UniProtKB/Swiss-Prot:P17405"
+                     /translation="MPRYGASLRQSCPRSGREQGQDGTAGAPGLLWMGLVLALALALA
+                     LALSDSRVLWAPAEAHPLSPQGHPARLHRIVPRLRDVFGWGNLTCPICKGLFTAINLG
+                     LKKEPNVARVGSVAIKLCNLLKIAPPAVCQSIVHLFEDDMVEVWRRSVLSPSEACGLL
+                     LGSTCGHWDIFSSWNISLPTVPKPPPKPPSPPAPGAPVSRILFLTDLHWDHDYLEGTD
+                     PDCADPLCCRRGSGLPPASRPGAGYWGEYSKCDLPLRTLESLLSGLGPAGPFDMVYWT
+                     GDIPAHDVWHQTRQDQLRALTTVTALVRKFLGPVPVYPAVGNHESTPVNSFPPPFIEG
+                     NHSSRWLYEAMAKAWEPWLPAEALRTLRIGGFYALSPYPGLRLISLNMNFCSRENFWL
+                     LINSTDPAGQLQWLVGELQAAEDRGDKVHIIGHIPPGHCLKSWSWNYYRIVARYENTL
+                     AAQFFGHTHVDEFEVFYDEETLSRPLAVAFLAPSATTYIGLNPGYRVYQIDGNYSRSS
+                     HVVLDHETYILNLTQANIPGAIPHWQLLYRARETYGLPNTLPTAWHNLVYRMRGDMQL
+                     FQTFWFLYHKGHPPSEPCGTPCRLATLCAQLSARADSPALCRHLMPDGSLPEAQSLWP
+                     RPLFC"
+     exon            <230..541
+                     /gene="ASM"
+                     /number=1
+     intron          542..1007
+                     /number=1
+     exon            1008..1780
+                     /gene="ASM"
+                     /number=2
+     intron          1781..2832
+                     /number=2
+     repeat_region   1970..2104
+                     /note="first half"
+                     /rpt_family="Alu"
+     repeat_region   2133..2407
+                     /rpt_family="Alu"
+     exon            2833..3004
+                     /gene="ASM"
+                     /number=3
+     intron          3005..3233
+                     /number=3
+     exon            3234..3310
+                     /gene="ASM"
+                     /number=4
+     intron          3311..3512
+                     /number=4
+     exon            3513..3658
+                     /gene="ASM"
+                     /number=5
+     intron          3659..3814
+                     /number=5
+     exon            3815..>4224
+                     /gene="ASM"
+                     /number=6
+ORIGIN      
+        1 cctccgcctc cgcagcgttg acagccgccc gccaccgaga gatcagctgt cagagatcag
+       61 aggaagagga aggggcggag ctgctttgcg gccggccgcg gagcagtcag ccgactacag
+      121 agaagggtaa tcgggtgtcc ccggcgccgc ccggggccct gagggctggc tagggtccag
+      181 gccggggggg acgggacaga cgaaccagcc ccgtgtagga agcgcgacaa tgccccgcta
+      241 cggagcgtca ctccgccaga gctgccccag gtccggccgg gagcagggac aagacgggac
+      301 cgccggagcc cccggactcc tttggatggg cctggtgctg gcgctggcgc tggcgctggc
+      361 gctggctctg tctgactctc gggttctctg ggctccggca gaggctcacc ctctttctcc
+      421 ccaaggccat cctgccaggt tacatcgcat agtgccccgg ctccgagatg tctttgggtg
+      481 ggggaacctc acctgcccaa tctgcaaagg tctattcacc gccatcaacc tcgggctgaa
+      541 ggtgagcact gaaggggctg cagtggagga ggccgaaagg agtgctgggg ctgggggctg
+      601 gggctgatgc tggtgcgcct gggctcagaa tgcatccctg atggagaggg tggcatctac
+      661 aatccatcac tgagtttgct cccctttggg acacccatgg ctacatgcca ccatcacccc
+      721 attgtgacct ttgtgaagta agaaaataat gcagacagtg cctgaggaag tcagcttgcc
+      781 aagcaaaggc ctcatgccac aggccggctg agctaaagag aagcgatggc ctggtgctgc
+      841 ctgagttaca ggcaatatct ggaaggcaaa ggtgtgcact gagcttggtg cactgagtcc
+      901 tgcccagccc cagtttggaa atggaggccc aaggggtggt ggccaggggt tggcctggtt
+      961 cctctgctct gcctctgatt tctcaccatg cgctcctccc actgcagaag gaacccaatg
+     1021 tggctcgcgt gggctccgtg gccatcaagc tgtgcaatct gctgaagata gcaccacctg
+     1081 ccgtgtgcca atccattgtc cacctctttg aggatgacat ggtggaggtg tggagacgct
+     1141 cagtgctgag cccatctgag gcctgtggcc tgctcctggg ctccacctgt gggcactggg
+     1201 acattttctc atcttggaac atctctttgc ctactgtgcc gaagccgccc cccaaacccc
+     1261 ctagcccccc agccccaggt gcccctgtca gccgcatcct cttcctcact gacctgcact
+     1321 gggatcatga ctacctggag ggcacggacc ctgactgtgc agacccactg tgctgccgcc
+     1381 ggggttctgg cctgccgccc gcatcccggc caggtgccgg atactggggc gaatacagca
+     1441 agtgtgacct gcccctgagg accctggaga gcctgttgag tgggctgggc ccagccggcc
+     1501 cttttgatat ggtgtactgg acaggagaca tccccgcaca tgatgtctgg caccagactc
+     1561 gtcaggacca actgcgggcc ctgaccaccg tcacagcact tgtgaggaag ttcctggggc
+     1621 cagtgccagt gtaccctgct gtgggtaacc atgaaagcac acctgtcaat agcttccctc
+     1681 cccccttcat tgagggcaac cactcctccc gctggctcta tgaagcgatg gccaaggctt
+     1741 gggagccctg gctgcctgcc gaagccctgc gcaccctcag gtacttatcg tccgtggaaa
+     1801 cccaggaagg gaaaagaaag gtgaatgaaa gtgaagggag aagggaacct ggggcattgt
+     1861 ctctgattgc tctagcatga gtccttagtg ctcttcattt ggctccccta atctgactcc
+     1921 tccttccctt tctactgttt tgccgcacca ggcttttttt tttttttttt tttagtttag
+     1981 tttttgtaga gacaagatct tgctatgttg cccaggctgg tctcaaacac ctaacctcaa
+     2041 gcaatcctcc cgcctcggcc tcccaaaatg ctgggaccac aggcatcagc tactgctcct
+     2101 ggccctccct tttttttttt tttttttttt ttgagatgga atcttgctct gttgcccagg
+     2161 ctggagtgca gtggcaccat ctcagctcac tacagcctcc acctcctggg ttcaagcaat
+     2221 tctgcctcag cctcccaagt acctgggact acaggtgcac gccaccacac ccagctaatt
+     2281 tttgtatttt tagtagagat ggggtttcac catgttggcc aagatggtct tgatctcctg
+     2341 acctcatgat ctgcccacct cggcctccca aagtgctggg attacaggca tgaaccactg
+     2401 cacccagctt tccagccctc cctttctact cttatctcca gccaccctcc ttcaaaggtc
+     2461 tggcagcata acctctctat gccccagctg tgtctttgct catattggcc ctctggaaat
+     2521 gatttccccc ttttttttaa gtgctccagt ttttcccacc ttatccatcc catgtcatct
+     2581 tccctctgtg tggtccttgc ttcccattct agctaactct tatccctccc ccatactcct
+     2641 ggagccctct gccctcagag tcttttgtgt cacacagacc caataattag aactgtttgg
+     2701 tctctggcta gactgtgagc tccttgcagg tggggaagat gtcatgtatg cttttaccct
+     2761 ccacccaaat gcccagcaca ggaggaccag gattggaaca agtgttgacc tctcatgttt
+     2821 actttgtttc agaattgggg ggttctatgc tctttcccca taccccggtc tccgcctcat
+     2881 ctctctcaat atgaattttt gttcccgtga gaacttctgg ctcttgatca actccacgga
+     2941 tcccgcagga cagctccagt ggctggtggg ggagcttcag gctgctgagg atcgaggaga
+     3001 caaagtgagg gccagtagtg ggaacacggt ggtgctgggg gacaagcagg ctcctgttga
+     3061 gctggagcac ctctgggcac agaagtttta ttttcctggc attcccaaca agtgttccct
+     3121 ggggattcag ctcatggtca ctgttgaaag ccttcattca gtcccccttt ctctagccag
+     3181 ggctgcctgg acccctggat gccctgatta ccatccttaa ttctccctac taggtgcata
+     3241 taattggcca cattccccca gggcactgtc tgaagagctg gagctggaat tattaccgaa
+     3301 ttgtagccag gtaggacgga gatgagggtg ggaataggga cagggtgagt gtctgaaggc
+     3361 tgaaaattcc cttgagcatc tcaccatccc tgttgtccca tggagtgggg aggctcctca
+     3421 ctagaacagg ttggagaaag agggcatcct atctccccag atgtcttcct acccctccct
+     3481 agaatcttct gaatgtagta ccttctggcc aggtatgaga acaccctggc tgctcagttc
+     3541 tttggccaca ctcatgtgga tgaatttgag gtcttctatg atgaagagac tctgagccgg
+     3601 ccgctggctg tagccttcct ggcacccagt gcaactacct acatcggcct taatcctggt
+     3661 gagtgaggca gaagggagcc tcccttatcc tggagttggt gggatagggg aaggaggttg
+     3721 gagccagagc ctgcaaagca tgggcaggat gtgtggcccc tccctggagt tacccttgct
+     3781 ccttgcccct ccagtcagcc ccacatcctt gcaggttacc gtgtgtacca aatagatgga
+     3841 aactactcca ggagctctca cgtggtcctg gaccatgaga cctacatcct gaatctgacc
+     3901 caggcaaaca taccgggagc cataccgcac tggcagcttc tctacagggc tcgagaaacc
+     3961 tatgggctgc ccaacacact gcctaccgcc tggcacaacc tggtatatcg catgcggggc
+     4021 gacatgcaac ttttccagac cttctggttt ctctaccata agggccaccc accctcggag
+     4081 ccctgtggca cgccctgccg tctggctact ctttgtgccc agctctctgc ccgtgctgac
+     4141 agccctgctc tgtgccgcca cctgatgcca gatgggagcc tcccagaggc ccagagcctg
+     4201 tggccaaggc cactgttttg ctagggcccc agggcccaca tttgggaaag ttcttgatgt
+     4261 aggaaagggt gaaaaagccc aaatgctgct gtggttcaac caggcaagat c
+//
+

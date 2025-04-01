@@ -1,0 +1,159 @@
+LOCUS       X04898                  3360 bp    DNA     linear   PRI 14-NOV-2006
+DEFINITION  Human gene for apolipoprotein AII.
+ACCESSION   X04898
+VERSION     X04898.1
+KEYWORDS    apolipoprotein; apolipoprotein A-II; signal peptide.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1
+  AUTHORS   Knott,T.J., Wallis,S.C., Robertson,M.E., Priestley,L.M., Urdea,M.,
+            Rall,L.B. and Scott,J.
+  TITLE     The human apolipoprotein AII gene: structural organization and
+            sites of expression
+  JOURNAL   Nucleic Acids Res. 13 (17), 6387-6398 (1985)
+   PUBMED   2995928
+REFERENCE   2  (bases 1 to 3360)
+  AUTHORS   Shelley,C.S., Sharpe,C.R., Baralle,F.E. and Shoulders,C.C.
+  TITLE     Comparison of the human apolipoprotein genes. Apo AII presents a
+            unique functional intron-exon junction
+  JOURNAL   J. Mol. Biol. 186 (1), 43-51 (1985)
+   PUBMED   3935800
+COMMENT     An Alu repetitive element is located around the polymorphic MspI
+            site at pos. 3033.
+FEATURES             Location/Qualifiers
+     source          1..3360
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+     misc_feature    complement(59..64)
+                     /note="seq. pot. involved in steroid hormone/receptor
+                     binding"
+     misc_feature    complement(632..637)
+                     /note="seq. pot. involved in steroid hormone/receptor
+                     binding"
+     regulatory      1100..1108
+                     /regulatory_class="CAAT_signal"
+     regulatory      1148..1153
+                     /regulatory_class="TATA_box"
+     gene            1174..2507
+                     /gene="apo AII"
+     mRNA            join(1174..1210,1380..1455,1749..1881,2277..2507)
+                     /gene="apo AII"
+     prim_transcript 1174..2507
+                     /gene="apo AII"
+     exon            1174..1210
+                     /gene="apo AII"
+                     /number=1
+     misc_feature    1182
+                     /gene="apo AII"
+                     /note="5' end of cDNA"
+     intron          1211..1379
+                     /gene="apo AII"
+                     /number=1
+     exon            1380..1455
+                     /gene="apo AII"
+                     /number=2
+     CDS             join(1404..1455,1749..1881,2277..2394)
+                     /gene="apo AII"
+                     /codon_start=1
+                     /product="apolipoprotein"
+                     /protein_id="CAA28583.1"
+                     /db_xref="GDB:119685"
+                     /db_xref="GOA:P02652"
+                     /db_xref="HGNC:HGNC:601"
+                     /db_xref="InterPro:IPR006801"
+                     /db_xref="PDB:1L6L"
+                     /db_xref="PDB:2OU1"
+                     /db_xref="UniProtKB/Swiss-Prot:P02652"
+                     /translation="MKLLAATVLLLTICSLEGALVRRQAKEPCVESLVSQYFQTVTDY
+                     GKDLMEKVKSPELQAEAKSYFEKSKEQLTPLIKKAGTELVNFLSYFVELGTHPATQ"
+     sig_peptide     1404..1455
+                     /gene="apo AII"
+     intron          1456..1748
+                     /gene="apo AII"
+                     /number=2
+     misc_feature    1711..1748
+                     /gene="apo AII"
+                     /note="functional acceptor site variant sequence"
+     repeat_region   1711..1742
+                     /gene="apo AII"
+                     /note="(GT) 16, pot. z-DNA sequence"
+     exon            1749..1881
+                     /gene="apo AII"
+                     /number=3
+     misc_feature    1749..1765
+                     /gene="apo AII"
+                     /note="pro-peptide"
+     intron          1882..2276
+                     /gene="apo AII"
+                     /number=3
+     exon            2277..2507
+                     /gene="apo AII"
+                     /number=4
+     regulatory      2487..2492
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="apo AII"
+     polyA_site      2507
+                     /gene="apo AII"
+ORIGIN      
+        1 cccgggaggt ggaggttgca gtgagccgag atcatgccat tacgctccag cctgagcaac
+       61 aagagcaaaa ctctgtctca ggaaaacaaa caaaaaaacc tgcacatata cttctgaatt
+      121 taaaacaaaa gttaaaaaac aaagatttct tggtctctgg tcactacctc cctcatcagc
+      181 tttgcgcctc cactgtcacc ctcaggaatg ttccacatac tcagcgagta tgcttggggg
+      241 gcaaaagggt gaaagataca aaagcttctg atatctattt aactgatttc acccaaatgc
+      301 tttgaacctg ggaatgtacc tctccccctc ccccaccccc aacaggagtg agacaagggc
+      361 cagggctatt gcccctgctg actcaatatt ggctaatcac tgcctagaac tgataaggtg
+      421 atcaaatgac caggtgcctt caacctttac cctggtagaa gcctcttatt cacctctttt
+      481 cctgccagag ccctccattg ggaggggacg ggcggaagct gttttctgaa tttgttttac
+      541 tgggggtagg gtatgttcag tgatcagcat ccaggtcatt ctgggctctc ctgttttctc
+      601 cccgtctcat tacacattaa ctcaaaaacg gacaagatca tttacacttg ccctcttacc
+      661 cgaccctcat tcccctaacc cccatagccc tcaaccctgt ccctgatttc aattcctttc
+      721 tcctttcttc tgctccccaa tatctctctg ccaagttgca gtaaagtggg ataaggttga
+      781 gagatgagat ctacccataa tggaataaag acaccatgag ctttccatgg tatgatgggt
+      841 tgatggtatt ccatgggttg atatgtcaga gctttccaga gaaataactt ggaatcctgc
+      901 ttcctgttgc attcaagtcc aaggacctca gatctcaaaa gaatgaacct caaatatacc
+      961 tgaagtgtac ccccttagcc tccactaaga gctgtacccc ctgcctctca ccccatcacc
+     1021 atgagtcttc catgtgcttg tcctctcctc ccccatttct ccaacttgtt tatcctcaca
+     1081 taatccctgc cccactgggc ccatccatag tccctgtcac ctgacagggg gtgggtaaac
+     1141 agacaggtat atagcccctt cctctccagc cagggcaggc acagacacca aggacagaga
+     1201 cgctggctag gtaagataag gaggcaagat gtgtgagcag catccaaaga ggcctgggct
+     1261 tcagttgtgg agagggagag agccaggttg gaatgggcag caggtaggga gatccctggg
+     1321 gaggagctga agcccatttg gcttcagtgt cccccaaacc cccaccaccc tcttcctagg
+     1381 ccgccctccc cactgttacc aacatgaagc tgctcgcagc aactgtgcta ctcctcacca
+     1441 tctgcagcct tgaaggtggg tgtgatatgg agagggggcc aaaagggaga atgtgctggt
+     1501 ggttatagct acctatctgc ctgtgctctt atatccaggt ctggcaacca aagggctcaa
+     1561 aaggaagatc attccctctc taaagcccag aaagcccatc caaagatctg gctggatacc
+     1621 tttttgggga gggggcagag agctggggtg ggtactggca gaggtatggc aggaggccag
+     1681 gattcactgc tgtggaccca gctgaaaaga gtgtgtgtgt gtgtgtgtgt gtgtgtgtgt
+     1741 gtgggcagga gctttggttc ggagacaggc aaaggagcca tgtgtggaga gcctggtttc
+     1801 tcagtacttc cagaccgtga ctgactatgg caaggacctg atggagaagg tcaagagccc
+     1861 agagcttcag gccgaggcca agtaagtctc agggcaaggg gttcaggggc tgtggaactg
+     1921 tggagagaaa gaagggaaga tgagaggtcc cacagaagtc tgaacccagg ggtggggatt
+     1981 agggcagatt aggcttaaat tgcagagaaa aagtatttca tcacccaaag atcccacacg
+     2041 tctcttagat agagaggaac agcaagaact gggccttgaa tttcagtctc tagagtctgt
+     2101 ccctctacct agcaaaggtc ttgactctat tcctacctag gggctttgcc atgcgatgga
+     2161 ccaggcacta gagtttgggg acctgagtca gtctgctctg acctcccacc accaccaagg
+     2221 cccctgccag tgcctagggt ccctcagatt aaactctaat cccctcacct atccaggtct
+     2281 tactttgaaa agtcaaagga gcagctgaca cccctgatca agaaggctgg aacggaactg
+     2341 gttaacttct tgagctattt cgtggaactt ggaacacacc ctgccaccca gtgaagtgtc
+     2401 cagaccattg tcttccaacc ccagctggcc tctagaacac ccactggcca gtcctagagc
+     2461 tcctgtccct acccactctt tgctacaata aatgctgaat gaatccagct ctgagcctgg
+     2521 tatgtttggg ggactgggaa aagtagggga gtaagggagg agaagaggaa ggaaaaggaa
+     2581 aaatctgctt ctagaaggag agaggtttga gtgtggaggg gtgaagaaag gattgaagac
+     2641 acaactgatg aaaatgacag gatgagggtg ccatgattct ccaaacccag agtctcctac
+     2701 agcctgggca cgactctgca ggtgaacact aaagaggctt tgcattgcac aaggaactag
+     2761 gagaggaagg aaggattcac aaactgaatc cctcgatttc tggaggtcat agaaaatgag
+     2821 ggtaccctgg tggggtgcag tggctcacac ctgtaatccc tgcactttgg gaggccaagg
+     2881 taggtggatc acttgagatc aggagttcca gaccagccta gccaacatgg taaaaccccg
+     2941 tctctactaa aaatacaaaa attagccagg tgttgtggca cgtgcctgta atcccagcta
+     3001 ctcgggagac tgaggcatga gaatcttttg aaccggggag gcggaggttg cagtgagctg
+     3061 acatcgtgcc actgcactcc agcctaggtg acagagcaag actccgtctc aaaaaaaaaa
+     3121 aaaaaaaaaa aaaaaagaaa gtaaagaaaa aaagaaaatg agggtacccc tcataatttc
+     3181 ctgttagtca ttctatgaag aaaagaaagc ttcccaaggt gtcacccgtg gccctccttt
+     3241 cccttctgag ccaggggaac actgtgtttc cccctttccc acaataaaag acttgagttt
+     3301 gctcctctcc ctagaagtgc tctaatttct ccatttaaaa cctcttatct agaccaggca
+//
+

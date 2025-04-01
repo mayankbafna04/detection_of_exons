@@ -1,0 +1,98 @@
+LOCUS       X60481                   672 bp    DNA     linear   PRI 18-APR-2005
+DEFINITION  H.sapiens H4/a gene for H4 histone.
+ACCESSION   X60481
+VERSION     X60481.1
+KEYWORDS    H4/a gene; histone H4.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1
+  AUTHORS   Doenecke,D. and Kardalinou,E.
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 672)
+  AUTHORS   Doenecke,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-JUL-1991) D. Doenecke, Georg-August Univer, Inst fuer
+            Biochemie, Zentrum 3 des Fachbereichs Medizin Bioce, Humboldtallee
+            23, 3400 Goettingen, FRG
+FEATURES             Location/Qualifiers
+     source          1..672
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /clone="101"
+                     /tissue_type="Placenta"
+     regulatory      123..130
+                     /regulatory_class="TATA_box"
+     gene            181..492
+                     /gene="H4/a"
+     CDS             181..492
+                     /gene="H4/a"
+                     /codon_start=1
+                     /product="H4 histone"
+                     /protein_id="CAA43011.1"
+                     /db_xref="GDB:120032"
+                     /db_xref="GDB:9864898"
+                     /db_xref="GDB:9864900"
+                     /db_xref="GDB:9864902"
+                     /db_xref="GDB:9864904"
+                     /db_xref="GDB:9864906"
+                     /db_xref="GDB:9864910"
+                     /db_xref="GDB:9864912"
+                     /db_xref="GDB:9864924"
+                     /db_xref="GOA:P62805"
+                     /db_xref="HGNC:HGNC:20510"
+                     /db_xref="HGNC:HGNC:29607"
+                     /db_xref="HGNC:HGNC:4781"
+                     /db_xref="HGNC:HGNC:4782"
+                     /db_xref="HGNC:HGNC:4783"
+                     /db_xref="HGNC:HGNC:4784"
+                     /db_xref="HGNC:HGNC:4785"
+                     /db_xref="HGNC:HGNC:4787"
+                     /db_xref="HGNC:HGNC:4788"
+                     /db_xref="HGNC:HGNC:4789"
+                     /db_xref="HGNC:HGNC:4790"
+                     /db_xref="HGNC:HGNC:4791"
+                     /db_xref="HGNC:HGNC:4793"
+                     /db_xref="HGNC:HGNC:4794"
+                     /db_xref="InterPro:IPR001951"
+                     /db_xref="InterPro:IPR007125"
+                     /db_xref="InterPro:IPR009072"
+                     /db_xref="InterPro:IPR019809"
+                     /db_xref="PDB:2BQZ"
+                     /db_xref="PDB:2CV5"
+                     /db_xref="PDB:2RNY"
+                     /db_xref="PDB:3A6N"
+                     /db_xref="PDB:3AFA"
+                     /db_xref="PDB:3CFS"
+                     /db_xref="PDB:3CFV"
+                     /db_xref="PDB:3F9W"
+                     /db_xref="PDB:3F9X"
+                     /db_xref="PDB:3F9Y"
+                     /db_xref="PDB:3F9Z"
+                     /db_xref="PDB:3NQJ"
+                     /db_xref="PDB:3NQU"
+                     /db_xref="UniProtKB/Swiss-Prot:P62805"
+                     /translation="MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGV
+                     KRISGLIYEETRGVLKVFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFG
+                     G"
+     regulatory      533..548
+                     /regulatory_class="terminator"
+                     /note="Histone mRNA"
+ORIGIN      
+        1 gctcgtcccg ccatttcctg gggcttggag gaggggttaa aggagcggac tgtaggcgtc
+       61 acatttcctg cgcgcttttc agtctctgtg tccgctggag gtgggggcag gggtaacgta
+      121 gatatataaa gatcggtttc ctattctctc acttgctctt ggttcacttc ttgggaagtc
+      181 atgtctggac gtggtaaggg cgggaagggt ttgggtaagg ggggtgccaa gcgccaccgc
+      241 aaggtgttgc gtgacaacat ccagggcatc accaagccag ccatccggcg tctggcccgg
+      301 cgtggcggtg tgaagcggat ctctggtctg atctacgagg agactcgcgg ggtgctcaag
+      361 gtgtttttgg agaacgtgat ccgtgacgct gtcacctata cggagcacgc caagcgcaag
+      421 acagtcactg ccatggacgt ggtctacgcg cttaagcgcc agggacgcac cctttatggc
+      481 tttggcggtt aaggttgctg atttctccac agcttgcatt tctgaaccaa aggccctttt
+      541 cagggccgcc ctaactaaac aaaagaagag cttgtatcca ttaagtcaag aagctcaatg
+      601 tgtaattaag atgaatgata ctgagctgac atcctaaaaa ggaaaattag gggaactcca
+      661 agtttgtcct cc
+//
+

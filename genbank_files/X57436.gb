@@ -1,0 +1,110 @@
+LOCUS       X57436                  3686 bp    DNA     linear   PRI 18-APR-2005
+DEFINITION  H.sapiens gene for oligodendrocyte-myelin glycoprotein.
+ACCESSION   X57436
+VERSION     X57436.1
+KEYWORDS    glycoprotein.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 3686)
+  AUTHORS   Mikol,D.D., Alexakos,M.J., Bayley,C.A., Lemons,R.S., Le Beau,M.M.
+            and Stefansson,K.
+  TITLE     Structure and chromosomal localization of the gene for the
+            oligodendrocyte-myelin glycoprotein
+  JOURNAL   J. Cell Biol. 111 (6 PT 1), 2673-2679 (1990)
+   PUBMED   2277079
+FEATURES             Location/Qualifiers
+     source          1..3686
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+     CDS             1545..2867
+                     /codon_start=1
+                     /product="oligodentrocyte-myelin glycoprotein"
+                     /protein_id="CAA40684.1"
+                     /db_xref="GDB:127563"
+                     /db_xref="GOA:P23515"
+                     /db_xref="HGNC:HGNC:8135"
+                     /db_xref="InterPro:IPR000372"
+                     /db_xref="InterPro:IPR001611"
+                     /db_xref="InterPro:IPR003591"
+                     /db_xref="UniProtKB/Swiss-Prot:P23515"
+                     /translation="MEYQILKMSLCLFILLFLTPGILCICPLQCICTERHRHVDCSGR
+                     NLSTLPSGLQENIIHLNLSYNHFTDLHNQLTQYTNLRTLDISNNRLESLPAHLPRSLW
+                     NMSAANNNIKLLDKSDTAYQWNLKYLDVSKNMLEKVVLIKNTLRSLEVLNLSSNKLWT
+                     VPTNMPSKLHIVDLSNNSLTQILPGTLINLTNLTHLYLHNNKFTFIPDQSFDQLFQLQ
+                     EITLYNNRWSCDHKQNITYLLKWMMETKAHVIGTPCSTQISSLKEHNMYPTPSGFTSS
+                     LFTVSGMQTVDTINSLSVVTQPKVTKIPKQYRTKETTFGATLSKDTTFTSTDKAFVPY
+                     PEDTSTETINSHEAAAATLTIHLQDGMVTNTSLTSSTKSSPTPMTLSITSGMPNNFSE
+                     MPQQSTTLNLWREETTTNVKTPLPSVANAWKVNASFLLLLNVVVMLAV"
+     sig_peptide     1545..1616
+                     /note="oligodentrocyte-myelin glycoprotein"
+     mat_peptide     1617..2864
+                     /product="oligodentrocyte-myelin glycoprotein"
+ORIGIN      
+        1 tcattgtatc agaaagataa agaaaaaata atcgtatttc agtacttcta tacatcctaa
+       61 aagggaagac ggaacactta agtggttgat aaatttgaaa agctgattaa acataataat
+      121 caccatgttg ggggaagaca taaaagtcat aaaacagatt ttttataata ttaaaaaagt
+      181 gacatgaaaa ttatacaatt ttagaaagga atataaaaag gcaggagtta aaaaatagtg
+      241 ggactaatat catagaaaac tatccatgag gaaggtcaaa tttattttca acatgtaaaa
+      301 aggataaaga gtagaggtat tttaaaaatt cacagattct taatgaggca aatgttaaaa
+      361 tatggaaccc aatctcagac aaatacatag aaaggagtaa gggccaactc tcatgcataa
+      421 ggtatcccat cctatagcaa atcagatata taggtacgct tgatgccaca aattttttaa
+      481 aaaattgtcc attttgttgc gtgtgcacct cttgccataa atttgagtca gcaccagcga
+      541 cagctctgca gtcctcctat gtggtactga tcaggtggtt gcagagcttc agctcacagc
+      601 aacacaatgc agctgagcag gcaagcacag cccacagcca gaaacagttc cgactctaca
+      661 gaacaagacg acctttaagt ttcccagaga aaatgagatg ctgatgttga agacgacacc
+      721 acggtaagat gttatttaaa tcagtaaaag gctgactttg gaatcttttt cctttttctt
+      781 ttaagaaaaa gtcaacgtta ggattaaata tatattcaat agcaagtgca tgcaccagaa
+      841 atttgctgca gtgtcagttg agggatattt tttatacatt cagtcactct gtaaatatac
+      901 atattgtttt cctttaaaat gggcactgaa atatacagaa aaaaatcact ttataaaatg
+      961 tgaggtttat aggtactgtg ttggtctgga tttttcaagt gctttttaca aagatatatt
+     1021 tatctaaaaa catacagata aaaatttcga agactgcttt aatatctaaa taaaatctcc
+     1081 ctatatacac acattgaatt acattactgc agagattaaa aaaaaaagac acgacagcca
+     1141 ttttttctca tctgagtaag aaagcatatc atcaaaaata gtaatagcct acaactgcaa
+     1201 ctatttattt gcaaagaatg ctattttatc atattaaggc tctagaaaga taaataagaa
+     1261 agatatggtt agaaaagggg ggagggagag agaaaataaa ggagaaaatg caggagagag
+     1321 tagggagaga gtctctctct accacatagc ccaattgaag gattaagcat ttggactata
+     1381 aatgaagggg agctttgtta gtttaatcac tggaacaatt ataaaaggac tcgacaacaa
+     1441 cgaggtttat tgaaaatttt gcctaatgct aactgaccca tgcagatgcc taaactgtat
+     1501 ttgcatatta aaagaagggt gtatctgttt gtttctaggc tttgatggaa tatcagatat
+     1561 tgaaaatgtc tctctgcctg ttcatccttc tgtttctcac acctggtatt ttatgcattt
+     1621 gtcctctcca atgtatatgc acagagaggc acaggcatgt ggactgttca ggcagaaact
+     1681 tgtctacatt accatctgga ctgcaagaga atattataca tttaaacctg tcttataacc
+     1741 actttactga tctgcataac cagttaaccc aatataccaa tctgaggacc ctggacattt
+     1801 caaacaacag gcttgaaagc ctgcctgctc acttacctcg gtctctgtgg aacatgtctg
+     1861 ctgctaacaa caacattaaa cttcttgaca aatctgatac tgcttatcag tggaatctta
+     1921 aatatctgga tgtttctaag aacatgctgg aaaaggttgt cctcattaaa aatacactaa
+     1981 gaagtctcga ggttctcaac ctcagtagta acaaactttg gacagttcca accaacatgc
+     2041 cctccaaact acatatcgtg gacctgtcta ataattcttt gacacaaatt cttccaggta
+     2101 cattaataaa cctgacaaat ctcacacatc tttacctgca caacaataag ttcacattca
+     2161 ttccagacca atcttttgac caactctttc agttgcaaga gataaccctt tacaataaca
+     2221 ggtggtcatg tgaccacaaa caaaacatta cttacttact gaagtggatg atggaaacaa
+     2281 aagcccatgt gatagggact ccatgttcta cccaaatatc atctttaaag gaacataaca
+     2341 tgtatcccac accttctgga tttacctcaa gcttattcac tgtaagtggg atgcagacag
+     2401 tggacaccat taactctctg agtgtggtaa ctcaacccaa agtgaccaaa atacccaaac
+     2461 aatatcgaac aaaggaaaca acgtttggtg ccactctaag caaagacacc acctttacta
+     2521 gcactgataa ggcttttgtg ccctatccag aagatacatc cacagagact atcaattcac
+     2581 atgaagcagc agctgcaact ctaactattc atctccaaga tggaatggtc acaaacacaa
+     2641 gcctcactag ctcaacaaaa tcatccccaa cacccatgac cctaagtatc actagtggca
+     2701 tgccaaataa tttctctgaa atgcctcaac aaagcacaac ccttaactta tggagggaag
+     2761 agacaaccac aaatgtaaag actccattac cttctgtggc aaatgcttgg aaagtaaatg
+     2821 cttcatttct cttattgctc aatgttgtgg tcatgctggc tgtctgaggg tctgcatttt
+     2881 ctgaaactaa tgaaagcact cctccctgat gtacagttgg gaaaatatgt ccatatctaa
+     2941 ccagtgattc gagctatatt taagtattca agaaagccag tcttaacatt tctaactctg
+     3001 atgtaaatga agtaacttgt cttaaataaa agaaatgcac aatgtcttgg tacttgctgc
+     3061 tattttactg tcttaattaa gtaaactaat gagtttcttt tataaaaaaa atgaaatgtt
+     3121 ttaaggcttc aatttattgc acaaaatata aagcatctaa actttaatat gtattttatg
+     3181 tatgtttaca ctgtcaaaca tctggaaaat aaaaggtcta tgctcataac tgtgtcattt
+     3241 ggctttccag tcataccaac tttagcagaa tcaaaatgac ctcaccattt ttgttctagg
+     3301 gtaccttggt aaaatcttta aggtaaataa aatggcggta gtatccaagg atattttact
+     3361 gaagtaaaat cgtagctgcc atcccatgaa tggttatgct acaacattat tttacagaca
+     3421 agccataatt gttttaaatc taaatgatgt cctgcttctg aggaactctt ggctacttga
+     3481 cagattatat aatggacaaa agctcttcaa aaagctagaa gacactaggc tttgcatttt
+     3541 aataagaaaa gtttaacggt tgtgtttttt agcatgtaag aaaagtgtta aaaacataat
+     3601 gaaaaaattt aaaaacatgt aaagaagcag ttttagtgac agatttaaca caccattaat
+     3661 ggagaattta aatattacaa attaaa
+//
+

@@ -1,0 +1,86 @@
+LOCUS       X06180                  1656 bp    mRNA    linear   PRI 18-APR-2005
+DEFINITION  Human mRNA for CD7 antigen (gp40).
+ACCESSION   X06180
+VERSION     X06180.1
+KEYWORDS    CD7 antigen; cell surface glycoprotein; signal peptide; T-cell
+            leukemia antigen.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1656)
+  AUTHORS   Aruffo,A. and Seed,B.
+  TITLE     Molecular cloning of two CD7 (T-cell leukemia antigen) cDNAs by a
+            COS cell expression system
+  JOURNAL   EMBO J. 6 (11), 3313-3316 (1987)
+   PUBMED   3501369
+FEATURES             Location/Qualifiers
+     source          1..1656
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+     CDS             join(58..139,570..1210)
+                     /note="unnamed protein product; CD7 antigen"
+                     /codon_start=1
+                     /protein_id="CAA29546.1"
+                     /db_xref="GDB:119770"
+                     /db_xref="GOA:P09564"
+                     /db_xref="HGNC:HGNC:1695"
+                     /db_xref="InterPro:IPR003599"
+                     /db_xref="InterPro:IPR007110"
+                     /db_xref="InterPro:IPR013106"
+                     /db_xref="InterPro:IPR013783"
+                     /db_xref="UniProtKB/Swiss-Prot:P09564"
+                     /translation="MAGPPRLLLLPLLLALARGLPGALAAQEVQQSPHCTTVPVGASV
+                     NITCSTSGGLRGIYLRQLGPQPQDIIYYEDGVVPTTDRRFRGRIDFSGSQDNLTITMH
+                     RLQLSDTGTYTCQAITEVNVYGSGTLVLVTEEQSQGWHRCSDAPPRASALPAPPTGSA
+                     LPDPQTASALPDPPAASALPAALAVISFLLGLGLGVACVLARTQIKKLCSWRDKNSAA
+                     CVVYEDMSHSRCNTLSSPNQYQ"
+     sig_peptide     58..132
+                     /note="put.signal peptide (AA -25 to -1)"
+     mat_peptide     join(133..139,570..1207)
+                     /product="mature CD7 antigen"
+     intron          140..569
+                     /note="intron I"
+     misc_feature    620..628
+                     /note="pot.N-linked glycosylation site"
+     misc_feature    773..781
+                     /note="pot.N-linked glycostylation site"
+     misc_feature    1029..1090
+                     /note="put.transmembrane domain"
+     misc_feature    1637..1642
+                     /note="polyA signal"
+     polyA_site      1656
+                     /note="polyA site"
+ORIGIN      
+        1 tagacccaga gaggctcagc tgcactcgcc cggctgggag agctgggtgt ggggaacatg
+       61 gccgggcctc cgaggctcct gctgctgccc ctgcttctgg cgctggctcg cggcctgcct
+      121 ggggccctgg ctgcccaagg taagagcttc ccaggctctc catggccaca gctccggagc
+      181 tctccctgcc ccatgagctc agagccccca gtctgagcca cagcacagcc cccaggaagc
+      241 gggtggggtg ctgagcggcc tccagtgtct gaggactcat ttaagagaag gaaaaagggt
+      301 ggacccggtg gggagtggcc ggggctgtcc aggcagggcc gctgctttgg gaggaagaag
+      361 cccacagtct cggaacacga ggacagcacc tcccccaaca ccacagccgg tgcccagatc
+      421 tgctccatgc cccgtaaggc accgtgtctt tggcgacatg tcagccctgg gctgtctcag
+      481 ggccccacca tccccaccac tgtcccctgc agggaggaca ttctctgtcc ttctggccag
+      541 actgatggtg acagcccagg tcctcccaga ggtgcagcag tctccccact gcacgactgt
+      601 ccccgtggga gcctccgtca acatcacctg ctccaccagc gggggcctgc gtgggatcta
+      661 cctgaggcag ctcgggccac agccccaaga catcatttac tacgaggacg gggtggtgcc
+      721 cactacggac agacggttcc ggggccgcat cgacttctca gggtcccagg acaacctgac
+      781 tatcaccatg caccgcctgc agctgtcgga cactggcacc tacacctgcc aggccatcac
+      841 ggaggtcaat gtctacggct ccggcaccct ggtcctggtg acagaggaac agtcccaagg
+      901 atggcacaga tgctcggacg ccccaccaag ggcctctgcc ctccctgccc caccgacagg
+      961 ctccgccctc cctgacccgc agacagcctc tgccctccct gacccgccag cagcctctgc
+     1021 cctccctgcg gccctggcgg tgatctcctt cctcctcggg ctgggcctgg gggtggcgtg
+     1081 tgtgctggcg aggacacaga taaagaaact gtgctcgtgg cgggataaga attcggcggc
+     1141 atgtgtggtg tacgaggaca tgtcgcacag ccgctgcaac acgctgtcct cccccaacca
+     1201 gtaccagtga cccagtgggc ccctgcacgt cccgcctgtg gtccccccag caccttccct
+     1261 gccccaccat gccccccacc ctgccacacc cctcaccctg ctgtcctccc acggctgcag
+     1321 cagagtttga agggcccagc cgtgcccagc tccaagcaga cacacaggca gtggccaggc
+     1381 cccacggtgc ttctcagtgg acaatgatgc ctcctccggg aagccttccc tgcccagccc
+     1441 acgccgccac cgggaggaag cctgactgtc ctttggctgc atctcccgac catggccaag
+     1501 gagggctttt ctgtgggatg ggcctggcac gcggccctct cctgtcagtg ccggcccacc
+     1561 caccagcagg cccccaaccc ccaggcagcc cggcagagga cgggaggaga ccagtccccc
+     1621 acccagccgt accagaaata aaggcttctg tgcttc
+//
+

@@ -1,0 +1,301 @@
+LOCUS       X69907                  9457 bp    DNA     linear   PRI 23-OCT-2008
+DEFINITION  H.sapiens gene for mitochondrial ATP synthase c subunit (P1 form).
+ACCESSION   X69907
+VERSION     X69907.1
+KEYWORDS    ATP synthase; ATP synthase c subunit.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 9457)
+  AUTHORS   Dyer,M.R. and Walker,J.E.
+  TITLE     Sequences of members of the human gene family for the c subunit of
+            mitochondrial ATP synthase
+  JOURNAL   Biochem. J. 293 (PT 1), 51-64 (1993)
+   PUBMED   8328972
+REFERENCE   2  (bases 1 to 9457)
+  AUTHORS   Walker,J.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-DEC-1992) J.E. Walker, M.R.C. Lab. of Molecular
+            Biology, Hills Road, Cambridge CB2 2QH., UK
+FEATURES             Location/Qualifiers
+     source          1..9457
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /cell_line="AT5B1"
+                     /cell_type="T-cell"
+                     /clone_lib="lambda 2001"
+     repeat_region   1..224
+                     /rpt_family="Alu"
+     repeat_region   273..442
+                     /rpt_family="Alu"
+     repeat_region   606..904
+                     /rpt_family="Alu"
+     repeat_region   1449..1768
+                     /rpt_family="Alu"
+     repeat_region   1769..2111
+                     /rpt_family="Alu"
+     repeat_region   2627..2945
+                     /rpt_family="Alu"
+     repeat_region   2646..3233
+                     /rpt_family="Alu"
+     regulatory      4041..4046
+                     /regulatory_class="GC_signal"
+     repeat_region   4100..4792
+                     /rpt_family="Alu"
+     regulatory      4538..4542
+                     /regulatory_class="CAAT_signal"
+     regulatory      4641..4645
+                     /regulatory_class="CAAT_signal"
+     regulatory      4671..4675
+                     /regulatory_class="CAAT_signal"
+     regulatory      4697..4701
+                     /regulatory_class="CAAT_signal"
+     regulatory      4708..4713
+                     /regulatory_class="TATA_box"
+     gene            4733..7802
+                     /gene="P1 gene for c subunit of human mitochondrial ATP
+                     synthase"
+     mRNA            join(4733..4842,5341..5388,6304..6381,7088..7266,
+                     7587..7802)
+                     /gene="P1 gene for c subunit of human mitochondrial ATP
+                     synthase"
+     prim_transcript 4733..7802
+                     /gene="P1 gene for c subunit of human mitochondrial ATP
+                     synthase"
+     exon            4733..4842
+                     /gene="P1 gene for c subunit of human mitochondrial ATP
+                     synthase"
+                     /number=1
+     intron          4843..5340
+                     /gene="P1 gene for c subunit of human mitochondrial ATP
+                     synthase"
+                     /number=1
+     regulatory      5002..5007
+                     /regulatory_class="GC_signal"
+                     /gene="P1 gene for c subunit of human mitochondrial ATP
+                     synthase"
+     regulatory      5279..5280
+                     /regulatory_class="TATA_box"
+                     /gene="P1 gene for c subunit of human mitochondrial ATP
+                     synthase"
+     exon            5341..5388
+                     /gene="P1 gene for c subunit of human mitochondrial ATP
+                     synthase"
+                     /number=2
+     CDS             join(5350..5388,6304..6381,7088..7266,7587..7701)
+                     /gene="P1 gene for c subunit of human mitochondrial ATP
+                     synthase"
+                     /codon_start=1
+                     /protein_id="CAA49532.1"
+                     /db_xref="GDB:137190"
+                     /db_xref="GOA:P05496"
+                     /db_xref="HGNC:HGNC:841"
+                     /db_xref="InterPro:IPR000454"
+                     /db_xref="InterPro:IPR002379"
+                     /db_xref="InterPro:IPR020537"
+                     /db_xref="UniProtKB/Swiss-Prot:P05496"
+                     /translation="MQTAGALFISPALIRCCTRGLIRPVSASFLNSPVNSSKQPSYSN
+                     FPLQVARREFQTSVVSRDIDTAAKFIGAGAATVGVAGSGAGIGTVFGSLIIGYARNPS
+                     LKQQLFSYAILGFALSEAMGLFCLMVAFLILFAM"
+     mat_peptide     join(7154..7266,7587..7698)
+                     /gene="P1 gene for c subunit of human mitochondrial ATP
+                     synthase"
+                     /product="unnamed"
+     intron          5389..6303
+                     /gene="P1 gene for c subunit of human mitochondrial ATP
+                     synthase"
+                     /number=2
+     exon            6304..6381
+                     /gene="P1 gene for c subunit of human mitochondrial ATP
+                     synthase"
+                     /number=3
+     intron          6382..7087
+                     /gene="P1 gene for c subunit of human mitochondrial ATP
+                     synthase"
+                     /number=3
+     repeat_region   6418..6699
+                     /gene="P1 gene for c subunit of human mitochondrial ATP
+                     synthase"
+                     /rpt_family="Alu"
+     exon            7088..7266
+                     /gene="P1 gene for c subunit of human mitochondrial ATP
+                     synthase"
+                     /number=4
+     intron          7267..7586
+                     /gene="P1 gene for c subunit of human mitochondrial ATP
+                     synthase"
+                     /number=4
+     exon            7587..7802
+                     /gene="P1 gene for c subunit of human mitochondrial ATP
+                     synthase"
+                     /number=5
+     regulatory      7780..7785
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="P1 gene for c subunit of human mitochondrial ATP
+                     synthase"
+     repeat_region   8879..9176
+                     /rpt_family="Alu"
+ORIGIN      
+        1 gatcaagacc atcctggcca acacggtgaa acccatctct actaaaaata caaaaaaaaa
+       61 aaaaaattag ctggacatgg tggcaggcgc ctgtagtccc agctactcgg gaggctgagg
+      121 caggagaatg gcgtgaaccc aggaggtgga gcttgcagtg agccgagatc gcgccactgc
+      181 actctagcct gggcaacaga gcaagactcc gtctcaaaaa aaaattattt atctatctac
+      241 ctatctatct atctatctat ctatctatct ataaattagc tgggcgtggt agtgggtgcc
+      301 tgtaatccca gctactgggg aagctgaggc aggagaatcg cttgaaccca ggaggtggag
+      361 gttgcaggga actgagactg cgccactgca ctccagccta gtgacagagc aagactctgt
+      421 ctcaaaaaaa aaaaaaaaaa aattaggcag gcgtggtggc aggcacctgt aataccagct
+      481 acttgggagg ctgaggtagg cgaactgctt gaacccagga ggcggaggtt gcagtgagcc
+      541 gagattgcgc cattgcactc cagcctggca acaagagcaa aactccatct caaacaaaaa
+      601 agagaggccg ggtgcagtgg ctcaagcctg taacaccagc tctttgggag gccgaggcgg
+      661 gcagatcacg aggtcaggag atcaagacca tcctggctaa cacggtgaaa ccccgtctct
+      721 actaaaaata caaaaaaaat tagccgggcg tggtggcggg cgcctgtggt cccagctact
+      781 cgggaggctg aggcaggaga atggcgtgaa cccgggaggc ggagcttgcg gtgagccgag
+      841 attgcgccac tgcactccag cctgggcgac agagcgagac tccgtctcaa aaaaaaaaaa
+      901 aaaagaaaga aaaaaaaaag aacttttgct ttggacccag acagacctgg gttcaaagca
+      961 cctagcacag tatttgtcat ataatgaggt atcgataaat gatagcttat aacactaaca
+     1021 caaagaaaga ctggataatc tgctcagaag ataccagtta tgtgttgtag ccatggtagt
+     1081 gagctcaaaa ctccactctc ctttttgttg ttgttgttgt cgttgttgtt tttgagatac
+     1141 ggtctcgctt tgttgcccag gccagtgcag tggtgcaatc agagttcact gaagccttga
+     1201 cctcctgagc tcaagtgatc ctcccacttc agccccctga gtagctggga ctacaggtac
+     1261 ctgccatcac accgagctaa tttttttttt tttttttttt ttttgtagag atgaggtttc
+     1321 gctatgttgc ccaggctggt ctccaattcc tgggctcaaa tgatctgccc accttggcct
+     1381 cccacacact ttcaattata ccatgctagc aggatatttt aaatctccac atgatatgaa
+     1441 aatgtgctgg cccagcacag tggctcacgc ctgtaatccc agcactttgg gaggctgagg
+     1501 caggtggatc acctgaggtc aggagttcga gaccagcctg gccaacatgg tgaaaccttg
+     1561 tctctactaa aaaaaaaaat ttttaaatta gctgggcgtg gtggcccgca cgctgcggtc
+     1621 tcagctactc gggaagctga ggcaggagaa tggcttgaac ccaggaggcg gaggttgcag
+     1681 tgagccgaga tctcgccact gcactccagt ctgggcgaaa gagtgacact cagtctcaca
+     1741 aaaaaagaaa aaagaaaaaa aaagaaaatg tgctgggcac ggtggttcat gcctgtaatc
+     1801 ccagcacttt gggaggccaa ggcgggcaga tcacgaggtc aggagttcaa gaccagcctg
+     1861 gccaacagag tgaaacccca tctctactaa agatacaaaa aaattagcca ggcatagtgg
+     1921 tgcgcacctg taatcccagc tactcaggag gctgaggcag agaattgctt gaacccggga
+     1981 ggcagaggtt gcagtaagcc gaaatcacgt cattgcactc cagcctgggt gacagagcaa
+     2041 gactctatct caaaaagaaa agaaaagaaa agaaaagaaa agaaaagaaa agaaaagaaa
+     2101 agaaaagaaa atgtttttct ggccaggtgc aggtagctca catctgtaat cccaacactt
+     2161 ccagaggctg aagtgggagg atccttgagg ccaggagttt gagaccagcc tggacaacat
+     2221 agcaagatcc cacctgtagt cctagatact tgggagagtg aggagggagg gttacttgag
+     2281 cccaggagat taaggctata atagtgaggg atgattgcac cactgcactc cagcctgggc
+     2341 aacagagtga gaccctgttt ctaaaaacaa aaaaattatt aaaaaaaaaa aagttttctt
+     2401 aagagtccag acttgtgaat tgccagatta gtgtaatttt taaaatatgt ttctattata
+     2461 aagtacccat actcataaaa atataaatca atttattaca ccctctagaa ttcactatta
+     2521 attttcaaca tttttttcat tctttttcca tgcatatttt ttcacaattc tatgcatagt
+     2581 tttgcattat aaaatatttc tcaatataaa atcttcttca aggccaggcg cagtggctca
+     2641 tgcctgcaat cccagcactt tagaaggcca aggcgagcag atcacttgag gtcaggaatt
+     2701 caagaccagc ctgaccaaca tggtgaaacc ccttctctac taaaaataca aaaattagcc
+     2761 gggcatggtg gtgcgcgcct gtaatcccag ctacttggga ggctgaggca ggagaattgc
+     2821 ttgaaccggg gaggcaaagg ttgcagtgag cagagaccgc accaccgcac tacagtgtgt
+     2881 gaaacagagt gagactccgt ctcaaaaaat aataataata aaaataaaat attcttcaaa
+     2941 aacatggccg ggcgcgctgg ctcacgcctg taatcccaac actttgggag gctgaggcgg
+     3001 gcggatcacg aggtcaggag atcgagacca tcccggctaa cacggtgaaa ccccgtctct
+     3061 actaaaaata caaaaaatta gccgggcgtg gtggcgggcg cctatagtcc cagctactcg
+     3121 ggaggctgag gcaggagaat ggcgtgaacc cgggaggcgg agcttgcagt gagccgagat
+     3181 agcgccgctg cactccagct tggcaacaga gcgagactcc gtctcaaaaa aaacacatga
+     3241 ttttatttcc tgttttattt ctgcttattt catcaagtga aaatatcata acttatttca
+     3301 ccttttactg tcagtggaac atttacttgt ttccaatttc gacaaactct gcaaatgcac
+     3361 atctttttaa aagaatctgc atttctgatt cttcaaaata aattcctaga agtgatatta
+     3421 ctggatgaaa agtggatgga gagcttaaag gctcttagtt actcaagaat tactgggtca
+     3481 aagaggatgg cccattcaca gcctttgaat aaaaataaat attgccaaac tgctttcaag
+     3541 gaaggttttc taattcatcc tctcaccagc aatataggag agcgtgtggc tcacattaat
+     3601 aaaaagaact ctgctgtttt gagcagtact aagcggagcg tttaaactta tatttctttg
+     3661 attaggaagg ctgacattcg ttcctgcaat tcatatttct tccttactga attgcctgtt
+     3721 cctatccttt gctcgttttt ctatagggat attatttcat tctttcagtg ttgtttttac
+     3781 aaaataaaca atttttttgt ttgttttttc ccccgagacg gaatcctgct cagttgccca
+     3841 ggctggagtg cagtggcgcg atctcggctc cctgcaacct cggcctcccg ggttcaagcg
+     3901 attctcctgc ctcagcctcc caagtagctg ggattacagg cacgcgccac caccatgccc
+     3961 ggctaatttt tgtattctta gtagagacgg ggtttcacca tgctggtcag gctgatctcg
+     4021 aactcctgac ctcaggtgat ccgcccgcct cggcctccca aagtgctggg attacaggcg
+     4081 tgagccactg cacccggccc aacaaatgtt ttagaaagcc atctggatga tagtccatga
+     4141 ctgctgaaca ccggctgagg tccacaaaac tgcgctcacc gcttggggac tttccagccg
+     4201 gcctttactc tccatggaaa gcggtctttc cacaaacctc cacggtggga attactgcaa
+     4261 aggcatcggc tctcccggcc tcgaatatct cgcgggatct cagctgtcct tgggcacccc
+     4321 cctcagcgca actaccaatc ccaacatgca acgcgccccg tggcccaagc acccgaatga
+     4381 aggctcgggg ccaaagtcat gtgtctgact gcgtcacacg tcccgtcatc tctcccacgc
+     4441 ctttttcttc agcgtacacc ttggtcgcca tcttgtgcgc gaggttatgg aacctctgag
+     4501 tcccgccaac tctatggtcg agcgtttcag ggatcggcca atcgtaatcc agatctcgta
+     4561 ggaaagcccc gcctctatcc gcatggaggc gggaattgcc acgaagctcc tgtggaggga
+     4621 gaggaagcag ctgcggaaag ccaataagag tggggaatcg atgacgtcaa ccaatgggga
+     4681 cgcggggata ttacggccaa tgagaatgga gaaggtccag gacacgtggg tgggggaagc
+     4741 tgagggctga gaccaagggc taaagctggg aggtgagtct gtcaccttga gccgggcgag
+     4801 cgctgtgggc caagcagggg ttgcagggca gtaggagtgc aggtgacttg gggccgggag
+     4861 ccagcaatag gcagggttgt gggctgcgca gtgtggaggg gtatttcccc ccagtgctgg
+     4921 gagaggctat ggcaatctag atatggcctt atcaatgaat gttaattacc aacggtaatg
+     4981 aacgattgac tgcctcggct ggggcgggtc ggggactgct gtgtaagatg ggcaggatcc
+     5041 tgcgcgacac ctgcccagta tccgcctcca gtcttcccga gagaccattc cctttcgcaa
+     5101 catttccttc ctggggcttg ggcacatttc cttgacttcc gatctccatg actttgcttt
+     5161 gaagacccac tgctctgtcc ctctgacctc taatgccctc ctcagctggg gcacggtgca
+     5221 aggaagagcg tggtctaggg aggacggacg ggggtgaagg ggacgaccaa aggtcgtcat
+     5281 tataagcaaa caaccagggt ctcagtggga ttattattac tattttttcc ccctctgcag
+     5341 actgaaaaaa tgcagaccgc cggggcatta ttcatttctc cagctctggt aaggtgccgc
+     5401 gccgcggtgc tctgtagtac caggtgtatg gtgtggacgc catcagtgtt taatgaatga
+     5461 acccagggga gcttggcgtc ctgatgatgt aggctctttg aggtggctgt aggatgtgat
+     5521 gaaggtaacc cctgtttatc tgggcctgtg aaccaagcta tcttggcttt ggaatgtggt
+     5581 cagagagtct ggatttgatt tttatcccca gtctgtcctg gccatagaga cagcccacta
+     5641 aaacagtggt tttcaacagt ggctgcacgt tagaatcatc cagggaactt tttaaaatcc
+     5701 tgatgcctag gctgcacctt agaccatttg catcagactt tgggaatggg ggtggaaccc
+     5761 aggcatctgt atcttttaag acttctccag atgattccac cgtgcagcca agtttgagaa
+     5821 ccactgcact aaaaattatt tcaaaaaagc catgttacag atggctctcc ttggatggct
+     5881 attccagtcg gtttccgggg ctgactggcc cactccattt agggtgtgta gctgtgagtg
+     5941 tattttagca gaataaaatt tcccccatct gattacttgg tgatctgggt ataaaccttt
+     6001 cctgtacctg ctttggtatt agtgtgggtt cttgttccat tctgagaagc tgattaaagc
+     6061 tgtgcccaaa gaagtgaact ttggtttggt tttgaatggt gaaggttgcc actgctgact
+     6121 atatcaagct attgagacag ctgtctctgg ggcaggccta tctgatagga acaggaataa
+     6181 attgaccttg aaatacattg aacttattct gtttatgaaa tctgtagtca tttttgacag
+     6241 ctcagcaatt aggatttttt ttccttgact gatttggtag gatgtggctt tctgatttta
+     6301 cagatccgct gttgtaccag gggtctaatc aggcctgtgt ctgcctcctt cttgaatagc
+     6361 ccagtgaatt catctaaaca ggtaagggag gaatagctct cttaggaatg ttcccaaggc
+     6421 ccaggatggt ggctcacacc tgtaatccca gctctttgag aggctgaggc gagaggatca
+     6481 cttgagccca gttgttcaag accagcctgg gcaacacagt gaaaccccat ctctacaaaa
+     6541 aaaataaaaa aattagccat gtgtggtggc atgtggctgt agtcccagtt actccagggc
+     6601 tgagatgaga ggattggtta atcccagagg tcgagactgc tgtgactatg ccactgcact
+     6661 ccagactggg tgacagagca agaccctgac tcataaaaac ccattaatta atttttttta
+     6721 aatcaaggaa tgttcccaga caggggtcct tcagcttaag ttgcctttag accaaagtgg
+     6781 gaggagagtt ggagaatctg tatgctttaa tagttctaag tcccccaagg taagccttgt
+     6841 aggtaagaaa cttataaaag tgaggtgtgc ctaacccatg aaatttccct agtcctgtct
+     6901 gctgtctgac aacagactct aagactaatt cccagcatac tctgcaatca gagtattctg
+     6961 catttaccag gcagtttgcc aacagtttca gagctcaggt gggtggggtg aaggaggtag
+     7021 agtcagccac ctgtccttat gccatactat ctctctgcta tctcgcctgc cttgcttctc
+     7081 tttctagcct tcctacagca acttcccact ccaggtggcc agacgggagt tccagaccag
+     7141 tgttgtctcc cgggacattg acacagcagc caagtttatt ggtgctgggg cagccacagt
+     7201 tggtgtggct ggttcagggg ctggcattgg aaccgtgttt ggcagcttga tcattggcta
+     7261 tgccaggtaa gtttgggtgg tctacagcat ctcccactgt aaattccacc ccgtttgggg
+     7321 aagcctcagc tggaggagct cccttcagga gccttcaggt tgatttcatc tacatcatag
+     7381 tttctccaga gaaaacatgc atccagcctg gctcacttaa acttaccagg ttggcccact
+     7441 ctgcttgtcc atccaaatcc ccaggatctg tgcaggctag gccctctccc aggagtaaca
+     7501 gtccccattc acctcaccct cctgtgtcct cccctcccct caccccttcc tctccctcaa
+     7561 ctggcaatga tctctgtccc tcccaggaac ccgtctctca agcagcagct cttctcctat
+     7621 gccattcttg gctttgccct gtctgaggcc atggggcttt tctgtttgat ggtcgccttc
+     7681 ctcatcctct tcgccatgtg aggctccatg gggggtcacc ggcctgttgc tactgcaact
+     7741 ccacaccatt cttggtgctg gggtgtgtta agctttacca ttaaacacaa cgtttctcta
+     7801 aacccctgtc tgtgcctctg tcctttgacc ttcaggaggg ccttggtaga agggtgagga
+     7861 gagggaattt gctcagccat gggtgatggg aactcctcag ggctgagaag gagcactgcc
+     7921 atgactgtaa gaacagaggg ttctcatgtt ctcccaggag gaatatgggt ttgtctgagt
+     7981 aatgagattt ttgccttttc ccttcagatt tattacagtt ggccatctgt atccataggt
+     8041 tccatatttg tggattcaac taacagtaga cagaaaatat tcagggaaaa aagtgaatgg
+     8101 ttgtgtctgt actgcacaag tacaggcttt ttttttcttg tcattattcc ctaaacaata
+     8161 cagtatagcc attatttata tagcatttac ctagtattta ggtattgtaa gtaatctaga
+     8221 gatgatttaa agtatatggg aggatgtgca taggttatat gcaaatacta caccatttta
+     8281 tataagggac ttgagcatct gtggtatcca ctggggtcct ggagccaatc tcccacagat
+     8341 accaaaggat aactgtaaca actgcatatt aataggttac atttttgaag ggcttaattt
+     8401 acaccaagca ttttacattc gttatctcaa caaccctaag agttataagc acaactttaa
+     8461 aactgttttg caaatgacag acccagggtt tggggaagca aaataactta tccagtatca
+     8521 cagagctagt aagtggcaga ttggggattt ctcccccagg ccagcttaaa ccttaactgc
+     8581 actgttgtcc tatctatttt cttttttttt tttttttgtc ccatctattt tcattctggt
+     8641 cacacaacaa ttaatgtggc acagaaaggg aaacttagtc ccaaagaagt tgtatagcag
+     8701 gtgaaaggta gaggtaggct tctatctgcc tgtgtttagc cccatttgta ggtttcattt
+     8761 tcactatcaa ttagcctttc tcagagtatc taaatgttct taaagcagat aaagtacaca
+     8821 atcctggttc ttggagaatt tatcacctta gttttgctag gataaaagac tatctggagc
+     8881 caggcatggt ggctcacgcc tgtaatccca gcactttggg aggctgaggc cggcggatca
+     8941 cctgaggtca ggagttcgag accagcctga acaacatgga gaaacccagt ctctactaaa
+     9001 aatacaaagt taaccaggca tggtggcgca tgcctgtaat cccagctact tgggaggctg
+     9061 aggcaggaga atcacttgaa cccaggaggc ggaggttgtg gtgagccgag atcatgccat
+     9121 tgcactccag cctgggcaac aagagcaaaa ctccgtctca aaaaaaaaaa aaaaaagatg
+     9181 atttgggggc gtgtgccaaa taatgaattc cataaagagc ttcgtccagc atcttccttg
+     9241 ggttctcaaa gtctatgccc accagtcttg cccctcttgg ctaaagtggg actgataacc
+     9301 catgtaaaat tagctaagtt gacatatcaa cagttgctgc ttctctaagt ccttgcagga
+     9361 gcaagccatg gacagagaac tcatgcaaag atgctgggaa cgtggtctgt ctcaaattgg
+     9421 atggcttcaa aaggagtagt aacgtaaagt gggatcc
+//
+

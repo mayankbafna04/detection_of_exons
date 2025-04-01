@@ -1,0 +1,98 @@
+LOCUS       Z11901                  1998 bp    DNA     linear   PRI 14-NOV-2006
+DEFINITION  H.sapiens OTF3C gene encoding octamer binding protein 3-like
+            sequence.
+ACCESSION   Z11901
+VERSION     Z11901.1
+KEYWORDS    octamer-binding protein; octamer-binding protein 3.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1998)
+  AUTHORS   Takeda,J., Seino,S. and Bell,G.I.
+  TITLE     Human Oct3 gene family: cDNA sequences, alternative splicing, gene
+            organization, chromosomal location, and expression at low levels in
+            adult tissues
+  JOURNAL   Nucleic Acids Res. 20 (17), 4613-4620 (1992)
+   PUBMED   1408763
+REFERENCE   2  (bases 1 to 1998)
+  AUTHORS   Bell,G.I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-APR-1992) Graeme I Bell, Howard Hughes Medical
+            Institute, University of, Chicago, 5841 S. Maryland Ave., Chicago,
+            IL, 60637, USA
+FEATURES             Location/Qualifiers
+     source          1..1998
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="8"
+                     /clone="Lambda hoct3.17"
+                     /tissue_type="Liver"
+                     /clone_lib="Charon 4A library of T. Maniatis"
+                     /dev_stage="Fetal"
+                     /germline
+     gene            443..1522
+                     /gene="OTF3C"
+     CDS             443..1522
+                     /gene="OTF3C"
+                     /note="label:retroposon"
+                     /codon_start=1
+                     /product="octamer binding protein 3_like sequence"
+                     /protein_id="CAA77953.1"
+                     /db_xref="GOA:Q06416"
+                     /db_xref="HGNC:HGNC:9223"
+                     /db_xref="InterPro:IPR000327"
+                     /db_xref="InterPro:IPR001356"
+                     /db_xref="InterPro:IPR009057"
+                     /db_xref="InterPro:IPR010982"
+                     /db_xref="InterPro:IPR012287"
+                     /db_xref="InterPro:IPR013847"
+                     /db_xref="InterPro:IPR015585"
+                     /db_xref="InterPro:IPR017970"
+                     /db_xref="UniProtKB/Swiss-Prot:Q06416"
+                     /translation="MAGHLASDFAFSPPPGGGGDGPWGAEPGWVDPLTWLSFQGPPGG
+                     PGIGPGVGPGSEVWGIPPCPPPYELCGGMAYCGPQVGVGLVPQGGLETSQPESEAGVG
+                     VESNSNGASPEPCTVPPGAVKLEKEKLEQNPEKSQDIKALQKELEQFAKLLKQKRITL
+                     GYTQADVGLILGVLFGKVFSQKTICRFEALQLSFKNICKLRPLLQKWVEEADNNENLQ
+                     EICKAETLMQARKRKRTSIENRVRGNLENLFLQCPKPTLQISHIAQQLGLEKDVVRVW
+                     FCNRRQKGKRSSSDYAQREDFEAAGSPFSGGPVSFPPAPGPHFGTPGYGSPHFTALYS
+                     SVPFPEGEVFPPVSVITLGSPMHSN"
+ORIGIN      
+        1 cgttcccaca atctgcagga aataagaatc agaaagaagg acacaccatt ccatagcaca
+       61 gaacacaagt agatggctcc catgaagaat ctagcatcat ggtatggcag aagcagaatg
+      121 gactcaggaa tcatggtgcc tacactggaa tttcagatcg gccactgaca caatggacac
+      181 attattcaac atttccaaat cttggcattc ttatccacaa agtgaagata ataattgtca
+      241 attcacaggt gattatgatt taaagagatt acttttgaag agttcctaac acattcagtc
+      301 aacatttaat gatgcttcag gcacagagtt cattgctagt gagcgtatga cacacacagc
+      361 catacggtca cagagctttc aatgaaaagt aacataattg ctcatttcac caggcccccg
+      421 gcttggggcg ccttccttcc ccatggcggg acacctggct tcggatttcg ccttctcgcc
+      481 ccctccaggc ggtgggggtg atgggccatg gggggcggag ccgggctggg ttgatcctct
+      541 gacctggcta agcttccaag gccctcctgg agggccagga atcgggccgg gggttgggcc
+      601 aggctctgag gtgtggggga ttcccccttg ccccccgccg tatgagttat gtggggggat
+      661 ggcgtactgt gggcctcagg ttggagtggg gctagtgccc caaggcggct tggagacctc
+      721 tcagcctgag agcgaagcag gagtcggggt ggagagcaac tccaatgggg cctccccgga
+      781 accctgcacc gtcccccctg gtgccgtgaa gctggagaag gagaagctag agcaaaaccc
+      841 ggagaagtcc caggacatca aagctctgca gaaagaactc gagcaatttg ccaagctcct
+      901 gaagcagaag aggatcaccc tgggatatac acaggccgat gtggggctca tcctgggggt
+      961 tctatttggg aaggtgttca gccaaaagac catctgccgc tttgaggctc tgcagcttag
+     1021 cttcaagaac atctgtaagc tgcggccctt gctgcagaag tgggtggagg aagctgacaa
+     1081 caatgaaaat cttcaggaga tatgcaaagc agaaaccctc atgcaggccc gaaagagaaa
+     1141 gcgaaccagt atcgagaacc gagtgagagg caacctggag aatttgttcc tgcagtgccc
+     1201 gaaacccaca ctgcagatca gccacatcgc ccagcagctt gggctcgaga aggatgtggt
+     1261 ccgagtgtgg ttctgtaacc ggcgccagaa gggcaagcga tcaagcagcg actatgcaca
+     1321 acgagaggat tttgaggctg ctgggtctcc tttctcaggg ggaccagtgt cctttcctcc
+     1381 ggccccaggg ccccattttg gtaccccagg ctatgggagc cctcacttca ctgcactgta
+     1441 ctcctcggtc cctttccctg agggggaagt ctttccccca gtctccgtca tcactctggg
+     1501 ctctcccatg cattcaaact gaggtgcctg cccttctagg aatggggaac aggggagggg
+     1561 aggagctagg gaaagagaac ctggagtttg tgccagggct tttgggatta agttcttcat
+     1621 tcactaagga aggaattggg aacacaaagg gtgggggcag gggagtttgg ggcaactggt
+     1681 tggagggaag gtgaagttca atgatgctct tgattttatt cccacatcat gtatcacttt
+     1741 tttcttaaat aaagaagcct gggacacagt aaaaaaaaaa aaaaaagaaa gaaaagaaaa
+     1801 gaaaagtaac ataattgagt aataattttt taagtgtggt aaaatatgtg gcacatagta
+     1861 ggtattcaat aaatacttgc ttttttcctc ctttttacct tttcctagag tcctacttga
+     1921 tggtagctgt agtttttctt caagacatcc tatttgtcct gatacaaaac ctcttttgac
+     1981 cgctaacggc atagtccg
+//
+

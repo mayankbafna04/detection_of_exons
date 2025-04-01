@@ -1,0 +1,83 @@
+LOCUS       X60201                  1353 bp    mRNA    linear   PRI 25-NOV-1998
+DEFINITION  Human mRNA for brain-derived neurotrophic factor.
+ACCESSION   X60201
+VERSION     X60201.1
+KEYWORDS    neurotrophic factor.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1353)
+  AUTHORS   Shintani,A., Ono,Y., Kaisho,Y. and Igarashi,K.
+  TITLE     Characterization of the 5'-flanking region of the human
+            brain-derived neurotrophic factor gene
+  JOURNAL   Biochem. Biophys. Res. Commun. 182 (1), 325-332 (1992)
+   PUBMED   1339267
+REFERENCE   2  (bases 1 to 1353)
+  AUTHORS   Shintani,A., Ono,Y., Kaisho,Y. and Igarashi,K.
+  TITLE     Characterization of the 5'-flanking region of the human
+            brain-derived neurotrophic factor gene
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 1353)
+  AUTHORS   Igarashi,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JUN-1991) K. Igarashi, Biotechnology Res Labs, Takeda
+            Chemical Industries-Ltd, Jusohonmachi, Yodogawaku, Osaka 532, JAPAN
+COMMENT     On Nov 26, 1998 this sequence version replaced gi:496625.
+FEATURES             Location/Qualifiers
+     source          1..1353
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /cell_line="Hs683"
+                     /clone_lib="lambda gt11"
+     mRNA            1..1353
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="brain-derived neurotrophic factor"
+     CDS             297..1040
+                     /codon_start=1
+                     /product="brain-derived neurotrophic factor"
+                     /protein_id="CAA42761.1"
+                     /db_xref="GDB:125916"
+                     /db_xref="GOA:P23560"
+                     /db_xref="HGNC:HGNC:1033"
+                     /db_xref="InterPro:IPR002072"
+                     /db_xref="InterPro:IPR019846"
+                     /db_xref="InterPro:IPR020408"
+                     /db_xref="InterPro:IPR020430"
+                     /db_xref="PDB:1B8M"
+                     /db_xref="PDB:1BND"
+                     /db_xref="UniProtKB/Swiss-Prot:P23560"
+                     /translation="MTILFLTMVISYFGCMKAAPMKEANIRGQGGLAYPGVRTHGTLE
+                     SVNGPKAGSRGLTSLADTFEHVIEELLDEDQKVRPNEENNKDADLYTSRVMLSSQVPL
+                     EPPLLFLLEEYKNYLDAANMSMRVRRHSDPARRGELSVCDSISEWVTAADKKTAVDMS
+                     GGTVTVLEKVPVSKGQLKQYFYETKCNPMGYTKEGCRGIDKRHWNSQCRTTQSYVRAL
+                     TMDSKKRIGWRFIRIDTSCVCTLTIKRGR"
+ORIGIN      
+        1 gaattcgggg ctgccgccgc cgcgcccggg cgcacccgcc cgctcgctgt cccgcgcacc
+       61 ccgtagcgcc tcgggctccc gggccggaca gaggagccag cccggtgcgc ccctccacct
+      121 cctgctcggg gggctttaat gagacaccca ccgctgctgt ggggccggcg gggagcagca
+      181 ccgcgacggg gaccggggct gggcgctgga gccagaatcg gaaccacgat gtgactccgc
+      241 cgccggggac ccgtgaggtt tgtgtggacc ccgagttcca ccaggtgaga agagtgatga
+      301 ccatcctttt ccttactatg gttatttcat actttggttg catgaaggct gcccccatga
+      361 aagaagcaaa catccgagga caaggtggct tggcctaccc aggtgtgcgg acccatggga
+      421 ctctggagag cgtgaatggg cccaaggcag gttcaagagg cttgacatca ttggctgaca
+      481 ctttcgaaca cgtgatagaa gagctgttgg atgaggacca gaaagttcgg cccaatgaag
+      541 aaaacaataa ggacgcagac ttgtacacgt ccagggtgat gctcagtagt caagtgcctt
+      601 tggagcctcc tcttctcttt ctgctggagg aatacaaaaa ttacctagat gctgcaaaca
+      661 tgtccatgag ggtccggcgc cactctgacc ctgcccgccg aggggagctg agcgtgtgtg
+      721 acagtattag tgagtgggta acggcggcag acaaaaagac tgcagtggac atgtcgggcg
+      781 ggacggtcac agtccttgaa aaggtccctg tatcaaaagg ccaactgaag caatacttct
+      841 acgagaccaa gtgcaatccc atgggttaca caaaagaagg ctgcaggggc atagacaaaa
+      901 ggcattggaa ctcccagtgc cgaactaccc agtcgtacgt gcgggccctt accatggata
+      961 gcaaaaagag aattggctgg cgattcataa ggatagacac ttcttgtgta tgtacattga
+     1021 ccattaaaag gggaagatag tggatttatg ttgtatagat tagattatat tgagacaaaa
+     1081 attatctatt tgtatatata cataacaggg taaattattc agttaagaaa aaaataattt
+     1141 tatgaactgc atgtataaat gaagtttata cagtacagtg gttctacaat ctatttattg
+     1201 gacatgtcca tgaccagaag ggaaacagtc atttgcgcac aacttaaaaa gtctgcatta
+     1261 cattccttga taatgttgtg gtttgttgcc gttgccaaga actgaaaaca taaaaagtta
+     1321 aaaaaaataa taaattgcat gctgcccgaa ttc
+//
+

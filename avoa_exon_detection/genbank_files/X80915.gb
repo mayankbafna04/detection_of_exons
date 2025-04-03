@@ -1,0 +1,114 @@
+LOCUS       X80915                  2703 bp    DNA     linear   PRI 04-MAY-2005
+DEFINITION  H.sapiens Gdf5 gene.
+ACCESSION   X80915
+VERSION     X80915.1
+KEYWORDS    GDF-5 gene; TGF-beta superfamily.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1
+  AUTHORS   Hotten,G., Neidhardt,H., Jacobowsky,B. and Pohl,J.
+  TITLE     Cloning and expression of recombinant human growth/differentiation
+            factor 5
+  JOURNAL   Biochem. Biophys. Res. Commun. 204 (2), 646-652 (1994)
+   PUBMED   7980526
+REFERENCE   2  (bases 1 to 2703)
+  AUTHORS   Hoetten,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-AUG-1994) G. Hoetten, Biopharm GmbH, Czyneryring 22,
+            69115 Heidelberg, FRG
+FEATURES             Location/Qualifiers
+     source          1..2703
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+     source          1..320
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /tissue_type="placenta"
+                     /clone_lib="stratagene #946203"
+     source          321..2703
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /cell_type="fibroblast"
+     gene            321..2703
+                     /gene="Gdf5"
+     mRNA            321..2703
+                     /gene="Gdf5"
+     CDS             640..2145
+                     /gene="Gdf5"
+                     /codon_start=1
+                     /protein_id="CAA56874.1"
+                     /db_xref="GDB:433948"
+                     /db_xref="GOA:P43026"
+                     /db_xref="HGNC:HGNC:4220"
+                     /db_xref="InterPro:IPR001111"
+                     /db_xref="InterPro:IPR001839"
+                     /db_xref="InterPro:IPR015615"
+                     /db_xref="InterPro:IPR017948"
+                     /db_xref="PDB:1WAQ"
+                     /db_xref="PDB:2BHK"
+                     /db_xref="PDB:3EVS"
+                     /db_xref="UniProtKB/Swiss-Prot:P43026"
+                     /translation="MRLPKLLTFLLWYLAWLDLEFICTVLGAPDLGQRPQGTRPGLAK
+                     AEAKERPPLARNVFRPGGHSYGGGATNANARAKGGTGQTGGLTQPKKDEPKKLPPRPG
+                     GPEPKPGHPPQTRQATARTVTPKGQLPGGKAPPKAGSVPSSFLLKKAREPGPPREPKE
+                     PFRPPPITPHEYMLSLYRTLSDADRKGGNSSVKLEAGLANTITSFIDKGQDDRGPVVR
+                     KQRYVFDISALEKDGLLGAELRILRKKPSDTAKPAAPGGGRAAQLKLSSCPSGRQPAS
+                     LLDVRSVPGLDGSGWEVFDIWKLFRNFKNSAQLCLELEAWERGRAVDLRGLGFDRAAR
+                     QVHEKALFLVFGRTKKRDLFFNEIKARSGQDDKTVYEYLFSQRRKRRAPLATRQGKRP
+                     SKNLKARCSRKALHVNFKDMGWDDWIIAPLEYEAFHCEGLCEFPLRSHLEPTNHAVIQ
+                     TLMNSMDPESTPPTCCVPTRLSPISILFIDSANNVVYKQYEDMVVESCGCR"
+ORIGIN      
+        1 ccatggcctc gaaagggcag cggtgatttt tttcacataa atatatcgca cttaaatgag
+       61 tttagacagc atgacatcag agagtaatta aattggtttg ggttggaatt ccgtttccaa
+      121 ttcctgagtt caggtttgta aaagattttt ctgagcacct gcaggcctgt gagtgtgtgt
+      181 gtgtgtgtgt gtgtgtgtgt gtgtgtgtga agtattttca ctggaaagga ttcaaaacta
+      241 gggggaaaaa aaaactggag cacacaggca gcattacgcc attcttcctt cttggaaaaa
+      301 tccctcagcc ttatacaagc ctccttcaag ccctcagtca gttgtgcagg agaaaggggg
+      361 cggttggctt tctcctttca agaacgagtt attttcagct gctgactgga gacggtgcac
+      421 gtctggatac gagagcattt ccactatggg actggataca aacacacacc cggcagactt
+      481 caagagtctc agactgagga gaaagccttt ccttctgctg ctactgctgc tgccgctgct
+      541 tttgaaagtc cactcctttc atggtttttc ctgccaaacc agaggcacct ttgctgctgc
+      601 cgctgttctc tttggtgtca ttcagcggct ggccagagga tgagactccc caaactcctc
+      661 actttcttgc tttggtacct ggcttggctg gacctggaat tcatctgcac tgtgttgggt
+      721 gcccctgact tgggccagag accccagggg accaggccag gattggccaa agcagaggcc
+      781 aaggagaggc cccccctggc ccggaacgtc ttcaggccag ggggtcacag ctatggtggg
+      841 ggggccacca atgccaatgc cagggcaaag ggaggcaccg ggcagacagg aggcctgaca
+      901 cagcccaaga aggatgaacc caaaaagctg ccccccagac cgggcggccc tgaacccaag
+      961 ccaggacacc ctccccaaac aaggcaggct acagcccgga ctgtgacccc aaaaggacag
+     1021 cttcccggag gcaaggcacc cccaaaagca ggatctgtcc ccagctcctt cctgctgaag
+     1081 aaggccaggg agcccgggcc cccacgagag cccaaggagc cgtttcgccc accccccatc
+     1141 acaccccacg agtacatgct ctcgctgtac aggacgctgt ccgatgctga cagaaaggga
+     1201 ggcaacagca gcgtgaagtt ggaggctggc ctggccaaca ccatcaccag ctttattgac
+     1261 aaagggcaag atgaccgagg tcccgtggtc aggaagcaga ggtacgtgtt tgacattagt
+     1321 gccctggaga aggatgggct gctgggggcc gagctgcgga tcttgcggaa gaagccctcg
+     1381 gacacggcca agccagcggc ccccggaggc gggcgggctg cccagctgaa gctgtccagc
+     1441 tgccccagcg gccggcagcc ggcctccttg ctggatgtgc gctccgtgcc aggcctggac
+     1501 ggatctggct gggaggtgtt cgacatctgg aagctcttcc gaaactttaa gaactcggcc
+     1561 cagctgtgcc tggagctgga ggcctgggaa cggggcaggg ccgtggacct ccgtggcctg
+     1621 ggcttcgacc gcgccgcccg gcaggtccac gagaaggccc tgttcctggt gtttggccgc
+     1681 accaagaaac gggacctgtt ctttaatgag attaaggccc gctctggcca ggacgataag
+     1741 accgtgtatg agtacctgtt cagccagcgg cgaaaacggc gggccccact ggccactcgc
+     1801 cagggcaagc gacccagcaa gaaccttaag gctcgctgca gtcggaaggc actgcatgtc
+     1861 aacttcaagg acatgggctg ggacgactgg atcatcgcac cccttgagta cgaggctttc
+     1921 cactgcgagg ggctgtgcga gttcccattg cgctcccacc tggagcccac gaatcatgca
+     1981 gtcatccaga ccctgatgaa ctccatggac cccgagtcca caccacccac ctgctgtgtg
+     2041 cccacgcggc tgagtcccat cagcatcctc ttcattgact ctgccaacaa cgtggtgtat
+     2101 aagcagtatg aggacatggt cgtggagtcg tgtggctgca ggtagcagca ctggccctct
+     2161 gtcttcctgg gtggcacatc ccaagagccc cttcctgcac tcctggaatc acagaggggt
+     2221 caggaagctg tggcaggagc atctacacag cttgggtgaa aggggattcc aataagcttg
+     2281 ctcgctctct gagtgtgact tgggctaaag gccccctttt atccacaagt tcccctggct
+     2341 gaggattgct gcccgtctgc tgatgtgacc agtggcaggc acaggtccag ggagacagac
+     2401 tctgaatggg actgagtccc aggaaacagt gctttccgat gagactcagc ccaccatttc
+     2461 tcctcacctg ggccttctca gcctctggac tctcctaagc acctctcagg agagccacag
+     2521 gtgccactgc ctcctcaaat cacatttgtg cctggtgact tcctgtccct gggacagttg
+     2581 agaagctgac tgggcaagag tgggagagaa gaggagaggg cttggataga gttgaggagt
+     2641 gtgaggctgt tagactgtta gatttaaatg tatattgatg agataaaaag caaaactgtg
+     2701 cct
+//
+

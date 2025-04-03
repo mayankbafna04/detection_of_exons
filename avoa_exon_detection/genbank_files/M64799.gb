@@ -1,0 +1,60 @@
+LOCUS       HUMHISH2R               1191 bp    DNA     linear   PRI 31-DEC-1994
+DEFINITION  Human histamine H2 receptor gene, complete cds.
+ACCESSION   M64799
+VERSION     M64799.1
+KEYWORDS    histamine H2 receptor.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1191)
+  AUTHORS   Gantz,I., Munzert,G., Tashiro,T., Schaffer,M., Wang,L., DelValle,J.
+            and Yamada,T.
+  TITLE     Molecular cloning of the human histamine H2 receptor
+  JOURNAL   Biochem. Biophys. Res. Commun. 178 (3), 1386-1392 (1991)
+   PUBMED   1714721
+COMMENT     Original source text: Homo sapiens (tissue library: Clontech) DNA.
+FEATURES             Location/Qualifiers
+     source          1..1191
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /tissue_lib="Clontech"
+     gene            1..1080
+                     /gene="histamine H2 receptor"
+     CDS             1..1080
+                     /gene="histamine H2 receptor"
+                     /codon_start=1
+                     /product="histamine H2 receptor"
+                     /protein_id="AAA58647.1"
+                     /translation="MAPNGTASSFCLDSTACKITITVVLAVLILITVAGNVVVCLAVG
+                     LNRRLRNLTNCFIVSLAITDLLLGLLVLPFSAIYQLSCKWSFGKVFCNIYTSLDVMLC
+                     TASILNLFMISLDRYCAVMDPLRYPVLVTPVRVAISLVLIWVISITLSFLSIHLGWNS
+                     RNETSKGNHTTSKCKVQVNEVYGLVDGLVTFYLPLLIMCITYYRIFKVARDQAKRINH
+                     ISSWKAATIREHKATVTLAAVMGAFIICWFPYFTAFVYRGLRGDDAINEVLEAIVLWL
+                     GYANSALNPILYAALNRDFRTGYQQLFCCRLANRNSHKTSLRSNASQLSRTQSREPRQ
+                     QEEKPLKLQVWSGTEVTAPQGATDR"
+ORIGIN      
+        1 atggcaccca atggcacagc ctcttccttt tgcctggact ctaccgcatg caagatcacc
+       61 atcaccgtgg tccttgcggt cctcatcctc atcaccgttg ctggcaatgt ggtcgtctgt
+      121 ctggccgtgg gcttgaaccg ccggctccgc aacctgacca attgtttcat cgtgtccttg
+      181 gctatcactg acctgctcct cggcctcctg gtgctgccct tctctgccat ctaccagctg
+      241 tcctgcaagt ggagctttgg caaggtcttc tgcaatatct acaccagcct ggatgtgatg
+      301 ctctgcacag cctccattct taacctcttc atgatcagcc tcgaccggta ctgcgctgtc
+      361 atggacccac tgcggtaccc tgtgctggtc accccagttc gggtcgccat ctctctggtc
+      421 ttaatttggg tcatctccat taccctgtcc tttctgtcta tccacctggg gtggaacagc
+      481 aggaacgaga ccagcaaggg caatcatacc acctctaagt gcaaagtcca ggtcaatgaa
+      541 gtgtacgggc tggtggatgg gctggtcacc ttctacctcc cgctactgat catgtgcatc
+      601 acctactacc gcatcttcaa ggtcgcccgg gatcaggcca agaggatcaa tcacattagc
+      661 tcctggaagg cagccaccat cagggagcac aaagccacag tgacactggc cgccgtcatg
+      721 ggggccttca tcatctgctg gtttccctac ttcaccgcgt ttgtgtaccg tgggctgaga
+      781 ggggatgatg ccatcaatga ggtgttagaa gccatcgttc tgtggctggg ctatgccaac
+      841 tcagccctga accccatcct gtatgctgcg ctgaacagag acttccgcac cgggtaccaa
+      901 cagctcttct gctgcaggct ggccaaccgc aactcccaca aaacttctct gaggtccaac
+      961 gcctctcagc tgtccaggac ccaaagccga gaacccaggc aacaggaaga gaaacccctg
+     1021 aagctccagg tgtggagtgg gacagaagtc acggcccccc agggagccac agacaggtaa
+     1081 aagctccagg tgtggagtgg gacagaagtc acggcccccc agggagccac agacaggtaa
+     1141 gcgctgaaca gagacttccg caccgggtac caacagctct tctgctgcag g
+//
+

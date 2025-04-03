@@ -1,0 +1,72 @@
+LOCUS       HUMTSHB2                 986 bp    DNA     linear   PRI 09-MAY-1994
+DEFINITION  Human thyrotropin beta (TSH-beta) subunit gene, exons 2 and 3.
+ACCESSION   M21024 J03937
+VERSION     M21024.1
+KEYWORDS    thyrotropin.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 986)
+  AUTHORS   Wondisford,F.E., Radovick,S., Moates,J.M., Usala,S.J. and
+            Weintraub,B.D.
+  TITLE     Isolation and characterization of the human thyrotropin
+            beta-subunit gene. Differences in gene structure and promoter
+            function from murine species
+  JOURNAL   J. Biol. Chem. 263 (25), 12538-12542 (1988)
+   PUBMED   2457586
+COMMENT     [WARNING] On Aug 1, 2016 this sequence was replaced by AH001548.2.
+            Draft entry and printed copy of sequence for [1],[Unpublished
+            (1988) NIH NIDDK/MCNEB Bethesda MD] kindly
+            provided            by F.E.Wondisford, 08-JUN-1988.
+FEATURES             Location/Qualifiers
+     source          1..986
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /cell_type="leukocyte"
+     intron          <1..23
+                     /note="thyrotropin beta subunit"
+                     /number=1
+     exon            24..186
+                     /note="thyrotropin beta subunit first expressed exon"
+                     /number=2
+     CDS             join(25..186,635..889)
+                     /note="precursor"
+                     /codon_start=1
+                     /product="thyrotropin beta subunit"
+                     /protein_id="AAA36782.1"
+                     /translation="MTALFLMSMLFGLACGQAMSFCIPTEYTMHIERRECAYCLTINT
+                     TICAGYCMTRDINGKLFLPKYALSQDVCTYRDFIYRTVEIPGCPLHVAPYFSYPVALS
+                     CKCGKCNTDYSDCIHEAIKTNYCTKPQKSYLVGFSV"
+     sig_peptide     25..84
+                     /note="thyrotropin beta subunit signal peptide"
+     mat_peptide     join(85..186,635..886)
+                     /product="thyrotropin beta subunit"
+     intron          187..634
+                     /note="thyrotropin beta subunit"
+                     /number=2
+     exon            635..>889
+                     /note="thyrotropin beta subunit"
+                     /number=3
+ORIGIN      About 3.5 kb after segmetn 1; chromosome 1.
+        1 ctttaatttt atctttgatt tagcatgact gctctctttc tgatgtccat gctttttggc
+       61 cttgcatgtg ggcaagcgat gtctttttgt attccaactg agtatacaat gcacatcgaa
+      121 aggagagagt gtgcttattg cctaaccatc aacaccacca tctgtgctgg atattgtatg
+      181 acacgggtat gtagttcatg tcacttcttt tggctgtaaa ttatataagc cctgaagaag
+      241 tccattccta tatagaaagg aaatgaaata aatcacaacc tcatttccca aatctaatgg
+      301 ttattggctc cttagaagca gagtacacag gttacaatat tatgtgaatc tactcagcac
+      361 aatggatacg cataatttta taacagtttt gtgtcccagc tttacttaaa ccttatcttg
+      421 ttcccatgat caacgatgaa agagaggagg gtctcacttt tgtctctgta gaattcaacg
+      481 tggttaagtt ggtattggag aatggggcta agcaattctt tcccagttgt atttgtgatg
+      541 aaggaatata agtgaattta tttttatgtt tctattatct atatgtttcc taaagtcctg
+      601 tcacattatg ctctcttttc tgttctttcc ccaggatatc aatggcaaac tgtttcttcc
+      661 caaatatgct ctgtcccagg atgtttgcac atatagagac ttcatctaca ggactgtaga
+      721 aataccagga tgcccactcc atgttgctcc ctatttttcc tatcctgttg ctttaagctg
+      781 taagtgtggc aagtgcaata ctgactatag tgactgcata catgaagcca tcaagacaaa
+      841 ctactgtacc aaacctcaga agtcttatct ggtaggattt tctgtctaat agtgatataa
+      901 tttgcaattt ggttaaatgt gcttgcctga aataaagcta ataaaaatat tatgtttcac
+      961 attatcttct gttcattttg agtact
+//
+

@@ -1,0 +1,146 @@
+LOCUS       HUMA1GLY2               4944 bp    DNA     linear   PRI 30-OCT-1994
+DEFINITION  Human alpha-1-acid glycoprotein 2 (AGP2) gene, complete cds.
+ACCESSION   M21540
+VERSION     M21540.1
+KEYWORDS    alpha-1 acid glycoprotein; orosomucoid.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 4944)
+  AUTHORS   Merritt,C.M. and Board,P.G.
+  TITLE     Structure and characterisation of a duplicated human alpha 1 acid
+            glycoprotein gene
+  JOURNAL   Gene 66 (1), 97-106 (1988)
+   PUBMED   2970990
+COMMENT     Original source text: Human DNA, clones lambda-AGP-[1A,2A,6B].
+FEATURES             Location/Qualifiers
+     source          1..4944
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /map="9q32"
+     prim_transcript 1594..>4940
+                     /note="AGP2 mRNA and introns"
+     CDS             join(1609..1722,2138..2280,2499..2569,3274..3381,
+                     3532..3635,4776..4841)
+                     /note="alpha-1-acid glycoprotein 2"
+                     /codon_start=1
+                     /protein_id="AAA51549.1"
+                     /translation="MALSWVLTVLSLLPLLEAQIPLCANLVPVPITNATLDRITGKWF
+                     YIASAFRNEEYNKSVQEIQATFFYFTPNKTEDTIFLREYQTRQNQCFYNSSYLNVQRE
+                     NGTVSRYEGGREHVAHLLFLRDTKTLMFGSYLDDEKNWGLSFYADKPETTKEQLGEFY
+                     EALDCLCIPRSDVMYTDWKKDKCEPLEKQHEKERKQEEGES"
+     gene            1609..1722
+                     /gene="ORM2"
+     exon            <1609..1722
+                     /gene="ORM2"
+                     /note="alpha-1-acid glycoprotein 2; G00-120-251"
+     intron          1723..2137
+                     /note="AGP2 intron A"
+     exon            2138..2280
+                     /number=2
+     intron          2281..2498
+                     /note="AGP2 intron B"
+     exon            2499..2569
+                     /number=3
+     intron          2570..3273
+                     /note="AGP2 intron C"
+     exon            3274..3381
+                     /number=4
+     intron          3382..3531
+                     /note="AGP2 intron D"
+     exon            3532..3635
+                     /number=5
+     intron          3636..4775
+                     /note="AGP2 intron E"
+     exon            4776..>4841
+                     /note="alpha-1-acid glycoprotein 2"
+                     /number=6
+ORIGIN      1 bp upstream of BamHI site; chromosome 9q31-qter.
+        1 ggatccgctg aaaaatgaaa cagaaatgag tcgtgatggg cagggaggga gaagcaaggg
+       61 agacgagaag tggggaacat ggaaggaaaa gccacgtgag gaagaaacca gaggtcaaga
+      121 gaaaaagaat catggaggta gaggaagcaa aaaacacaca taacaaagaa tgtggacttt
+      181 ggagtcaaac taatgtgagt ccaaacccag gctctctccc aaaccagttt gcggcagatg
+      241 gccagtggaa cctcactctc ctcatcagta aaaagggggc agagtgaggg tcctgagagc
+      301 tagtacaggg actgtgtgaa gtagacaatg cccagtgttt agcgtaagaa tcagggtcca
+      361 gctggtgctc cctaaacagc agctgctgtt cactgttgaa aggcgctctg gaaggccagg
+      421 cgcggtggct catgcttgta atcccagcac tgtgggaggc cgaggtgggc ggatcacctg
+      481 aggtagggag ttcgagacca gcctgaccaa cgtggagaaa ccccatctct cctaaaaata
+      541 caaaattagc caggcgtggt agcacatacc tgtaatccca gcgactcggg aggctgaggc
+      601 aagagaattg cttgaaacca gcaggggagg ttgtggtgag ccaagatcga gccattgcac
+      661 tccagccagg gcaacaagag gcaaaatggc gaaactccat ctccgagaaa aaaaaaaaaa
+      721 aagaatactt tctgaaagta tttattcata caaataaaga cttgacccat aaggtaggaa
+      781 cgcaaatggg ccacggaatc actcattcca cagtatacac cgagtgccct tgaagtgctg
+      841 ggcactgctc caggattggg ggcatattgg tgaaaagaga agcaagcctg cctgctcaga
+      901 tggcagggaa tggggaaaaa cagggagaca gtttcctgtt tgagatgttg ggagtctgct
+      961 tcgagtagta tatttactgg aaatagacca ctaacttgga tgtccctttt tggaaatgtg
+     1021 cctgcgtcca gggctgggtt ggggccccaa tgaactttgg ctctgacata gctgttgcca
+     1081 cactcagtgg aactgaatcc atgtttgcct tcacccggca tccttcaccc caactctccc
+     1141 cgccacaaca tacatcccat gccagcctgg ggaccctcaa aggtgcttca tcattaggtt
+     1201 tgtggctggg tcctactgaa gtaagtcttg gcactcagag ggataggaat tgaatgaaga
+     1261 catgagattc ctctgcggga ggcctctcta ggaaatctgt ggactcacac gtttactaat
+     1321 gttgctgcag ccccgcaccc accttggcct tgggcagcca tactctaggg cttttgtaac
+     1381 ctctccatgt gaggaactca aattagacct gggtttggag gcggtgctcc gagctggcct
+     1441 ttgggggagg ttttgtgcga ggcatttccc aagtgctggc aggattgtgt cacagacaca
+     1501 gagtaaactt ttgctgggct ccaagtgacc gcccatagtt tattataaag gtgactgcac
+     1561 cctgcagcca ccagcactgc ctggctccac gtgcctcctg gtctcagtat ggcgctgtcc
+     1621 tgggttctta cagtcctgag cctcctacct ctgctggaag cccagatccc attgtgtgcc
+     1681 aacctagtac cggtgcccat caccaacgcc accctggacc gggtgagtgc ctgggctagc
+     1741 cctgtcctga gcacatgggc agctgcctcc cttctctggg cttcccttta cctgctggct
+     1801 gtggtcgcac ccccactccc agctctgcct ttttctcttc tgggtcccca gggtgaaatt
+     1861 ctcaccagcc caggggactc tggaggcacc ccctgcctcc aaacacagaa gcctcactgc
+     1921 agagtccttc acggaggacg gttctgtgct gggcctggag gggctgcctg gggggcaatg
+     1981 actgatcctc agggtgagct cctgcatgcg cactgcccac caggggcctc atctccccat
+     2041 ctgcaaaatc agggagagat ctgcctgagt ctcctcccag ctgacagtca aagattcagc
+     2101 atcaagcccc catcaccagc tccccccttc tccccagatc actggcaagt ggttttatat
+     2161 cgcatcggcc tttcgaaacg aggagtacaa taagtcggtt caggagatcc aagcaacctt
+     2221 cttttacttt acccccaaca agacagagga cacgatcttt ctcagagagt accagacccg
+     2281 gtgagagccc ccattccaat gcacccccga tctcagctgt ctggccagaa gacctgagca
+     2341 agtccctcct tcttcctggc cttggccttc ccatgggtgg aaccgggagg gttggcttta
+     2401 atctccacca gaactcttgc cccgggactg tgatgggcga ttggccactt ctcctcgata
+     2461 acattactgt ttttcttccg ccttctggtt gactttagcc agaaccagtg cttctataac
+     2521 tccagttacc tgaatgtcca gcgggagaat gggaccgtct ccagatacgg tgagggccag
+     2581 ccctcaggca ggagggttca ccgtgggaac agggcaggcc agcataaggt gggggctgga
+     2641 tgtagagccc tggaggcttt gggcacagag aaataaccac taacattttt gagctcttac
+     2701 cacgtgctca gaaaaaatcc ctaagaagac actgagagaa ttagatgagg aaacataaga
+     2761 acagagacct caaatagttt ccccaaggtc acacagctta taattagaac tagaattgga
+     2821 actccaggct ggcttcagat ctgcctctct ctcacgccct ctttaagatc ctttgcaaac
+     2881 caatggtaga agcctgtatg ttggagaggt ggtaccttca actatgtccc ccatcaccgc
+     2941 agaggtggca catggcaggg atctgatgga gctgaactga catcatttag catcccgagc
+     3001 ctcctctctg ggcctcattt tcctcctctg taaaacgggg agaaaggccc tgacagccac
+     3061 agtctgtgtg aggctcctga gatctcatgt acagaaagtg cttggcgtgg agctgggcac
+     3121 gcagcagggg ctgggcacac ggtggcccaa aggagacccg ggccttcact gatgggcttt
+     3181 gtggccccgg acacacctag gactcctcac ctgtaagaca ggcaccattg tgccatccca
+     3241 tgttctcacc cagaggctct ttttctcttc cagagggagg ccgagaacat gttgctcacc
+     3301 tgctgttcct tagggacacc aagaccttga tgtttggttc ctacctggac gatgagaaga
+     3361 actgggggct gtctttctat ggtaggcatg cttagcagcc ccaaactcat gcccctctca
+     3421 ggcctcaccc cccattcacc cacccctggg ctggccccta gaaccccagc cctccctggc
+     3481 ctccgccggg ccccaccatg tccccagtca gtctccttgc tccccctgca gctgacaagc
+     3541 cagagacgac caaggagcaa ctgggagagt tctacgaagc tctcgactgc ttgtgcattc
+     3601 ccaggtcaga tgtcatgtac accgactgga aaaaggtaaa cgcaagggat tggacattgc
+     3661 ccaccttgtc catggcccaa cttgggcagc cccagaggcc cagagcagga aagctgccag
+     3721 gcaaggctgc acagctaggc agatcttctg cttttaggca cctgcctcac tgtagggaca
+     3781 gctgagctct acagaggccc aggggtggtg gatgagagcc caggagggag aagtccctgt
+     3841 gaaaccaggg aggacctgaa agctaacagg agggaacagc gtgagccacg gggttggggg
+     3901 attggcaatt ggaggggacg taatgcgggg agttaccacc tacagacgcg tcccaaaccc
+     3961 caggctttca ccccaacctc cactccccgc tcatttttaa tacccgtgca gtggggaatt
+     4021 gatactgtgg ttttcaatgt cacccacact gcagcacggc cacagtcacc atcccgattt
+     4081 ttgctacaaa tgaaaattac tgtataatga gctccttaac acttttcttt aaacctgtgt
+     4141 ttggaagact tgtgttggtg tggccctgtg ccctaatacc tgtgaaatca cagcaccgat
+     4201 gagctggttc caatttttaa aatatataca tgcagtactt ccatgactat tcaaagaaaa
+     4261 acaattcctt ccatttgcca cctgagatga ccaccaggga tgtgaactac ctcctgcccc
+     4321 atccccagcc ccaggatcct gggacagggc ttatgaacgc aaccactgta gtcagctcac
+     4381 ttgatccaca gcctggcacc tccactgtct ggctagggag cctcgaatgg gtcccaaggc
+     4441 caccctgctc ctcagttaca tcatctgcat agtagtggtg gttgtgagga attcaggagc
+     4501 tgcagcataa gggccctgca ggtactatgt gctcagtaaa tgccagtggt tcttaagggt
+     4561 ctgagctccc attgtagagg caagtaagct gaggttcaga gacagaaaat gacttgccca
+     4621 agatcaccca gctgggaagt gacagtgcca gggttggagc cctggttgag ctggttccac
+     4681 aggccagagc tcattctgcc ctctccccgg aagacctccc accctgtccc catgcctctg
+     4741 cttctccctc accccaattc cccgctgcct tctaggataa gtgtgagcca ctggagaagc
+     4801 agcacgagaa ggagaggaaa caggaggagg gggaatccta gcaggacaca gccttggatc
+     4861 aggacagaga cttgggggcc atcctgcccc tccaacccga catgtgtacc tcagcttttt
+     4921 ccctcacttg catcaataaa gctt
+//
+

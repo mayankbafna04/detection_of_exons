@@ -1,0 +1,101 @@
+LOCUS       X12794                  2380 bp    DNA     linear   PRI 18-APR-2005
+DEFINITION  Human v-erbA related ear-2 gene.
+ACCESSION   X12794
+VERSION     X12794.1
+KEYWORDS    DNA-binding protein; ear-2 gene; hormone receptor; receptor.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2380)
+  AUTHORS   Miyajima,N., Kadowaki,Y., Fukushige,S., Shimizu,S., Semba,K.,
+            Yamanashi,Y., Matsubara,K., Toyoshima,K. and Yamamoto,T.
+  TITLE     Identification of two novel members of erbA superfamily by
+            molecular cloning: the gene products of the two are highly related
+            to each other
+  JOURNAL   Nucleic Acids Res. 16 (23), 11057-11074 (1988)
+   PUBMED   2905047
+REFERENCE   2  (bases 1 to 2380)
+  AUTHORS   Miyajima,N.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-SEP-1988) Miyajima N., Department of Oncology, The
+            Institute of Medical Science, The University of Tokyo, 4-6-1
+            Shirokanedai Minato-ku, Tokyo, 108 Japan
+COMMENT     cell line=TIG-1; clone=lambda A14.
+FEATURES             Location/Qualifiers
+     source          1..2380
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="19"
+                     /tissue_type="lung"
+                     /dev_stage="12-week old embryo"
+     CDS             703..1914
+                     /note="unnamed protein product; ear-2 gene product"
+                     /codon_start=1
+                     /protein_id="CAA31282.1"
+                     /db_xref="GDB:119878"
+                     /db_xref="GOA:P10588"
+                     /db_xref="HGNC:HGNC:7977"
+                     /db_xref="InterPro:IPR000536"
+                     /db_xref="InterPro:IPR001628"
+                     /db_xref="InterPro:IPR001723"
+                     /db_xref="InterPro:IPR003068"
+                     /db_xref="InterPro:IPR008946"
+                     /db_xref="InterPro:IPR013088"
+                     /db_xref="InterPro:IPR013629"
+                     /db_xref="UniProtKB/Swiss-Prot:P10588"
+                     /translation="MAMVTGGWGGPGGDTNGVDKAGGYPRAAEDDSASPPGAASDAEP
+                     GDEERPGLQVDCVVCGDKSSGKHYGVFTCEGCKSFFKRTIRRNLSYTCRSNRDCQIDQ
+                     HHRNQCQYCRLKKCFRVGMRKEAVQRGRIPHSLPGAVAASSGSPPGSALAAVASGGDL
+                     FPGQPVSELIAQLLRAEPYPAAAGRFGAGGGAAGAVLGIDNVCELAARLLFSTVEWAR
+                     HGFFPELPVADQVALLRMSWSELFVLNAAQAALPLHTAPLLAAAGLHAAPMAAERAVA
+                     FMDQVRAFQEQVDKLGRLQVDSAEYGCLKAIALFTPDACGLSDPAHVESLQEKAQVAL
+                     TEYVRAQYPSQPQRFGRLLLRLPALRAVPASLISQLFFMRLVGKTPIETLIRDMLLSG
+                     STFNWPYGSGQ"
+     misc_feature    868..1065
+                     /note="put. DNA-binding domain"
+ORIGIN      
+        1 ctgtgtgtca aaccggccgc agcgcgaggc cggcgcgcgg ggtcggtggc ggtggcggcg
+       61 gcgagagcga ggcttgggcc caggcgcagg cccaggccag gcaggagcgg ccgcagcggg
+      121 ggcggcagct ccagaggcgc cggcccagcg gccctgcagg cccggagcgg cagccgcggg
+      181 cgccggggga cccagggggc gcggcgatca ccccggcgcg cacccgccgc ccctcccccc
+      241 cgccacgggc ggccgcgcaa cttgcggcca aactttcccc ccggcctccc gcgctcggat
+      301 ggcggcccgc tgagttggcc gcagcccccg ggcgagcggc ggccaggcca gaggacgccc
+      361 cctgcgcggc tcgggccggg ccatggccgc gcgcccccgc cggggcccca gggcggcggg
+      421 acggagtcca tctgggcccc cggcccgcgc ctctagcgtg cccctcccgg ccccgggccc
+      481 ggccccgcgc acggtgggaa agttggcctg gaaccggccc gaccagttcc gcccgggcgc
+      541 gaggaccggc cgcagaagtt gctgcaaaac ttttttgggg ggtgcagccc gtgccccccg
+      601 cgcgccgggg ccgaatgcgc gccgcgtagg gtcccccggg ccgagagggg tgcccggagg
+      661 aagagcgcgg tgggggcgcc ccggccccgc tgccctgggg ctatggccat ggtgaccggc
+      721 ggctggggcg gccccggcgg cgacacgaac ggcgtggaca aggcgggcgg ctacccgcgc
+      781 gcggccgagg acgactcggc ctcgcccccc ggtgccgcca gcgacgccga gccgggcgac
+      841 gaggagcggc cggggctgca ggtggactgc gtggtgtgcg gggacaagtc gagcggcaag
+      901 cattacggtg tcttcacctg cgagggctgc aagagctttt tcaagcgaac gatccgccgc
+      961 aacctcagct acacctgccg gtccaaccgt gactgccaga tcgaccagca ccaccggaac
+     1021 cagtgccagt actgccgtct caagaagtgc ttccgggtgg gcatgaggaa ggaggcggtg
+     1081 cagcgcggcc gcatcccgca ctcgctgcct ggtgccgtgg ccgcctcctc gggcagcccc
+     1141 ccgggctcgg cgctggcggc agtggcgagc ggcggagacc tcttcccggg gcagccggtg
+     1201 tccgaactga tcgcgcagct gctgcgcgct gagccctacc ctgcggcggc cggacgcttc
+     1261 ggcgcagggg gcggcgcggc gggcgcggtg ctgggcatcg acaacgtgtg cgagctggcg
+     1321 gcgcggctgc tcttcagcac cgtggagtgg gcgcgccacg gcttcttccc cgagctgccg
+     1381 gtggccgacc aggtggcgct gctgcgcatg agctggagcg agctcttcgt gctgaacgcg
+     1441 gcgcaggcgg cgctgcccct gcacacggcg ccgctactgg ccgccgccgg cctccacgcc
+     1501 gcgcctatgg ccgccgagcg cgccgtggct ttcatggacc aggtgcgcgc cttccaggag
+     1561 caggtggaca agctgggccg cctgcaggtc gactcggccg agtatggctg cctcaaggcc
+     1621 atcgcgctct tcacgcccga cgcctgtggc ctctcagacc cggcccacgt tgagagcctg
+     1681 caggagaagg cgcaggtggc cctcaccgag tatgtgcggg cgcagtaccc gtcccagccc
+     1741 cagcgcttcg ggcgcctgct gctgcggctc cccgccctgc gcgcggtccc tgcctccctc
+     1801 atctcccagc tgttcttcat gcgcctggtg gggaagacgc ccattgagac actgatcaga
+     1861 gacatgctgc tgtcggggag taccttcaac tggccctacg gctcgggcca gtgaccatga
+     1921 cggggccacg tgtgctgtgg ccaggcctgc agacagacct caagggacag ggaatgctga
+     1981 ggcctcgagg ggcctcccgg ggcccaggac tctggcttct ctcctcagac ttctattttt
+     2041 taaagactgt gaaatgtttg tcttttctgt tttttaaatg atcatgaaac caaaaagaga
+     2101 ctgatcatcc aggcctcagc ctcatcctcc ccaggacccc tgtccaggat ggagggtcca
+     2161 atcctaggac agccttgttc ctcagcaccc ctagcatgaa cttgtgggat ggtggggttg
+     2221 gcttccctgg catgatggac aaaggcctgg cgtcggccag aggggctgct ccagtgggca
+     2281 ggggtagcta gcgtgtgcca ggcagatcct ctggacacgt aacctatgtc agacactaca
+     2341 tgatgactca aggccaataa taaagacatt tcctacctgc
+//
+

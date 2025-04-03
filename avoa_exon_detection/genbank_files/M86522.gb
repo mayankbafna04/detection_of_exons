@@ -1,0 +1,73 @@
+LOCUS       HUMGLUDECA              1782 bp    DNA     linear   PRI 27-APR-1993
+DEFINITION  Human glutamate decarboxylase, complete cds.
+ACCESSION   M86522
+VERSION     M86522.1
+KEYWORDS    glutamate decarboxylase.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1782)
+  AUTHORS   Giorda,R., Peakman,M., Vergani,D. and Trucco,M.
+  TITLE     Sequence of glutamic acid decarboxylase transcripts in human
+            pancreatic islets and brain
+  JOURNAL   Unpublished
+COMMENT     Original source text: Homo sapiens adult pancreatic islets and
+            brain DNA.
+FEATURES             Location/Qualifiers
+     source          1..1782
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /cell_type="beta cells"
+                     /tissue_type="pancreatic islets and brain"
+                     /dev_stage="adult"
+     CDS             1..1782
+                     /codon_start=1
+                     /product="glutamate decarboxylase"
+                     /protein_id="AAA35900.1"
+                     /translation="MASSTPSSATSSNAGQDPNTTNLRPTTYDTWCGVAHGCTRKLGL
+                     KICGFLQRTNSLEEKSRLVSAFKERQSSKNLLSCENSDRDARFRRTETDFSNLFARDL
+                     LPAKNGEEQTVQFLLEVVDILLNYVRKTFDRSAKVLEFRHPHQLLEGMEGFNLELSDH
+                     PESLEQILVDCRDTLKYGVRTGHPRFFNQLSTGLDIIGLAGEWLTSTANTNMFTYEIA
+                     PVFVLMEQITLKKMREIVGWSSKDGDGIFSPGGAISNMYSIMAARYKYFPEVKTKGMA
+                     AVPKLVLFTSEQSHYSIKKAGAALGFGTDNVILIKCNERGKIIPADFEAKILEAKQKG
+                     YVPFYVNATAGTTVYGAFDPIQEIADICEKYNLWLHVDAAWGGGLLMSRKHRHKLNGI
+                     ERANSVTWNPHKMMGVLLQCSAILVKEKGILQGCNQMCAGYLFQPDKQYDVSYDTGDK
+                     AIQCGRHVDIFKFWLMWKAKGTVGFENQINKCLELAEYLYAKIKNREEFEMVFNGEPE
+                     HTNVCFWYIPQSLRGVPDSPQRREKLHKVAPKIKALMMESGTTMVGYQPQGDKANFFR
+                     MVISNPAATQSDIDFLIEEIERLGQDL"
+ORIGIN      
+        1 atggcgtctt cgaccccttc gtccgcaacc tcctcgaacg cgggacagga ccccaatacc
+       61 actaacctgc gccccacaac gtacgatacc tggtgcggcg tggcccacgg atgcaccaga
+      121 aaactggggc tcaagatctg cggcttcttg caaaggacca acagcctgga agagaagagt
+      181 cgccttgtga gtgccttcaa ggagaggcaa tcctccaaga acctgctttc ctgtgaaaac
+      241 agcgaccggg atgcccgctt ccggcgcaca gagactgact tctctaatct gtttgctaga
+      301 gatctgcttc cggctaagaa cggtgaggag caaaccgtgc aattcctcct ggaagtggtg
+      361 gacatactcc tcaactatgt ccgcaagaca tttgatcgct ccgccaaggt gctggaattt
+      421 cgtcacccac accagttgct ggaaggcatg gagggcttca acttggagct ctctgaccac
+      481 cccgagtccc tggagcagat cctggttgac tgcagagaca ccttgaagta tggggttcgc
+      541 acaggtcatc ctcgattttt caaccagctc tccactggat tggatattat tggcctagct
+      601 ggagaatggc tgacatcaac tgccaatacc aacatgttta catatgaaat tgcaccagtg
+      661 tttgtcctca tggaacaaat aacacttaag aagatgagag agatagttgg atggtcaagt
+      721 aaagatggtg atgggatatt ttctcctggg ggcgccatat ccaacatgta cagcatcatg
+      781 gctgctcgct acaagtactt cccggaagtt aagacaaagg gcatggcggc tgtgcctaaa
+      841 ctggtcctct tcacctcaga acagagtcac tattccataa agaaagctgg ggctgcactt
+      901 ggctttggaa ctgacaatgt gatcttgata aagtgcaatg aaagggggaa aataattcca
+      961 gctgattttg aggcaaaaat tcttgaagcc aaacagaagg gatatgttcc cttttatgtc
+     1021 aatgcaactg ctggcacgac tgtttatgga gcttttgatc cgatacaaga gattgcagat
+     1081 atatgtgaga aatataacct ttggttgcat gtcgatgctg cctggggagg tgggctgctc
+     1141 atgtccagga agcaccgcca taaactcaac ggcatagaaa gggccaactc agtcacctgg
+     1201 aaccctcaca agatgatggg cgtgctgttg cagtgctctg ccattctcgt caaggaaaag
+     1261 ggtatactcc aaggatgcaa ccagatgtgt gcaggatacc tcttccagcc agacaagcag
+     1321 tatgatgtct cctacgacac cggggacaag gcaattcagt gtggccgcca cgtggatatc
+     1381 ttcaagttct ggctgatgtg gaaagcaaag ggcacagtgg gatttgaaaa ccagatcaac
+     1441 aaatgcctgg aactggctga atacctctat gccaagatta aaaacagaga agaatttgag
+     1501 atggttttca atggcgagcc tgagcacaca aacgtctgtt tttggtatat tccacaaagc
+     1561 ctcaggggtg tgccagacag ccctcaacga cgggaaaagc tacacaaggt ggctccaaaa
+     1621 atcaaagccc tgatgatgga gtcaggtacg accatggttg gctaccagcc tcaaggggac
+     1681 aaggccaact tcttccggat ggtcatctcc aacccagccg ctacccagtc tgacattgac
+     1741 ttcctcattg aggagataga aagactgggc caggatctgt aa
+//
+

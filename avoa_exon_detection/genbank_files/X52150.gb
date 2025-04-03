@@ -1,0 +1,170 @@
+LOCUS       X52150                  3637 bp    DNA     linear   PRI 14-NOV-2006
+DEFINITION  Human DNA for arylsulphatase A (EC 3.1.6.1).
+ACCESSION   X52150
+VERSION     X52150.1
+KEYWORDS    arylsulphatase; lysosomal enzyme.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 650)
+  AUTHORS   Kreysing,J., von Figura,K. and Gieselmann,V.
+  TITLE     Structure of the arylsulfatase A gene
+  JOURNAL   Eur. J. Biochem. 191 (3), 627-631 (1990)
+   PUBMED   1975241
+REFERENCE   2  (bases 1 to 3637)
+  AUTHORS   Kreysing,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-MAR-1990) Kreysing J., Georg-August University
+            Biochemie II, Goalerstr 12D, 3400 Goettingen, F R G
+COMMENT     See <J04593> for mRNA sequence of arylsulphatase A.
+            
+            Data kindly reviewed (02-NOV-1990) by Hall L.
+FEATURES             Location/Qualifiers
+     source          1..3637
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="22"
+                     /clone="G1/1"
+                     /cell_type="leukocytes"
+                     /clone_lib="EMBL-3"
+     misc_feature    191..200
+                     /note="GC-box 1"
+     misc_feature    201..210
+                     /note="GC-box 2"
+     misc_feature    213..222
+                     /note="GC-box 3"
+     misc_feature    240..249
+                     /note="GC-box 4"
+     mRNA            join(256..847,997..1237,1352..1570,1645..1814,2127..2251,
+                     2342..2469,2720..2822,2938..3356)
+     prim_transcript 256..3356
+     exon            256..847
+                     /number=1
+     CDS             join(630..847,997..1237,1352..1570,1645..1814,2127..2251,
+                     2342..2469,2720..2822,2938..3257)
+                     /EC_number="3.1.6.1"
+                     /codon_start=1
+                     /product="arylsulphatase a"
+                     /protein_id="CAA36398.1"
+                     /db_xref="GDB:119007"
+                     /db_xref="GOA:P15289"
+                     /db_xref="HGNC:HGNC:713"
+                     /db_xref="InterPro:IPR000917"
+                     /db_xref="InterPro:IPR017849"
+                     /db_xref="InterPro:IPR017850"
+                     /db_xref="PDB:1AUK"
+                     /db_xref="PDB:1E1Z"
+                     /db_xref="PDB:1E2S"
+                     /db_xref="PDB:1E33"
+                     /db_xref="PDB:1E3C"
+                     /db_xref="PDB:1N2K"
+                     /db_xref="PDB:1N2L"
+                     /db_xref="PDB:2AIJ"
+                     /db_xref="PDB:2AIK"
+                     /db_xref="UniProtKB/Swiss-Prot:P15289"
+                     /translation="MGAPRSLLLALAAGLAVARPPNIVLIFADDLGYGDLGCYGHPSS
+                     TTPNLDQLAAGGLRFTDFYVPVSLCTPSRAALLTGRLPVRMGMYPGVLVPSSRGGLPL
+                     EEVTVAEVLAARGYLTGMAGKWHLGVGPEGAFLPPHQGFHRFLGIPYSHDQGPCQNLT
+                     CFPPATPCDGGCDQGLVPIPLLANLSVEAQPPWLPGLEARYMAFAHDLMADAQRQDRP
+                     FFLYYASHHTHYPQFSGQSFAERSGRGPFGDSLMELDAAVGTLMTAIGDLGLLEETLV
+                     IFTADNGPETMRMSRGGCSGLLRCGKGTTYEGGVREPALAFWPGHIAPGVTHELASSL
+                     DLLPTLAALAGAPLPNVTLDGFDLSPLLLGTGKSPRQSLFFYPSYPDEVRGVFAVRTG
+                     KYKAHFFTQGSAHSDTTADPACHASSSLTAHEPPLLYDLSKDPGENYNLLGGVAGATP
+                     EVLQALKQLQLLKAQLDAAVTFGPSQVARGEDPALQICCHPGCTPRPACCHCPDPHA"
+     intron          848..996
+                     /number=1
+     exon            997..1237
+                     /number=2
+     intron          1238..1351
+                     /number=2
+     exon            1352..1570
+                     /number=3
+     intron          1571..1644
+                     /number=3
+     exon            1645..1814
+                     /number=4
+     intron          1815..2126
+                     /number=4
+     exon            2127..2251
+                     /number=5
+     intron          2252..2341
+                     /number=5
+     exon            2342..2469
+                     /number=6
+     intron          2470..2719
+                     /number=6
+     exon            2720..2822
+                     /number=7
+     intron          2823..2937
+                     /number=7
+     exon            2938..3356
+                     /number=8
+     regulatory      3351..3356
+                     /regulatory_class="polyA_signal_sequence"
+ORIGIN      
+        1 agccgctcct cctctgagaa gctccggacc cgagaggaca ccgacactgc gcagcgccga
+       61 gcccgcgcgc agcccggacg cctcagccag ggccgaccgc gcagaggaag ctcccagagc
+      121 ccgtttcaag accgcagcca acagcctcag gcgcacacgg cggcctcgga gcgagcacgc
+      181 gcagcaacgc ccctcgcccc ggcccgcccc cggccccgcc ccgcaagggt cacaggtcac
+      241 ggggcggggc cgaggcggaa gcgcccgcag cccggtaccg gctcctcctg ggctccctct
+      301 agcgccttcc ccccggcccg actgcctggt cagcgccaag tgacttacgc ccccgaccct
+      361 gagcccggac cgctaggcga ggaggatcag atctccgctc gagaatctga aggtgccctg
+      421 gtcctggagg agttccgtcc cagccctgcg gtctcccggt actgctcgcc ccggccctct
+      481 ggagcttcag gaggcggccg tcagggtcgg ggagtatttg ggtccggggt ctcagggaag
+      541 ggcggcgcct gggtctgcgg tatcggaaag agcctgctgg agccaagtag ccctccctct
+      601 cttgggacag acccctcggt cccatgtcca tgggggcacc gcggtccctc ctcctggccc
+      661 tggctgctgg cctggccgtt gcccgtccgc ccaacatcgt gctgatcttt gccgacgacc
+      721 tcggctatgg ggacctgggc tgctatgggc accccagctc taccactccc aacctggacc
+      781 agctggcggc gggagggctg cggttcacag acttctacgt gcctgtgtct ctgtgcacac
+      841 cctctaggta aagagggggc cgcgcctctt ccccgccccg accctccatc cctttcctcc
+      901 caatggattg caggggggcg ggaaaaacgt ctgtctctct ctctagggaa ggccacattt
+      961 ctgtctgtct cagggactct gtgacttgtc ccgcagggcc gccctcctga ccggccggct
+     1021 cccggttcgg atgggcatgt accctggcgt cctggtgccc agctcccggg ggggcctgcc
+     1081 cctggaggag gtgaccgtgg ccgaagtcct ggctgcccga ggctacctca caggaatggc
+     1141 cggcaagtgg caccttgggg tggggcctga gggggccttc ctgccccccc atcagggctt
+     1201 ccatcgattt ctaggcatcc cgtactccca cgaccaggta ggaaccaccc gggccctcag
+     1261 ccaccctccc acctcccaaa gtcccccagc cccttgactg tcccgcagcc ccacctgcca
+     1321 gcccagccct cacggcagct gcccgcctca gggcccctgc cagaacctga cctgcttccc
+     1381 gccggccact ccttgcgacg gtggctgtga ccagggcctg gtccccatcc cactgttggc
+     1441 caacctgtcc gtggaggcgc agcccccctg gctgcccgga ctagaggccc gctacatggc
+     1501 tttcgcccat gacctcatgg ccgacgccca gcgccaggat cgccccttct tcctgtacta
+     1561 tgcctctcac gtaagtgatc ttggcccaac cccctggctg cccgttgacc cctacccagt
+     1621 gctaactcca gtctttgccc ccagcacacc cactaccctc agttcagtgg gcagagcttt
+     1681 gcagagcgtt caggccgcgg gccatttggg gactccctga tggagctgga tgcagctgtg
+     1741 gggaccctga tgacagccat aggggacctg gggctgcttg aagagacgct ggtcatcttc
+     1801 actgcagaca atgggtatgc cagcagggca gctgggtgct ccggccctgt cacgggccag
+     1861 ggcctggagg ccttgcagtt cagctgcttg ccaagaacat agtgggtgag ggggtgccag
+     1921 gagatgctgg ccacgttgca ggggcccaag gtgtagtcag gagacacagg tgcacagaga
+     1981 gctggtcttg gtaggcctgg gaggtgccgg gctcatgctg ggcacctccg ggcaagcttt
+     2041 gtgacttaga ggtgtggggc cactggtcac cctcggtggc tcagaggctg tggctccatg
+     2101 gctcatgagc gcctcctgtg tcccagacct gagaccatgc gtatgtcccg aggcggctgc
+     2161 tccggtctct tgcggtgtgg aaagggaacg acctacgagg gcggtgtccg agagcctgcc
+     2221 ttggccttct ggccaggtca tatcgctccc ggtcagtccg caggccctct ccttggaacc
+     2281 ctggccccac caccccaacc ttgatggcga actgagtgac tgaccagcct cctgccccca
+     2341 ggcgtgaccc acgagctggc cagctccctg gacctgctgc ctaccctggc agccctggct
+     2401 ggggccccac tgcccaatgt caccttggat ggctttgacc tcagccccct gctgctgggc
+     2461 acaggcaagg tagggccggt gacccctgat cccagatcct tggcccctgt cctggccttc
+     2521 ccctggggtg agtgtggcag tgctgagagt ctgtgcctca gtgcctcctg cactgagtgg
+     2581 catccaagtg gcgccacctc tcaggttcct gggtgggcaa gaagcggtgc acgtccaggg
+     2641 cctcccacca gggctggcag cccaggtatg tgcagtgctt gggcctgccc cgccccgtga
+     2701 cccctgactc tgcccccaga gccctcggca gtctctcttc ttctacccgt cctacccaga
+     2761 cgaggtccgt ggggtttttg ctgtgcggac tggaaagtac aaggctcact tcttcaccca
+     2821 gggtaacccc tccccgtgga tccctccccc cgaacctgct gacccctccc cggagcccta
+     2881 gatccctggc ccctcctctc gcccttgccc tgtgcacaga attggccccc tccccaggct
+     2941 ctgcccacag tgataccact gcagaccctg cctgccacgc ctccagctct ctgactgctc
+     3001 atgagccccc gctgctctat gacctgtcca aggaccctgg tgagaactac aacctgctgg
+     3061 ggggtgtggc cggggccacc ccagaggtgc tgcaagccct gaaacagctt cagctgctca
+     3121 aggcccagtt agacgcagct gtgaccttcg gccccagcca ggtggcccgg ggcgaggacc
+     3181 ccgccctgca gatctgctgt catcctggct gcaccccccg cccagcttgc tgccattgcc
+     3241 cagatcccca tgcctgaggg cccctcggct ggcctgggca tgtgatggct cctcactggg
+     3301 agttgtgggg gaggctcagg tgtctggagg gggtttgtgc ctgataacgt aataacacca
+     3361 gtggagactt gcagctgtga caattcgacc aatcctgggg taatgctgtg tgctggtgcc
+     3421 ggtcccctgt ggtacgaatg aggaaactga ggtgcagaga ggttcaggac ttgtacaaga
+     3481 tcacccagcc agaaagaggt tgggctggga tttgaaccct ggtgtcgtgg ctctggaagc
+     3541 tgccctggcg ctccttggtg atctgcgtgg gtctgtgcac acaggcacac gtcagccaca
+     3601 aggcacatgg acgagcgcac gtgcttgagt gcaggac
+//
+

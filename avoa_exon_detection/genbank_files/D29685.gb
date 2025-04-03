@@ -1,0 +1,95 @@
+LOCUS       HUMHLGS                 2373 bp    mRNA    linear   PRI 19-MAY-2006
+DEFINITION  Homo sapiens HLGS mRNA for liver glycogen synthase, complete cds.
+ACCESSION   D29685
+VERSION     D29685.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2373)
+  AUTHORS   Nakabayashi,H. and Nakayama,T.
+  TITLE     Human liver glycogen synthase cDNA
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 2373)
+  AUTHORS   Nakabayashi,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-MAR-1994) Hiroki Nakabayashi, Nihon University School
+            of Medicine, Medical Reserch Institute; Oyaguchikami-machi,
+            Itabashi-ku, Tokyo 173, Japan (Tel:81-3-3972-8111(ex.2330),
+            Fax:81-3-3972-8830)
+FEATURES             Location/Qualifiers
+     source          1..2373
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="12"
+                     /clone="HLGS"
+                     /sex="female"
+                     /tissue_type="liver"
+                     /note="caucasian"
+     gene            1..2373
+                     /gene="HLGS"
+     CDS             255..2369
+                     /gene="HLGS"
+                     /EC_number="2.4.1.11"
+                     /codon_start=1
+                     /product="liver glycogen synthase"
+                     /protein_id="BAA06154.1"
+                     /translation="MLRGRSLSVTSLGGLPQWEVEELPVEELLLFEVAWEVTNKVGGI
+                     YTVIQTKAKTTADEWGENYFLIGPYFEHNMKTQVEQCEPVNDAVRRAVDAMNMHGCQV
+                     HFGRWLIEGSPYVVLFDIGYSAWNLDRWKGDLWEACSVGIPYHDREANDMLIFGSLTA
+                     WFLKEVTDHADGKYVVARFHEWQAGVGLILSRARKLPIATIFTTHATLLGRYLCAANI
+                     DFYNHLDKFNIDKEAGERQIYHRYCMERASVHCAHVFTTVSEITAIEAEHMLKRKPDV
+                     VTPNGLNVKKFSAVHEFQNLHAMYKARIQDFVRGHFYGHLDFDLEKTLFLFIAGRYEF
+                     FKTKGADIFLDSLSRLNFLLRMHKSDITVVVFFIMPAKTNNFNVETLKGQAVRKQLWD
+                     VAHSVKEKFGKKLYDALLRGEIPDLNDILDRDDLTIMKRAIFSTQRQSLAPVTTHNMI
+                     DDSTDPILSTIRRIGLFNNRTDRVKVILHPEFLSSTSPLLPMDYEEFVRGCHLGVFPS
+                     YYEPWGYTPAECTVMGIPSVTTNLSGFGCFMQEHVADPTAYGIYIVDRRFRSPDDSCN
+                     QLTKFLYGFCNMSRRQRFIQRNRTERLSDLLDWRYLGRYYQHARHLTLSRAFPDKFHV
+                     ELTSPPTTEGFKYPRPSSVPPSPSGSQASSPQSSDVEDEVEDERYDEEEEAERDRLNI
+                     KSPFSLSHVPHGKKKLHGEYKN"
+ORIGIN      
+        1 agatactgac agggcagata ccgtcctcac aatacctgcc cagaaagacg agaaagagga
+       61 ggaagaattc ctccttccac caggaattct gtgggaagca cataagattt catgctacta
+      121 gtttattccc aagagaagct accaaagcct ggtaactcta ccaactctaa cttttgtgcc
+      181 tgtaagttct cttctcctgg gattacaact aattgaaaca ggaatcaaag gagtctcggt
+      241 ggactgtaag aagaatgctt cgaggccgat ccctctctgt aacatccctg ggtgggcttc
+      301 cccagtggga agtcgaagaa cttcctgtgg aggagttact gctctttgaa gttgcttggg
+      361 aagtgaccaa taaagttgga ggcatctata ctgtgattca gacaaaggcc aaaacaacag
+      421 cagatgaatg gggagagaac tattttctga taggtccata ttttgagcat aatatgaaga
+      481 ctcaggtgga acagtgtgaa cctgtaaatg atgctgtcag aagagcagtg gacgcaatga
+      541 atatgcatgg ctgccaggtg cattttggaa gatggctgat agaaggaagt ccttatgtgg
+      601 tactttttga cataggctat tcagcttgga atctggacag gtggaagggt gacctctggg
+      661 aagcatgcag tgtcggcatt ccttatcatg accgagaagc caatgatatg ctgatatttg
+      721 gatctttaac tgcctggttc ttaaaagaag tgacagatca tgcagatggt aaatatgtcg
+      781 ttgcccggtt ccatgaatgg caggctggag ttggactgat cctttctcga gccaggaaac
+      841 ttcctattgc cacaatattt acaacccacg ctacactact tgggaggtat ctctgtgcag
+      901 caaatattga tttctacaac catcttgata agtttaacat tgacaaagag gctggggaaa
+      961 ggcagattta ccaccggtac tgcatggagc gagcttccgt tcattgcgct cacgtgttca
+     1021 ccacggtttc tgaaataaca gcaatagaag ctgaacatat gctgaagaga aagcctgatg
+     1081 tagttactcc aaacggcttg aatgttaaga aattttcagc agtgcatgag tttcaaaatc
+     1141 tacatgccat gtacaaggcc agaatccaag attttgttcg aggtcatttc tatggtcatc
+     1201 tcgactttga tcttgaaaag actttgttcc ttttcattgc tgggaggtat gagtttttca
+     1261 aaacaaaagg agctgacatc ttcctagatt ccttatccag gctaaatttc ctgctgagga
+     1321 tgcataaaag tgacatcaca gtggtggtgt ttttcattat gcctgccaag acaaataatt
+     1381 tcaacgtgga aaccctgaaa ggacaagcag tgcgaaaaca gctgtgggat gttgcacatt
+     1441 ctgtgaagga aaagtttgga aaaaaactct atgatgcatt attaagagga gaaattcctg
+     1501 acctgaacga tattttagat cgagatgatc taacaattat gaaaagagcc atcttttcaa
+     1561 ctcagcgaca gtcattagcc ccagtgacca cgcacaacat gattgatgac tccaccgacc
+     1621 ccatcctcag caccattaga cggattggac ttttcaacaa ccgcacagat agagtcaagg
+     1681 tgattttgca cccagagttt ctatcctcca ccagtccctt actacccatg gactatgaag
+     1741 agtttgttag aggttgtcat cttggagtat ttccatcata ctatgaaccc tggggttata
+     1801 ctccagctga atgcactgtg atgggtatcc ccagtgtgac cacgaatctc tccgggtttg
+     1861 gctgtttcat gcaggagcac gtggctgatc ctactgctta cggtatttac atcgttgaca
+     1921 ggcggttccg ttctccagat gattcttgca atcagctgac taagtttctc tatggatttt
+     1981 gcaacatgtc acgccgccaa aggtttatcc agaggaacag aactgagagg ctctcagatc
+     2041 ttctggattg gagatactta ggcagatatt accagcatgc cagacacctg acattaagca
+     2101 gagcttttcc agataaattc catgtggaac taacatcacc accaacgaca gaaggattta
+     2161 aatatcccag gccttcctca gtaccacctt ctccttcagg gtctcaggcc tccagtcctc
+     2221 agagcagtga tgtggaagat gaagtggagg atgagagata cgatgaggaa gaggaggctg
+     2281 aaagggatcg gttaaatatc aagtcaccat tttcactgag ccacgttcct catgggaaga
+     2341 aaaagctgca tggtgaatat aagaactgaa ttc
+//
+

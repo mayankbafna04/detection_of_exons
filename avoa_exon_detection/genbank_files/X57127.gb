@@ -1,0 +1,72 @@
+LOCUS       X57127                   889 bp    DNA     linear   PRI 18-APR-2005
+DEFINITION  H.sapiens H2B.1 gene for H2B histone.
+ACCESSION   X57127
+VERSION     X57127.1
+KEYWORDS    H2B.1 gene; histone H2B.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1
+  AUTHORS   Kardalinou,E., Eick,S., Albig,W. and Doenecke,D.
+  TITLE     Association of a human H1 histone gene with an H2A pseudogene and
+            genes encoding H2B.1 and H3.1 histones
+  JOURNAL   J. Cell. Biochem. 52 (4), 375-383 (1993)
+   PUBMED   8227173
+REFERENCE   2  (bases 1 to 889)
+  AUTHORS   Kardalinou,E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-DEC-1990) Kardalinou E., Zentrum Biochemie, Abteilung
+            Molecularbiologie, Humboldallee 23, D-3400 Goettinger, FRG
+FEATURES             Location/Qualifiers
+     source          1..889
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /clone="C3.1"
+                     /cell_type="leukocyte"
+     regulatory      157..161
+                     /regulatory_class="CAAT_signal"
+     regulatory      229..233
+                     /regulatory_class="CAAT_signal"
+     regulatory      275..280
+                     /regulatory_class="TATA_box"
+     gene            358..738
+                     /gene="H2B.1"
+     CDS             358..738
+                     /gene="H2B.1"
+                     /codon_start=1
+                     /product="histone H2B"
+                     /protein_id="CAA40406.1"
+                     /db_xref="GDB:6919033"
+                     /db_xref="GOA:P33778"
+                     /db_xref="HGNC:HGNC:4751"
+                     /db_xref="InterPro:IPR000558"
+                     /db_xref="InterPro:IPR007125"
+                     /db_xref="InterPro:IPR009072"
+                     /db_xref="UniProtKB/Swiss-Prot:P33778"
+                     /translation="MPEPSKSAPAPKKGSKKAITKAQKKDGKKRKRSRKESYSIYVYK
+                     VLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLL
+                     LPGELAKHAVSEGTKAVTKYTSSK"
+     regulatory      767..788
+                     /regulatory_class="terminator"
+                     /note="histone mRNA terminator"
+ORIGIN      
+        1 cattttccac gtccgcaaat agcgacctat gaaagcagcg gaaaactgtg aaagacaagc
+       61 aagctggaat ggcgcctgaa caaatccttt tatacaaact gcaaggctgc aataggaagc
+      121 tatcctattg gtcaattatg tttggtgctt tatccaatag aaaaagatgg cataaattcc
+      181 atatttgcat aaaccccacc cctcagtgaa ccgtgtttct tttgtccaat cagaagtgag
+      241 gaatcttaaa ccgtcatttg aatctcagga ctataaatac atgggctctg aactgttctc
+      301 tgtactactc tgtagtggag agtgttagta gcttttctat tctgtttagg aatagcaatg
+      361 cctgaaccct ctaagtctgc tccagcccct aaaaagggtt ctaagaaggc tatcactaag
+      421 gcgcagaaga aggatggtaa gaagcgtaag cgcagccgca aggagagcta ttctatctat
+      481 gtgtacaagg ttctgaagca ggtccacccc gacaccggca tctcatccaa ggccatgggg
+      541 atcatgaatt ccttcgtcaa cgacatcttc gagcgcatcg cgggcgaggc ttctcgcctg
+      601 gctcactaca ataagcgctc gaccatcacc tccagggaga ttcagacggc tgtgcgcctg
+      661 ctgctgcctg gggagctggc taagcatgct gtgtccgagg gcactaaggc agttaccaag
+      721 tacactagct ctaaataagt gcttatgtaa gcacttccaa acccaaaggc tcttttcaga
+      781 gccacctact ttgtcacaag gagagctata accacaattt cttaaggtgg tgctgctgct
+      841 attctgtttc agttctagag gtcaactgga atgttagcga gacagtttt
+//
+

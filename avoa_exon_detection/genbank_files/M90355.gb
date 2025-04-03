@@ -1,0 +1,41 @@
+LOCUS       HUMBTFC                  556 bp    DNA     linear   PRI 01-NOV-2018
+DEFINITION  Homo sapiens BTF3-like protein gene, partial cds.
+ACCESSION   M90355
+VERSION     M90355.2
+KEYWORDS    BTF3 protein homologue.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 556)
+  AUTHORS   Kanno,M., Chalut,C. and Egly,J.M.
+  TITLE     Genomic structure of the putative BTF3 transcription factor
+  JOURNAL   Gene 117 (2), 219-228 (1992)
+   PUBMED   1386332
+COMMENT     On Nov 1, 2018 this sequence version replaced M90355.1.
+FEATURES             Location/Qualifiers
+     source          1..556
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /cell_type="leukocyte"
+     CDS             363..>556
+                     /codon_start=1
+                     /product="BTF3-like protein"
+                     /protein_id="AAB04035.2"
+                     /translation="MKETIMNQEKLAKLQAKVPIGGTAHRKKVVHRTATANDKKRQFS
+                     LKKLEISGIEEVNMFTNQATV"
+ORIGIN      
+        1 ctttatcttt gatatttcct atttttaaaa aaacttatct gtgaattgat ttaatgattg
+       61 tgtatataaa tctgccaaaa ttatttcaat ggatgaaaca atgaatcagt acctatttat
+      121 atgctgccaa ggcacaccta taatttttta aatgatgata agagtagcct aaagcagtga
+      181 gcagacatct cagaaatttc agtgtaagtg gttttaactt gcaacatgat gccaaaaaac
+      241 ttagaacagg gagctgccat cttgcatccc cgtgtgtgtg cacctaatct cagctggttc
+      301 cccccagacc ccctgagcac caaccctagt cccccgcgca gccccttatc cgctgcgaca
+      361 agatgaaaga aacaatcatg aaccaggaaa aactcgccaa actgcaggca aaagtgccca
+      421 ttggtggaac tgctcacaga aagaaggtgg ttcacagaac agccacagca aatgataaaa
+      481 aacgtcagtt ctccttaaag aagttagaaa tctctggcat tgaagaggtg aatatgttta
+      541 caaaccaagc aacagt
+//
+

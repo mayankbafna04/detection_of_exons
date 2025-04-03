@@ -1,0 +1,52 @@
+LOCUS       HUMIL2AB                 442 bp    DNA     linear   PRI 06-JAN-1995
+DEFINITION  Human interleukin 2 gene, clone pATtacIL-2C/2TT, complete cds,
+            clone pATtacIL-2C/2TT.
+ACCESSION   M22005
+VERSION     M22005.1
+KEYWORDS    interleukin 2.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 442)
+  AUTHORS   Weir,M.P., Chaplin,M.A., Wallace,D.M., Dykes,C.W. and Hobden,A.N.
+  TITLE     Structure-activity relationships of recombinant human interleukin 2
+  JOURNAL   Biochemistry 27 (18), 6883-6892 (1988)
+   PUBMED   3264184
+COMMENT     Original source text: Human T-lymphocyte DNA, clone
+            pATtacIL-2C/2TT.
+FEATURES             Location/Qualifiers
+     source          1..442
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /map="4q26-q27"
+                     /cell_type="T-lymphocyte"
+     gene            22..426
+                     /gene="IL2"
+     CDS             22..426
+                     /gene="IL2"
+                     /note="precursor"
+                     /codon_start=1
+                     /product="interleukin 2"
+                     /protein_id="AAA59140.1"
+                     /db_xref="GDB:G00-119-344"
+                     /translation="MAPTSSSTKKTQLQLEHLLLDLQMILNGINNYKNPKLTRMLTFK
+                     FYMPKKATELKHLQCLEEELKPLEEVLNLAQSKNFHLRPRDLISNINVIVLELKGSET
+                     TFMCEYADETATIVEFLNRWITFCQSIISTLT"
+     mat_peptide     25..423
+                     /gene="IL2"
+                     /product="interleukin 2"
+                     /note="G00-119-344"
+ORIGIN      Chromosome 4q26-q27.
+        1 gatcctagga ggtttggtac catggctccg acgagcagct ccaccaagaa aacccagctc
+       61 cagctcgaac acctgctgct ggacctgcag atgatcctga acggtatcaa caactacaag
+      121 aacccgaaac tgactcgtat gctgaccttc aagttctaca tgccgaagaa agctaccgaa
+      181 ctgaaacacc tgcaatgcct cgaggaggag ctcaaaccgc tggaagaggt tctgaacctg
+      241 gctcagtcca agaacttcca cctgcgtccg cgcgacctga tctccaacat caacgttatc
+      301 gttctggaac tgaaaggcag tgagactacc ttcatgtgcg aatacgctga cgaaaccgct
+      361 actatcgttg aattcctgaa ccgttggatc accttctgtc agtccatcat ctccaccctg
+      421 acctaataac taactaagtc ga
+//
+

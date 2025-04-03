@@ -1,0 +1,77 @@
+LOCUS       HUMHEN2A                2156 bp    DNA     linear   PRI 31-DEC-1994
+DEFINITION  Homo sapiens helix-loop-helix protein (HEN2) gene, complete cds.
+ACCESSION   M97508
+VERSION     M97508.1
+KEYWORDS    helix-loop-helix protein.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2156)
+  AUTHORS   Brown,L., Espinosa,R. III, Le Beau,M.M., Siciliano,M.J. and Baer,R.
+  TITLE     HEN1 and HEN2: a subgroup of basic helix-loop-helix genes that are
+            coexpressed in a human neuroblastoma
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 89 (18), 8492-8496 (1992)
+   PUBMED   1528853
+COMMENT     Original source text: Homo sapiens (tissue library: Uni ZAP XR)
+            fetus brain DNA.
+FEATURES             Location/Qualifiers
+     source          1..2156
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /tissue_type="brain"
+                     /dev_stage="fetus"
+                     /tissue_lib="Uni ZAP XR"
+     gene            1..864
+                     /gene="HEN2"
+     intron          <1..262
+                     /gene="HEN2"
+     CDS             457..864
+                     /gene="HEN2"
+                     /codon_start=1
+                     /product="helix-loop-helix protein"
+                     /protein_id="AAA58635.1"
+                     /translation="MMLSPDQAADSDHPSSAHSDPESLGGTDTKVLGSVSDLEPVEEA
+                     EGDGKGGSRAALYPHPQQLSREEKRRRRRATAKYRSAHATRERIRVEAFNLAFAELRK
+                     LLPTLPPDKKLSKIEILRLAICYISYLNHVLDV"
+ORIGIN      
+        1 cccgcccccg tgaaaaccca gatgtattcg ttgttcgaaa tcgctcgttt gtccgggaag
+       61 gggacgaagg gagggaggag gaatagcgcg gttggcattt ggccggaaga ggcacaaaaa
+      121 cccagtcgcg accccacagg cctgcggttg ttccccaggc ccagggccac aggcccgctg
+      181 tggccgtctg caagtcgagg tgtccagtct agtatgcggc ctgggtcaac cgcgtccccg
+      241 ccggctcccg cgccagggcg aggcgcaggg ctcgcgccct cgggccagat cctatcggcg
+      301 ccctcccgcg tcgcgcgccg gcctgctgtg gggagggggc ccgggccgcg cgtccgctgg
+      361 gaggaccggc gtggtaggcc tcggcagcca tccttccagc aaaataccct gattcctttt
+      421 actgattaat tttccgaccc ctcctcagcc tccaaaatga tgctgagtcc ggaccaagca
+      481 gcagattcgg accatcccag ctcggcgcac tcggatccgg agtccctggg cggcacggac
+      541 accaaggtgc tcggcagcgt gtcggacctg gagccggtgg aggaggccga gggcgacggc
+      601 aagggcggca gccgagccgc gctctacccg cacccgcagc agctgagccg cgaggagaag
+      661 cgccgccgcc ggcgcgccac ggccaagtac cgctcggccc acgccacccg cgagcgcatc
+      721 cgcgtggaag ccttcaactt ggccttcgcc gagctccgca aattgctgcc cacgctgccc
+      781 ccggacaaga agctctccaa gatcgagatc ctgcgcctgg ccatctgcta catctcctat
+      841 ctcaaccacg tcctggacgt gtagggcggg gtgcgccgcg gggggccgcc tgtcccggcg
+      901 tccgcgaaac gctacggatc cggacgggcg ccgtcgctcg ggtggcggag gctgcggtgg
+      961 cccagcgaga cggccgcctc gagagacggc cggggaagaa gctcgctacc tgttctctct
+     1021 ggtcagcagg gcgacgaggg aaggtttccg acgcaggcag gtggggttgt ctggcgagcc
+     1081 ggggggctcg caggggggat tttccaggcc aggagaacct cgtggagaca cccgagatga
+     1141 gccacttctg gggctcccca agggttgtgg ttttaaccca ctggagactt tgagttctcc
+     1201 tacattcatc cgccacaaat cttaatgtgt tgaaagaatg agggcagaag ttcagagtat
+     1261 gcaggctcat aactttaagc tatctggaat ttttctaatg gacaaatcac caaacactgg
+     1321 gaaggaggag agaggaggga tctctcccat agagatggaa ggcacagaaa ggtgcgactg
+     1381 gaaactttcc tttctgttgt gaaaataaag attatattag aatccaaata aaccctgaat
+     1441 atttagtaag tttaaaaaga caaattgaga acaagtagac acactgtggg aggatctgag
+     1501 cttggtgata tttttatccc caagatatga caccaaggta gacaggaaaa tccatattta
+     1561 aatggaaact ttaatatctg attacttttg caggcgaagt gcccctttat atatccaaaa
+     1621 acatctattt gtgaccttaa acatgtggac ccataggtgc agttagaaaa agacaaccta
+     1681 tttttattta tgttagaagg agtagagtat ttttttcaag acatttattt ttcagagtgg
+     1741 tgatactttt actttggata ctctgtgcca atttatttat agtcaagtgt ttacactttt
+     1801 tcctgtggaa taattatgtc taacttttta cgtgtttgtt gagattatac tgtggtcttt
+     1861 ctttctgctc taattatatt gcacttgtat aacaaatttc ccacttctcc ctgtttctaa
+     1921 acatatttta tatattaaga tgtttgttct tgaaaggttc ttttgttgtg agatcagcaa
+     1981 cactagcact tcactattat agttttttaa aaagtgtatt attcttatct gtagttatgt
+     2041 ctgagaagtc ctttacaagc tgtttataag gagagtagct tctttgtgtg tgtgatgttt
+     2101 gtgcgtgtga tgaatttagc aaattaagtt attttcctaa aaaaaaaaaa aaaaaa
+//
+

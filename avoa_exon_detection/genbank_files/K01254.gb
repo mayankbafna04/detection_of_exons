@@ -1,0 +1,142 @@
+LOCUS       HUMGAST2                1217 bp    DNA     linear   PRI 08-AUG-1995
+DEFINITION  Human gastrin gene, complete cds.
+ACCESSION   K01254 J00147
+VERSION     K01254.1
+KEYWORDS    Alu repeat; gastrin; repeat region.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 601 to 815; 946 to 1136)
+  AUTHORS   Kato,K., Himeno,S., Takahashi,Y., Wakabayashi,T., Tarui,S. and
+            Matsubara,K.
+  TITLE     Molecular cloning of human gastrin precursor cDNA
+  JOURNAL   Gene 26 (1), 53-57 (1983)
+   PUBMED   6689486
+REFERENCE   2  (bases 600 to 815; 946 to 1139)
+  AUTHORS   Boel,E., Vuust,J., Norris,F., Norris,K., Wind,A., Rehfeld,J.F. and
+            Marcker,K.A.
+  TITLE     Molecular cloning of human gastrin cDNA: evidence for evolution of
+            gastrin by gene duplication
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 80 (10), 2866-2869 (1983)
+   PUBMED   6574456
+REFERENCE   3  (bases 471 to 1151)
+  AUTHORS   Wiborg,O., Berglund,L., Boel,E., Norris,F., Norris,K.,
+            Rehfeld,J.F., Marcker,K.A. and Vuust,J.
+  TITLE     Structure of a human gastrin gene
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 81 (4), 1067-1069 (1984)
+   PUBMED   6322186
+REFERENCE   4  (bases 1 to 1217)
+  AUTHORS   Ito,R., Sato,K., Helmer,T., Jay,G. and Agarwal,K.
+  TITLE     Structural analysis of the gene encoding human gastrin: the large
+            intron contains an Alu sequence
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 81 (15), 4662-4666 (1984)
+   PUBMED   6087340
+COMMENT     [WARNING] On Aug 1, 2016 this sequence was replaced by AH005301.2.
+            Original source text: Human fetal liver genomic DNA (Charon 4A
+            library of Lawn et al.), and gastrinoma, cDNA to mRNA (see
+            comment).
+            The gastrin-34 protein is also known as big gastrin and the
+            gastrin-17 form as little gastrin. Other portions of the propeptide
+            may have hormonal or enzymatic activity. [2] discusses the internal
+            homology between bases 699-776 and 798-875 below in terms of gene
+            duplication. Both [2] and [1] compare human and porcine sequences.
+            Complete source information:
+            Human fetal liver genomic DNA (Charon 4A library of Lawn et al.)
+            [1],[3],[4] and gastrinoma, cDNA to mRNA [2],[1].
+FEATURES             Location/Qualifiers
+     source          1..1217
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /map="17q"
+     prim_transcript <1..1139
+                     /note="gastrin mRNA (alt.) [2],[3],[4]"
+     prim_transcript <1..1138
+                     /note="gastrin mRNA (alt.) [3]"
+     prim_transcript <1..1136
+                     /note="gastrin mRNA (alt.) [1],[3]"
+     intron          <1..599
+                     /gene="GAS"
+                     /note="gastrin mRNA intron A"
+     repeat_region   171..499
+                     /gene="GAS"
+                     /note="Alu repeat"
+     misc_difference 601
+                     /gene="GAS"
+                     /note="conflict"
+                     /citation=[1]
+                     /replace=""
+     CDS             join(605..815,946..1040)
+                     /gene="GAS"
+                     /note="preprogastrin"
+                     /codon_start=1
+                     /protein_id="AAB59533.1"
+                     /translation="MQRLCVYVLIFALALAAFSEASWKPRSQQPDAPLGTGANRDLEL
+                     PWLEQQGPASHHRRQLGPQGPPHLVADPSKKQGPWLEEEEEAYGWMDFGRRSAEDEN"
+     sig_peptide     605..661
+                     /gene="GAS"
+                     /note="preprogastrin signal peptide"
+     mat_peptide     960..1010
+                     /gene="GAS"
+                     /product="gastrin g-17"
+     exon            <605..815
+                     /gene="GAS"
+                     /note="first expressed; G00-119-261"
+     exon            605..815
+                     /gene="GAS"
+                     /note="preprogastrin (first expressed); G00-119-261"
+     mat_peptide     779..1010
+                     /gene="GAS"
+                     /note="gastrin g-34"
+     intron          816..945
+                     /gene="GAS"
+                     /note="gastrin intron B"
+     misc_difference 861..863
+                     /gene="GAS"
+                     /note="conflict"
+                     /citation=[3]
+                     /replace=""
+     exon            946..1040
+                     /gene="GAS"
+                     /note="preprogastrin (second expressed)"
+     exon            946..>1040
+                     /gene="GAS"
+                     /note="second expressed; G00-119-261"
+     misc_difference 1087
+                     /note="conflict"
+                     /citation=[3]
+                     /replace=""
+     misc_difference 1108..1109
+                     /note="conflict"
+                     /citation=[1]
+                     /replace=""
+     misc_difference 1131
+                     /note="conflict"
+                     /citation=[1]
+                     /replace=""
+ORIGIN      About 3.2 kb after segment 1.
+        1 ctgcagaaca gaaactaggg aaaccattgc cctaggattt gactttctcc aatagaagca
+       61 gtggctgtaa tcggggtagg taaagagaaa aaacacaaga cttcggggct ggtgtcggaa
+      121 ctggcagaaa ctggagaact gatctgaaga aatagtccac aactccacac agaattgcag
+      181 actcacccgg gtgcggtggc tcatgcctgt aatcccagca tttgggaggc cgaggcgggt
+      241 ggatcacctg aggtcaggag ttcgagacca gcctggccaa catggtgaaa ccccatctct
+      301 actaaaaatt acaaaaatta gccaggcatg gtggcacgtg cctatagtcc cagatattct
+      361 ggaggctgag gcaggagaat cacttgaacc cgggggaggc ggaggttata gtgagccgag
+      421 atcccaccac tgcactccag cctgggcaac aagagtgaaa ctctgtctaa aaaaaaaaaa
+      481 agaaagaatt gcacactcat cagcaggtag aggcctggag ccacatggtt cagtcccctg
+      541 cctctgggcc tctgtgggga cagcctcacc cttaagctag tcccttctcc cctttgcaga
+      601 cgagatgcag cgactatgtg tgtatgtgct gatctttgca ctggctctgg ccgccttctc
+      661 tgaagcttct tggaagcccc gctcccagca gccagatgca cccttaggta caggggccaa
+      721 cagggacctg gagctaccct ggctggagca gcagggccca gcctctcatc atcgaaggca
+      781 gctgggaccc cagggtcccc cacacctcgt ggcaggtagg agctgctgac tgccctgctt
+      841 gcctcacttg gccaggtttg gccaaggtct ccccagactg gctctgactt cagttcctgg
+      901 aaggtaggca tccttccccc attctcgcct ctctcacctc ctcagacccg tccaagaagc
+      961 agggaccatg gctggaggaa gaagaagaag cctatggatg gatggacttc ggccgccgca
+     1021 gtgctgagga tgagaactaa caatcctaga accaagcttc agagcctagc cacctcccac
+     1081 cccactccag ccctgtcccc tgaaaaactg atcaaaaata aactagtttc cagtggatca
+     1141 atggactgtg tcagtgttgt agggcagagg agggggactc atctgggggt gaagttgtgg
+     1201 cagggagaag agctgag
+//
+

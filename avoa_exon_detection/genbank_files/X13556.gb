@@ -1,0 +1,83 @@
+LOCUS       X13556                  1579 bp    DNA     linear   PRI 18-APR-2005
+DEFINITION  Human gene for plasma membrane receptor.
+ACCESSION   X13556
+VERSION     X13556.1
+KEYWORDS    G-protein coupled receptor; glycoprotein; membrane protein;
+            phosphoprotein; plasma membrane receptor; receptor.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1579)
+  AUTHORS   Kobilka,B.K., Frielle,T., Collins,S., Yang-Feng,T., Kobilka,T.S.,
+            Francke,U., Lefkowitz,R.J. and Caron,M.G.
+  TITLE     An intronless gene encoding a potential member of the family of
+            receptors coupled to guanine nucleotide regulatory proteins
+  JOURNAL   Nature 329 (6134), 75-79 (1987)
+   PUBMED   3041227
+FEATURES             Location/Qualifiers
+     source          1..1579
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /clone="G-21"
+     CDS             173..1438
+                     /note="unnamed protein product; receptor protein (AA 1 -
+                     421)"
+                     /codon_start=1
+                     /protein_id="CAA31908.1"
+                     /db_xref="GDB:120686"
+                     /db_xref="GOA:P08908"
+                     /db_xref="HGNC:HGNC:5286"
+                     /db_xref="InterPro:IPR000276"
+                     /db_xref="InterPro:IPR000610"
+                     /db_xref="InterPro:IPR002231"
+                     /db_xref="InterPro:IPR017452"
+                     /db_xref="UniProtKB/Swiss-Prot:P08908"
+                     /translation="MDVLSPGQGNNTTSPPAPFETGGNTTGISDVTVSYQVITSLLLG
+                     TLIFCAVLGNACVVAAIALERSLQNVANYLIGSLAVTDLMVSVLVLPMAALYQVLNKW
+                     TLGQVTCDLFIALDVLCCTSSILHLCAIALDRYWAITDPIDYVNKRTPRPRALISLTW
+                     LIGFLISIPPILGWRTPEDRSDPDACTISKDHGYTIYSTFGAFYIPLLLMLVLYGRIF
+                     RAARFRIRKTVKKVEKTGADTRHGASPAPQPKKSVNGESGSRNWRLGVESKAGGALCA
+                     NGAVRQGDDGAALEVIEVHRVGNSKEHLPLPSEAGPTPCAPASFERKNERNAEAKRKM
+                     ALARERKTVKTLGIIMGTFILCWLPFFIVALVLPFCESSCHMPTLLGAIINWLGYSNS
+                     LLNPVIYAYFNKDFQNAFKKIIKCNFCRQ"
+     misc_feature    200..205
+                     /note="pot. N-linked glycosylation site"
+     misc_feature    242..244
+                     /note="pot. N-linked glycosylation site"
+     misc_feature    611..625
+                     /note="pot. phosphorylation site"
+     misc_feature    848..865
+                     /note="pot. phosphorylation site"
+ORIGIN      
+        1 tgctcctcgg agataccctt cgccgaagca gtaagaactt cctgcttggg tctctgcatt
+       61 cccttcctcc gaaacttccc aggagaaggg cggaagaccc caggggaagg ggcgaggcga
+      121 atcttcgcgc tgctttttct tccctccccc ttcccgcgcc gggcgcgcag gcatggatgt
+      181 gctcagccct ggtcagggca acaacaccac atcaccaccg gctccctttg agaccggcgg
+      241 caacactact ggtatctccg acgtgaccgt cagctaccaa gtgatcacct ctctgctgct
+      301 gggcacgctc atcttctgcg cggtgctggg caatgcgtgc gtggtggctg ccatcgcctt
+      361 ggagcgctcc ctgcagaacg tggccaatta tcttattggc tctttggcgg tcaccgacct
+      421 catggtgtcg gtgttggtgc tgcccatggc cgcgctgtat caggtgctca acaagtggac
+      481 actgggccag gtaacctgcg acctgttcat cgccctcgac gtgctgtgct gcacctcatc
+      541 catcttgcac ctgtgcgcca tcgcgctgga caggtactgg gccatcacgg accccatcga
+      601 ctacgtgaac aagaggacgc cccggccgcg tgcgctcatc tcgctcactt ggcttattgg
+      661 cttcctcatc tctatcccgc ccatcctggg ctggcgcacc ccggaagacc gctcggaccc
+      721 cgacgcatgc accattagca aggatcatgg ctacactatc tattccacct ttggagcttt
+      781 ctacatcccg ctgctgctca tgctggttct ctatgggcgc atattccgag ctgcgcgctt
+      841 ccgcatccgc aagacggtca aaaaggtgga gaagaccgga gcggacaccc gccatggagc
+      901 atctcccgcc ccgcagccca agaagagtgt gaatggagag tcggggagca ggaactggag
+      961 gctgggcgtg gagagcaagg ctgggggtgc tctgtgcgcc aatggcgcgg tgaggcaagg
+     1021 tgacgatggc gccgccctgg aggtgatcga ggtgcaccga gtgggcaact ccaaagagca
+     1081 cttgcctctg cccagcgagg ctggtcctac cccttgtgcc cccgcctctt tcgagaggaa
+     1141 aaatgagcgc aacgccgagg cgaagcgcaa gatggccctg gcccgagaga ggaagacagt
+     1201 gaagacgctg ggcatcatca tgggcacctt catcctctgc tggctgccct tcttcatcgt
+     1261 ggctcttgtt ctgcccttct gcgagagcag ctgccacatg cccaccctgt tgggcgccat
+     1321 aatcaattgg ctgggctact ccaactctct gcttaacccc gtcatttacg catacttcaa
+     1381 caaggacttt caaaacgcgt ttaagaagat cattaagtgt aacttctgcc gccagtgatg
+     1441 acggaggagt agccggccag tcgaggctac aggatccgtc ccattcacta tgcttccccc
+     1501 aaccctaggg aatccacact taatataatt cgccacttct cctctttttc tctgctccgc
+     1561 tcacggcttg cagacctgg
+//
+

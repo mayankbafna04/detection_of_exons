@@ -1,0 +1,61 @@
+LOCUS       HUMGPR5A                1265 bp    DNA     linear   PRI 28-FEB-1995
+DEFINITION  Homo sapiens G protein-coupled receptor (GPR5) gene, complete cds.
+ACCESSION   L36149
+VERSION     L36149.1
+KEYWORDS    G protein-coupled receptor; G-protein coupled receptor.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1265)
+  AUTHORS   Heiber,M., Docherty,J.M., Shah,G., Nguyen,T., Cheng,R.,
+            Heng,H.H.Q., Marchese,A., Tsui,L.-C., Shi,X., George,S.R. and
+            O'Dowd,B.F.
+  TITLE     Isolation of three novel human genes encoding G protein-coupled
+            receptors
+  JOURNAL   DNA Cell Biol. 14 (1), 25-35 (1995)
+   PUBMED   7832990
+COMMENT     Original source text: Homo sapiens (clone library: lambda EMBL3
+            SP6/T7) DNA.
+FEATURES             Location/Qualifiers
+     source          1..1265
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /clone_lib="lambda EMBL3 SP6/T7"
+     CDS             139..1140
+                     /codon_start=1
+                     /product="G protein-coupled receptor"
+                     /protein_id="AAA62837.1"
+                     /translation="MESSGNPESTTFFYYDLQSQPCENQAWVFATLATTVLYCLVFLL
+                     SLVGNSLVLWVLVKYESLESLTNIFILNLCLSDLVFACLLPVWISPYHWGWVLGDFLC
+                     KLLNMIFSISLYSSIFFLTIMTIHRYLSVVSPLSTLRVPTLRCRVLVTMAVWVASILS
+                     SILDTIFHKVLSSGCDYSELTWYLTSVYQHNLFFLLSLGIILFCYVEILRTLFRSRSK
+                     RRHRTVKLIFAIVVAYFLSWGPYNFTLFLQTLFRTQIIRSCEAKQQLEYALLICRNLA
+                     FSHCCFNPVLYVFVGVKFRTHLKHVLRQFWFCRLQAPSPASIPHSPGAFAYEGASFY"
+ORIGIN      
+        1 caaggcaatc ctctcccttt ggcctttcca aagtgctagg attacaggtg ttagccactg
+       61 tacccagcca ccacatggct ttaaactcca tgtctctatc atttcagatg ctctaaacgt
+      121 ccctgccatc tggtccagat ggagtcctca ggcaacccag agagcaccac ctttttttac
+      181 tatgaccttc agagccagcc gtgtgagaac caggcctggg tctttgctac cctcgccacc
+      241 actgtcctgt actgcctggt gtttctcctc agcctagtgg gcaacagcct ggtcctgtgg
+      301 gtcctggtga agtatgagag cctggagtcc ctcaccaaca tcttcatcct caacctgtgc
+      361 ctctcagacc tggtgttcgc ctgcttgttg cctgtgtgga tctccccata ccactggggc
+      421 tgggtgctgg gagacttcct ctgcaaactc ctcaatatga tcttctccat cagcctctac
+      481 agcagcatct tcttcctgac catcatgacc atccaccgct acctgtcggt agtgagcccc
+      541 ctctccaccc tgcgcgtccc caccctccgc tgccgggtgc tggtgaccat ggctgtgtgg
+      601 gtagccagca tcctgtcctc catcctcgac accatcttcc acaaggtgct ttcttcgggc
+      661 tgtgattatt ccgaactcac gtggtacctc acctccgtct accagcacaa cctcttcttc
+      721 ctgctgtccc tggggattat cctgttctgc tacgtggaga tcctcaggac cctgttccgc
+      781 tcacgctcca agcggcgcca ccgcacggtc aagctcatct tcgccatcgt ggtggcctac
+      841 ttcctcagct ggggtcccta caacttcacc ctgtttctgc agacgctgtt tcggacccag
+      901 atcatccgga gctgcgaggc caaacagcag ctagaatacg ccctgctcat ctgccgcaac
+      961 ctcgccttct cccactgctg ctttaacccg gtgctctatg tcttcgtggg ggtcaagttc
+     1021 cgcacacacc tgaaacatgt tctccggcag ttctggttct gccggctgca ggcacccagc
+     1081 ccagcctcga tcccccactc ccctggtgcc ttcgcctatg agggcgcctc cttctactga
+     1141 ggggcctgtg gcggtgcagg cgcaggtgca ggtggacagg gactggaatg ggggtcatgg
+     1201 agaagcgggc ctggaaggag cattgcagaa cacagcaggg tggagacgtc tcctcctgct
+     1261 gcagg
+//
+

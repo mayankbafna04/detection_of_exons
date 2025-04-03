@@ -1,0 +1,142 @@
+LOCUS       X62891                  3522 bp    DNA     linear   PRI 14-NOV-2006
+DEFINITION  H.sapiens mutant coseg gene for vasopressin-neurophysin precursor.
+ACCESSION   X62891
+VERSION     X62891.1
+KEYWORDS    neurophysin; vasopressin.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 3522)
+  AUTHORS   Bahnsen,U., Oosting,P., Swaab,D.F., Nahke,P., Richter,D. and
+            Schmale,H.
+  TITLE     A missense mutation in the vasopressin-neurophysin precursor gene
+            cosegregates with human autosomal dominant neurohypophyseal
+            diabetes insipidus
+  JOURNAL   EMBO J. 11 (1), 19-23 (1992)
+   PUBMED   1740104
+REFERENCE   2  (bases 1 to 3522)
+  AUTHORS   Schmale,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-OCT-1991) H. Schmale, Universitaet Hamburg,
+            Universitaetskrankenhaus Eppendorf, Inst. fuer Zellbiol. u. klin.
+            Neurobiol., Martinistr. 52, 2000 Hamburg 20, FRG
+COMMENT     See also x62890.
+FEATURES             Location/Qualifiers
+     source          1..3522
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /isolate="Diabetes insipidus patient IV-3"
+                     /db_xref="taxon:9606"
+                     /chromosome="20"
+                     /clone="IV-3-3"
+                     /cell_type="leukocyte"
+                     /tissue_type="blood"
+                     /clone_lib="subgenomic plasmid library"
+     regulatory      1059..1065
+                     /regulatory_class="TATA_box"
+     gene            1139..3244
+                     /gene="coseg"
+     mRNA            join(1139..1258,2635..2836,3012..3244)
+                     /gene="coseg"
+     CDS             join(1139..1258,2635..2836,3012..3184)
+                     /gene="coseg"
+                     /codon_start=1
+                     /product="vasopressin-neurophysin precursor"
+                     /protein_id="CAA44682.1"
+                     /db_xref="GDB:119009"
+                     /db_xref="GOA:P01185"
+                     /db_xref="HGNC:HGNC:894"
+                     /db_xref="InterPro:IPR000981"
+                     /db_xref="InterPro:IPR022423"
+                     /db_xref="UniProtKB/Swiss-Prot:P01185"
+                     /translation="MPDTMLPACFLGLLAFSSACYFQNCPRGGKRAMSDLELRQCLPC
+                     GPGVKGRCFGPSICCADELGCFVGTAEALRCQEENYLPSPCQSGQKACGSGGRCAAFG
+                     VCCNDESCVTEPECREGFHRRARASDRSNATQLDGPAGALLLRLVQLAGAPEPFEPAQ
+                     PDAY"
+     exon            1139..1258
+                     /gene="coseg"
+                     /number=1
+     intron          1259..2634
+                     /gene="coseg"
+                     /number=1
+     exon            2635..2836
+                     /gene="coseg"
+                     /number=2
+     variation       2657
+                     /gene="coseg"
+                     /note="nucleotide different from normal allele in ADNDI
+                     patient"
+     intron          2837..3011
+                     /gene="coseg"
+                     /number=2
+     misc_feature    2872
+                     /gene="coseg"
+                     /note="insertion in ADNDI patient compared to normal
+                     allele"
+     exon            3012..3244
+                     /gene="coseg"
+                     /number=3
+ORIGIN      
+        1 ggtaccgggc ctgaacccca gaccagcggg cattctggtg gcccagggag agaggccatg
+       61 tcctctttag acctgccacc ttgggattag ggaccaaaag tggctttctc aggctgggtc
+      121 catttaggta tggctcctcc tgcaccttcc cccaggccca gacacccccc acccccggct
+      181 ctcccacccc aggcctgaga tgtacctgcc ctggttgcca catactaagg tcctggtggg
+      241 ggtaggaatt gggacaaact gttgtcaggt ttcctggggc tccccccgcc tttgaacctt
+      301 acttggcatg gagttctttc tccccatagt agctctccac actcatgttt ctacctggga
+      361 gggggtgacg ggtcatgtgc caatgtgtcc ccaaggcccc cagtttcagg gcctgagtcc
+      421 ccatgccctg ctctatgggg gtgcgggggt gtcatgtctt gcactttccc cagcaacctg
+      481 ccacccccct accctgtgag aacaagcccc tctcattctg tgtcccttga ctccacgacg
+      541 gcggctgcct tgtccacgag gcagggattc tcatctctgg tgcagcccct gtcctcacca
+      601 ctctgggctt gtgctgttct tggtccctta tcttgttgtc acagggctaa ccctccccac
+      661 acacctggct gtcccctgcc ccacagctcc taggccaggg cctgtccctg cccctaacac
+      721 gcagcccctc ggttcctctt accctcttct tggaccctac gccatttctg ggtaatcaga
+      781 aagctcagag atggtctcca ggtgaccccc cagtctgtcc ctctccctga atccagagcg
+      841 ctgcagtcac agtagaggca attgctgtca ttccgcggcc catgacagcc tggcggcccg
+      901 tacccctccc ccatgatccc ctgcacagac aggcccacgt gtgtccccag atgcctgaat
+      961 cactgctgac ggctggggac ctggcggccg tgggctcctg gggagccact ggggaggggg
+     1021 tggcggccgc gtctcgcctc cacgggaaca cctgcggaca taaataggca gccagcagag
+     1081 gcagcagcac agagccacca agcagtgctg catacggggt ccacctgtgt gcaccaggat
+     1141 gcctgacacc atgctgcccg cctgcttcct cggcctactg gccttctcct ccgcgtgcta
+     1201 cttccagaac tgcccgaggg gcggcaagag ggccatgtcc gacctggagc tgagacaggt
+     1261 acttcccact gtgggccatc tcagggctgc catagcgggc agtgctgaca ccctgggtca
+     1321 ggggctagga aagagggaag tcatgggtgg tggtagcctt taggggaagt tcgggggagg
+     1381 aagagggagg catggcatgg ctgggcagag gagccaatgg ggtgggccag aggggaccag
+     1441 gctttggagg aggctgggag aggctgaagg cgctcctggt cactgtcgcc atccagacag
+     1501 ggatgcagga aaatgaggga tgcttccccg gtgactgggc ttggggctgg atagggagaa
+     1561 cggggcatca tggcctcccc tgtgcccatg gcgttcttgc atctggactg gctggggcag
+     1621 cagaggctcc atcctaccta gcattggagg ctttcctcat ccagccccag cctcccagcc
+     1681 acaggcgccc aggcccccac acagaagatg gccactggtc tgagcgcgct tgagtggggc
+     1741 atcctgtggg gaagttctgc tgggaacctg gcctaattct atagtgctgg acgtttcctc
+     1801 catttccagc agagctgaag gaaatccaat cacgatgtgc atgcaattct gtccaggctc
+     1861 aatgatgagc ccttgagcaa attagaccac accaggctca gctaaaagtc taatgcgcta
+     1921 tccattgcgc cagagaaccg gctgttgagc agatgagagt ggccgctcgg caacccccgc
+     1981 agcctctctt cctcctgcta ggctccttta gggtcctgag gcacctgggt gtccgtgctc
+     2041 gcctctaggt ctcaggcccc tgccacccac ctgataggtc ataggtggct gagcaggggt
+     2101 cagggctcca gctgaggccg acaagcttgg cgggggccag gggcaaggca agagaggaga
+     2161 caggaaatgg gaagggccgg ggttctggat gggtagggcc tctccgcatg gtgtagtggg
+     2221 gaagggggtg ggcccgggct caagccgcag cagggcgagg aggaaggagg aagggtctgg
+     2281 agtggtggag ggtggggcag ctgcaacagt ggcgcccacc agcgatgacc ccgaggctcg
+     2341 aggaagggct ccccacgctg tagtccacgg gagacccgtc cctagctgag ggtgaggacg
+     2401 ctgagggctg tcaccgagag gtcatccaag aaaccaaggt gccgagcaga tctggacgcc
+     2461 ccgcccgtga ccgcggtcga ggcccagtgg cgcccgagcg tgcctgcagc cgcagccccg
+     2521 gtgtcccgcc cgcactccga gccctggacc ccagcatccc cgcctcgctg cgttcccctc
+     2581 caacccctcg actcccggct cccctcctcc cgctcacccc gcccgtcccc gcagtgcctc
+     2641 ccctgcggcc ccggggtcaa aggccgctgc ttcgggccca gcatctgctg cgcggacgag
+     2701 ctgggctgct tcgtgggcac ggctgaggcg ctgcgctgcc aggaggagaa ctacctgccg
+     2761 tcgccctgcc agtccggcca gaaggcgtgc gggagcgggg gccgctgcgc cgccttcggc
+     2821 gtttgctgca acgacggtgc gcggcggggg cgggcctggg gctggggggg ggcgcagacc
+     2881 gcttgggtgg gggggacgcg ggcctgcggc ggggtggggg ctgcgtcggg cccggcaggg
+     2941 agggtgtggg ccccccgcac cccgagctgc gcccgcccca gggcgcccgt gctcacacgt
+     3001 cctcccggca gagagctgcg tgaccgagcc cgagtgccgc gagggctttc accgccgcgc
+     3061 ccgcgccagc gaccggagca acgccacgca gctggacggg ccggccgggg ccttgctgct
+     3121 gcggctggtg cagctggccg gggcgcccga gcccttcgag cccgcccagc ccgacgccta
+     3181 ctgagccccg cgctcgcccc accggcgcgc tcttcgcgcc cgcccctgca gcacggacaa
+     3241 taaacctccg ccaatgcacg gcctcgcgtc tgtctcagtc tctggcggga agagggaagg
+     3301 ggagagaggt gggagcgcgg acccccgcca ccacgcccac cggccagtcc ccggacctga
+     3361 ggtcgtgggc agatccaccc cagagaagca acaggtcccg tagaggaagc gatctgggac
+     3421 ccgcagaggt gtcgctagac cgagggacag ggcgaattgg gaggcagggg agggggagac
+     3481 cagaggccga gagtggcctt ggagggggtg ggttgaggat cc
+//
+

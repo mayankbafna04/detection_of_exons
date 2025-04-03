@@ -1,0 +1,81 @@
+LOCUS       X52473                  1338 bp    mRNA    linear   PRI 09-SEP-2004
+DEFINITION  Human mRNA for beta-Fc-gamma receptor II.
+ACCESSION   X52473
+VERSION     X52473.1
+KEYWORDS    beta-Fc-gamma receptor II; Fc-gamma receptor; Fc-gamma receptor II;
+            IgG Fc receptor; IgG receptor; receptor; transmembrane protein.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1338)
+  AUTHORS   Engelhardt,W., Geerds,C. and Frey,J.
+  TITLE     Distribution, inducibility and biological function of the cloned
+            and expressed human beta Fc receptor II
+  JOURNAL   Eur. J. Immunol. 20 (6), 1367-1377 (1990)
+   PUBMED   2142460
+REFERENCE   2  (bases 1 to 1338)
+  AUTHORS   Frey,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-FEB-1990) Frey J., Universitaet Bielefeld, Fakultaet
+            fuer Chemie und Biochemie, Universitaetsstr 25, 4800 Bielefeld 1,
+            BRD
+COMMENT     On Nov 26, 1998 this sequence version replaced gi:29427.
+            Data kindly reviewed (23-JUL-1990) by Frey J.
+FEATURES             Location/Qualifiers
+     source          1..1338
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /clone="PL17"
+                     /cell_type="leukocyte"
+                     /tissue_type="placenta"
+     CDS             46..921
+                     /codon_start=1
+                     /product="precursor polypeptide (AA -42 to 249)"
+                     /protein_id="CAA36713.1"
+                     /db_xref="GDB:128183"
+                     /db_xref="GOA:P31994"
+                     /db_xref="HGNC:HGNC:3618"
+                     /db_xref="InterPro:IPR003599"
+                     /db_xref="InterPro:IPR007110"
+                     /db_xref="InterPro:IPR013783"
+                     /db_xref="PDB:2FCB"
+                     /db_xref="UniProtKB/Swiss-Prot:P31994"
+                     /translation="MGILSFLPVLATESDWADCKSPQPWGHMLLWTAVLFLAPVAGTP
+                     AAPPKAVLKLEPQWINVLQEDSVTLTCRGTHSPESDSIQWFHNGNLIPTHTQPSYRFK
+                     ANNNDSGEYTCQTGQTSLSDPVHLTVLSEWLVLQTPHLEFQEGETIVLRCHSWKDKPL
+                     VKVTFFQNGKSKKFSRSDPNFSIPQANHSHSGDYHCTGNIGYTLYSSKPVTITVQAPS
+                     SSPMGIIVAVVTGIAVAAIVAAVVALIYCRKKRISANPTNPDEADKVGAENTITYSLL
+                     MHPDALEEPDDQNRI"
+     sig_peptide     46..171
+                     /note="signal peptide (AA -42 to -1)"
+     mat_peptide     172..918
+                     /product="beta-FcRII (AA 1-249)"
+ORIGIN      
+        1 ggctgtgact gctgtgctct gggcgccacg tcgctccagg gagtgatggg aatcctgtca
+       61 ttcttacctg tccttgccac tgagagtgac tgggctgact gcaagtcccc ccagccttgg
+      121 ggtcatatgc ttctgtggac agctgtgcta ttcctggctc ctgttgctgg gacacctgca
+      181 gctcccccaa aggctgtgct gaaactcgag ccccagtgga tcaacgtgct ccaggaggac
+      241 tctgtgactc tgacatgccg ggggactcac agccctgaga gcgactccat tcagtggttc
+      301 cacaatggga atctcattcc cacccacacg cagcccagct acaggttcaa ggccaacaac
+      361 aatgacagcg gggagtacac gtgccagact ggccagacca gcctcagcga ccctgtgcat
+      421 ctgactgtgc tttctgagtg gctggtgctc cagacccctc acctggagtt ccaggaggga
+      481 gaaaccatcg tgctgaggtg ccacagctgg aaggacaagc ctctggtcaa ggtcacattc
+      541 ttccagaatg gaaaatccaa gaaattttcc cgttcggatc ccaacttctc catcccacaa
+      601 gcaaaccaca gtcacagtgg tgattaccac tgcacaggaa acataggcta cacgctgtac
+      661 tcatccaagc ctgtgaccat cactgtccaa gctcccagct cttcaccgat ggggatcatt
+      721 gtggctgtgg tcactgggat tgctgtagcg gccattgttg ctgctgtagt ggccttgatc
+      781 tactgcagga aaaagcggat ttcagccaat cccactaatc ctgatgaggc tgacaaagtt
+      841 ggggctgaga acacaatcac ctattcactt ctcatgcacc cggatgctct ggaagagcct
+      901 gatgaccaga accgtattta gtctccattg tcttgcattg ggatttgaga agaaaatcag
+      961 agagggaaga tctggtattt cctggcctaa attccccttg gggaggacag ggagatgctg
+     1021 cagttccaaa agagaaggtt tcttccagag tcatctacct gagtcctgaa gctccctgtc
+     1081 ctgaaagcca cagacaatat ggtcccaaat gaccgactgc accttctgtg cttcagctct
+     1141 tcttgacatc aaggctcttc cgttccacat ccacacagcc aatccaatta atcaaaccac
+     1201 tgttattaac agataatagc aacttgggaa atgcttatgt tacaggttac gtgagaacaa
+     1261 tcatgtaaat ctatatgatt tcagaaatgt taaaatagac taacctctac cagcacatta
+     1321 aaagtgattg tttctggg
+//
+

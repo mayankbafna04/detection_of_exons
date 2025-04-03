@@ -1,0 +1,84 @@
+LOCUS       X74614                  1430 bp    DNA     linear   PRI 14-NOV-2006
+DEFINITION  H.sapiens ODF2 (allele 2) gene for outer dense fiber protein.
+ACCESSION   X74614
+VERSION     X74614.1
+KEYWORDS    outer dense fiber protein.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1430)
+  AUTHORS   Hofferbert,S., Burfeind,P., Hoyer-Fender,S., Lange,R., Haidl,G. and
+            Engel,W.
+  TITLE     A homozygous deletion of 27 basepairs in the coding region of the
+            human outer dense fiber protein gene does not result in a
+            pathologic phenotype
+  JOURNAL   Hum. Mol. Genet. 2 (12), 2167-2170 (1993)
+   PUBMED   8111388
+REFERENCE   2  (bases 1 to 1430)
+  AUTHORS   Hofferbert,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-AUG-1993) S. Hofferbert, Ins. fuer Humangenetik,
+            Gosslerstrasse 12 D, 37073 Goettingen, FRG
+FEATURES             Location/Qualifiers
+     source          1..1430
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="8"
+                     /map="8q22"
+     gene            order(280..599,843..1275)
+                     /gene="ODF2 (allele 2)"
+     CDS             join(280..599,843..1275)
+                     /gene="ODF2 (allele 2)"
+                     /codon_start=1
+                     /product="outer dense fiber protein"
+                     /protein_id="CAA52685.1"
+                     /db_xref="GDB:382100"
+                     /db_xref="GOA:Q14990"
+                     /db_xref="HGNC:HGNC:8113"
+                     /db_xref="InterPro:IPR002068"
+                     /db_xref="UniProtKB/Swiss-Prot:Q14990"
+                     /translation="MAALSCLLDSVRRDIKKVDRELRQLRCIDEFSTRCLCDLYMHPY
+                     CCCDLHPYPYCLCYSKRSRSCGLCDLYPCCLCDYKLYCLRPSLRSLERKAIRAIEDEK
+                     RELAKLRRTTNRILASSCCSSNILGSVNVCGFEPDQVKVRVKDGKVCVSAERENRYDC
+                     LGSKKYSYMNICKEFSLPPCVDEKDVTYSYGLGSCVKIESPCYPCTSPCSPCSPCNPC
+                     NPCSPCNPCSPYDPCNPCYPCGSRFSCRKMIL"
+     exon            280..599
+                     /gene="ODF2 (allele 2)"
+                     /number=1
+     intron          600..842
+                     /number=1
+     exon            843..1275
+                     /gene="ODF2 (allele 2)"
+                     /number=2
+     regulatory      1390..1395
+                     /regulatory_class="polyA_signal_sequence"
+ORIGIN      
+        1 aaggtgagtg aaatctcaac acgagtatgg ttctgagagt agctctgtaa ctctgaggat
+       61 ggtctctgga gaccatgact gtgtacagtt cacacggtaa ccagaagact atgacatact
+      121 tcagaaggtg gtgaggtcat agaacacaag ctttaaagta agtgaatcat gtgtgcctca
+      181 tttattttta aaagcaactt ctgagaaggg cttagaacaa attttttccc tgagtgccat
+      241 ttcccaaagg tactcacaga acaatcaggt gtgaccataa tggctgcact gagttgtctc
+      301 ttggacagtg tcagaaggga cataaagaag gtggacagag aactaaggca actgagatgc
+      361 atcgacgaat ttagcacacg gtgcctgtgc gacttgtata tgcaccccta ttgctgctgt
+      421 gacttgcacc catatccgta ctgcttgtgc tattccaagc gatcacgctc ttgcggcctg
+      481 tgtgatctct acccatgttg cctgtgtgat tataagcttt actgtctgcg accatctctc
+      541 agaagtttgg agaggaaagc catcagagcc atagaagatg agaagcgaga gcttgccaag
+      601 taaaataact tatttttaaa tttttatagt cggtatatta gccttataag ttggaataag
+      661 gaaaaatatg tgacaatcaa tagttgaaca aagattaaaa gggttcagga taatgaccct
+      721 ggtgacttag gaaagattta aggcttgcta ttcaaagcta gaaatcaaat attgcttctc
+      781 aagctgtgtc tggattctga ggtctgagct ccctcccacc ctatcccttt tctcaattcc
+      841 agactgagaa gaacaacaaa tagaattctg gcttcctcct gctgtagcag taacatttta
+      901 ggatcggtga atgtatgcgg ttttgaaccc gatcaagtca aagttcgagt gaaggatgga
+      961 aaggtatgtg tgtcggctga gcgggagaac aggtacgact gccttggatc gaaaaagtac
+     1021 agctacatga acatctgcaa agagttcagc ttgccgccct gtgtggatga gaaggatgta
+     1081 acatactcct atgggctcgg cagctgtgtc aagatcgagt ctccttgcta cccttgcact
+     1141 tctccttgca gcccgtgcag cccgtgcaac ccctgcaacc cctgcagccc ctgcaacccg
+     1201 tgcagcccat atgatccttg caacccgtgt tatccctgtg gaagccgatt ttcctgtagg
+     1261 aagatgattt tgtaaagtgc gcataggaac ccattactta atagaagtca gttactccag
+     1321 ccaggcagct ctcccaatgt ttctcctctc cttcccatgg cccctgttgt tgaagtacgt
+     1381 aggaaactga atacataact gcaatctgct ggtgttgtct gaaagtcttt
+//
+

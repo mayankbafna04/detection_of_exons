@@ -1,0 +1,108 @@
+LOCUS       HUMMCHEMP               2776 bp    DNA     linear   PRI 13-MAY-1994
+DEFINITION  Human monocyte chemotactic protein gene, complete cds.
+ACCESSION   M37719
+VERSION     M37719.1
+KEYWORDS    monocyte chemotactic protein.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2776)
+  AUTHORS   Shyy,Y.J., Li,Y.S. and Kolattukudy,P.E.
+  TITLE     Structure of human monocyte chemotactic protein gene and its
+            regulation by TPA
+  JOURNAL   Biochem. Biophys. Res. Commun. 169 (2), 346-351 (1990)
+   PUBMED   2357211
+FEATURES             Location/Qualifiers
+     source          1..2776
+                     /organism="Homo sapiens"
+                     /mol_type="unassigned DNA"
+                     /db_xref="taxon:9606"
+     prim_transcript 529..2452
+                     /note="monocyte chemotactic protein mRNA and introns"
+     gene            598..2080
+                     /gene="SCYA2"
+     CDS             join(598..673,1472..1589,1975..2080)
+                     /gene="SCYA2"
+                     /note="monocyte chemotactic protein"
+                     /codon_start=1
+                     /protein_id="AAA18102.1"
+                     /translation="MKVSAALLCLLLIAATFIPQGLAQPDAINAPVTCCYNFTNRKIS
+                     VQRLASYRRITSSKCPKEAVIFKTIVAKEICADPKQKWVQDSMDHLDKQTQTPKT"
+     exon            <598..673
+                     /gene="SCYA2"
+                     /note="monocyte chemotactic protein"
+                     /number=1
+     exon            598..673
+                     /gene="SCYA2"
+                     /note="monocyte chemotactic protein"
+                     /number=1
+     intron          674..1471
+                     /gene="SCYA2"
+                     /note="monocyte chemotactic protein intron A"
+     exon            1472..1589
+                     /gene="SCYA2"
+                     /note="monocyte chemotactic protein"
+                     /number=2
+     intron          1590..1974
+                     /gene="SCYA2"
+                     /note="monocyte chemotactic protein intron B"
+     exon            1975..2080
+                     /gene="SCYA2"
+                     /note="monocyte chemotactic protein"
+                     /number=3
+     exon            1975..>2080
+                     /gene="SCYA2"
+                     /note="monocyte chemotactic protein"
+                     /number=3
+ORIGIN      
+        1 cagttcaatg tttacacaat cctacagttc tgctaggctt ctatgatgct actattctgc
+       61 atttgaatga gcaaatggat ttaatgcatt gtcagggagc cggccaaagc ttgagagctc
+      121 cttcctggct gggaggcccc ttggaatgtg gcctgaaggt aagctggcag cgagcctgac
+      181 atgctttcat ctagtttcct cgcttccttc cttttcctgc agttttcgct tcagagaaag
+      241 cagaatcctt aaaaataacc ctcttagttc acatctgtgg tcagtctggg cttaatggca
+      301 ccccatcctc cccatttgcg tcatttggtc tcagcagtga atggaaaaaa gtgctcgtcc
+      361 tcacccccct gcttcccttt cctacttcct ggaaatccac aggatgctgc atttgctcag
+      421 cagatttaac agcccactta tcactcatgg aagatccctc ctcctgcttg actccgccct
+      481 ctctccctct gcccgctttc aataagaggc agagacagca gccagaggaa ccgagaggct
+      541 gagactaacc cagaaacatc caattctcaa actgaagctc gcactctcgc ctccagcatg
+      601 aaagtctctg ccgcccttct gtgcctgctg ctcatagcag ccaccttcat tccccaaggg
+      661 ctcgctcagc caggtaaggc cccctcttct tctccttgaa ccacattgtc ttctctctga
+      721 gttatcatgg accatccaag cagacgtggt acccacagtc ttgctttaac gctacttttc
+      781 caagataagg tgactcagaa aaggacaagg ggtgagcccc aaccacacag ctgctgctcg
+      841 gcagagcctg aactagaatt ccagctgtga acccaaatcc agctccttcc aggattcagg
+      901 atccagctct gggaacacac tcagcagtta ctcccccagc tgcttccagc agagtttggg
+      961 gatcagggta atcaaagaga agggtgggtg tgtaggctgt ttccagacac gctggagacc
+     1021 cagaatctgg tctgtgcttc attcacctta gcttccagag accggtgact ctgcaggtaa
+     1081 tgagtatcag ggaaactcat gaccaggcat agctattcag agtctaaaag gaggctcata
+     1141 gtggggctcc cagctgatct tccctggtgc tgatcatctg gattattggt ccgtcttaat
+     1201 gacacttgta ggcattatct agctttaaca gctcctcctt ctctctgtcc attatcaatg
+     1261 ttatataccc cattttacag cataggaaac tgagtcattg ggtcaaagat cacattctag
+     1321 ctctgaggta taggcagaag cactgggatt taatgagctc tttctcttct cctgcctgcc
+     1381 ttttgttttt tcctcatgac tcttttctgc tcttaagatc agaataatcc agttcatcct
+     1441 aaaatgcttt tctttgtggt ttattttcca gatgcaatca atgccccagt cacctgctgc
+     1501 tataacttca ccaataggaa gatctcagtg cagaggctcg cgagctatag aagaatcacc
+     1561 agcagcaagt gtcccaaaga agctgtgatg tgagttcagc acaccaacct tccctggcct
+     1621 gaagttcttc cttgtggagc aagggacaag cctcataaac ctagagtcag agagtgcact
+     1681 atttaactta atgtacaaag gttcccaatg ggaaaactga ggcaccaagg gaaaaagtga
+     1741 accccaacat cactctccac ctgggtgcct attcagaaca ccccaatttc tttagcttga
+     1801 agtcaggatg gctccacctg gacacctata ggagcagttt gccctgggtt ccctccttcc
+     1861 acctgcgtcc tcctagtctc catggcagct cgcttttggt gcagaatggg ctgcacttct
+     1921 agaccaaaac tgcaaaggaa cttcatctaa ctctgtctcc tcccttcccc acagcttcaa
+     1981 gaccattgtg gccaaggaga tctgtgctga ccccaagcag aagtgggttc aggattccat
+     2041 ggaccacctg gacaagcaaa cccaaactcc gaagacttga acactcactc cacaacccaa
+     2101 gaatctgcag ctaacttatt ttcccctagc tttccccaga caccctgttt tattttatta
+     2161 taatgaattt tgtttgttga tgtgaaacat tatgccttaa gtaatgttaa ttcttattta
+     2221 agttattgat gttttaagtt tatctttcat ggtactagtg ttttttagat acagagactt
+     2281 ggggaaattg cttttcctct tgaaccacag ttctacccct gggatgtttt gagggtcttt
+     2341 gcaagaatca ttaatacaaa gaattttttt taacattcca atgcattgct aaaatattat
+     2401 tgtggaaatg aatattttgt aactattaca ccaaataaat atatttttgt acaaaacctg
+     2461 acttccagtg ttttcttgaa ggaaattaca aagctgagag tatgagcttg gtggtgacaa
+     2521 aggaacatga tttcagaggg tggggcttac attttgaagg aatgggaaag tggattggcc
+     2581 cnntntcttc ctccactggg tggtctcctc tgagtctccg gtagaagaat ctttatggca
+     2641 ggccagttag gcattaaagc accacccttc cagtcttcaa cataagcagc ccagagtcca
+     2701 atgaccctgg tcacccattt gcaagagccc acccccattt cttttgctct cacgaccctg
+     2761 accctgcatg caattt
+//
+

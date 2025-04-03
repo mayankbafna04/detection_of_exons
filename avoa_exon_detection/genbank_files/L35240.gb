@@ -1,0 +1,69 @@
+LOCUS       HUMENIGMA               1725 bp    DNA     linear   PRI 10-NOV-1994
+DEFINITION  Human enigma gene, complete cds.
+ACCESSION   L35240
+VERSION     L35240.1
+KEYWORDS    enigma protein.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1725)
+  AUTHORS   Wu,R.Y. and Gill,G.N.
+  TITLE     LIM domain recognition of a tyrosine-containing tight turn
+  JOURNAL   J. Biol. Chem. 269 (40), 25085-25090 (1994)
+   PUBMED   7929196
+FEATURES             Location/Qualifiers
+     source          1..1725
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /cell_line="SKNMC"
+                     /cell_type="neuroblastoma"
+     CDS             85..1452
+                     /note="bp 1099-1251: LIM domain, LIM1; bp 1276-1434: LIM
+                     domain, LIM2"
+                     /codon_start=1
+                     /product="enigma protein"
+                     /protein_id="AAC37565.1"
+                     /translation="MDSFKVVLEGPAPWGFRLQGGKDFNVPLSISRLTPGGKAAQAGV
+                     AVGDWVLSIDGENAGSLTHIEAQNKIRACGERLSLGLSRAQPVQSKPQKASAPAADPP
+                     RTPLHPASPSTRRPNPLGPPAPDSPPQQNGQPLRPLVPDASKQRLMENTEDWRPRPGQ
+                     ASRVPSASLPTSQAPSSCKTPDEEHLKKSSQVPDRSPSPSLIYTPGALAWPYRPQPYQ
+                     PPALGCGPCVCRALCPGQNEHSADPHSQPATPTPLQSRTSIVQAAAGGVPGGGSNNGK
+                     TPVCHQCHKVIRGRYLVALGHAYHPEEFVCSQCGKVLEEGGFFEEKGAIFCPPCYDVR
+                     YAPSCAKCKKKITGEIMHALKMTWHVHCFTCAACKTPIRNRAFYMEEGVPYCERDYEK
+                     MFGTKCHGCDFKIDAGDRFLEALGFSWHDTCFVCAICQINLEGKTFYSKKDRPLCKSH
+                     AFSHV"
+ORIGIN      
+        1 gaattcccgt tgctgtcgcc caacgaggct ccctggagcc gacgcagagc agcgccctgg
+       61 ccgggccaag caggagccgg catcatggat tccttcaaag tagtgctgga ggggccagca
+      121 ccttgggggt tccggctgca agggggcaag gacttcaatg tgcccctctc catttcccgg
+      181 ctcactcctg ggggcaaagc ggcgcaggcc ggagtggccg tgggtgactg ggtgctgagc
+      241 atcgatggcg agaatgcggg tagcctcaca cacatcgaag ctcagaacaa gatccgggcc
+      301 tgcggggagc gcctcagcct gggcctcagc agggcccagc cggttcagag caaaccgcag
+      361 aaggcctccg cccccgccgc ggaccctccg cgtacacctt tgcacccagc gtctccctca
+      421 acaagacggc ccaacccttt gggccccccc gcccctgaca gccccccgca gcagaatgga
+      481 cagccgctcc gaccgctggt cccagatgcc agcaagcagc ggctgatgga gaacacagag
+      541 gactggcggc cgcggccggg acaggccagt cgcgttcctt ccgcatcctt gcccacctca
+      601 caggcaccga gttcatgcaa gaccccggat gaggagcacc tgaagaaatc aagccaggtg
+      661 ccagacagaa gccccagccc cagcctcatc tacaccccag gagccctggc ctggccctac
+      721 cgcccccagc cctaccagcc gcccgccctg ggctgtggac cctgcgtttg ccgagcgcta
+      781 tgccccggac aaaacgagca cagtgctgac ccacacagcc agccagccac gcccacgccg
+      841 ctgcagagcc gcacctccat tgtgcaggca gctgccggag gggtgccagg agggggcagc
+      901 aacaacggca agactcccgt gtgtcaccag tgccacaagg tcatccgggg ccgctacctg
+      961 gtggcgctgg gccacgcgta ccacccggag gagtttgtgt gtagccagtg tgggaaggtc
+     1021 ctggaagagg gtggcttctt tgaggagaag ggcgccatct tctgcccacc atgctatgac
+     1081 gtgcgctatg cacccagctg tgccaagtgc aagaagaaga ttacaggcga gatcatgcac
+     1141 gccctgaaga tgacctggca cgtgcactgc tttacctgtg ctgcctgcaa gacgcccatc
+     1201 cggaacaggg ccttctacat ggaggagggc gtgccctatt gcgagcgaga ctatgagaag
+     1261 atgtttggca cgaaatgcca tggctgtgac ttcaagatcg acgctgggga ccgcttcctg
+     1321 gaggccctgg gcttcagctg gcatgacacc tgcttcgtct gtgcgatatg tcagatcaac
+     1381 ctggaaggaa agaccttcta ctccaagaag gacaggcctc tctgcaagag ccatgccttc
+     1441 tctcatgtgt gagccccttc tgcccacagc tgccgcggtg gcccctagcc tgaggggcct
+     1501 ggagtcgtgg ccctgcattt ctgggtaggg ctggcaatgg ttgccttaac cctggctcct
+     1561 ggcccgagcc tgggctccct ggccctgccc cacccacctt atcctcccac cccactccct
+     1621 ccaccaccac agcacaccgg tgctggccac accagccccc tttcacctcc agtgccacaa
+     1681 taaacctgta cccagctgaa aaaaaaaaaa aaaaaaaaac tcgag
+//
+

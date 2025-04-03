@@ -1,0 +1,109 @@
+LOCUS       X64994                  1854 bp    DNA     linear   PRI 12-SEP-1993
+DEFINITION  H.sapiens HGMP07I gene for olfactory receptor.
+ACCESSION   X64994
+VERSION     X64994.1
+KEYWORDS    G protein coupled receptor; HGMP071 gene; olfactory receptor.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1854)
+  AUTHORS   Parmentier,M., Libert,F., Schurmans,S., Schiffmann,S., Lefort,A.,
+            Eggerickx,D., Ledent,C., Mollereau,C., Gerard,C., Perret,J.,
+            Grootegoed,J.A. and Vassart,G.
+  TITLE     Expression of members of the putative olfactory receptor gene
+            family in mammalian germ cells
+  JOURNAL   Nature 355 (6359), 453-455 (1992)
+   PUBMED   1370859
+REFERENCE   2  (bases 1 to 1854)
+  AUTHORS   Parmentier,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-MAR-1992) M. Parmentier, Universite Libre de
+            Bruxelles, Campus Hopital Erasme, Route de Lennik 808, 1070
+            Bruxelles, BELGIUM
+FEATURES             Location/Qualifiers
+     source          1..1854
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /clone="HGMP071"
+                     /tissue_type="testis"
+                     /germline
+     gene            320..1264
+                     /gene="HGMP071"
+     CDS             320..1264
+                     /gene="HGMP071"
+                     /codon_start=1
+                     /protein_id="CAA46127.1"
+                     /db_xref="GDB:9865002"
+                     /db_xref="GOA:P30953"
+                     /db_xref="HGNC:HGNC:8189"
+                     /db_xref="InterPro:IPR000276"
+                     /db_xref="InterPro:IPR000725"
+                     /db_xref="InterPro:IPR017452"
+                     /db_xref="UniProtKB/Swiss-Prot:P30953"
+                     /translation="MMGQNQTSISDFLLLGLPIQPEQQNLCYALFLAMYLTTLLGNLL
+                     IIVLIRLDSHLHTPMYLFLSNLSFSDLCFSSVTIPKLLQNMQNQDPSIPYADCLTQMY
+                     FFLLFGDLESFLLVAMAYDRYVAICFPLHYTAIMSPMLCLALVALSWVLTTFHAMLHT
+                     LLMARLCFCADNVIPHFFCDMSALLKLAFSDTRVNEWVIFIMGGLILVIPFLLILGSY
+                     ARIVSSILKVPSSKGICKAFSTCGSHLSVVSLFYGTVIGLYLCSSANSSTLKDTVMAM
+                     MYTVVTPMLNPFIYSLRNRDMKGALSRVIHQKKTFFSL"
+     misc_feature    332..340
+                     /gene="HGMP071"
+                     /note="glycosylation site"
+     misc_feature    395..466
+                     /gene="HGMP071"
+                     /note="transmembrane segment I"
+     misc_feature    488..556
+                     /gene="HGMP071"
+                     /note="transmembrane segment II"
+     misc_feature    620..679
+                     /gene="HGMP071"
+                     /note="transmembrane segment III"
+     misc_feature    737..811
+                     /gene="HGMP071"
+                     /note="transmembrane segment IV"
+     misc_feature    908..976
+                     /gene="HGMP071"
+                     /note="transmembrane segment V"
+     misc_feature    1028..1099
+                     /gene="HGMP071"
+                     /note="transmembrane segment VI"
+     misc_feature    1136..1195
+                     /gene="HGMP071"
+                     /note="transmembrane segment VII"
+ORIGIN      
+        1 ctgcagttac tggtgaggca ggtaagagag aaaccaacac actttatgtt tcagaagtaa
+       61 atagatgagt attttagaaa ggatggaata ttgttacatg ttaaagataa atgaagagaa
+      121 aaaagataaa gttaagtcat ttctgattat agagattcta attatagata tttgtggtat
+      181 agagatgatt attataatgt cagttaaata attttcgcag aacactcagc agaccaagtg
+      241 tcacagaaat atctccattt taaaattcag attttaaagg atactgttgt ttttccatta
+      301 aagatactgg agacagagca tgatgggaca aaatcaaacc agcatctcag acttcctgct
+      361 cctgggcctg cccatccaac cagagcagca aaacctgtgc tatgccctgt tcttggccat
+      421 gtatcttacc accctcctgg ggaacctcct catcattgtc ctcattcgac tggactccca
+      481 tctccacacg cctatgtatt tgtttctcag caacttgtcc ttctctgacc tctgcttctc
+      541 ttccgtgacc attcccaagt tgttacagaa catgcagaac caggacccat ccatccccta
+      601 tgcggactgc ctgacccaaa tgtacttctt cctgttattt ggagacctgg agagcttcct
+      661 ccttgtggcc atggcctatg accgctatgt ggccatctgc ttccccctgc actacaccgc
+      721 catcatgagc cccatgctct gtctcgccct ggtggcgctg tcctgggtgc tgaccacctt
+      781 ccatgccatg ttacacactt tactcatggc caggttgtgt ttttgtgcag acaatgtgat
+      841 cccccacttt ttctgtgata tgtctgctct gctgaagctg gccttctctg acactcgagt
+      901 taatgaatgg gtgatattta tcatgggagg gctcattctt gtcatcccat tcctactcat
+      961 ccttgggtcc tatgcaagaa ttgtctcctc catcctcaag gtcccttctt ctaagggtat
+     1021 ctgcaaggcc ttctctactt gtggctccca cctgtctgtg gtgtcactgt tctatggaac
+     1081 cgttattggt ctctacttat gctcatcagc taatagttct actctaaagg acactgtcat
+     1141 ggctatgatg tacactgtgg tgacccccat gctgaacccc ttcatctaca gcctgaggaa
+     1201 cagagacatg aagggagccc tgagcagagt cattcatcag aagaaaactt tcttctctct
+     1261 ctgatgataa cacttggagc tattacatag tttatccagt aaaatattga tattaatatt
+     1321 ggaatattat tctaaattat ttcctcacca tccttttgtt gaaatggcat cgtacataat
+     1381 ttttcaatat gtagtggaga tgaagcatag ctgagtagtt gaactaggga agagggtctt
+     1441 ggtgacctgg ctaagacctc ctgtttgtct tcccaaggtg atcttggaaa aatgtagttt
+     1501 aagaacaact gttttaaatg gtcttcatgc cccacattct taaattatca caggattttg
+     1561 ttatgttact cagaattttg ctttgattgt agaatcattt ttgtttaatt aaaaaaattt
+     1621 ttaaattttt tgtttatttt tattttctat ttcgcacagg gtctcactct gttgcccagg
+     1681 ctggagtgca gtggcacaat cgtggctcac tgtaacctca accttctgga ctcaagggat
+     1741 tctcctgcct cagcctccca agtagctaga ctacaggcat gcaccactac gcccagctaa
+     1801 ttttaagatt tttttgtaga gatgaggtct ccctaagttt ctcaggctgg tctt
+//
+

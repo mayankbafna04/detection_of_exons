@@ -1,0 +1,89 @@
+LOCUS       HUMAHCY                 2211 bp    mRNA    linear   PRI 30-OCT-1994
+DEFINITION  Human S-adenosylhomocysteine hydrolase (AHCY) mRNA, complete cds.
+ACCESSION   M61831
+VERSION     M61831.1
+KEYWORDS    S-adenosylhomocysteine hydrolase.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2211)
+  AUTHORS   Coulter-Karis,D.E. and Hershfield,M.S.
+  TITLE     Sequence of full length cDNA for human S-adenosylhomocysteine
+            hydrolase
+  JOURNAL   Ann. Hum. Genet. 53 (Pt 2), 169-175 (1989)
+   PUBMED   2596825
+COMMENT     Original source text: Homo sapiens RNA.
+            From EMBL    entry HSAHCY; dated 29-MAR-1991.
+FEATURES             Location/Qualifiers
+     source          1..2211
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /map="20cen-q13.1"
+     gene            1..2211
+                     /gene="AHCY"
+     CDS             join(48..901,1003..1447)
+                     /gene="AHCY"
+                     /EC_number="3.3.1.1"
+                     /codon_start=1
+                     /product="S-adenosylhomocysteine hydrolase"
+                     /protein_id="AAA51681.1"
+                     /db_xref="GDB:G00-118-983"
+                     /translation="MSDKLPYKVADIGLAAWGRKALDIAENEMPGLMRMRERYSASKP
+                     LKGARIAGCLHMTVETAVLIETLVTLGAEVQWSSCNIFSTQNHAAAAIAKAGIPVYAW
+                     KGETDEEYLWCIEQTLYFKDGPLNMILDDGGDLTNLIHTKYPQLLPGIRGISEETTTG
+                     VHNLYKMMANGILKVPAINVNDSVTKSKFDNLYGCRESLIDGIKRATDVMIAGKVAVV
+                     AGYGDVGKGCAQALRGFGARVIITEIDPINALQAAMEGYEVTTMDEACQEGNIFVTTT
+                     GCIDIILGRHFEQMKDDAIVCNIGHFDVEIDVKWLNENAVEKVNIKPQVDRYRLKNGR
+                     RIILLAEGRLVNLGCAMGHPSFVMSNSFTNQVMAQIELWTHPDKYPVGVHFLPKKLDE
+                     AVAEAHLGKLNVKLTKLTEKQAQYLGMSCDGPFKPDHYRY"
+     exon            <48..901
+                     /gene="AHCY"
+                     /product="S-adenosylhomocysteine hydrolase"
+                     /note="G00-118-983"
+     exon            1003..>1447
+                     /gene="AHCY"
+                     /product="S-adenosylhomocysteine hydrolase"
+                     /note="G00-118-983"
+ORIGIN      
+        1 ctgaggccca gcccccttcg cccgtttcca tcacgagtgc cgccagcatg tctgacaaac
+       61 tgccctacaa agtcgccgac atcggcctgg ctgcctgggg acgcaaggcc ctggacattg
+      121 ctgagaacga gatgccgggc ctgatgcgta tgcgggagcg gtactcggcc tccaagccac
+      181 tgaagggcgc ccgcatcgct ggctgcctgc acatgaccgt ggagacggcc gtcctcattg
+      241 agaccctcgt caccctgggt gctgaggtgc agtggtccag ctgcaacatc ttctccaccc
+      301 agaaccatgc ggcggctgcc attgccaagg ctggcattcc ggtgtatgcc tggaagggcg
+      361 aaacggacga ggagtacctg tggtgcattg agcagaccct gtacttcaag gacgggcccc
+      421 tcaacatgat tctggacgac gggggcgacc tcaccaacct catccacacc aagtacccgc
+      481 agcttctgcc aggcatccga ggcatctctg aggagaccac gactggggtc cacaacctct
+      541 acaagatgat ggccaatggg atcctcaagg tgcctgccat caatgtcaat gactccgtca
+      601 ccaagagcaa gtttgacaac ctctatggct gccgggagtc cctcatagat ggcatcaagc
+      661 gggccacaga tgtgatgatt gccggcaagg tagcggtggt agcaggctat ggtgatgtgg
+      721 gcaagggctg tgcccaggcc ctgcggggtt tcggagcccg cgtcatcatc accgagattg
+      781 accccatcaa cgcactgcag gctgccatgg agggctatga ggtgaccacc atggatgagg
+      841 cctgtcagga gggcaacatc tttgtcacca ccacaggctg tattgacatc atccttggcc
+      901 ggtaggtgcc agatgggggg tcccggggag tgagggagga gggcagagtt gggacagctt
+      961 tctgtccctg acaatctccc acggtcttgg gctgcctgac aggcactttg agcagatgaa
+     1021 ggatgatgcc attgtgtgta acattggaca ctttgacgtg gagatcgatg tcaagtggct
+     1081 caacgagaac gccgtggaga aggtgaacat caagccgcag gtggaccggt atcggttgaa
+     1141 gaatgggcgc cgcatcatcc tgctggccga gggtcggctg gtcaacctgg gttgtgccat
+     1201 gggccacccc agcttcgtga tgagtaactc cttcaccaac caggtgatgg cgcagatcga
+     1261 gctgtggacc catccagaca agtaccccgt tggggttcat ttcctgccca agaagctgga
+     1321 tgaggcagtg gctgaagccc acctgggcaa gctgaatgtg aagttgacca agctaactga
+     1381 gaagcaagcc cagtacctgg gcatgtcctg tgatggcccc ttcaagccgg atcactaccg
+     1441 ctactgagag ccaggtctgc gtttcaccct ccagctgctg tccttgccca ggccccacct
+     1501 ctcctcccta agagctaatg gcaccaactt tgtgattggt ttgtcagtgt cccccatcga
+     1561 ctctctgggg ctgatcactt agtttttggc ctctgctgca gccgtcatac tgttccaaat
+     1621 gtggcagcgg gaacagagta ccctcttcaa gccccggtca tgatggaggt cccagccaca
+     1681 gggaaccatg agctcagtgg tcttggaaca gctcactaag tcagtccttc cttagcctgg
+     1741 aagtcagtag tggagtcaca aagcccatgt gttttgccat ctaggccttc acctggtctg
+     1801 tggacttata cctgtgtgct tggtttacag gtccagtggt tcttcagccc atgacagatg
+     1861 agaaggggct atattgaagg gcaaagagga actgttgttt gaattttcct gagagcctgg
+     1921 cttagtgctg ggccttctct taaacctcat tacaatgagg ttagtacttt tagtccctgt
+     1981 tttacagggg ttagaataga ctgttaaggg gcaactgaga aagaacagag aagtgacagc
+     2041 taggggttga gaggggccag aaaaacatga atgcaggcag atttcgtgaa atctgccacc
+     2101 actttataac cagatggttc ctttcacaac cctgggtcaa aaagagaata atttggccta
+     2161 taatgttaaa agaaagcagg aaggtgggta aataaaaatc ttggtgcctg g
+//
+

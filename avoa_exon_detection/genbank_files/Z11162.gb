@@ -1,0 +1,96 @@
+LOCUS       Z11162                  2632 bp    DNA     linear   PRI 13-MAR-1992
+DEFINITION  H.sapiens gene for angiotensin II.
+ACCESSION   Z11162
+VERSION     Z11162.1
+KEYWORDS    angiotensin II.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1238)
+  AUTHORS   Furuta,H.
+  TITLE     Nucleotide sequence of a gene encoding human angiotensin II type-1
+            receptor
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1238)
+  AUTHORS   Furuta,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-NOV-1991) HIROAKI FURUTA, BIOCHEMISTRY, VANDERBILT
+            UNIVERSITY, 23RD AND, PIERCE, NASHVILLE, TENNESSEE, 37232-0146, USA
+FEATURES             Location/Qualifiers
+     source          1..2632
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /sex="male"
+                     /tissue_type="LYMPHOCYTE"
+                     /clone_lib="HUMAN LYMPHOCYTE GENOMIC LIBRARY"
+                     /dev_stage="ADULT"
+     CDS             464..1543
+                     /codon_start=1
+                     /product="angiotensin II"
+                     /protein_id="CAA77513.1"
+                     /db_xref="GDB:132359"
+                     /db_xref="GOA:P30556"
+                     /db_xref="HGNC:HGNC:336"
+                     /db_xref="InterPro:IPR000190"
+                     /db_xref="InterPro:IPR000248"
+                     /db_xref="InterPro:IPR000276"
+                     /db_xref="InterPro:IPR017452"
+                     /db_xref="PDB:1ZV0"
+                     /db_xref="UniProtKB/Swiss-Prot:P30556"
+                     /translation="MILNSSTEDGIKRIQDDCPKAGRHNYIFVMIPTLYSIIFVVGIF
+                     GNSLVVIVIYFYMKLKTVASVFLLNLALADLCFLLTLPLWAVYTAMEYRWPFGNYLCK
+                     IASASVSFNLYASVFLLTCLSIDRYLAIVHPMKSRLRRTMLVAKVTCIIIWLLAGLAS
+                     LPAIIHRNVFFIENTNITVCAFHYESQNSTLPIGLGLTKNILGFLFPFLIILTSYTLI
+                     WKALKKAYEIQKNKPRNDDIFKIIMAIVLFFFFSWIPHQIFTFLDVLIQLGIIRDCRI
+                     ADIVDTAMPITICIAYFNNCLNPLFYGFLGKKFKRYFLQLLKYIPPKAKSHSNLSTKM
+                     STLSYRPSDNVSSSTKKPAPCFEVE"
+ORIGIN      
+        1 ttaatgataa atgaattggt cctgcttacc tcaggaaaaa ctttcaagtc tttctgaaaa
+       61 actaatttaa ttcagtagta ttttctaaga tttaggttat gtttttaatc aatttggaaa
+      121 ccaagattta cttatagaaa aaaaggaaaa ggacctagat aggtttattc acatagaatc
+      181 ccaatttcac ttctctggat gataccattt tctacaaaag caattatgtt ctaaaattta
+      241 agtgtgcttt cttaggcttt atcagttcac agtgtttcct taagaaatat gatccagtat
+      301 tttttcctaa gactaaagtt gagttactac gtttatgact gagaaatgaa tgtttgttag
+      361 tttgtttgtt tacaataaga attttttctt taccatttta tttttatttt ccccaggtgt
+      421 atttgatata gtgtttgcaa caaattcgac ccaggtgatc aaaatgattc tcaactcttc
+      481 tactgaagat ggtattaaaa gaatccaaga tgattgtccc aaagctggaa ggcataatta
+      541 catatttgtc atgattccta ctttatacag tatcatcttt gtggtgggaa tatttggaaa
+      601 cagcttggtg gtgatagtca tttactttta tatgaagctg aagactgtgg ccagtgtttt
+      661 tcttttgaat ttagcactgg ctgacttatg ctttttactg actttgccac tatgggctgt
+      721 ctacacagct atggaatacc gctggccctt tggcaattac ctatgtaaga ttgcttcagc
+      781 cagcgtcagt ttcaacctgt acgctagtgt gtttctactc acgtgtctca gcattgatcg
+      841 atacctggct attgttcacc caatgaagtc ccgccttcga cgcacaatgc ttgtagccaa
+      901 agtcacctgc atcatcattt ggctgctggc aggcttggcc agtttgccag ctataatcca
+      961 tcgaaatgta tttttcattg agaacaccaa tattacagtt tgtgctttcc attatgagtc
+     1021 ccaaaattca acccttccga tagggctggg cctgaccaaa aatatactgg gtttcctgtt
+     1081 tccttttctg atcattctta caagttatac tcttatttgg aaggccctaa agaaggctta
+     1141 tgaaattcag aagaacaaac caagaaatga tgatattttt aagataatta tggcaattgt
+     1201 gcttttcttt ttcttttcct ggattcccca ccaaatattc acttttctgg atgtattgat
+     1261 tcaactaggc atcatacgtg actgtagaat tgcagatatt gtggacacgg ccatgcctat
+     1321 caccatttgt atagcttatt ttaacaattg cctgaatcct cttttttatg gctttctggg
+     1381 gaaaaaattt aaaagatatt ttctccagct tctaaaatat attcccccaa aagccaaatc
+     1441 ccactcaaac ctttcaacaa aaatgagcac gctttcctac cgcccctcag ataatgtaag
+     1501 ctcatccacc aagaagcctg caccatgttt tgaggttgag tgacatgttc gaaacctgtc
+     1561 cataaagtaa ttttgtgaaa gaaggagcaa gagaacattc ctctgcagca cttcactacc
+     1621 aaatgagcat tagctacttt tcagaattga aggagaaaat gcattatgtg gactgaaccg
+     1681 acttttctaa agctctgaac aaaagctttt ctttcctttt gcaacaagac aaagcaaagc
+     1741 cacattttgc attagacaga tgacggctgc tcgaagaaca atgtcagaaa ctcgatgaat
+     1801 gtgttgattt gagaaatttt actgacagaa atgcaatctc cctagcctgc ttttgtcctg
+     1861 ttatttttta tttccacata aaggtattta gaatatatta aatcgttaga ggagcaacag
+     1921 gagatgagag ttccagattg ttctgtccag tttccaaagg gcagtaaagt tttcgtgccg
+     1981 gttttcagct attagcaact gctgctacac ttgcacctgg tactgcacat tttgtacaaa
+     2041 gatatgctaa gcagtagtcg tcaagttgca gatctttttg tgaaattcaa cctgtgtctt
+     2101 ataggtttac actgccaaaa caatgcccgt aagatggctt atttgtataa tggtgttact
+     2161 aaagtcacat ataaaagtta aactacttgt aaaggtgctg cactggtccc aagtagtagt
+     2221 gtcttcctag tatattagtt tgatttaata tctgagaagt gtatatagtt tgtggtaaaa
+     2281 agattatata tcataaagta tgccttctgt ttaaaaaaag tatatatcta cacatatata
+     2341 tatatgtata tctatatctc taaactgctg ttaattgatt aaaatctggc aaagttatat
+     2401 ttactttaaa ataaaataat tttattgcaa tgtatttatc ttcattactt aaaatagatg
+     2461 ctaatttatt ttaaaataag actaccttga atgagtatga atatattttt atttaaattt
+     2521 tgatacaact gatagtttaa tactattggt tatagatttt ttatcctgac attgaaaagt
+     2581 taaagaaaaa acattttgtt ctactgcatg tcatggaata aacacatcgt tt
+//
+

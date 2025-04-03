@@ -1,0 +1,57 @@
+LOCUS       Z27113                   546 bp    DNA     linear   PRI 08-JUN-1995
+DEFINITION  H.Sapiens gene for RNA polymerase II subunit 14.4 kD.
+ACCESSION   Z27113
+VERSION     Z27113.1
+KEYWORDS    RNA polymerase II; RNA polymerase II subunit 14.4 kD.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 546)
+  AUTHORS   Acker,J., Wintzerith,M., Vigneron,M. and Kedinger,C.
+  TITLE     A 14.4 KDa acidic subunit of human RNA polymerase II with a
+            putative leucine-zipper
+  JOURNAL   DNA Seq. 4 (5), 329-331 (1994)
+   PUBMED   7803819
+REFERENCE   2  (bases 1 to 546)
+  AUTHORS   Kedinger,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-NOV-1993) claude Kedinger, U184INSERM-LGME UPR6520
+            CNRS-Inst.Chimie Biol.ULP, Strasbourg, 11, rue Humann, Strasbourg,
+            Alsace, 67085, France
+FEATURES             Location/Qualifiers
+     source          1..546
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /cell_line="HeLa cells"
+     CDS             79..462
+                     /codon_start=1
+                     /product="RNA Polymerase II subunit 14.4 kD"
+                     /protein_id="CAA81629.1"
+                     /db_xref="GDB:250746"
+                     /db_xref="GOA:P61218"
+                     /db_xref="HGNC:HGNC:9193"
+                     /db_xref="InterPro:IPR006110"
+                     /db_xref="InterPro:IPR006111"
+                     /db_xref="InterPro:IPR012293"
+                     /db_xref="InterPro:IPR020708"
+                     /db_xref="PDB:1QKL"
+                     /db_xref="UniProtKB/Swiss-Prot:P61218"
+                     /translation="MSDNEDNFDGDDFDDVEEDEGLDDLENAEEEGQENVEILPSGER
+                     PQANQKRITTPYMTKYERARVLGTRALQIAMCAPVMVELEGETDPLLIAMKELKARKI
+                     PIIIRRYLPDGSYEDWGVDELIITD"
+ORIGIN      
+        1 gcgcgagtcg tagtgtcgct gtttgcgggt ctccgcggcg ggaccggggc gcagcggggt
+       61 cgctgaggcg agggtgtcat gtcagacaac gaggacaatt ttgatggcga cgactttgat
+      121 gatgtggagg aggatgaagg gctagatgac ttggagaatg ccgaagagga aggccaggag
+      181 aatgtcgaga tcctcccctc tggggagcga ccgcaggcca accagaagcg aatcaccaca
+      241 ccatacatga ccaagtacga gcgagcccgc gtgctgggca cccgagcgct ccagattgcg
+      301 atgtgtgccc ctgtgatggt ggagctggag ggggagacag atcctctgct cattgccatg
+      361 aaggaactca aggcccgaaa gatccccatc atcattcgcc gttacctgcc agatgggagc
+      421 tatgaagact ggggggtgga cgagctcatc atcaccgact gagctggagt catcttcctg
+      481 cccttgcccc atgcccaatt ttcattctca ctttatatgt gtaaataata aaatattcaa
+      541 ctttcc
+//
+

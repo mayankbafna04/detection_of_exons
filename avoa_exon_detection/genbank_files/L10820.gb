@@ -1,0 +1,215 @@
+LOCUS       HUMFPR1A                6931 bp    DNA     linear   PRI 26-NOV-2007
+DEFINITION  Human N-formyl peptide receptor (FPR1) gene, complete cds and Alu
+            repeats.
+ACCESSION   L10820
+VERSION     L10820.1
+KEYWORDS    G protein; G protein coupled receptor; N-formyl peptide; N-formyl
+            peptide receptor; formyl peptide receptor; peptide receptor;
+            pertussis toxin; phagocytosis; plasma membrane; transmembrane
+            domain; transmembrane receptor.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (sites)
+  AUTHORS   Boulay,F., Tardif,M., Brouchon,L. and Vignais,P.
+  TITLE     The human N-formylpeptide receptor. Characterization of two cDNA
+            isolates and evidence for a new subfamily of G-protein-coupled
+            receptors
+  JOURNAL   Biochemistry 29 (50), 11123-11133 (1990)
+   PUBMED   2176894
+REFERENCE   2  (sites)
+  AUTHORS   Perez,H.D.
+  TITLE     Cloning of the gene coding for a human receptor for formylpeptides
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 6931)
+  AUTHORS   Murphy,P.M., Tiffany,H.L., McDermott,D. and Ahuja,S.K.
+  TITLE     Sequence and organization of the human N-formyl peptide
+            receptor-encoding gene
+  JOURNAL   Gene 133 (2), 285-290 (1993)
+   PUBMED   8224916
+FEATURES             Location/Qualifiers
+     source          1..6931
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+     gene            456..6599
+                     /gene="FPR1"
+     regulatory      456..461
+                     /regulatory_class="TATA_box"
+                     /gene="FPR1"
+                     /note="putative"
+     exon            479..552
+                     /gene="FPR1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /number=1
+     intron          553..2111
+                     /gene="FPR1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /number=1
+     repeat_region   683..966
+                     /gene="FPR1"
+                     /rpt_family="Alu"
+     exon            2112..2162
+                     /gene="FPR1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /number=2
+     intron          2163..5369
+                     /gene="FPR1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /number=2
+     repeat_region   3603..3894
+                     /gene="FPR1"
+                     /rpt_family="Alu"
+     exon            5370..6599
+                     /gene="FPR1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /number=3
+     CDS             5381..6433
+                     /gene="FPR1"
+                     /note="putative"
+                     /codon_start=1
+                     /product="N-formyl peptide receptor"
+                     /protein_id="AAA16863.1"
+                     /translation="METNSSLPTNISGGTPAVSAGYLFLDIITYLVFAVTFVLGVLGN
+                     GLVIWVAGFRMTHTVTTISYLNLAVADFCFTSTLPFFMVRKAMGGHWPFGWFLCKFVF
+                     TIVDINLFGSVFLIALIALDRCVCVLHPVWTQNHRTVSLAKKVIIGPWVMALLLTLPV
+                     IIRVTTVPGKTGTVACTFNFSPWTNDPKERIKVAVAMLTVRGIIRFIIGFSAPMSIVA
+                     VSYGLIATKIHKQGLIKSSRPLRVLSFVAAAFFLCWSPYQVVALIATVRIRELLQGMY
+                     KEIGIAVDVTSALAFFNSCLNPMLYVFMGQDFRERLIHALPASLERALTEDSTQTSDT
+                     ATNSTLPSAEVALQAK"
+     variation       5681..5683
+                     /gene="FPR1"
+     variation       5954..5956
+                     /gene="FPR1"
+     regulatory      6581..6586
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="FPR1"
+                     /note="putative"
+     repeat_region   6917..>6931
+                     /rpt_family="Alu"
+ORIGIN      
+        1 ttatggggtt aatcttggtg gtgtgcatgg gtgtggacgc gctgtcctgc caactgtctc
+       61 aacttccccc actcccttac ctctctctgt gtttctggtc tccatccctc atgacttctt
+      121 ctcttccttt cattgcctcc ctctgattct tctcaccaca gtgcttgctg ctttctttac
+      181 cttgaccctt ggagggagca ggggcccgga cacttggatt tcttggccct tgttgttgag
+      241 agcactgaac ctctgcatcc acagagactg aggctgagaa atacagtcag gtacatgagt
+      301 ttctaaacag gcccagccac tgtcctaatg ccattaaagc agacagtata ttggtgtatt
+      361 cttggggcca tcaaaaatca gaagaagctc agacttccta tttcctgcta cccagctggt
+      421 ttcagttcct ttacccctcc tcctgttcct tggtgtatgt tttgctgcaa tcattagagc
+      481 ctgagtcact ctccccagga gacccagacc tagaactacc cagagcaaga ccacagctgg
+      541 tgaacagtcc aggtaagaaa catattctgg gggactgggt agcttgacat agacacactt
+      601 aatacactgg tgaacacaat agactctttg tttgaagaag gatgtggagt tgaagaataa
+      661 tttttttaaa gaggttctaa acaggccggg cacgtgactc atgcttgtaa tcccagcact
+      721 ttgggaggcc aaggcaggtg gataacttga ggtcaggagt tcgagaccag cctggccaac
+      781 atgttgaaac ctcacttcta ttaaaaatac aaaaattagc caggcgtggt ggtgggcgtc
+      841 tgtaattcaa gctacttggg aggctgaggc aggagaattg cttgaatctg ggaggtggag
+      901 gttgcagtga gctcagattg caccactgta ctccagccta ggtgacagag tgagactcca
+      961 tctcaaataa ataagtaaat aaataaataa acaaataggc tctagacttt attggggtcc
+     1021 tgatgggaat gatggaatat agagacacta tgaggctgca ggagagagaa gggataagtg
+     1081 aaggagggaa gttcttgagt aaatggggga atgagtttta tgggaccagt agagggtaat
+     1141 tcttggatgg aaacacttgt tttctggtta cagagatgag ggcagagaac agtgatgcag
+     1201 gagccagcag gaggagaatc tggtggagca agaggcaagg gcatcagctt gagggcttga
+     1261 gtcggggtgg gaaaggatgt ttggtttgaa gctttcagga gaaagcaaaa gagccctaac
+     1321 gactttatga tgggtcatgg ggaaatgagt gtaatacaga agcagtcacc tttcggatca
+     1381 gtgatgagtc tccacgtgaa gacactggtt ctgcatggtg cataggaccc agtagcggaa
+     1441 tacagccctg ccctctcatg aatctgcaga cattggctgt catttctcat caagctccta
+     1501 gtttcctctt ccgtcacaca gggatgatga tgtataatca atgctgagtt tgttgagatc
+     1561 agaggcaaga aagttgagga tgtggtacaa tgattatcaa gcataaagtc cttcatcgat
+     1621 ggcagccacc aaggcctgtg ttcattgcaa atcacaggat ttttcccttg aaccataatt
+     1681 ggacaaaatt gcacaggttt tcctctctgg tatgttccag ctcattattg cagaatcctc
+     1741 atcattcatt gcaacaatct tctgaactgg ttgccttaga gattcttgag gacaaagagt
+     1801 cctcagggta ttttggtggt tggatgggtg gtaggggagg gagacatctc tgagttgttt
+     1861 ctgagattgt agagtatcaa agttcattag aaatgtgaga cacatatgta gtttcaaagt
+     1921 gtcaagtagg cactttaaaa aggtgaagag aaacatgcga acttaatttt aataaaatat
+     1981 ctaacctaaa cttaaatagc caaattatta tcattttaac atgtagtcaa tataaaaact
+     2041 attaatgaga tggtcacaat atttttttca tactaagtct ttgaaatctg atgggtattt
+     2101 tactcctaca gcctgtctcc agttggacta gccacaattc aagtgcttga aaaccacatg
+     2161 tggtgagtga ctagtgcatt agacagctct tctgtgccag tagcgtggca gggcagaggc
+     2221 agaaagagac ttttgctgga attcgacagc ctgggctgtt gggtgacttt aaggaattaa
+     2281 ctgaaatgct ctaagtcgca ctttcctcgt ctgcaaaatg ggtaccataa agacagtgac
+     2341 cctcatagta acaattttga ggaaggctgc tgcaagcatt agaagagaag accaggccgg
+     2401 gcgcagtggc tcacacctgt aatcctagca ctttgggagg ctgaggcagg tggactgcct
+     2461 gagctcagga gtttgagacc agcctgggca acatggtgaa accccatgtc tactaaaata
+     2521 caattaaaaa gaaaaattag ccaggcacgg cggcgtgcac ctgaaatccc agctactcag
+     2581 gaggctgaga caggagaatc gcttgaacct gggaggcgga ggttgcagtg agctcagatc
+     2641 acgccactgc actccagcct gggtgataga gagagactcc atctcaaaat aaataaataa
+     2701 ataaaataaa ataaattaaa aaaaagagag aaggccagct ctcagcaaga acctgacatg
+     2761 cactttgcat acctgatcta atgaaatgtc atatccaata catatttgga ctattatttc
+     2821 tatcacggtc ttctacatcc ccaagagtgc tgagcccatc caatggatgg agaagcacct
+     2881 cccatccatc tggccaaggt aaccgcagag acgagagtgg aaacagagtc tgttgttctg
+     2941 acttcttcta gcacagaatc cattggatat aatacttgat tatacgtcgt ttagtatcac
+     3001 tcacggatcc atttgaccta tgttggaaaa ctaaccaagt actatgcctt gcttcccacg
+     3061 atgagagagg aaagggagat ttcatgacct taaagagaga gagcgagcag aatttggagt
+     3121 ggagaagttg catatctttt tttttttttg aaacggagtc tcgctctgtc gcccaggctg
+     3181 gagtgcaatg gcgcagtctc tgctcactgc aacctccgcc tcccacgttc aagtgattct
+     3241 cctgcctcag cctctggagt agctgggact aaaagcaccc accgccatgc ctggctaatt
+     3301 tttgtatttt tagtagagat ggggcttctc catgttggcc aggctggtct cgaactgcta
+     3361 acctcatgat ccacccgcct cggcctccca aggtactggg attacaggcg tgagccactg
+     3421 cgcctggctg agaagttgca taccttatag ttcttatgca gtgttatggg tgagagaaag
+     3481 tcttagtcca cgtttgtgtg acactaggtc actgaacgtg tcgcccactg attttctgat
+     3541 atcttatgct cttatttttc ctttattaaa ttgatggtaa aatacaaaaa gttaaccatt
+     3601 ttaggctggg cacagtggct cacgcctata atctcagcac tttgggacgc cgaggcgggc
+     3661 agatcacctg aggtcaagga gtttgagacc aggctggcca acatggtgaa accccatctc
+     3721 tacaaaaata taaaaattag ctgggcatgg tggcaagtgc ctgtaattcc agctactcag
+     3781 gaggctgagg caggagaatc acttaaacgc gggaggcgga ggttgcagtg agccaagatc
+     3841 gcaccactgc actccagcct gggtgacaga acgagactgc gtctcaaaca acaataaaaa
+     3901 agttacccat ttaaatgtac aattcaatgg cattaagtac atctacagtg tgttgcaacc
+     3961 ataaccatta tctagttcca gaacttttta atcacaccaa gcaaaaactg catattcatt
+     4021 aagcaacaat tccccacttc ctagtttccc cagtccctgg caatcactaa tctgcattcg
+     4081 gtctctgtga gtttggctac tctggatatt tcatacaagt ggaatcatac aaaatgtgac
+     4141 ttgtggtgtc ttccttcctt ctctccttcc ttcctccttc tttccttcct ttcttttttc
+     4201 tttcatttta gagacagggt cttgctttgt tgcccaggct ggagtgcagt ggctcaatca
+     4261 tagtacacta ttaaccttga attcctggct caagtgagcc tcccatctca cccttctgag
+     4321 tagctaggac tacaggtgtg tgccaccaca tccagctaat ttaatttaat tttgttgttg
+     4381 ttgttgttag agatgaggat cttgctatgt ggctcaggct gatcatgaac tcctgagctc
+     4441 aagcaaccct cctacctcag cttcccaaag ctctgagatg acaggcgtga accaccacat
+     4501 ccagccctct tttgtttaga gtaatgtttt caaggttcag ccacgttgta gcatatatca
+     4561 gtgcttcatt gttttttatg gcagaataat attccattgg gtggataaac cacattttgt
+     4621 ttatccattc atctgttgat ggacatctgg gttgtttcta ccttttggct atagggagga
+     4681 gtgtctctat gaacattttt gtttgaatac atgttttctc tattcatgta ttcatgaatc
+     4741 tttggcccca tattctcctc ttggaggtca aggaccctat cttccttagc catttaatct
+     4801 ccctggtagg ggcttgcatg ttagcaatta tgaggatgtg tcataagatg caatcttggc
+     4861 cacacgcggt agctcacgtc tgtaatccca gcactttggg aggctgaggt gggtggatca
+     4921 cctggggtca gcagttcaag accagcctgg ccaacatggc aaaaccccac ctctactaaa
+     4981 tatacgaaaa ttagccagga gtggggtggt gcatacctgt agtctcagct actcaggatg
+     5041 ctgaggcagg ggaattgctt gaacccggga gtggaggttg cagtgagaga tcacgccact
+     5101 gcactccagc ctgggtgaca gagcaatatt ccatctcaaa aaaaaaaaaa aagatgtaat
+     5161 cttgcccaac aggtacaata aaagattgcc aatgtataga tgtgggcatg tgtaagggac
+     5221 agtggtgagg atgttccggc tgttgtggga gctctagggg aaggtgagaa agctaggagt
+     5281 gggaaaactg gcaggggcag aaatgagggg gtggggaaat ggtacggagg ttcataactg
+     5341 aggaaatgac cacgactgca ctatttcagg agcagacaag atggagacaa attcctctct
+     5401 ccccacgaac atctctggag ggacacctgc tgtatctgct ggctatctct tcctggatat
+     5461 catcacttat ctggtatttg cagtcacctt tgtcctcggg gtcctgggca acgggcttgt
+     5521 gatctgggtg gctggattcc ggatgacaca cacagtcacc accatcagtt acctgaacct
+     5581 ggccgtggct gacttctgtt tcacctccac tttgccattc ttcatggtca ggaaggccat
+     5641 gggaggacat tggcctttcg gctggttcct gtgcaaattc gtctttacca tagtggacat
+     5701 caacttgttc ggaagtgtct tcctgatcgc cctcattgct ctggaccgct gtgtttgcgt
+     5761 cctgcatcca gtctggaccc agaaccaccg caccgtgagc ctggccaaga aggtgatcat
+     5821 tgggccctgg gtgatggctc tgctcctcac attgccagtt atcattcgtg tgactacagt
+     5881 acctggtaaa acggggacag tagcctgcac ttttaacttt tcgccctgga ccaacgaccc
+     5941 taaagagagg ataaaggtgg ccgttgccat gttgacggtg agaggcatca tccggttcat
+     6001 cattggcttc agcgcaccca tgtccatcgt tgctgtcagt tatgggctta ttgccaccaa
+     6061 gatccacaag caaggcttga ttaagtccag tcgtccctta cgggtcctct cctttgtcgc
+     6121 agcagccttt tttctctgct ggtccccata tcaggtggtg gcccttatag ccacagtcag
+     6181 aatccgtgag ttattgcaag gcatgtacaa agaaattggt attgcagtgg atgtgacaag
+     6241 tgccctggcc ttcttcaaca gctgcctcaa ccccatgctc tatgtcttca tgggccagga
+     6301 cttccgggag aggctgatcc acgcccttcc cgccagtctg gagagggccc tgaccgagga
+     6361 ctcaacccaa accagtgaca cagctaccaa ttctacttta ccttctgcag aggtggcgtt
+     6421 acaggcaaag tgaggaggga gctgggggac actttcgagc tcccagctcc agcttcgtct
+     6481 caccttgagt taggctgagc acaggcattt cctgcttatt ttaggattac ccactcatca
+     6541 gaaaaaaaaa aaaagccttt gtgtcccctg atttggggag aataaacaga tatgagttta
+     6601 ttattgactt cttttttgat tttggacctc agcctcgggt ggtcagggtg ggaaatgata
+     6661 ggaagaagct gtcatctgca tcctagtttg cctgaaatga acccaaataa tacccattat
+     6721 tattagtcct gaattatgag tagtgaatga tacccatcat tctggcatca tgatgagtag
+     6781 tgtccacttc cattctgaaa agtgccctgc tgtgaaaaat aaattatata gtcatcctag
+     6841 gtaaatgaag gaggagggag aagtgtgaaa gagtatggct taaatcagac aagatataca
+     6901 agaagatact ttatataggg caggagcggt g
+//
+

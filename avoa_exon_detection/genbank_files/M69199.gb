@@ -1,0 +1,61 @@
+LOCUS       HUMG0S2A                 863 bp    DNA     linear   PRI 18-JUL-1996
+DEFINITION  Human G0S2 protein gene, complete cds.
+ACCESSION   M69199
+VERSION     M69199.1
+KEYWORDS    G0S2 protein.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 863)
+  AUTHORS   Russell,L. and Forsdyke,D.R.
+  TITLE     A human putative lymphocyte G0/G1 switch gene containing a CpG-rich
+            island encodes a small basic protein with the potential to be
+            phosphorylated
+  JOURNAL   DNA Cell Biol. 10 (8), 581-591 (1991)
+   PUBMED   1930693
+COMMENT     On Jan 4, 1995 this sequence version replaced gi:182850.
+            Original source text: Homo sapiens DNA and cDNA to mRNA.
+FEATURES             Location/Qualifiers
+     source          1..863
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /cell_type="mononuclear"
+                     /tissue_type="blood"
+                     /dev_stage="adult"
+                     /note="sequence obtained from DNA and mRNA"
+     gene            1..863
+                     /gene="G0S2"
+     mRNA            1..863
+                     /gene="G0S2"
+     CDS             161..472
+                     /gene="G0S2"
+                     /codon_start=1
+                     /product="G0S2 protein"
+                     /protein_id="AAB04044.1"
+                     /translation="METVQELIPLAKEMMAQKRKGKMVKLYVLGSVLALFGVVLGLME
+                     TVCSPFTAARRLRDQEAAVAELQAALERQALQKQALQEKGKQQDTVLGGRALSNRQHA
+                     S"
+     regulatory      842..847
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="G0S2"
+ORIGIN      
+        1 ggagtctcca actgggagag ctgcagctgc cgagaggagg agaacgctga ggtcggtcgg
+       61 accaacggac gcgctgaccg ctgccaactg cagctcgcgc tgcctcctgc tcgcgccgtg
+      121 ccactaaggt cactcccgcc tccgagagcc cagagccgag atggaaacgg tccaggagct
+      181 gatccccctg gccaaggaga tgatggccca gaagcgcaag gggaagatgg tgaagctgta
+      241 cgtgctgggc agcgtgctgg ccctcttcgg cgtggtgctc ggcctgatgg agactgtgtg
+      301 cagccccttc acggccgcca gacgtctgcg ggaccaggag gcagccgtgg cggagctgca
+      361 ggccgccctg gagcgacagg ctctccagaa gcaagccctg caggagaaag gcaagcagca
+      421 ggacacggtc ctcggcggcc gggccctgtc caaccggcag cacgcctcct aggaactgtg
+      481 ggagaccagc ggagtgggag ggagacgcag tagacagaga cagaccgaga aggaagggag
+      541 agacagaggg ggcgcgcgca caggagcctg actccgctgg gagagtgcag gagcacgtgc
+      601 tgttttttat ttggacttaa cttcagagaa accgctgaca tctagaactg acctaccaca
+      661 agcatccacc aaaggagttt gggattgagt tttgctgctg tgcagcactg cattgtcatg
+      721 acatttccaa cactgtgtga attatctaaa tgcgtctacc attttgcact agggaggaag
+      781 gataaatgct ttttatgtta ttattattaa ttattacaat gaccaccatt ttgcattttg
+      841 aaataaaaaa ctttttatac cat
+//
+

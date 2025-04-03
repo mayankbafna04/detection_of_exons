@@ -1,0 +1,90 @@
+LOCUS       HSU10273                2476 bp    DNA     linear   PRI 01-FEB-1995
+DEFINITION  Human angiotensin II receptor type 2 subtype gene, complete cds.
+ACCESSION   U10273
+VERSION     U10273.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2476)
+  AUTHORS   Koike,G., Horiuchi,M., Yamada,T., Szpirer,C., Jacob,H.J. and
+            Dzau,V.J.
+  TITLE     Human type 2 angiotensin II receptor gene: cloned, mapped to the X
+            chromosome, and its mRNA is expressed in the human lung
+  JOURNAL   Biochem. Biophys. Res. Commun. 203 (3), 1842-1850 (1994)
+   PUBMED   7945336
+REFERENCE   2  (bases 1 to 2476)
+  AUTHORS   Koike,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-JUN-1994) George Koike, Falk Cardiovascular Research
+            Center, Stanford University School of Medicine, 300 Pasteur Drive,
+            Stanford, CA 94305-5246, USA
+FEATURES             Location/Qualifiers
+     source          1..2476
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="X"
+                     /clone="pGK1111"
+                     /sex="female"
+                     /cell_type="leukocyte"
+                     /tissue_type="blood"
+                     /dev_stage="adult"
+     CDS             190..1281
+                     /codon_start=1
+                     /product="angiotensin II receptor type 2 subtype"
+                     /protein_id="AAA61794.1"
+                     /translation="MKGNSTLATTSKNITSGLHFGLVNISGNNESTLNCSQKPSDKHL
+                     DAIPILYYIIFVIGFLVNIVVVTLFCCQKGPKKVSSIYIFNLAVADLLLLATLPLWAT
+                     YYSYRYDWLFGPVMCKVFGSFLTLNMFASIFFITCMSVDRYQSVIYPFLSQRRNPWQA
+                     SYIVPLVWCMACLSSLPTFYFRDVRTIEYLGVNACIMAFPPEKYAQWSAGIALMKNIL
+                     GFIIPLIFIATCYFGIRKHLLKTNSYGKNRITRDQVLKMAAAVVLAFIICWLPFHVLT
+                     FLDALAWMGVINSCEVIAVIDLALPFAILLGFTNSCVNPFLYCFVGNRFQQKLRSVFR
+                     VPITWLQGKRESMSCRKSSSLREMETFVS"
+ORIGIN      
+        1 gaattcttgt tttacaagcc atggctctgt ttcttaatgt tttctataat cactcacttt
+       61 ttttttgctt ttgacaaaca ttcaaaatgc taatgattca aggatgtcct cagctctgta
+      121 tgtgttctaa gagttctatg ttttttctcc acagaaggca taagaactag gagctgctga
+      181 catttcaata tgaagggcaa ctccaccctt gccactacta gcaaaaacat taccagcggt
+      241 cttcacttcg ggcttgtgaa catctctggc aacaatgagt ctaccttgaa ctgttcacag
+      301 aaaccatcag ataagcattt agatgcaatt cctattcttt actacattat atttgtaatt
+      361 ggatttctgg tcaatattgt cgtggttaca ctgttttgtt gtcaaaaggg tcctaaaaag
+      421 gtttctagca tatacatctt caacctcgct gtggctgatt tactcctttt ggctactctt
+      481 cctctatggg caacctatta ttcttataga tatgactggc tctttggacc tgtgatgtgc
+      541 aaagtttttg gttcttttct taccctgaac atgtttgcaa gcattttttt tatcacctgc
+      601 atgagtgttg ataggtacca atctgtcatc tacccctttc tgtctcaaag aagaaatccc
+      661 tggcaagcat cttatatagt tccccttgtt tggtgtatgg cctgtttgtc ctcattgcca
+      721 acattttatt ttcgagacgt cagaaccatt gaatacttag gagtgaatgc ttgcattatg
+      781 gctttcccac ctgagaaata tgcccaatgg tcagctggga ttgccttaat gaaaaatatc
+      841 cttggtttta ttatcccttt aatattcata gcaacatgct attttggaat tagaaaacac
+      901 ttactgaaga cgaatagcta tgggaagaac aggataaccc gtgaccaagt cctgaagatg
+      961 gcagctgctg ttgttctggc cttcatcatt tgctggcttc ccttccatgt tctgaccttc
+     1021 ctggatgctc tggcctggat gggtgtcatt aatagctgcg aagttatagc agtcattgac
+     1081 ctggcacttc cttttgccat cctcttggga ttcaccaaca gctgcgttaa tccgtttctg
+     1141 tattgttttg ttggaaaccg gttccaacag aagctccgca gtgtgtttag ggttccaatt
+     1201 acttggctcc aagggaaaag agagagtatg tcttgccgga aaagcagttc tcttagagaa
+     1261 atggagacct ttgtgtctta aacgtgagag caaaatgcat gtaatcaaca tggctacttg
+     1321 ctttgaggct caccagaatt atttttaagt ggttttaata aaataataaa atttccccta
+     1381 atcttttctg aatcttctga aaccaaatgt aactatgttt tatcgtccag tgactttcag
+     1441 gaattgccca ttgtttttct gatatgtttg tacaagattt tcattggtga gacatattta
+     1501 caacctagaa gtaactggtg atatatctca aattgtaatt aataatagat tgtgaataat
+     1561 gatttgggga ttcagatttc tctttgaaac atgcttgtgt ttcttagtgg ggttttatat
+     1621 ccatttttat caggatttcc tcttgaacca gaaccagtct ttcaactcat tgcatcattt
+     1681 acaagacaac attgtaagag agatgagcac ttctaagttg agtatattat aatagattag
+     1741 tactggatta ttcaggcttt aggcatatgc ttctttaaaa acgctataaa ttatattcct
+     1801 cttgcatttc acttgagtgg aggtttatag ttaatctata actacatatt gaatagggct
+     1861 aggaatatag attaaatcat actcctatgc tttagcttat ttttacagtt atagaaagca
+     1921 agatgtacta taacatagaa ttgcaatcta taatatttgt gtgttcacta aactctgaat
+     1981 aagcactttt taaaaaactt tctactcatt ttaatgattg tttaaaggtt tctattttct
+     2041 ctgatacttt tttgaaatca gtaaacactg tgtattgttg taaaatgtaa aggtcacttt
+     2101 tcacatcctt gactttttag atgtgctgct ttgatatata ggacattgat ttgattttta
+     2161 ttattaatgc tttggttctg ggttgtttcc taaaatatct gggtggctta aaaaaaactc
+     2221 tttaacttgt aataaaccct taactggcat aggaaatggt atccagaatg gaattttgct
+     2281 acatggggtc tgggtggggg caaagagacc cagtcaatta catgtttggt accaagaaag
+     2341 gaacctgtca gggcagtaca atgtgacttt gaaaatatat accgtggggg tagttttacc
+     2401 ctatatctat aaacactgtt tgttccagaa tctgtatgat tctatggagc tattttaaac
+     2461 caattgcagg tctaga
+//
+

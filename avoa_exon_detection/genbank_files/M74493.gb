@@ -1,0 +1,151 @@
+LOCUS       HUMADPRF02              5167 bp    DNA     linear   PRI 31-DEC-1994
+DEFINITION  Human ADP-ribosylation factor 3 gene, exons 2-5.
+ACCESSION   M74493
+VERSION     M74493.1
+KEYWORDS    ADP-ribosylation factor 3.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 5167)
+  AUTHORS   Tsai,S.C., Haun,R.S., Tsuchiya,M., Moss,J. and Vaughan,M.
+  TITLE     Isolation and characterization of the human gene for
+            ADP-ribosylation factor 3, a 20-kDa guanine nucleotide-binding
+            protein activator of cholera toxin
+  JOURNAL   J. Biol. Chem. 266 (34), 23053-23059 (1991)
+   PUBMED   1744102
+COMMENT     [WARNING] On Aug 1, 2016 this sequence was replaced by AH002807.2.
+FEATURES             Location/Qualifiers
+     source          1..5167
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+     exon            118..358
+                     /gene="ADP-ribosylation factor 3"
+                     /number=2
+     CDS             join(211..358,1197..1307,1525..1649,2193..2354)
+                     /gene="ADP-ribosylation factor 3"
+                     /codon_start=1
+                     /product="ADP-ribosylation factor 3"
+                     /protein_id="AAA58359.1"
+                     /translation="MGNIFGNLLKSLIGKKEMRILMVGLDAAGKTTILYKLKLGEIVT
+                     TIPTIGFNVETVEYKNISFTVWDVGGQDKIRPLWRHYFQNTQGLIFVVDSNDRERVNE
+                     AREELMRMLAEDELRDAVLLVFANKQDLPNAMNAAEITDKLGLHSLRHRNWYIQATCA
+                     TSGDGLYEGLDWLANQLKNKK"
+     intron          359..1196
+                     /gene="ADP-ribosylation factor 3"
+                     /number=2
+     exon            1197..1307
+                     /gene="ADP-ribosylation factor 3"
+                     /number=3
+     intron          1308..1524
+                     /gene="ADP-ribosylation factor 3"
+                     /number=3
+     exon            1525..1649
+                     /gene="ADP-ribosylation factor 3"
+                     /number=4
+     intron          1650..2192
+                     /gene="ADP-ribosylation factor 3"
+                     /number=4
+     exon            2193..5092
+                     /gene="ADP-ribosylation factor 3"
+                     /number=5
+     regulatory      2588..2593
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="ADP-ribosylation factor 3"
+     regulatory      5073..5078
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="ADP-ribosylation factor 3"
+     polyA_site      5092
+                     /gene="ADP-ribosylation factor 3"
+ORIGIN      
+        1 ccctcaggcc tctccgtttg tcatgaatga actctagcca tgaccttggg aaattctatt
+       61 tacttggaag tcctgacaag caaatgatgg tatgattttt acatttcctt tgtctaggat
+      121 caagtcttcc ataccaggga ccaggccaaa accagactgc cactgcccct acttgggccc
+      181 cactgtcccc agaaagcagc tgctgtgatc atgggcaata tctttggaaa ccttctcaag
+      241 agcctgattg ggaagaagga gatgcgcatc ctgatggtgg gcctggatgc cgcaggaaag
+      301 accaccatcc tatacaagct gaaactgggg gagatcgtca ccaccatccc taccattggt
+      361 aagagcacag cttggatgtg ggctttcacg ccggcagctg aggcagggca gggacctatt
+      421 cctggttccc caacctggcc tcttctcccc aggcaagtcc atacaatttc ccgggttcag
+      481 aaaagagggc agtgttgttt agcttactac caggtgctga ggctgctgtt tgccacctaa
+      541 cctggctctc cctgatgcgg gaacttccat ggcctggcac tcaacagctg ccctcaggca
+      601 cggagttggt ttcttctctg tgttgtttgg aaagcaggta aaaggctttg atgttcctgc
+      661 caaagcttgg aattacttgg gtttagatct ttggtggcca atcttggtta cagtttgctg
+      721 aagggagttc tccctacatt tgctatgtag atggggtctc cagtcagcat tgtcagctgg
+      781 ctctgctttg gggctccagg atgccagctt acttcccttt cttcacctct gcctctcagg
+      841 ccccacatct tagctgaggc cgactctggt agccaaagta ccagagcagg gctgagtcat
+      901 tttgtaggag ggagcaccaa agactgagtg gaaaagtcag gaaagttggc ccacgttacc
+      961 caggcaactg tgaacctctc aaccaacttc ctcatcctct ttgacttctc ttaggttttc
+     1021 attttggcct tcaggctgct aggttaacga ttatcaggtc tgaggaagcc ttagcttttg
+     1081 ttccattgtt ggtgttatgg ccaccactgg gggaaagcag aaccaaactc cattgtggtg
+     1141 gtgtttgcgg ggctagtgtt tgagccaagt ggccattgcc tgtttttttt ccaaagggtt
+     1201 caatgtggag acagtggagt ataagaacat cagctttaca gtgtgggatg tgggtggcca
+     1261 ggacaagatt cgacccctct ggagacacta cttccagaac acccaaggta tgctcaggcc
+     1321 tagcgtgggt tggttgggta tgagcagaga gtgtggctgt ctttgttaat gggtggccaa
+     1381 ctgttaccct gctgcagctc ctgggggcag aagaaaggga ggaaagggag caaatatttg
+     1441 gagggtgtca ggcaggtgtg gtcttttggt tggggggagg gggttacctg tcatcttagt
+     1501 gcagcccatg ctctgccttc ctagggttga tatttgtggt cgacagcaat gatcgggagc
+     1561 gagtaaatga ggcccgggaa gagctgatga gaatgctggc ggaggacgag ctccgggatg
+     1621 ctgtactcct tgtctttgca aacaaacagg tgagacttct tcccacccct gaatttggga
+     1681 gaccagcaaa ctggctgtgg aaattgttgg ctcttgggcc tattatatgg ttaacccttt
+     1741 tagtatgctc tcaatgttag aagcgtggaa aactgagcac ttggcttctt tatcccctct
+     1801 tcttgtcccc accccaagct ttatttagca acatttcagt cctcaggaat tgtctcaaat
+     1861 ctttctttca tcttgcctgt tatctacttt aggagaattg gcctcactcc tgctgtcaga
+     1921 cagacctgat tctttggtca gtctgaatca cgtctcttgc ttgcccacca tcctcgtatt
+     1981 ggttccaatt cttcagtaca gtgacctcta gtgcttggat cttgagttct aggtgactaa
+     2041 atccaaagta gctcctatag gatcttgttc tgggtttcca aaaataaagg aggaggggaa
+     2101 ggtgctggta cacatttctt tggtagatgg gtgttctaga agcctttaaa aaatcctgag
+     2161 gcttcttttt atgtgtctcc cacgtgctcc aggatctgcc taatgctatg aacgctgctg
+     2221 agatcacaga caagctgggc ctgcattccc ttcgtcaccg taactggtac attcaggcca
+     2281 cctgtgccac cagcggggac gggctgtacg aaggcctgga ctggctggcc aatcagctca
+     2341 aaaacaagaa gtgaaagcca gacagcccta acaaagcacc ccacccaccc ctgacatacc
+     2401 tactgtcacc ctgccccagt cctacccctt cctctccatg caagtgtggc cagggccctg
+     2461 ggtatcatgt ccacatgccc agcaagagcc ttgcctcccc tgcctcccct cctttttcct
+     2521 gtccacctat atgaccaatc cctaattgct gtcctgatga tgagtcattc caatttactg
+     2581 gatttaaaac aaaaagttgt tacggtttca tggggtggcc cctctctctc tctcacctct
+     2641 gggtttcggg aggtcgagtg gggtattctc tttgtttggc agtggttgct gtcctcttgg
+     2701 catctgagtc ctttccctgt ccccacaagc ccttctactc cctgtttgcc tttcctttgc
+     2761 caccctctcc ctgttttaca tggaaattgc acgggcctct ctgtgtttgc gtgcatgtgt
+     2821 gcgcctgtat atacatgtat agagagatat atttgtgggg gccgggggga gcggggaggg
+     2881 ggtggagtga agctcagggc ttgcagccag gacactgccc actggagcct gtcatctgcc
+     2941 ccttccgtgt tggtgagatt aagggaagaa ggtgggaggg cattagtcaa gccggactgc
+     3001 cccagtcttt gactggttac cctcctctct gcaggtaggt ttttctggat gataggacag
+     3061 atgatggatt cttcaccacc attttccttg tactcttctc tccacccttc ttagggctgg
+     3121 aggatggcat ttatctctag atgactgttc ccaaggagat gccactctgc tctgccttac
+     3181 tgttgggaag gagagaggaa cccactcact cttatcagct tagagtgttc aactgatcct
+     3241 tccccaccat cttcagatct gttcctctgg agcttgactg gggggtgggg atggcaagtc
+     3301 catggtgtgt gttagggacc cagggcattg ggggaaggga ggcgaaggcc tgaggttttc
+     3361 catcttcatt ctcttttgtt attaggagaa ggtgaggcat gggccaatcc cattcctgcc
+     3421 ttccagtgcc ccaccaccct tctgatctta ggggttggat gggtcatctg tccttggtca
+     3481 gaattttctc accctagtac tcctactggc ctgaccaggg ctgactgggt attctaatga
+     3541 ggagctggga agtggggtga catagctgac cttagtatca acccccctct tctccaactc
+     3601 ttgttttcta gtccaggata tgctaaagga cgaagatttt ctattgtttc caggccctca
+     3661 gaccatcctt gctgtccctt caccctccat gcccctgcca tcctcactca cttctcataa
+     3721 atggatctgg gggttagagt ggaggaaata aaatcctgaa gtggttgtca gtgcttgtgg
+     3781 gatgcagtgg tcttcaggat tctccccgca ttattatgta gttgttcaga agctgttgct
+     3841 actgcgtctc tctgtctgca gggggcactt gttcctgagg tcctcgcctg ggtcctgact
+     3901 tctgtagttt ctgtgaagac gtggctgtcc tgtgggctcc tgtgtgtgct ggctgcgcct
+     3961 gagctccgag acagctgccc ataacctgct aaggtcaggg cccagggccc cccacagcat
+     4021 ggctgaggga ccccttccca gtagggctgt cccaagcccc actccatggg gccaggtttc
+     4081 ctggccactt ttgttgatag cagatggatc aatattagta accccatcca agattgaact
+     4141 gtgaaagaga ggttccaggg gtatctccct cagtgccagt tacttagtga tgtgttaccc
+     4201 aggatgcagc aggtgtgtgc aggtatcttg ctctctaggc ctgtgtgtgt gtgtgagtgt
+     4261 gtgtgtatat gggtgtgggt gtgtttgtgt gtggtggttg tggggggggt gttggaggtt
+     4321 ctatttcatt taaaaatgta ttcatttccc tggccccaca gatgcttccc tccatacttt
+     4381 ttatttgctc tgtttcctca gatttatttt gtcttgcccc attgcctctc cttccttgaa
+     4441 ctctttcctt ttcaatctca actcattcac tgctgttgct catttgccct tttccatgta
+     4501 ttttttccta cttaggattt tccactctat ctttgtggtt catgaggact ttgcctcttc
+     4561 tcctgcctca ttccctgact ttctctagtt agatgtcagt cctaaatagg ttttcctcac
+     4621 ttcaggcctc acccctcacc ttgttttttt gggggctcca gggaccaatc tggggctgga
+     4681 aatgttagga ggttgccttg gtgctgcccc agatctgtcc agcagggggc agtaagtgat
+     4741 cttggtagta tccctggctg ctaagccctt ggcaggggtg gtcctttcta cattcccatt
+     4801 cacttaacag ctcttttggg attgggtgtt tcattccatt tctgcccact ccctctcctc
+     4861 tcctctctgg taggtttaat tttatgcttt ccctgattcc agctttctgc ttcctgagga
+     4921 ctcccgctcc ccccacccca aagtttgtct gtggtgttat agtggtaact gcagttcctc
+     4981 ctctggaatg tagactgtat atgtttaata actcaccttc tctatccttg ctcaaaatgt
+     5041 gggataacgc gatgactgtg accctggttg gaaattaaac ttgttttatg cagctttgga
+     5101 gccgaccttc atctttgctg tgcagcagcc gtgggacagt agtttcatgg tgaggggagt
+     5161 cctgttt
+//
+

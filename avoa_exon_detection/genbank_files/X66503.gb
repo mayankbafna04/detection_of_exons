@@ -1,0 +1,90 @@
+LOCUS       X66503                  1939 bp    DNA     linear   PRI 18-APR-2005
+DEFINITION  Human adenylosuccinate synthetase mRNA.
+ACCESSION   X66503
+VERSION     X66503.1
+KEYWORDS    adenylosuccinate synthetase; purine pathway; purine salvage enzyme.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1
+  AUTHORS   Powell,S.M., Zalkin,H. and Dixon,J.E.
+  TITLE     Cloning and characterization of the cDNA encoding human
+            adenylosuccinate synthetase
+  JOURNAL   FEBS Lett. 303 (1), 4-10 (1992)
+   PUBMED   1592113
+REFERENCE   2  (bases 1 to 1939)
+  AUTHORS   Stone,R.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-SEP-1992) R.L. Stone, University of Michigan Medical
+            School, Dept of Biological Chemistry, 4433 Medical Sciences I, Ann
+            Arbor MI 48109-0606, USA
+  REMARK    sequence revised by author 11-NOV-93
+COMMENT     On Nov 14, 1993 this sequence version replaced gi:28422.
+FEATURES             Location/Qualifiers
+     source          1..1939
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /tissue_type="liver"
+                     /clone_lib="lambda gt11"
+     gene            73..1440
+                     /gene="ADSS"
+     CDS             73..1440
+                     /gene="ADSS"
+                     /codon_start=1
+                     /product="adenylosuccinate synthetase"
+                     /protein_id="CAA47123.1"
+                     /db_xref="GDB:119656"
+                     /db_xref="GOA:P30520"
+                     /db_xref="HGNC:HGNC:292"
+                     /db_xref="InterPro:IPR001114"
+                     /db_xref="InterPro:IPR018220"
+                     /db_xref="PDB:2V40"
+                     /db_xref="UniProtKB/Swiss-Prot:P30520"
+                     /translation="MAFAETYPAASSLPNGDCGRPRAAGGNRVTVVLGAQWGDEGKGK
+                     VVDLLAQDADIVCRCQGGNNAGHTVVVDSVEYDFHLLPSGIINPNVTAFIGNGVVIHL
+                     PGLFEEAEKNVQKGKGLEGWEKRLIISDRAHIVFDFHQAADGIQEQQRQEQAGKNLGT
+                     TKKGIGPVYSSKAARSGLRMCDLVSDFDGFSERFKVLANQYKSIYPTLEIDIEGELQK
+                     LKGYMEKIKPMVRDGVYFLYEALHGPPKKILVEGANAALLDIDFGTYPFVTSSNCTVG
+                     GVCTGLGMPPQNVGEVYGVVKAYTTRVGIGAFPTEQDNEIGELLQTRGREFGVTTGRK
+                     RRCGWLDLVLLKYAHMINGFTALALTKLDILDMFTEIKVGVAYKLDGEIIPHIPANQE
+                     VLNKVEVQYKTLPGWNTDISNARAFKELPVNAQNYVRFIEDELQIPVKWIGVGKSRES
+                     MIQLF"
+ORIGIN      
+        1 cgcagagcag ttcagttcgc tcactcctcg ccggccgcct ctccttcggg ctctcctcgc
+       61 gtcactggag ccatggcgtt cgccgagacc tacccggcgg catcctccct gcccaacggc
+      121 gattgcggcc gccccagggc ggccggagga aaccgggtga cggtggtgct cggtgcgcag
+      181 tggggcgacg aaggcaaagg gaaggtggtg gacctgctgg cgcaggacgc cgacatcgtg
+      241 tgccgctgcc agggaggaaa taatgctggc catacagttg ttgtggattc tgtggaatat
+      301 gattttcatc tcttacccag tggaataatt aatccaaatg tcactgcatt cattggaaat
+      361 ggtgtggtaa ttcatctacc tggattgttt gaagaagcag agaaaaatgt tcaaaaagga
+      421 aaaggactag aaggctggga aaaaaggctt attatatctg acagagctca tattgtattt
+      481 gattttcatc aagcagctga tggtatccag gaacaacaga gacaagaaca agcaggaaaa
+      541 aatttgggta caacaaaaaa gggcattggc ccagtttatt cgtccaaagc tgctcggagt
+      601 ggactcagga tgtgcgacct tgtttctgac tttgatggct tctctgagag gtttaaagtt
+      661 ctagctaacc aatacaaatc tatatacccc actttggaaa tagacattga aggtgaatta
+      721 caaaaactca agggttatat ggaaaagatt aaaccaatgg tgagagatgg agtttatttt
+      781 ctatatgagg ccctacatgg accaccaaag aaaatcttgg tagaaggtgc aaatgcagca
+      841 ctattagata ttgattttgg gacttaccct tttgtaacct cttcaaattg tactgttgga
+      901 ggtgtttgta ctggtttggg tatgccacct caaaatgttg gagaagtgta tggagttgtg
+      961 aaagcttata caactagagt tggtattggt gcctttccta cagagcaaga caatgaaatt
+     1021 ggagaattat tacaaacaag gggtagagag tttggtgtaa ctactggaag gaaaagaaga
+     1081 tgtggctggt tggacctcgt tttgctcaaa tatgctcata tgatcaatgg atttactgcg
+     1141 ttggcactta ccaagttgga tattttggac atgtttacgg aaatcaaagt tggagttgct
+     1201 tacaagttag atggtgaaat catacctcat atcccagcaa accaagaagt cttaaataaa
+     1261 gttgaagttc aatataagac tctcccagga tggaacacag acatatcaaa tgcaagggcg
+     1321 tttaaagaac tacctgttaa tgcacaaaac tatgttcgat ttattgaaga tgagcttcaa
+     1381 attccagtta agtggattgg tgttggtaaa tccagagaat ctatgattca actcttttaa
+     1441 tgattgccag taatgcaaga aacactcctt gagagggagg ggaaaagact ttctaaatat
+     1501 ttcatttatg acctgcaaat tcaagaataa agacactgaa gtaagtttga agcctctaca
+     1561 gttgtttcca gtcttttcag atggatgcct actgtggaga ttaactttgg catattccag
+     1621 tgtcagcttt ctttagctgg aattgccaaa tcatttgttg ctcctgctgc tctcatggtg
+     1681 ccacgttttt ttttttcaat gtttagtaat agtataatcc atgttgtttg atatcaaaag
+     1741 tagaattact tttatgtagt tttcttcatt attgtcattg cgtgttctta agttttaccc
+     1801 ctattagatg gtaagaacaa ttaatgcagt tttgcacaaa tatttttaca ttctgatcat
+     1861 tcagttctgt cattgtaatc tttgttgtta gaaacaaatg atgaaaacat aggggttctg
+     1921 taaacttttg taatgctat
+//
+

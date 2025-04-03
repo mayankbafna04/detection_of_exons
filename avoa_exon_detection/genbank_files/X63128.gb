@@ -1,0 +1,87 @@
+LOCUS       X63128                  1573 bp    mRNA    linear   PRI 18-APR-2005
+DEFINITION  H.sapiens mRNA for activin receptor.
+ACCESSION   X63128
+VERSION     X63128.1
+KEYWORDS    activin receptor.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1573)
+  AUTHORS   Matzuk,M.M. and Bradley,A.
+  TITLE     Cloning of the human activin receptor cDNA reveals high
+            evolutionary conservation
+  JOURNAL   Biochim. Biophys. Acta 1130 (1), 105-108 (1992)
+   PUBMED   1311955
+  REMARK    Erratum:[Biochim Biophys Acta 1992 Jun 15;1131(2):243]
+REFERENCE   2  (bases 1 to 1573)
+  AUTHORS   Matzuk,M.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-NOV-1991) M.M. Matzuk, Inst for Mol Genetics, Baylor
+            College of Medicine, 1 Baylor Plaza, Houston TX 77030, USA
+COMMENT     On Nov 26, 1998 this sequence version replaced gi:28349.
+FEATURES             Location/Qualifiers
+     source          1..1573
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /sex="male"
+                     /tissue_type="testes"
+                     /clone_lib="lamda gt11"
+     mRNA            1..1573
+     CDS             16..1557
+                     /codon_start=1
+                     /product="activin receptor"
+                     /protein_id="CAA44839.1"
+                     /db_xref="GDB:132411"
+                     /db_xref="GOA:P27037"
+                     /db_xref="HGNC:HGNC:173"
+                     /db_xref="InterPro:IPR000333"
+                     /db_xref="InterPro:IPR000472"
+                     /db_xref="InterPro:IPR000719"
+                     /db_xref="InterPro:IPR008271"
+                     /db_xref="InterPro:IPR011009"
+                     /db_xref="InterPro:IPR015768"
+                     /db_xref="InterPro:IPR017442"
+                     /db_xref="UniProtKB/Swiss-Prot:P27037"
+                     /translation="MGAAAKLAFAVFLISCSSGAILGRSETQECLFFNANWEKDRTNQ
+                     TGVEPCYGDKDKRRHCFATWKNISGSIEIVKQGCWLDDINCYDRTDCVEKKDSPEVYF
+                     CCCEGNMCNEKFSYFPEMEVTQPTSNPVTPKPPYYNILLYSLVPLMLIAGIVICAFWV
+                     YRHHKMAYPPVLVPTQDPGPPPPSPLLGLKPLQLLEVKARGRFGCVWKAQLLNEYVAV
+                     KIFPIQDKQSWQNEYEVYSLPGMKHENILQFIGAEKRGTSVDVDLWLITAFHEKGSLS
+                     DFLKANVVSWNELCHIAETMARGLAYLHEDIPGLKDGHKPAISHRDIKSKNVLLKNNL
+                     TACIADFGLALKFEAGKSAGDTHGQVGTRRYMAPEVLEGAINFQRDAFLRIDMYAMGL
+                     VLWELASRCTAADGPVDEYMLPFEEEIGQHPSLEDMQEVVVHKKKRPVLRDYWQKHAG
+                     MAMLCETIEECWDHDAEARLSAGCVGERITQMQRLTNIITTEDIVTVVTMVTNVDFPP
+                     KESSL"
+ORIGIN      
+        1 cggcgcctcg ggaaaatggg agctgctgca aagttggcgt ttgccgtctt tcttatctcc
+       61 tgttcttcag gtgctatact tggtagatca gaaactcagg agtgtctttt ctttaatgct
+      121 aattgggaaa aagacagaac caatcaaact ggtgttgaac cgtgttatgg tgacaaagat
+      181 aaacggcggc attgttttgc tacctggaag aatatttctg gttccattga aatagtgaaa
+      241 caaggttgtt ggctggatga tatcaactgc tatgacagga ctgattgtgt agaaaaaaaa
+      301 gacagccctg aagtatattt ttgttgctgt gagggcaata tgtgtaatga aaagttttct
+      361 tattttccgg agatggaagt cacacagccc acttcaaatc cagttacacc taagccaccc
+      421 tattacaaca tcctgctcta ttccttggtg ccacttatgt taattgcggg gattgtcatt
+      481 tgtgcatttt gggtgtacag gcatcacaag atggcctacc ctcctgtact tgttccaact
+      541 caagacccag gaccaccccc accttctcca ttactaggtt tgaaaccact gcagttatta
+      601 gaagtgaaag caaggggaag atttggttgt gtctggaaag cccagttgct taacgaatat
+      661 gtggctgtca aaatatttcc aatacaggac aaacagtcat ggcaaaatga atacgaagtc
+      721 tacagtttgc ctggaatgaa gcatgagaac atattacagt tcattggtgc agaaaaacga
+      781 ggcaccagtg ttgatgtgga tctttggctg atcacagcat ttcatgaaaa gggttcacta
+      841 tcagactttc ttaaggctaa tgtggtctct tggaatgaac tgtgtcatat tgcagaaacc
+      901 atggctagag gattggcata tttacatgag gatatacctg gcctaaaaga tggccacaaa
+      961 cctgccatat ctcacaggga catcaaaagt aaaaatgtgc tgttgaaaaa caacctgaca
+     1021 gcttgcattg ctgactttgg gttggcctta aaatttgagg ctggcaagtc tgcaggcgat
+     1081 acccatggac aggttggtac ccggaggtac atggctccag aggtattaga gggtgctata
+     1141 aacttccaaa gggatgcatt tttgaggata gatatgtatg ccatgggatt agtcctatgg
+     1201 gaactggctt ctcgctgtac tgctgcagat ggacctgtag atgaatacat gttgccattt
+     1261 gaggaggaaa ttggccagca tccatctctt gaagacatgc aggaagttgt tgtgcataaa
+     1321 aaaaagaggc ctgttttaag agattattgg cagaaacatg ctggaatggc aatgctctgt
+     1381 gaaaccattg aagaatgttg ggatcacgac gcagaagcca ggttatcagc tggatgtgta
+     1441 ggtgaaagaa ttacccagat gcagagacta acaaatatta ttaccacaga ggacattgta
+     1501 acagtggtca caatggtgac aaatgttgac tttcctccca aagaatctag tctatgatgg
+     1561 ttgcgccatc tgt
+//
+

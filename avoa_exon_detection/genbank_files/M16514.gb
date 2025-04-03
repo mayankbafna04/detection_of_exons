@@ -1,0 +1,65 @@
+LOCUS       HUMGPA                  1437 bp    DNA     linear   PRI 02-NOV-1993
+DEFINITION  Human guanine nucleotide-binding regulatory protein (G protein)
+            gene, 3' end.
+ACCESSION   M16514
+VERSION     M16514.1
+KEYWORDS    G protein; GTP; guanine nucleotide-binding regulatory protein.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1437)
+  AUTHORS   Fong,H.K., Amatruda,T.T. III, Birren,B.W. and Simon,M.I.
+  TITLE     Distinct forms of the beta subunit of GTP-binding regulatory
+            proteins identified by molecular cloning
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 84 (11), 3792-3796 (1987)
+   PUBMED   3108879
+COMMENT     Original source text: Human DNA, clone B2.
+FEATURES             Location/Qualifiers
+     source          1..1437
+                     /organism="Homo sapiens"
+                     /mol_type="unassigned DNA"
+                     /db_xref="taxon:9606"
+     gene            58..1080
+                     /gene="GNB2"
+     CDS             58..1080
+                     /gene="GNB2"
+                     /note="guanine nucleotide-binding regulatory
+                     protein-beta-2 subunit"
+                     /codon_start=1
+                     /protein_id="AAA03179.1"
+                     /translation="MSELEQLRQEAEQLRNQIRDARKACGDSTLTQITAGLDPVGRIQ
+                     MRTRRTLRGHLAKIYAMHWGTDSRLLVSASQDGKLIIWDSYTTNKVHAIPLRSSWVMT
+                     CAYAPSGNFVACGGLDNICSIYSLKTREGNVRVSRELPGHTGYLSCCRFLDDNQIITS
+                     SGDTTCALWDIETGQQTVGFAGHSGDVMSLSLAPDGRTFVSGACDASIKLWDVRDSMC
+                     RQTFIGHESDINAVAFFPNGYAFTTGSDDATCRLFDLRADQELLMYSHDNIICGITSV
+                     AFSRSGRLLLAGYDDFNCNIWDAMKGDRAGVLAGHDNRVSCLGVTDDGMAVATGSWDS
+                     FLKIWN"
+ORIGIN      
+        1 ggcccccgtc ccgcggcccc cagccgcccc caaccctgcc ccacggggcc cggcgccatg
+       61 agtgagctgg agcaactgag acaggaggcc gagcagctcc ggaaccagat ccgggatgcc
+      121 cgaaaagcat gtggggactc aacactgacc cagatcacag ctgggctgga cccagtgggg
+      181 agaatccaga tgaggacccg gaggaccctc cgtgggcacc tggcaaagat ctatgccatg
+      241 cactggggga ccgactcaag gctgctggtc agcgcctccc aggatgggaa gctcatcatc
+      301 tgggacagct acaccaccaa caaggtccac gccatcccgc tgcgctcctc ctgggtaatg
+      361 acctgtgcct acgcgccctc agggaacttt gtggcctgtg gggggttgga caacatctgc
+      421 tccatctaca gcctcaagac ccgcgagggc aacgtcaggg tcagccggga gctgcctggc
+      481 cacactgggt acctgtcgtg ttgccgcttc ctggatgaca accaaatcat caccagctct
+      541 ggggatacca cctgtgccct gtgggacatt gagacaggcc agcagacagt gggttttgct
+      601 ggacacagtg gggatgtgat gtccctgtcc ctggcccccg atggccgcac gtttgtgtca
+      661 ggcgcctgtg atgcctctat caagctgtgg gacgtgcggg attccatgtg ccgacagacc
+      721 ttcatcggcc atgaatccga catcaatgca gtggctttct tccccaacgg ctacgccttc
+      781 accaccggct ctgacgacgc cacgtgccgc ctcttcgacc tgcgggccga tcaggagctc
+      841 ctcatgtact cccatgacaa catcatctgt ggcatcacct ctgttgcctt ctcgcgcagc
+      901 ggacggctgc tgctcgctgg ctacgacgac ttcaactgca acatctggga tgccatgaag
+      961 ggcgaccgtg caggagtcct cgctggccac gacaaccgcg tgagctgcct cggggtcacc
+     1021 gacgatggca tggctgtggc cacgggctcc tgggactcct tcctcaagat ctggaactaa
+     1081 tggccccacc cccactggcc caggccagga ggggccctgc ccatgcccac actacaggcc
+     1141 agggctgcgg gctggcgcaa tcccagcccc cttccccggg ccacgggcct tgggtccctg
+     1201 ccctcccacc caggtttggt tcctcccggg gcccccactg tggagataag aaggggatgg
+     1261 aatgggggaa gaggaggagc aggaggccct atcttctgct gccctggggt tggggcctca
+     1321 cccctctgga gggccggagg caggaggtgg aaaccccagg ggctggcttt tttaaaactg
+     1381 gttttatttt aatttttatt atattttcag tttttccata aaggagccaa ttccaac
+//
+

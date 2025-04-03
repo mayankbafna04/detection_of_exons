@@ -1,0 +1,79 @@
+LOCUS       X63337                  1232 bp    DNA     linear   PRI 27-APR-2004
+DEFINITION  Homo sapiens HB2A gene for high sulfur keratin.
+ACCESSION   X63337 S47243
+VERSION     X63337.1
+KEYWORDS    hair microfibrill matrix protein; HB2A gene; high sulphur keratin.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1232)
+  AUTHORS   Zhumabaeva,B.D., Gening,L.V. and Gazarian,K.G.
+  TITLE     [Cloning and structural characteristics of human hair keratin genes
+            rich in sulfur]
+  JOURNAL   Mol. Biol. 26, 813-820 (1992)
+REFERENCE   2  (bases 1 to 1232)
+  AUTHORS   Zhumabaeva,B.D., Gening,L.V. and Gazaryan,K.G.
+  TITLE     Cloning and structural characterization of human hair sulfur-rich
+            keratin genes
+  JOURNAL   Mol. Biol. 26, 550-555 (1992)
+REFERENCE   3  (bases 1 to 1232)
+  AUTHORS   Zhumabayeva,B.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-NOV-1991) B.D. Zhumabayeva, Institute of Molecular
+            Genetics, Russian Academy of Sciences, Kurchatov sq. 46, Moscow,
+            123182, RUSSIA
+COMMENT     On Apr 28, 2004 this sequence version replaced S47243.1.
+FEATURES             Location/Qualifiers
+     source          1..1232
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+     regulatory      134..138
+                     /regulatory_class="CAAT_signal"
+     regulatory      170..174
+                     /regulatory_class="CAAT_signal"
+     regulatory      271..278
+                     /regulatory_class="TATA_box"
+     gene            354..887
+                     /gene="HB2A"
+     CDS             354..887
+                     /gene="HB2A"
+                     /codon_start=1
+                     /product="high sulfur keratin"
+                     /protein_id="CAA44937.1"
+                     /db_xref="GDB:11510084"
+                     /db_xref="GOA:Q07627"
+                     /db_xref="HGNC:HGNC:16772"
+                     /db_xref="InterPro:IPR002494"
+                     /db_xref="UniProtKB/Swiss-Prot:Q07627"
+                     /translation="MACCQTSFCGFPSCSTSGTCGSSCCQPSCCETSSCQPRCCETSC
+                     CQPSCCQTSFCGFPSFSTGGTCDSSCCQPSCCETSCCQPSCYQTSSCGTGCGIGGGIG
+                     YGQEGSSGAVSTRIRWCRPDCRVEGTCLPPCCVVSCTPPSCCQLHHAEASCCRPSYCG
+                     QSCCRPVCCCYCSEPTC"
+     polyA_site      1157..1164
+ORIGIN      
+        1 agatcacttg tcgatgtata accacatggc aaacctgaag ctgaaggctc aagtggaaat
+       61 tataccattg tttgtaaaca aaatgttaac atttttacca aggacaaaca catttggtga
+      121 gtattagctg aggcaataag gaaaaatgaa ttttgagata tatttaaaac aattcagcat
+      181 ttgaaccatc agagggccct agaaaggctg gtttaaagag taacaagata aaaatgttgc
+      241 tcgccacaaa tagaggaatt ggcccagact tataaaaagc cggcagtgga ataggcagcc
+      301 ataattcaga aactcctcca agcaaccaac cttcagattc aactcctgac accatggcct
+      361 gctgtcagac cagcttctgt ggatttccca gctgctccac cagtgggacc tgcggctcca
+      421 gctgctgcca gccaagctgc tgtgagacca gctcctgcca gccacgctgc tgtgagacca
+      481 gctgctgcca gccaagctgc tgccagacca gcttctgtgg atttcctagc ttctcaaccg
+      541 gtgggacttg tgactctagc tgctgccagc caagctgctg tgaaactagc tgctgccagc
+      601 caagctgcta ccagaccagc tcctgcggaa ctggctgtgg cattggtggt ggcattggct
+      661 atggccagga gggcagcagt ggagctgtga gcacccgtat caggtggtgc cgcccagact
+      721 gccgtgtgga gggtacctgc ctgcccccct gctgcgtggt gagctgcaca cccccatcct
+      781 gctgccagct gcaccacgcc gaggcctcct gctgccgccc atcctactgt ggacagtcct
+      841 gttgccgccc agtctgctgc tgctactgct ctgagcccac ttgttgaaaa cctccttctg
+      901 ctggggatcc tgataagatg gcaccttaaa actagccaaa ttagaatcct aacaatcttc
+      961 tgaactccag tacctataac tgggcttgca acctctcatc acacagccac ataaattcct
+     1021 aggaagtaaa ttcatttaca atggaagacc aaaaattttt cctagacctg gttgtcagcc
+     1081 aaagtcctac aatgtgaaaa gagttagata ctattttact ataaatatca cctgaaatat
+     1141 ttcaacagtt attgggactt aaatttaata aaagttttca tctctcaatg atgaattgtt
+     1201 gtttgaactt tctttgtctt ggaacccacc aa
+//
+

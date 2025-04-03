@@ -1,0 +1,98 @@
+LOCUS       HSU21051                2932 bp    DNA     linear   PRI 26-APR-1996
+DEFINITION  Human G protein-coupled receptor (GPR4) gene, complete cds.
+ACCESSION   U21051
+VERSION     U21051.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2932)
+  AUTHORS   Mahadevan,M.S., Baird,S., Bailly,J.E., Shutler,G.G., Sabourin,L.A.,
+            Tsilfidis,C., Neville,C.E., Narang,M. and Korneluk,R.G.
+  TITLE     Isolation of a novel G protein-coupled receptor (GPR4) localized to
+            chromosome 19q13.3
+  JOURNAL   Genomics 30 (1), 84-88 (1995)
+   PUBMED   8595909
+REFERENCE   2  (bases 1 to 2932)
+  AUTHORS   Baird,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-FEB-1995) Stephen Baird, Molecular Genetics,
+            Children's Hospital of Eastern Ontario, 401 Smyth Rd., Ottawa,
+            Ontario, K1H 8L1, Canada
+FEATURES             Location/Qualifiers
+     source          1..2932
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="19"
+                     /map="19q13.3"
+     mRNA            237..2932
+     mRNA            237..2052
+     gene            830..1918
+                     /gene="GPR4"
+     CDS             830..1918
+                     /gene="GPR4"
+                     /codon_start=1
+                     /product="G protein-coupled receptor"
+                     /protein_id="AAA98457.1"
+                     /translation="MGNHTWEGCHVDSRVDHLFPPSLYIFVIGVGLPTNCLALWAAYR
+                     QVQQRNELGVYLMNLSIADLLYICTLPLWVDYFLHHDNWIHGPGSCKLFGFIFYTNIY
+                     ISIAFLCCISVDRYLAVAHPLRFARLRRVKTAVAVSSVVWATELGANSAPLFHDELFR
+                     DRYNHTFCFEKFPMEGWVAWMNLYRVFVGFLFPWALMLLSYRGILRAVRGSVSTERQE
+                     KAKIKRLALSLIAIVLVCFAPYHVLLLSRSAIYLGRPWDCGFEERVFSAYHSSLAFTS
+                     LNCVADPILYCLVNEGARSDVAKALHNLLRFLASDKPQEMANASLTLETPLTSKRNST
+                     AKAMTGSWAATPPSQGDQVQLKMLPPAQ"
+ORIGIN      
+        1 ctgcagtcag gcggtgaact gacttcatcc caatccctca gcccccacca ggaccagtct
+       61 ggagtccctc ccctgccccc antgaaattt cccttccgtc cccaaactta cctctgatct
+      121 agaccttact cacctccttc ctgtttccta agactccttc ctgccgtcca cagaccgagc
+      181 cttttatctt tgtccaccct gtgccagaca cctccttttc cagaaccttc tccttactgg
+      241 tgaccttact tatctctgtt gctttctggg gtcctaggaa atgccagcac tcccacccac
+      301 attgcctgaa ctttccaaca ctccctagct gcgctgtgtc ctatctcaac acttcctcat
+      361 gtatttcttg tgtcttctag aacattcccc cgccattatt acttcaatat ggctacacat
+      421 acttcctaat tgccctgcaa accatctcct tctcaccatt gcccagcgat gctttcgtct
+      481 cctccataaa cactcccgga gaccaatttt tgtgtcaccc ccatactccc tcgttgacac
+      541 actgactcca tacataacct ccttgaaaaa cctctttatt aatctcacca tcctccagac
+      601 ttccctcctg tcataattcc atccctcctc caacttttcc ctctcaagct ctgcccttcc
+      661 cagcccagcc cagcctaccc aacctcatct cttccctgta gaccacatcc caccatgttc
+      721 ccctgagcct ccaaggaagg ggctcagggg gccccatggc ctcccgctcc ctgtggcccc
+      781 acagcccccg tgggccaggg gaagcgcccc agaagccgaa gtgcccacca tgggcaacca
+      841 cacgtgggag ggctgccacg tggactcgcg cgtggaccac ctctttccgc catccctcta
+      901 catctttgtc atcggcgtgg ggctgcccac caactgcctg gctctgtggg cggcctaccg
+      961 ccaggtgcaa cagcgcaacg agctgggcgt ctacctgatg aacctcagca tcgccgacct
+     1021 gctgtacatc tgcacgctgc cgctgtgggt ggactacttc ctgcaccacg acaactggat
+     1081 ccacggcccc gggtcctgca agctctttgg gttcatcttc tacaccaata tctacatcag
+     1141 catcgccttc ctgtgctgca tctcggtgga ccgctacctg gctgtggccc acccactccg
+     1201 cttcgcccgc ctgcgccgcg tcaagaccgc cgtggccgtg agctccgtgg tctgggccac
+     1261 ggagctgggc gccaactcgg cgcccctgtt ccatgacgag ctcttccgag accgctacaa
+     1321 ccacaccttc tgctttgaga agttccccat ggaaggctgg gtggcctgga tgaacctcta
+     1381 tcgggtgttc gtgggcttcc tcttcccgtg ggcgctcatg ctgctgtcgt accggggcat
+     1441 cctgcgggcc gtgcggggca gcgtgtccac cgagcgccag gagaaggcca agatcaagcg
+     1501 gctggccctc agcctcatcg ccatcgtgct ggtctgcttt gcgccctatc acgtgctctt
+     1561 gctgtcccgc agcgccatct acctgggccg cccctgggac tgcggcttcg aggagcgcgt
+     1621 cttttctgca taccacagct cactggcttt caccagcctc aactgtgtgg cggaccccat
+     1681 cctctactgc ctggtcaacg agggcgcccg cagcgatgtg gccaaggccc tgcacaacct
+     1741 gctccgcttt ctggccagcg acaagcccca ggagatggcc aatgcctcgc tcaccctgga
+     1801 gaccccactc acctccaaga ggaacagcac agccaaagcc atgactggca gctgggcggc
+     1861 cactccgccc tcccaggggg accaggtgca gctgaagatg ctgccgccag cacaatgaac
+     1921 cccgagtggc acagaatccc cagttttccc ctctcatccc acagtccctt ctctcctggt
+     1981 ctggtgtatg caaattgtat ggaaaaaggg ctgtgttaat attcataaga atacaagaac
+     2041 ttaggaagag tgaggttggt gtgtcactgg tcaacctttg tgctcccaga tcccatcaca
+     2101 gtttggcgat tgtggagggc ctcctgaagg aggagatgag taaatatatt tttttggaga
+     2161 cagggtctca ctgtgttgcc caggctggag tgcagtagtg cagtcgtggc tcactgcagc
+     2221 ctccacctcc tgggctctcc agcgatcttc ccacatcagc ctcccgagta gctgggacca
+     2281 caaatgtgag cccacccatg cctggctaat ttttgtactt tttgtataaa tggagtctca
+     2341 ctatgtttcc ccaggctgat cttgaactcc tgggctcaag agatcctcct gccttggcct
+     2401 cccaaagtgc tcagattaga gatgtgagcc gccatgtctg gccagataaa ttaagtcaaa
+     2461 catttggttt ccagaaaata aagacaaata gagaaggtta gatttttttt tttccaacaa
+     2521 gtggataaaa gtctgtgact cgggggaaag tggaaggaga aatgcagccg atatagagtc
+     2581 attatgtttg caaagcccct ggtcatacag gccagggaac ataagaccgc aattctaagt
+     2641 ttctagataa acagcgatct ccaagtcaag actgaggatg aagagggaga atgtcagaac
+     2701 tcaagtgaag ggcaatcagg gcagactgcc tggaggagtg atgccagaag gtttgggaag
+     2761 aaggtgtggg acaagaagaa agggtattta ttcattcatt caacagaggt ttatgtaggg
+     2821 cactgtgctg ggtggggctg gggacacaac aatgactgag gcagcctggc cttgccttca
+     2881 cagggctcac catacacaag taaataaaaa atatgtaatg tttggaattg ct
+//
+

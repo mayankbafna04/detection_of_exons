@@ -1,0 +1,52 @@
+LOCUS       HUMASPA                  584 bp    DNA     linear   PRI 27-FEB-1996
+DEFINITION  Homo sapiens agouti signalling protein (ASP) gene, complete cds.
+ACCESSION   L37019
+VERSION     L37019.1
+KEYWORDS    agouti signalling protein; homologue.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 584)
+  AUTHORS   Wilson,B.D., Ollmann,M.M., Kang,L., Stoffel,M., Bell,G.I. and
+            Barsh,G.S.
+  TITLE     Structure and function of ASP, the human homolog of the mouse
+            agouti gene
+  JOURNAL   Hum. Mol. Genet. 4 (2), 223-230 (1995)
+   PUBMED   7757071
+FEATURES             Location/Qualifiers
+     source          1..584
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+     gene            1..584
+                     /gene="ASP"
+     exon            1..170
+                     /gene="ASP"
+     CDS             11..409
+                     /gene="ASP"
+                     /note="mouse homologue"
+                     /codon_start=1
+                     /product="agouti signaling protein"
+                     /protein_id="AAA89208.1"
+                     /translation="MDVTRLLLATLLVFLCFFTANSHLPPEEKLRDDRSLRSNSSVNL
+                     LDVPSVSIVALNKKSKPIGRKAAEKKRSSKKEASMKKVVRPRTPLSAPCVATRNSCKP
+                     PAPACCDPCASCQCRFFRSACSCRVLSLNC"
+     exon            171..232
+                     /gene="ASP"
+     exon            233..584
+                     /gene="ASP"
+ORIGIN      
+        1 gcctcctggg atggatgtca cccgcttact cctggccacc ctgctggtct tcctctgctt
+       61 cttcactgcc aacagccacc tgccacctga ggagaagctc cgagatgaca ggagcctgag
+      121 aagcaactcc tctgtgaacc tactggatgt cccttctgtc tctattgtgg cgctgaacaa
+      181 gaaatccaaa ccgatcggca gaaaagcagc agaaaagaaa agatcttcta agaaggaggc
+      241 ttcgatgaag aaagtggtgc ggccccggac ccccctatct gcgccctgcg tggccacccg
+      301 caacagctgc aagccgccgg cacccgcctg ctgcgacccg tgcgcctcct gccagtgccg
+      361 cttcttccgc agcgcctgct cctgccgcgt gctcagcctc aactgctgag cgcccccact
+      421 cccggccgcg agcaggcagg gcttcgggga cgcggggcgc ttctcgggcg ggtgatccct
+      481 aacagggcgg cttcccaggg ctgcaggcgg gcggaggttc caggagatgg gacttcaggg
+      541 agacctggct tgggctaaaa tcgaaataca atatatatag gctg
+//
+

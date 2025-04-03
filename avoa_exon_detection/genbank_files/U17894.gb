@@ -1,0 +1,85 @@
+LOCUS       HSU17894                2115 bp    DNA     linear   PRI 26-JUN-1998
+DEFINITION  Human alpha(1,2)fucosyltransferase (FUT2) gene, complete cds.
+ACCESSION   U17894
+VERSION     U17894.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2115)
+  AUTHORS   Kelly,R.J., Rouquier,S., Giorgi,D., Lennon,G.G. and Lowe,J.B.
+  TITLE     Sequence and expression of a candidate for the human Secretor blood
+            group alpha(1,2)fucosyltransferase gene (FUT2). Homozygosity for an
+            enzyme-inactivating nonsense mutation commonly correlates with the
+            non-secretor phenotype
+  JOURNAL   J. Biol. Chem. 270 (9), 4640-4649 (1995)
+   PUBMED   7876235
+REFERENCE   2  (bases 1 to 2115)
+  AUTHORS   Lowe,J.B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-NOV-1994) John B Lowe, Pathology, Howard Hughes
+            Medical Institute, University of Michigan, MSRBI, Room 3510, 1150
+            West Medical Center Drive, Ann Arbor, MI 48109-0650, USA
+FEATURES             Location/Qualifiers
+     source          1..2115
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="19"
+                     /map="19q13.3"
+     gene            64..1095
+                     /gene="FUT2"
+     CDS             64..1095
+                     /gene="FUT2"
+                     /note="member of the secretor blood group"
+                     /codon_start=1
+                     /product="alpha(1,2)fucosyltransferase"
+                     /protein_id="AAC24453.1"
+                     /translation="MLVVQMPFSFPMAHFILFVFTVSTIFHVQQRLAKIQAMWELPVQ
+                     IPVLASTSKALGPSQLRGMWTINAIGRLGNQMGEYATLYALAKMNGRPAFIPAQMHST
+                     LAPIFRITLPVLHSATASRIPWQNYHLNDWMEEEYRHIPGEYVRFTGYPCSWTFYHHL
+                     RQEILQEFTLHDHVREEAQKFLRGLQVNGSRPGTFVGVHVRRGDYVHVMPKVWKGVVA
+                     DRRYLQQALDWFRARYSSLIFVVTSNGMAWCRENIDTSHGDVVFAGDGIEGSPAKDFA
+                     LLTQCNHTIMTIGTFGIWAAYLTGGDTIYLANYTLPDSPFLKIFKPEAAFLPEWTGIA
+                     ADLSPLLKH"
+ORIGIN      
+        1 ttcaccagcg ccccgggcct ccatctccca gctaacgtgt cccgttttcc tcccctgaca
+       61 gccatgctgg tcgttcagat gcctttctcc tttcccatgg cccacttcat cctctttgtc
+      121 tttacggttt ccactatatt tcacgttcag cagcggctag cgaagattca agccatgtgg
+      181 gagttaccgg tgcagatacc agtgctagcc tcaacatcaa aggcactggg acccagccag
+      241 ctcaggggga tgtggacgat caatgcaata ggccgcctgg ggaaccagat gggcgagtac
+      301 gccacactgt acgccctggc caagatgaac gggcggcccg ccttcatccc ggcccagatg
+      361 cacagcaccc tggcccccat cttcagaatc accctgccgg tgctgcacag cgccacggcc
+      421 agcaggatcc cctggcagaa ctaccacctg aacgactgga tggaggagga ataccgccac
+      481 atcccggggg agtacgtccg cttcaccggc tacccctgct cctggacctt ctaccaccac
+      541 ctccgccagg agatcctcca ggagttcacc ctgcacgacc acgtgcggga ggaggcccag
+      601 aagttcctgc ggggcctgca ggtgaacggg agccggccgg gcacctttgt aggggtccat
+      661 gttcgccgag gggactatgt ccatgtcatg ccaaaagtgt ggaagggggt ggtggccgac
+      721 cggcgatacc tacagcaggc cctggactgg ttccgagctc gctacagctc cctcatcttc
+      781 gtggtcacca gtaatggcat ggcctggtgt cgggagaaca ttgacacctc ccacggtgat
+      841 gtggtgtttg ctggcgatgg cattgagggc tcacctgcca aagattttgc tctactcaca
+      901 cagtgtaacc acaccatcat gaccattggg acgttcggga tctgggccgc atacctcacg
+      961 ggcggagaca ccatctacct ggccaattac accctccccg actccccttt cctcaaaatc
+     1021 tttaagccag aggcagcctt cctgccggag tggacaggga ttgccgcaga cctgtccccc
+     1081 ttactcaagc actaatgctg gcccgtcctt tgagaccttt tctccttctc tgcctccctc
+     1141 aagatgagtg cccgggcatg agaagcacat ggttccatga gcaggaccca tctctcttct
+     1201 gtgaagatgc gttgggctgc aagtaacaga aatctcagtg aacagtggcc tggcgtggtg
+     1261 gctcatgcct gtaatgctcg cactttggga ggccagggtg ggtggatcac ttgaggtcag
+     1321 gagttcaaga ctagcctggc caacatggtg aaaccccatc tcgactaaaa atacaaaaat
+     1381 tagccaggcg tggtggtgca cacttgtaat cccagctact cgggaggctg aggcaagaga
+     1441 atcacttgaa cccaggaggc ggaggttgca gtgagccaag atggtgccgc tgcactccag
+     1501 cctgggtgac acagcaagac tccatctcaa aaaaaaaaaa agaaaaagaa atgaacgggt
+     1561 tcaaagacca taatcatgca tatcacataa gaccagaagt ggcccaggtc cagggtcagt
+     1621 taatttagca gctccacaaa gtcatcagtc acctgagctc catccatctt cacatgctgt
+     1681 gctaccattt cttagctgta tcatcccatg gtcccaaaag ggctgctaca catccagcca
+     1741 tcacatgcag ataattcctt tcaaaaacag cagaaagagg ctcgttcttg tcttggtccc
+     1801 ttttgaagaa tgaatgaaac cttcctaagc cttccagcaa tttcccccca actccgatgg
+     1861 gtaggaattg tcacataccc atgtgacccg ataggaggca aaagaaatga gacttctggg
+     1921 attagtttag cctcagattc tgcagctgag aagttgatca gccacctctg aaggacatgc
+     1981 agcttgcaga aaattagggt ggtgttacca aggtgaaaag gggaaatggc tttagagtag
+     2041 acaacagaga tgccctgagg ggttgtgtag gttgttcact gcaggaagtc ccctggttaa
+     2101 gaaggcaagt ggggt
+//
+

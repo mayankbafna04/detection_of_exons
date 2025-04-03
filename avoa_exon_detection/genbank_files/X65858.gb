@@ -1,0 +1,98 @@
+LOCUS       X65858                  2245 bp    DNA     linear   PRI 25-JUN-1997
+DEFINITION  H.sapiens gene for high affinity IL-8 receptor.
+ACCESSION   X65858
+VERSION     X65858.1
+KEYWORDS    G protein-coupled receptor; high affinity interleukin-8 receptor;
+            interleukin 8 receptor.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2245)
+  AUTHORS   Mollereau,C., Muscatelli,F., Mattei,M.G., Vassart,G. and
+            Parmentier,M.
+  TITLE     The high-affinity interleukin 8 receptor gene (IL8RA) maps to the
+            2q33-q36 region of the human genome: cloning of a pseudogene
+            (IL8RBP) for the low-affinity receptor
+  JOURNAL   Genomics 16 (1), 248-251 (1993)
+   PUBMED   8486366
+REFERENCE   2  (bases 1 to 2245)
+  AUTHORS   Parmentier,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-APR-1992) M. Parmentier, Universite Libre de
+            Bruxelles, I.R.I.B.H.N. ULB Campus Erasme, 808 route de Lennik,
+            1070 Bruxelles, BELGIUM
+FEATURES             Location/Qualifiers
+     source          1..2245
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="2"
+                     /map="p33-36"
+                     /clone="CM5"
+                     /clone_lib="lambda charon 4a"
+     mRNA            465..2245
+     CDS             498..1550
+                     /note="G protein-coupled receptor"
+                     /codon_start=1
+                     /product="High affinity interleukin-8 receptor"
+                     /protein_id="CAA46688.1"
+                     /db_xref="GDB:135039"
+                     /db_xref="GOA:P25024"
+                     /db_xref="HGNC:HGNC:6026"
+                     /db_xref="InterPro:IPR000174"
+                     /db_xref="InterPro:IPR000276"
+                     /db_xref="InterPro:IPR001355"
+                     /db_xref="InterPro:IPR017452"
+                     /db_xref="PDB:1ILP"
+                     /db_xref="PDB:1ILQ"
+                     /db_xref="UniProtKB/Swiss-Prot:P25024"
+                     /translation="MSNITDPQMWDFDDLNFTGMPPADEDYSPCMLETETLNKYVVII
+                     AYALVFLLSLLGNSLVMLVILYSRVGRSVTDVYLLNLALADLLFALTLPIWAASKVNG
+                     WIFGTFLCKVVSLLKEVNFYSGILLLACISVDRYLAIVHATRTLTQKRHLVKFVCLGC
+                     WGLSMNLSLPFFLFRQAYHPNNSSPVCYEVLGNDTAKWRMVLRILPHTFGFIVPLFVM
+                     LFCYGFTLRTLFKAHMGQKHRAMRVIFAVVLIFLLCWLPYNLVLLADTLMRTQVIQES
+                     CERRNNIGRALDATEILGFLHSCLNPIIYAFIGQNFRHGFLKILAMHGLVSKEFLARH
+                     RVTSYTSSSVNVSSNL"
+ORIGIN      
+        1 gggagaaaca tagggaatag aaaataagta agaaggggac acctgggaac aggtttgcct
+       61 tcttgcattt tgcttaatgc tggcccttcc ctgaatgtct aagaccaacc tggtccccac
+      121 atccaaatgc acagacacag ctgaggatgg agaaggctaa agagggacag aggtagagac
+      181 ataggctgag aggaggcagt tgtaggttga gctagggcta aggtgttttc cccatattcc
+      241 atcttacccc acactcaggc caggccttag agttgtggaa ggtggagaac actgggaagc
+      301 caacctccga agaagaccag gttggagtca aaggaggaag gagagctctc attgccaaac
+      361 caacagggaa gccaaggata tcccagtaac tgctctcaca tcattgatga gaatgccttg
+      421 aatccgagct actaaatcac atttccttcc ttctaacctt ccagttagat caaaccattg
+      481 ctgaaactga agaggacatg tcaaatatta cagatccaca gatgtgggat tttgatgatc
+      541 taaatttcac tggcatgcca cctgcagatg aagattacag cccctgtatg ctagaaactg
+      601 agacactcaa caagtatgtt gtgatcatcg cctatgccct agtgttcctg ctgagcctgc
+      661 tgggaaactc cctggtgatg ctggtcatct tatacagcag ggtcggccgc tccgtcactg
+      721 atgtctacct gctgaacctg gccttggccg acctactctt tgccctgacc ttgcccatct
+      781 gggccgcctc caaggtgaat ggctggattt ttggcacatt cctgtgcaag gtggtctcac
+      841 tcctgaagga agtcaacttc tacagtggca tcctgctgtt ggcctgcatc agtgtggacc
+      901 gttacctggc cattgtccat gccacacgca cactgaccca gaagcgtcac ttggtcaagt
+      961 ttgtttgtct tggctgctgg ggactgtcta tgaatctgtc cctgcccttc ttccttttcc
+     1021 gccaggctta ccatccaaac aattccagtc cagtttgcta tgaggtcctg ggaaatgaca
+     1081 cagcaaaatg gcggatggtg ttgcggatcc tgcctcacac ctttggcttc atcgtgccgc
+     1141 tgtttgtcat gctgttctgc tatggattca ccctgcgtac actgtttaag gcccacatgg
+     1201 ggcagaagca ccgagccatg agggtcatct ttgctgtcgt cctcatcttc ctgctttgct
+     1261 ggctgcccta caacctggtc ctgctggcag acaccctcat gaggacccag gtgatccagg
+     1321 agagctgtga gcgccgcaac aacatcggcc gggccctgga tgccactgag attctgggat
+     1381 ttctccatag ctgcctcaac cccatcatct acgccttcat cggccaaaat tttcgccatg
+     1441 gattcctcaa gatcctggct atgcatggcc tggtcagcaa ggagttcttg gcacgtcatc
+     1501 gtgttacctc ctacacttct tcgtctgtca atgtctcttc caacctctga aaaccatcga
+     1561 tgaaggaata tctcttctca gaaggaaaga ataaccaaca ccctgaggtt gtgtgtggaa
+     1621 ggtgatctgg ctctggacag gcactatctg ggttttgggg ggacgctata ggatgtgggg
+     1681 aagttaggaa ctggtgtctt caggggccac accaaccttc tgaggagctg ttgaggtacc
+     1741 tccaaggacc ggcctttgca cctccatgga aacgaagcac catcattccc gttgaacgtc
+     1801 acatctttaa cccactaact ggctaattag catggccaca tctgagcccc gaatctgaca
+     1861 ttagatgaga gaacagggct gaagctgtgt cctcatgagg gctggatgct ctcgttgacc
+     1921 ctcacaggag catctcctca actctgagtg ttaagcgttg agccaccaag ctggtggctc
+     1981 tgtgtgctct gatccgagct caggggggtg gttttcccat ctcaggtgtg ttgcagtgtc
+     2041 tgctggagac attgaggcag gcactgccaa aacatcaacc tgccagctgg ccttgtgagg
+     2101 agctggaaac acatgttccc cttgggggtg gtggatgaac aaagagaaag agggtttgga
+     2161 agccagatct atgccacaag aacccccttt acccccatga ccaacatcgc agacacatgt
+     2221 gctggccacc tgctgagccc caagt
+//
+

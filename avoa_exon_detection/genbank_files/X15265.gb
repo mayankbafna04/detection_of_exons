@@ -1,0 +1,79 @@
+LOCUS       X15265                  1703 bp    DNA     linear   PRI 01-JUN-2000
+DEFINITION  Homo sapiens gene for muscarinic acetylcholine receptor M4.
+ACCESSION   X15265 X13530
+VERSION     X15265.1
+KEYWORDS    muscarinic acetylcholine receptor.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1703)
+  AUTHORS   Peralta,E.G., Ashkenazi,A., Winslow,J.W., Smith,D.H.,
+            Ramachandran,J. and Capon,D.J.
+  TITLE     Distinct primary structures, ligand-binding properties and
+            tissue-specific expression of four human muscarinic acetylcholine
+            receptors
+  JOURNAL   EMBO J. 6 (13), 3923-3929 (1987)
+   PUBMED   3443095
+COMMENT     See X15263-15266 for other human muscarinic acetylcholine receptor
+            genes.
+FEATURES             Location/Qualifiers
+     source          1..1703
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /clone_lib="human genomic library"
+     CDS             101..1540
+                     /codon_start=1
+                     /product="muscarinic acetylcholine receptor M4"
+                     /protein_id="CAA33336.1"
+                     /db_xref="GDB:125216"
+                     /db_xref="GOA:P08173"
+                     /db_xref="HGNC:HGNC:1953"
+                     /db_xref="InterPro:IPR000276"
+                     /db_xref="InterPro:IPR000995"
+                     /db_xref="InterPro:IPR001432"
+                     /db_xref="InterPro:IPR017452"
+                     /db_xref="UniProtKB/Swiss-Prot:P08173"
+                     /translation="MANFTPVNGSSGNQSVRLVTSSSHNRYETVEMVFIATVTGSLSL
+                     VTVVGNILVMLSIKVNRQLQTVNNYFLFSLACADLIIGAFSMNLYTVYIIKGYWPLGA
+                     VVCDLWLALDYVVSNASVMNLLIISFDRYFCVTKPLTYPARRTTKMAGLMIAAAWVLS
+                     FVLWAPAILFWQFVVGKRTVPDNQCFIQFLSNPAVTFGTAIAAFYLPVVIMTVLYIHI
+                     SLASRSRVHKHRPEGPKEKKAKTLAFLKSPLMKQSVKKPPPGEAAREELRNGKLEEAP
+                     PPALPPPPRPVADKDTSNESSSGSATQNTKERPATELSTTEATTPAMPAPPLQPRALN
+                     PASRWSKIQIVTKQTGNECVTAIEIVPATPAGMRPAANVARKFASIARNQVRKKRQMA
+                     ARERKVTRTIFAILLAFILTWTPYNVMVLVNTFCQSCIPDTVWSIGYWLCYVNSTINP
+                     ACYALCNATFKKTFRHLLLCQYRNIGTAR"
+ORIGIN      
+        1 tccagtgtac ctccagatga ctcccccatt ccctcctgta gttcatgctt ttctctcccc
+       61 ttcctcccca gacacggcct acccacccct ggcaaccaac atggccaact tcacacctgt
+      121 caatggcagc tcgggcaatc agtccgtgcg cctggtcacg tcatcatccc acaatcgcta
+      181 tgagacggtg gaaatggtct tcattgccac agtgacaggc tccctgagcc tggtgactgt
+      241 cgtgggcaac atcctggtga tgctgtccat caaggtcaac aggcagctgc agacagtcaa
+      301 caactacttc ctcttcagcc tggcgtgtgc tgatctcatc ataggcgcct tctccatgaa
+      361 cctctacacc gtgtacatca tcaagggcta ctggcccctg ggcgccgtgg tctgcgacct
+      421 gtggctggcc ctggactacg tggtgagcaa cgcctccgtc atgaaccttc tcatcatcag
+      481 ctttgaccgc tacttctgcg tcaccaagcc tctcacctac cctgcccggc gcaccaccaa
+      541 gatggcaggc ctcatgattg ctgctgcctg ggtactgtcc ttcgtgctct gggcgcctgc
+      601 catcttgttc tggcagtttg tggtgggtaa gcggacggtg cccgacaacc agtgcttcat
+      661 ccagttcctg tccaacccag cagtgacctt tggcacagcc attgctgcct tctacctgcc
+      721 tgtggtcatc atgacggtgc tgtacatcca catctccctg gccagtcgca gccgagtcca
+      781 caagcaccgg cccgagggcc cgaaggagaa gaaagccaag acgctggcct tcctcaagag
+      841 cccactaatg aagcagagcg tcaagaagcc cccgcccggg gaggccgccc gggaggagct
+      901 gcgcaatggc aagctggagg aggccccccc gccagcgctg ccaccgccac cgcgccccgt
+      961 ggctgataag gacacttcca atgagtccag ctcaggcagt gccacccaga acaccaagga
+     1021 acgcccagcc acagagctgt ccaccacaga ggccaccacg cccgccatgc ccgcccctcc
+     1081 cctgcagccg cgggccctca acccagcctc cagatggtcc aagatccaga ttgtgacgaa
+     1141 gcagacaggc aatgagtgtg tgacagccat tgagattgtg cctgccacgc cggctggcat
+     1201 gcgccctgcg gccaacgtgg cccgcaagtt cgccagcatc gctcgcaacc aggtgcgcaa
+     1261 gaagcggcag atggcggccc gggagcgcaa agtgacacga acgatctttg ccattctgct
+     1321 agccttcatc ctcacctgga cgccctacaa cgtcatggtc ctggtgaaca ccttctgcca
+     1381 gagctgcatc cctgacacgg tgtggtccat tggctactgg ctctgctacg tcaacagcac
+     1441 catcaaccct gcctgctatg ctctgtgcaa cgccaccttt aaaaagacct tccggcacct
+     1501 gctgctgtgc cagtatcgga acatcggcac tgccaggtag gcaggcagga gtgccctagg
+     1561 aggtgctggt gttgcgtgcg tgtgctgggg ggaccacacg gctcacttgc tgtggggaag
+     1621 agttgcaggc accattctgc gttcacgttt gctgaggagg aagttcagaa gaggctctgt
+     1681 ggctgcattc agagaccaga tct
+//
+

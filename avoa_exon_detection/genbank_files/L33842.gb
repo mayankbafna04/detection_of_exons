@@ -1,0 +1,238 @@
+LOCUS       HUMIMPDH                6193 bp    DNA     linear   PRI 22-MAY-1995
+DEFINITION  Homo sapiens (clone FFE-7) type II inosine monophosphate
+            dehydrogenase (IMPDH2) gene, exons 1-13, complete cds.
+ACCESSION   L33842
+VERSION     L33842.1
+KEYWORDS    NAD-dependent; differentiation; inosine monophosphate
+            dehydrogenase; inosine-5'-monophosphate dehydrogenase; nucleotide
+            biosynthesis; proliferation associated gene.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 6193)
+  AUTHORS   Glesne,D.A. and Huberman,E.
+  TITLE     Cloning and sequence of the human type II IMP dehydrogenase gene
+  JOURNAL   Biochem. Biophys. Res. Commun. 205 (1), 537-544 (1994)
+   PUBMED   7999076
+COMMENT     Original source text: Homo sapiens (tissue library: lambda GEM-11
+            (Promega)) blood DNA.
+            Related sequences J04208 and L08114.
+FEATURES             Location/Qualifiers
+     source          1..6193
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /map="karyotype band P21.2-P24.2"
+                     /tissue_type="blood"
+                     /tissue_lib="lambda GEM-11 (Promega)"
+     regulatory      879..1000
+                     /regulatory_class="promoter"
+                     /gene="IMPDH2"
+                     /note="minimal promoter"
+     gene            join(983..1182,1628..1676,1900..2001,2110..2184,
+                     2516..2722,3385..3472,3546..3746,3825..3914,4014..4109,
+                     5163..5451,5545..5688,5769..5852,5943..>6005)
+                     /gene="IMPDH2"
+     mRNA            join(983..1182,1628..1676,1900..2001,2110..2184,
+                     2516..2722,3385..3472,3546..3746,3825..3914,4014..4109,
+                     5163..5451,5545..5688,5769..5852,5943..>6005)
+                     /gene="IMPDH2"
+     exon            983..1182
+                     /gene="IMPDH2"
+                     /number=1
+     misc_feature    983
+                     /gene="IMPDH2"
+                     /note="major cap site"
+     misc_feature    1000
+                     /gene="IMPDH2"
+                     /note="minor cap site"
+     CDS             join(1085..1182,1628..1676,1900..2001,2110..2184,
+                     2516..2722,3385..3472,3546..3746,3825..3914,4014..4109,
+                     5163..5451,5545..5688,5769..5852,5943..5964)
+                     /gene="IMPDH2"
+                     /EC_number="1.1.1.205"
+                     /codon_start=1
+                     /product="inosine monophosphate dehydrogenase type II"
+                     /protein_id="AAA67054.1"
+                     /translation="MADYLISGGTSYVPDDGLTAQQLFNCGDGLTYNDFLILPGYIDF
+                     TADQVDLTSALTKKITLKTPLVSSPMDTVTEAGMAIAMALTGGIGFIHHNCTPEFQAN
+                     EVRKVKKYEQGFITDPVVLSPKDRVRDVFEAKARHGFCGIPITDTGRMGSRLVGIISS
+                     RDIDFLKEEEHDCFLEEIMTKREDLVVAPAGITLKEANEILQRSKKGKLPIVNEDDEL
+                     VAIIARTDLKKNRDYPLASKDAKKQLLCGAAIGTHEDDKYRLDLLAQAGVDVVVLDSS
+                     QGNSIFQINMIKYIKDKYPNLQVIGGNVVTAAQAKNLIDAGVDALRVGMGSGSICITQ
+                     EVLACGRPQATAVYKVSEYARRFGVPVIADGGIQNVGHIAKALALGASTVMMGSLLAA
+                     TTEAPGEYFFSDGIRLKKYRGMGSLDAMDKHLSSQNRYFSEADKIKVAQGVSGAVQDK
+                     GSIHKFVPYLIAGIQHSCQDIGAKSLTQVRAMMYSGELKFEKRTSSAQVEGGVHSLHS
+                     YEKRLF"
+     intron          1183..1627
+                     /number=1
+     exon            1628..1676
+                     /gene="IMPDH2"
+                     /number=2
+     intron          1677..1899
+                     /number=2
+     exon            1900..2001
+                     /gene="IMPDH2"
+                     /number=3
+     intron          2002..2109
+                     /number=3
+     exon            2110..2184
+                     /gene="IMPDH2"
+                     /number=4
+     intron          2185..2515
+                     /number=4
+     exon            2516..2722
+                     /gene="IMPDH2"
+                     /number=5
+     intron          2723..3384
+                     /number=5
+     exon            3385..3472
+                     /gene="IMPDH2"
+                     /number=6
+     intron          3473..3545
+                     /number=6
+     exon            3546..3746
+                     /gene="IMPDH2"
+                     /number=7
+     intron          3747..3824
+                     /number=7
+     exon            3825..3914
+                     /gene="IMPDH2"
+                     /number=8
+     intron          3915..4013
+                     /number=8
+     exon            4014..4109
+                     /gene="IMPDH2"
+                     /number=9
+     intron          4110..5162
+                     /number=9
+     exon            5163..5451
+                     /gene="IMPDH2"
+                     /number=10
+     intron          5452..5544
+                     /number=10
+     exon            5545..5688
+                     /gene="IMPDH2"
+                     /number=11
+     intron          5689..5768
+                     /number=11
+     exon            5769..5852
+                     /gene="IMPDH2"
+                     /number=12
+     intron          5853..5942
+                     /number=12
+     exon            5943..>6005
+                     /gene="IMPDH2"
+                     /number=13
+     regulatory      6000..6005
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="IMPDH2"
+ORIGIN      
+        1 ggccaagaga aaccagccag gaaaaaccag acagactttc acactaaaga agaggcctcc
+       61 attttttttt ttcttttttt tattggtgta gttacgaagc ctttcaggct gcttctgttt
+      121 aaaatataaa agaaaacttt gccccctttg catcttcata aacctgctgc ggcagactcc
+      181 tcagccgatg gtggctctgg gtttccttga gtgtcatatg tcctagaaag ttgctggctg
+      241 actctttttt gtctggggcc tggggaaagg gcttggactg tgaaaagaaa tgtggcccct
+      301 ttccatcttc aagagagatg gaattaatga tggatggacc ctggagggaa tctccccagc
+      361 cgacttccac tgggctgaca gactttgctg accacagggg aacgatgttc ttttctttct
+      421 tcatgatcag acataaactt agcatcttaa tggaagaaaa atgaggggaa cttcaattat
+      481 gatttattaa agacaatttc tattacaccc tcctttatga caagtgacat tttagatgta
+      541 aaagtaaaaa ctttaccatg cctttttttt ttttgttggc ctaacattga ggccttaaaa
+      601 cctgaggctc ctgtgcctga tggaattctt gtaacataca cttgtgtatc atataaagat
+      661 accactctgt ttctcttatg tattcttact ctagttgttt attaagaatg acaagcacgt
+      721 cttttcaaca tgttagtgaa caacgtctct ttattttggg gaggagcccg gtgggacagt
+      781 agaagtaaac ccttgcctgt taattgaact ggccgaggtc ctgcggggag tgtggggtgg
+      841 gacgtgaagt ggcagctcct cagtgacaag gccactatgt gctatacgca tgcgctgttt
+      901 cttcagcgcc agctccgccc ccgccgcagc gaggcgggta ggttccgccc gcgcgcacta
+      961 cgccctgacg tcagcgtcgc gcgcagcagt gacgaaatcg gctggtttat attggcgcgg
+     1021 cccagacggc agaggtctct gcggcgcggt cctcggagac acgcggcggt gtcctgtgtt
+     1081 ggccatggcc gactacctga ttagtggggg cacgtcctac gtgccagacg acggactcac
+     1141 agcacagcag ctcttcaact gcggagacgg cctcacctac aagtgcgggc ctatggggct
+     1201 cacctgggcg aagagagggg cggcacctgg ggaaaaggcc agatgggggc ttccgagagc
+     1261 cgccttgggc gtgggcgtgg gggacaggtt tcgggaattg gccacccacc tccggggctc
+     1321 actttgagac atctggagcg gtgcttgggg tacggagaag catctcagta gtgcttggaa
+     1381 tctcaggccg gagattccat gctccagaca catggaattg tcagggtgcc aggagcactg
+     1441 atgacagctc ggtggcagaa aaggtcccct gtacccattt ccaccttgtg ctgtgcctgt
+     1501 gacacacaga ctctgtcagt gccactctct gctgacatgc gttacgggtt gattggtaca
+     1561 tggggatgga gtctcatgct gccctaagct gagagcttta ctcccaattc actcccttcc
+     1621 ctcgcagtga ctttctcatt ctccctgggt acatcgactt cactgcagac caggtggtga
+     1681 gtatgatcag gaattgggtc ctgaacataa ggtgagctaa ggtgctacta tcacctggtc
+     1741 tctgggctaa ctcaccagat tgggcttggg ggtggatttt ataggatcat gttgcttgtt
+     1801 agcatgcagg tcatacaaaa gtgccttttg tgggggactc agtaacacct tgaggtgtaa
+     1861 gggatgcttt cccacactgg ttgacgtttg tctcctcagg acctgacttc tgctctgacc
+     1921 aagaaaatca ctcttaagac cccactggtt tcctctccca tggacacagt cacagaggct
+     1981 gggatggcca tagcaatggc ggtgagcccc atggggtgtg ggggaaggag caaggactcc
+     2041 atcgcctttc cccaaaggca ttcagtcctg cttcttgtca cttagtagta gtctcttttt
+     2101 atcctgtagc ttacaggcgg tattggcttc atccaccaca actgtacacc tgaattccag
+     2161 gccaatgaag ttcggaaagt gaaggtcaga agggcaacga tcattagcaa gcgctcctgg
+     2221 gaattgcact gaggtggggt ggggtgggag taggggttta ttctaattta gtattctttc
+     2281 ttcccaccat ggggttcagt tactgagaag accctgagat tctgtttctt aaagcagcag
+     2341 caatagacca ggtgtacagt gcctccagcc tacccatgtc tctaagatgt gttggtgtga
+     2401 tttggtcttg tggcactgcc aaagggatcg ataagcagag accccatgct tcagatcaag
+     2461 agcctgatga aagtagttca aagatgcgat gccctttctc accatccctt tccagaaata
+     2521 tgaacaggga ttcatcacag accctgtggt cctcagcccc aaggatcgcg tgcgggatgt
+     2581 ttttgaggcc aaggcccggc atggtttctg cggtatccca atcacagaca caggccggat
+     2641 ggggagccgc ttggtgggca tcatctcctc cagggacatt gattttctca aagaggagga
+     2701 acatgactgt ttcttggaag aggtgggtgc cactggcaga gtagatccaa gctctagcag
+     2761 cccaggttga agacaagggg cttctgttgt ctaagacatc tctgatagcc tcttctctct
+     2821 gggaaaggag tgtcaaacca agtttctgac tcctttattg ggttcctgca tccttcccct
+     2881 ccagaggctt tcaaactgcc caaatgcttg ctagtattca tgctttgttc ttttaaaccc
+     2941 ctaaggtagg ggcagtgctt gaggtctgcc ctgattttct tgccattgtt cctgtgttgt
+     3001 cctccttatt ccatagtgta agagggtgct ccctgtgcca tgttgtcctt tctactcatc
+     3061 cctcactcaa taccatactg ctaagaatta ttgggatccc ttgaggaagg gtgttttggg
+     3121 tgtgaatgta tgaacgtggt ggtccataga acttcacccc tgtaatctca gtactttggg
+     3181 agacttgagg caggcaaatc atgaggttag gagtttgaga ccagcctggc caacatggtg
+     3241 aaaccccgtc tctactaaaa atacaaaaaa ttagttgggt gtggtggcgc gtgcctctga
+     3301 gctcagctac ttgggaagga aagaaaagag ttaactggtc atagtcgatg actggccctt
+     3361 cttcacatct cacctcccac gtagataatg acaaagaggg aagacttggt ggtagcccct
+     3421 gcaggcatca cactgaagga ggcaaatgaa attctgcagc gcagcaagaa gggtaagtcc
+     3481 tagagctggg aaagggcctg gaactaatgc ctagggtcct gattcatgtc ctgccctgac
+     3541 cacaggaaag ttgcccattg taaatgaaga tgatgagctt gtggccatca ttgcccggac
+     3601 agacctgaag aagaatcggg actacccact agcctccaaa gatgccaaga aacagctgct
+     3661 gtgtggggca gccattggca ctcatgagga tgacaagtat aggctggact tgctcgccca
+     3721 ggctggtgtg gatgtagtgg ttttgggtga gcctgctaca caggtgggtt ggggcaatag
+     3781 gggcagctgc cacatgacag tctgagactt acttcttgtc ctagactctt cccagggaaa
+     3841 ttccatcttc cagatcaata tgatcaagta catcaaagac aaatacccta atctccaagt
+     3901 cattggaggc aatggtaagg caagattgtg ccctgaagga tgtgtggtgg gagtgggtaa
+     3961 gctgggctcc caccttaacc ttcacatgag cattttcctt tccttcacca tagtggtcac
+     4021 tgctgcccag gccaagaacc tcattgatgc aggtgtggat gccctgcggg tgggcatggg
+     4081 aagtggctcc atctgcatta cgcaggaagg taagaatata ctttgatagg gcccacagag
+     4141 accccagttt caggccccac ataccttgga accaagcact cttatgggga caatagagcc
+     4201 ctccaatagg ggcaaccctg gggccaaatt ggcctcttgg atgggtgaca tggctggaag
+     4261 caagacaagg tcttgtcatc catcacctgc cactcccttg cctagcctgg ccttcttgct
+     4321 cctgctctgc accttctcta aactctggtc tgtttgtttt atttagtggc tcccaagatc
+     4381 cctccagaca taaagtccca cagccccaaa tgcccttcta ctgtcacggg ttgctatagt
+     4441 aagtccagcc cggcccactg gcccggccca gctgcccact gcccggctgc ttggttgacg
+     4501 tagctgtagc tcccggggtt tgtggtgctg atgggtgggc aaggccaact gatacacaga
+     4561 ccatggtttg ggggtggtgc tcaagaacat agctccctct tccttctggg gtgctgatag
+     4621 ggcaggacct tcttccctag gcaggacctt ttctgcccac atcttctgca gcaggcatag
+     4681 ttcagggacc aactcctttg tgtggtcctt gctctcccac acaaccactg cctgctccac
+     4741 acaaccacag cctgctctcc tacacaacca ctgcccttat cttgcctgag ctgcccacca
+     4801 ttcagggagg aagggctggg cctgacctca gtgcctctgg ggactaactg cacggtgact
+     4861 cctgccccat ctgataccag ctggacgggg ctttcccggc tgctaagact gcatgtgcct
+     4921 gaggctgccc tgggcactgc acacatgcac gtgcacatgt gggggtgagt agaggtcagc
+     4981 acagctgttt gtactattta aggcagatgt ggcagcagcc atcccagaca cgtctgttcc
+     5041 tcagccaagc tgcagtcctg atgcagatgt agccaaaagc tcctgggtcc taaatatggc
+     5101 cacagggtcc actgcccgtc cccattaacc ctatccaccc atgtgttcct ccatctcaac
+     5161 agtgctggcc tgtgggcggc cccaagcaac agcagtgtac aaggtgtcag agtatgcacg
+     5221 gcgctttggt gttccggtca ttgctgatgg aggaatccaa aatgtgggtc atattgcgaa
+     5281 agccttggcc cttggggcct ccacagtcat gatgggctct ctcctggctg ccaccactga
+     5341 ggcccctggt gaatacttct tttccgatgg gatccggcta aagaaatatc gcggtatggg
+     5401 ttctctcgat gccatggaca agcacctcag cagccagaac agatatttca ggtgggacag
+     5461 gcaagccagt taccccaccc taatcctgca ctgacagtct catctctgct gtgaccttgc
+     5521 ccgtgtctct gcctctccct gcagtgaagc tgacaaaatc aaagtggccc agggagtgtc
+     5581 tggtgctgtg caggacaaag ggtcaatcca caaatttgtc ccttacctga ttgctggcat
+     5641 ccaacactca tgccaggaca ttggtgccaa gagcttgacc caagtccggt gagcttgggg
+     5701 agctgggaca tgggtagagg ggctggtcca gggccagcta cccacatttg acctctgccc
+     5761 ttcttcagag ccatgatgta ctctggggag cttaagtttg agaagagaac gtcctcagcc
+     5821 caggtggaag gtggcgtcca tagcctccat tcgtaagtca ccctgtcctt ggtggggcct
+     5881 ctgccatacc tcatgcctcc tttctcctgc cctcacctca caggtggtcc ttctgcctgc
+     5941 aggtatgaga agcggctttt ctgaaaaggg atccagcaca cctcctcggt ttttttttca
+     6001 ataaaagttt agaaagaaaa aagtgatgcc tgatctttca acagacaggt ggggctctgt
+     6061 agctgccact accacagatg cacacaaaaa cagcaccctc atttccaggg ggagcctcag
+     6121 gccccgagat aaatgtgctc catggacctg gaagcgggta gttcaggtcc aaaaagttcc
+     6181 tctagctctc aca
+//
+

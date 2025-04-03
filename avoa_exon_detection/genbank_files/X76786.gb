@@ -1,0 +1,82 @@
+LOCUS       X76786                  1464 bp    DNA     linear   PRI 04-NOV-1998
+DEFINITION  H.sapiens histamine H1 receptor gene.
+ACCESSION   X76786
+VERSION     X76786.1
+KEYWORDS    histamine H1 receptor; membrane associated protein.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1
+  AUTHORS   De Backer,M.D., Gommeren,W., Moereels,H., Nobels,G., Van Gompel,P.,
+            Leysen,J.E. and Luyten,W.H.
+  TITLE     Genomic cloning, heterologous expression and pharmacological
+            characterization of a human histamine H1 receptor
+  JOURNAL   Biochem. Biophys. Res. Commun. 197 (3), 1601-1608 (1993)
+   PUBMED   8280179
+REFERENCE   2  (bases 1 to 1464)
+  AUTHORS   De Backer,M.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-DEC-1993) M.D. De Backer, Janssen Pharmaceutica n.v.,
+            Turnhoutseweg 30, 2340 Beerse, BELGIUM
+FEATURES             Location/Qualifiers
+     source          1..1464
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /isolate="healthy volunteer R.W."
+                     /db_xref="taxon:9606"
+                     /clone="17.2"
+                     /sub_clone="4kbBam/pUC18, 0.5kbBam /pUC18"
+                     /haplotype="diploid"
+                     /tissue_type="white blood cells"
+                     /clone_lib="lambda EMBL3/ genomic cDNA"
+                     /dev_stage="adult"
+     CDS             1..1464
+                     /codon_start=1
+                     /product="histamine H1 receptor"
+                     /protein_id="CAA54182.1"
+                     /db_xref="GDB:303929"
+                     /db_xref="GOA:P35367"
+                     /db_xref="HGNC:HGNC:5182"
+                     /db_xref="InterPro:IPR000276"
+                     /db_xref="InterPro:IPR000921"
+                     /db_xref="InterPro:IPR017452"
+                     /db_xref="UniProtKB/Swiss-Prot:P35367"
+                     /translation="MSLPNSSCLLEDKMCEGNKTTMASPQLMPLVVVLSTICLVTVGL
+                     NLLVLYAVRSERKLHTVGNLYIVSLSVADLIVGAVVMPMNILYLLMSKWSLGRPLCLF
+                     WLSMDYVASTASIFSVFILCIDRYRSVQQPLRYLKYRTKTRASATILGAWFLSFLWVI
+                     PILGWNHFMQQTSVRREDKCETDFYDVTWFKVMTAIINFYLPTLLMLWFYAKIYKAVR
+                     QHCQHRELINRSLPSFSEIKLRPENPKGDAKKPGKESPWEVLKRKPKDAGGGSVLKSP
+                     SQTPKEMKSPVVFSQEDDREVDKLYCFPLDIVHMQAAAEGSSRDYVAVNRSHGQLKTD
+                     EQGLNTHGASEISEDQMLGDSQSFSRTDSDTTTETAPGKGKLRSGSNTGLDYIKFTWK
+                     RLRSHSRQYVSGLHMNRERKAAKQLGFIMAAFILCWIPYFIFFMVIAFCKNCCNEHLH
+                     MFTIWLGYINSTLNPLIYPLCNENFKKTFKRILHIRS"
+ORIGIN      
+        1 atgagcctcc ccaattcctc ctgcctctta gaagacaaga tgtgtgaggg caacaagacc
+       61 actatggcca gcccccagct gatgcccctg gtggtggtcc tgagcactat ctgcttggtc
+      121 acagtagggc tcaacctgct ggtgctgtat gccgtacgga gtgagcggaa gctccacact
+      181 gtggggaacc tgtacatcgt cagcctctcg gtggcggact tgatcgtggg tgccgtcgtc
+      241 atgcctatga acatcctcta cctgctcatg tccaagtggt cactgggccg tcctctctgc
+      301 ctcttttggc tttccatgga ctatgtggcc agcacagcgt ccattttcag tgtcttcatc
+      361 ctgtgcattg atcgctaccg ctctgtccag cagcccctca ggtaccttaa gtatcgtacc
+      421 aagacccgag cctcggccac cattctgggg gcctggtttc tctcttttct gtgggttatt
+      481 cccattctag gctggaatca cttcatgcag cagacctcgg tgcgccgaga ggacaagtgt
+      541 gagacagact tctatgatgt cacctggttc aaggtcatga ctgccatcat caacttctac
+      601 ctgcccacct tgctcatgct ctggttctat gccaagatct acaaggccgt acgacaacac
+      661 tgccagcacc gggagctcat caataggtcc ctcccttcct tctcagaaat taagctgagg
+      721 ccagagaacc ccaaggggga tgccaagaaa ccagggaagg agtctccctg ggaggttctg
+      781 aaaaggaagc caaaagatgc tggtggtgga tctgtcttga agtcaccatc ccaaaccccc
+      841 aaggagatga aatccccagt tgtcttcagc caagaggatg atagagaagt agacaaactc
+      901 tactgctttc cacttgatat tgtgcacatg caggctgcgg cagaggggag tagcagggac
+      961 tatgtagccg tcaaccggag ccatggccag ctcaagacag atgagcaggg cctgaacaca
+     1021 catggggcca gcgagatatc agaggatcag atgttaggtg atagccaatc cttctctcga
+     1081 acggactcag ataccaccac agagacagca ccaggcaaag gcaaattgag gagtgggtct
+     1141 aacacaggcc tggattacat caagtttact tggaagaggc tccgctcgca ttcaagacag
+     1201 tatgtatctg ggttgcacat gaaccgcgaa aggaaggccg ccaaacagtt gggttttatc
+     1261 atggcagcct tcatcctctg ctggatccct tatttcatct tcttcatggt cattgccttc
+     1321 tgcaagaact gttgcaatga acatttgcac atgttcacca tctggctggg ctacatcaac
+     1381 tccacactga accccctcat ctaccccttg tgcaatgaga acttcaagaa gacattcaag
+     1441 agaattctgc atattcgctc ctaa
+//
+

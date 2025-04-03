@@ -1,0 +1,60 @@
+LOCUS       X52259                   540 bp    DNA     linear   PRI 12-SEP-1993
+DEFINITION  Human sec oncogene for SEC protein.
+ACCESSION   X52259
+VERSION     X52259.1
+KEYWORDS    oncogene; sec oncogene.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 540)
+  AUTHORS   Lane,M.A., Wong,S.K., Daugherty,K., Roskey,M., Sousa,D.,
+            Sainten,A.C. and Macoska,J.
+  TITLE     Nucleotide sequence of a human oncogene active in tumors of
+            secretory epithelium
+  JOURNAL   Nucleic Acids Res. 18 (10), 3068 (1990)
+   PUBMED   2349114
+REFERENCE   2  (bases 1 to 540)
+  AUTHORS   Lane,M.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-MAR-1990) Lane M.-A., Michigan Cancer Foundation, 110
+            East Warren Avenue, Detroit MI 48201, U S A
+COMMENT     Sec is an intronless gene having a message size of approximately
+            1.0Kb.
+FEATURES             Location/Qualifiers
+     source          1..540
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /clone="pTMAM"
+                     /cell_line="NIH 3T3 transformed by MCF-C7"
+                     /cell_type="epithelial"
+                     /tissue_type="breast carcinoma"
+                     /clone_lib="H2"
+     CDS             21..350
+                     /note="unnamed protein product; SEC protein (AA 1-109)"
+                     /codon_start=1
+                     /protein_id="CAA36502.1"
+                     /db_xref="GOA:P17257"
+                     /db_xref="MGI:MGI:2668032"
+                     /db_xref="UniProtKB/Swiss-Prot:P17257"
+                     /translation="MRAQDRQLAGQPVRLRARLHRLKVDQVCHLHQELLDEAELEMEL
+                     ESGTGLPLAPPLRHLGLTRMNISARRFTSADSRLGCLLQYLGERRKEEVPDPGGSGYL
+                     LGKVGNT"
+     misc_feature    427..432
+                     /note="put. polyA signal"
+     misc_feature    481..486
+                     /note="put. polyA signal"
+ORIGIN      
+        1 ccttttggtc acagcaggag atgcgggctc aggaccggca gctggcaggg cagcctgtca
+       61 ggctgcgggc ccggctgcac agactgaaag tggaccaagt ctgtcacctg caccaggagc
+      121 ttctggatga ggctgagctg gagatggagt tagagtctgg gactggcttg cctctggccc
+      181 caccgctgcg gcatctggga ctcacgcgca tgaacatcag tgccagacgc ttcacctctg
+      241 ctgacagcag acttgggtgt ctcttgcagt atctgggaga aagaaggaag gaagaggtcc
+      301 ccgaccccgg aggctctggc tacctgctgg ggaaggtggg caacacttag gtttccaaaa
+      361 gctgaattta gagagcacag gatggagggg aggaggagag gaaactcggt gggccccaaa
+      421 tgtcttaata aaaaatgcat tgaatcccat caaggtttct gtagactgtc acagagccta
+      481 aataaatgtt gttgtatatt catcctgtgt cactgggact ttagggattc cacaacagga
+//
+

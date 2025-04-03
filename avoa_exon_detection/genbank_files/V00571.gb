@@ -1,0 +1,98 @@
+LOCUS       V00571                  2685 bp    DNA     linear   PRI 14-NOV-2006
+DEFINITION  Human gene encoding prepro form of corticotropin releasing factor.
+ACCESSION   V00571
+VERSION     V00571.1
+KEYWORDS    corticotropin; corticotropin releasing factor; signal peptide.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2685)
+  AUTHORS   Shibahara,S., Morimoto,Y., Furutani,Y., Notake,M., Takahashi,H.,
+            Shimizu,S., Horikawa,S. and Numa,S.
+  TITLE     Isolation and sequence analysis of the human
+            corticotropin-releasing factor precursor gene
+  JOURNAL   EMBO J. 2 (5), 775-779 (1983)
+   PUBMED   6605851
+FEATURES             Location/Qualifiers
+     source          1..2685
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+     mRNA            join(334..504,1305..2412)
+     prim_transcript 334..2412
+     exon            334..504
+                     /number=1
+     misc_RNA        334
+                     /note="capping site"
+     intron          505..1304
+                     /note="intron I"
+     exon            1305..2412
+                     /number=2
+     CDS             1319..1909
+                     /codon_start=1
+                     /product="corticotropin releasing factor"
+                     /protein_id="CAA23834.1"
+                     /db_xref="GDB:119804"
+                     /db_xref="GOA:P06850"
+                     /db_xref="HGNC:HGNC:2355"
+                     /db_xref="InterPro:IPR000187"
+                     /db_xref="InterPro:IPR003620"
+                     /db_xref="InterPro:IPR018446"
+                     /db_xref="PDB:3EHT"
+                     /db_xref="PDB:3EHU"
+                     /db_xref="UniProtKB/Swiss-Prot:P06850"
+                     /translation="MRLPLLVSAGVLLVALLPCPPCRALLSRGPVPGARQAPQHPQPL
+                     DFFQPPPQSEQPQQPQARPVLLRMGEEYFLRLGNLNKSPAAPLSPASSLLAGGSGSRP
+                     SPEQATANFFRVLLQQLLLPRRSLDSPAALAERGARNALGGHQEAPERERRSEEPPIS
+                     LDLTFHLLREVLEMARAEQLAQQAHSNRKLMEIIGK"
+     polyA_site      2412
+ORIGIN      
+        1 ggcctttcat agtaagaggt caatatgttt tcacacttgg gaaatctcat tcaagaattt
+       61 ttgtcaatgg acaagtcata agaagccctt ccattttagg gctcgttgac gtcaccaaga
+      121 ggcgataaat atctgttgat ataattggat gtgagattca gtgttgagat agcaaaattc
+      181 tgcccctcgt tccttggcag ggccctatga tttatgcagg agcagaggca gcacgcaatc
+      241 gagctgtcaa gagagcgtca gctattaggc aaatgctgcg tggtttttga agagggtcga
+      301 cactataaaa tcccactcca ggctctggag tggagaaact cagagaccaa gtccattgag
+      361 agactgaggg gaaagagagg agagaaagaa aaagagagtg ggaacagtaa agagaaagga
+      421 agacaacctc cagagaaagc ccccggagac gtctctctgc agagaggcgg cagcacccgg
+      481 ctcacctgcg aagcgcctgg gaaggtaggg agcgcctgga cggaacacgc caccaacttt
+      541 gcgttgcctg agctgccgcg atgtgcgccg cggagccggc tgcccctgcc tgtgtacgtg
+      601 tgtatgcatg tgtgtgcgtg cgtgtgtgtg tgtgtatgca tgtgtgtatg cgtatgtgtg
+      661 tgtgtgtatg cgcgcgtgcg tgcgtgtgtg tgtgcgcgcg tgttcgcgga ctattcctta
+      721 agattacaat agtagctggg atgtggcaaa agcaaactta gacggctgct cttcgttacc
+      781 cgtgctgcca gttgctcctt gctggctgtg taaaggagct cccccacccc cttctatcct
+      841 aacccccgag ataaggcagc aagggcagaa gtggagaggg aggaccatga ggcagtagtt
+      901 ctcaatttgg aagaaaatgc tgaaatatcc ggaagggagg tagtcagcgc gggtgggatc
+      961 ttaaatctgt ggctcttctc taggatcggg aaaattagtt ttgaggatcg ttaggaagag
+     1021 gacgcaggga ccgtcctttc agagtctaga aagaagggtc actcctggcc ggtgagcgca
+     1081 tgagcttagg tgcggagcct gcaggcgccc cctttccccg ctccccaggc gcttcagcac
+     1141 cgcggacagc gcccatccga ctcactgagg ccaaagccca gcacgtctaa ggcagtcccg
+     1201 taggaagacc ccgtgtgcac ctcccagctg agcgaactct aaccaactct ttctttctct
+     1261 cttcccctct ctcattccgc cctccgccca cctctgtgcc gcagcgagtg cccctaacat
+     1321 gcggctgccg ctgcttgtgt ccgcgggagt cctgctggtg gctctcctgc cctgcccgcc
+     1381 atgcagggcg ctcctgagcc gcgggccggt cccgggagct cggcaggcgc cgcagcaccc
+     1441 tcagcccttg gatttcttcc agccgccgcc gcagtccgag cagccccagc agccgcaggc
+     1501 tcggccggtc ctgctccgca tgggagagga gtacttcctc cgcctgggga acctcaacaa
+     1561 gagcccggcc gctccccttt cgcccgcctc ctcgctcctc gccggaggca gcggcagccg
+     1621 cccttcgccg gaacaggcga ccgccaactt tttccgcgtg ttgctgcagc agctgctgct
+     1681 gcctcggcgc tcgctcgaca gccccgcggc tctcgcggag cgcggcgcta ggaatgccct
+     1741 cggcggccac caggaggcac cggagagaga aaggcggtcc gaggagcctc ccatctccct
+     1801 ggatctcacc ttccacctcc tccgggaagt cttggaaatg gccagggccg agcagttagc
+     1861 acagcaagct cacagcaaca ggaaactcat ggagattatt gggaaataaa acggtgcgtt
+     1921 tggccaaaaa gaatctgcat ttagcacaaa aaaaatttaa aaaaatacag tattctgtac
+     1981 catagcgctg ctcttatgcc atttgtttat ttttatatag cttgaaacat agagggagag
+     2041 agggagagag cctatacccc ttacttagca tgcacaaagt gtattcacgt gcagcagcaa
+     2101 cacaatgtta ttcgttttgt ctacgtttag tttccgtttc caggtgttta tagtggtgtt
+     2161 ttaaagagaa tgtagacctg tgagaaaacg ttttgtttga aaaagcagac agaagtcact
+     2221 caattgtttt tgttgtggtc tgagccaaag agaatgccat tctcttgggt gggtaagact
+     2281 aaatctgtaa gctctttgaa acaactttct cttgtaaacg tttcagtaat aaaacatctt
+     2341 tccagtcctt ggtcagtttg gttgtgtaag agaatgttga atacttatat ttttaataaa
+     2401 agttgcaaag gtaatcatga ctttactgtt tctcttcagt gctcatacac tggaaatact
+     2461 ctcttagctt cctccaaatt gtcttcagca ccagaaaaga aaagcaaaac ttcctgcatt
+     2521 atatttttcc actaaaaatg caaacatatg tcagtggctt acacagaccc tgcaatcacg
+     2581 ttgggctcat ctctgtgcca tggactactt ctctgaggtt gagttaataa ttcaggaagt
+     2641 tgctcccagc agctctaaaa catggtaatt ctaaaaggga agatc
+//
+

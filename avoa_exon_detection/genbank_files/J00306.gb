@@ -1,0 +1,122 @@
+LOCUS       HUMSOMI                 2667 bp    DNA     linear   PRI 13-JAN-1995
+DEFINITION  Human somatostatin I gene and flanks.
+ACCESSION   J00306
+VERSION     J00306.1
+KEYWORDS    neuropeptide Y; somatostatin; somatostatin I; somatostatin-14;
+            somatostatin-28.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1126 to 1368; 2246 to 2605)
+  AUTHORS   Shen,L.P., Pictet,R.L. and Rutter,W.J.
+  TITLE     Human somatostatin I: sequence of the cDNA
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 79 (15), 4575-4579 (1982)
+   PUBMED   6126875
+REFERENCE   2  (bases 1 to 2667)
+  AUTHORS   Shen,L.P. and Rutter,W.J.
+  TITLE     Sequence of the human somatostatin I gene
+  JOURNAL   Science 224 (4645), 168-171 (1984)
+   PUBMED   6142531
+COMMENT     Original source text: Human fetal liver DNA, Charon 4A library,
+            clone pHSI-1-2.7 [2], and pancreatic somatostatinoma tissue, cDNA
+            to mRNA [1].
+            [1]  mRNA.
+            [1] reports the mRNA, [2] reports the gene. The somatostatin gene
+            appears to belong to a family of related genes with individual
+            moieties having distinct biological activities. Only a single
+            somatostatin peptide has been isolated from mammals. Somatostatins
+            modulate the secretion of several hormones and may have a role in
+            neurotransmission. The coding region of this sequence predicts a
+            116-amino acid precursor protein of somatostatin-I that contains
+            regions coding for both somatostatin-14 and somatostatin-28 at its
+            COOH-terminus. By comparison with somatostatin-28 from pig and
+            sheep it was found that the predicted amino acid sequence of human
+            somatostatin-28 is identical to that isolated from pig and sheep,
+            suggesting that these molecules are derived from a common
+            precursor. A comparison of the amino acid sequences of human and
+            anglerfish preprosomatostatin I indicated that the COOH terminal
+            region encoding somatostatin-14 and the adjacent 6 amino acids are
+            highly conserved, whereas the remainder of the molecule, including
+            the signal peptide region, is more divergent.
+FEATURES             Location/Qualifiers
+     source          1..2667
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /map="3q28"
+     prim_transcript 1126..2605
+                     /note="som I mRNA"
+     CDS             join(1231..1368,2246..2458)
+                     /note="preprosomatostatin I"
+                     /codon_start=1
+                     /protein_id="AAA60566.1"
+                     /translation="MLSCRLQCALAALSIVLALGCVTGAPSDPRLRQFLQKSLAAAAG
+                     KQELAKYFLAELLSEPNQTENDALEPEDLSQAAEQDEMRLELQRSANSNPAMAPRERK
+                     AGCKNFFWKTFTSC"
+     sig_peptide     1231..1302
+                     /note="prosomatostatin I signal peptide"
+     mat_peptide     2372..2455
+                     /product="somatostatin-28 peptide"
+     mat_peptide     2414..2455
+                     /product="somatostatin-14 peptide"
+     gene            1231..1368
+                     /gene="SST"
+     exon            <1231..1368
+                     /gene="SST"
+                     /note="preprosomatostatin I; G00-119-604"
+                     /number=1
+     intron          1369..2245
+                     /note="som I cds intron A"
+     exon            2246..>2458
+                     /note="preprosomatostatin I"
+                     /number=2
+ORIGIN      Chromosome 3q28; 1 bp upstream of EcoRI site.
+        1 gaattcaagg acaggttttc ttaaactttc tttgtttcta ggagatcagg cagagctgaa
+       61 tttaaccaag aatcttttga tcctttccac atatagatat acaatagtgg tcacatatgt
+      121 tctgggagtt cctagacctt atatgtctaa actggggctt cctgacataa aactatgctt
+      181 accggcagga atctgttaga aaactcagag ctcagtagaa ggaacactgg ctttggaatg
+      241 tggaggtctg gttttgctca aagtgtgcag tatgtgaagg agaacaattt actgaccatt
+      301 actctgcctt actgattcaa attctgaggt ttattgaata atttcttaga ttgccttcca
+      361 gctctaaatt tctcagcacc aaaatgaagt ccatttcaat ctctctctct ctctttccct
+      421 cccgtacata tacacacact catacatata tatggtcaca atagaaaggc aggtagatca
+      481 gaagtctcag ttgctgagaa agagggaggg agggtgagcc agagtacttc tcccccattg
+      541 tagagaaaag tgaagttctt ttagagcccc gttacatctt caaggccttt tatgagataa
+      601 tggaggaaat aaagagggct cagtccttct accgtccata tttcattctc aaatctgtta
+      661 ttagaggaat gattctgatc tccacctacc atacacatgc cctgttgctt gttgggcctt
+      721 acactaaaat gttagagtat gatgacagat ggagttgtct gggtacattt gtgtgcattt
+      781 aagggtgata gtgtatttgc tctttaagag ctgagtgttt gagcctctgt ttgtgtgtaa
+      841 ttgagtgtgc atgtgtggga gtgaaattgt ggaatgtgta tgctcatagc actgagtgaa
+      901 aataaaagat tgtataaatc gtggggcatg tggaattgtg tgtgcctgtg cgtgtgcagt
+      961 attttttttt ttttaagtaa gccactttag atcttgtcac ctcccctgtc ttctgtgatt
+     1021 gattttgcga ggctaatggt gcgtaaaagg gctggtgaga tctgggggcg cctcctagcc
+     1081 tgacgtcaga gagagagttt aaaacagagg gagacggttg agagcacaca agccgcttta
+     1141 ggagcgaggt tcggagccat cgctgctgcc tgctgatccg cgcctagagt ttgaccagcc
+     1201 actctccagc tcggctttcg cggcgccgag atgctgtcct gccgcctcca gtgcgcgctg
+     1261 gctgcgctgt ccatcgtcct ggccctgggc tgtgtcaccg gcgctccctc ggaccccaga
+     1321 ctccgtcagt ttctgcagaa gtccctggct gctgccgcgg ggaagcaggt aaggagactc
+     1381 cctcgacgtc tcccggattc tccagccctc cctaagcctt gctcctgccc cattggtttg
+     1441 gacgtaaggg atgctcagtc cttctaaaga gttttggtgc ttttctgggt ccctcagctc
+     1501 ccgaagctct tgagaaaact atcaaaggct agaatcccct tctaactctt tttttccccc
+     1561 atgataagcg cagtcggtca cagttcaggt gagttcttac ttggcattca agaaaattac
+     1621 aaaatctggg tagttgtctg ggcacgaagc gacaatggcg tctatccctg gtgctgaccc
+     1681 tgggaagcgc tgacccaggt gctgaaacgc agacctctga agctgctacc tcttagcgta
+     1741 cctcacttcc aaacgtcggg actagggcaa aggggcaatc taaagaccga acgccgtatg
+     1801 tttgagattg tgagaagcct cgttccccta cagttttact tggtaaaaat ggtaaaacaa
+     1861 ttctactttg tagctcgtga tgtgaaaatt gaattaaact gttggcacac actttatctt
+     1921 accagaacgg tctttatgtg tgtgtgtgtg tgtgtgtgtg tgtttgtgcg tgtgtgtgtg
+     1981 tgtgtgtgtg tgttaagtct acagggacag aaaggttgca gaaacatttg agctcttaaa
+     2041 gcctttttgt gtaacttggt aattatagca actatcctta tttttatatc cttgattgat
+     2101 tttaaatgtg acaaaaaatg cgcagctgta aaaactggat tttgtgtgtg accaaatctg
+     2161 ttctttaatt taggcttttc aaattttttc cattgtcctc cccacttctc tttctctctt
+     2221 tttctatccc ttctgcccta tacaggaact ggccaagtac ttcttggcag agctgctgtc
+     2281 tgaacccaac cagacggaga atgatgccct ggaacctgaa gatctgtccc aggctgctga
+     2341 gcaggatgaa atgaggcttg agctgcagag atctgctaac tcaaacccgg ctatggcacc
+     2401 ccgagaacgc aaagctggct gcaagaattt cttctggaag actttcacat cctgttagct
+     2461 ttcttaacta gtattgtcca tatcagacct ctgatccctc gcccccacac cccatctctc
+     2521 ttccctaatc ctccaagtct tcagcgagac ccttgcatta gaaactgaaa actgtaaata
+     2581 caaaataaaa ttatggtgaa attatgaaaa atgtgaattt ggtttctatt gagtaaatct
+     2641 ttttgttcaa taatacataa taagctt
+//
+

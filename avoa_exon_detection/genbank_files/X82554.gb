@@ -1,0 +1,84 @@
+LOCUS       X82554                  1530 bp    DNA     linear   PRI 26-JUN-1997
+DEFINITION  H.sapiens SPHAR gene for cyclin-related protein.
+ACCESSION   X82554
+VERSION     X82554.1
+KEYWORDS    cyclin-related gene; SPHAR gene.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1
+  AUTHORS   Digweed,M., Gunthert,U., Schneider,R., Seyschab,H., Friedl,R. and
+            Sperling,K.
+  TITLE     Irreversible repression of DNA synthesis in Fanconi anemia cells is
+            alleviated by the product of a novel cyclin-related gene
+  JOURNAL   Mol. Cell. Biol. 15 (1), 305-314 (1995)
+   PUBMED   7799938
+REFERENCE   2  (bases 1 to 1530)
+  AUTHORS   Digweed,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-OCT-1994) M. Digweed, Institut fuer Humangenetik,
+            Freie Universitaet Berlin, Heubnerweg 6, 14059 Berlin, FRG
+FEATURES             Location/Qualifiers
+     source          1..1530
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="8"
+                     /map="p22-q11"
+                     /clone="pSPHAR, pSPHAR-G, pSPHAR-G7, pSPHAR-G11"
+                     /cell_line="HeLa"
+                     /clone_lib="cDNA, partial genomic"
+     gene            886..1530
+                     /gene="SPHAR"
+     regulatory      886..910
+                     /regulatory_class="promoter"
+                     /gene="SPHAR"
+     mRNA            929..1530
+                     /gene="SPHAR"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+     CDS             1164..1355
+                     /gene="SPHAR"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /codon_start=1
+                     /protein_id="CAA57901.1"
+                     /db_xref="GOA:Q15513"
+                     /db_xref="HGNC:HGNC:16957"
+                     /db_xref="UniProtKB/Swiss-Prot:Q15513"
+                     /translation="MTRIKISVCICFRYFEFCFFYALNILFQKVSEANSQTELLLRPH
+                     CKNILFNVSFMIDLQAAHF"
+     regulatory      1510..1516
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="SPHAR"
+ORIGIN      
+        1 aattaaatgg acaacaccgt tagatgtgta tgtaaaaatt ttctgtttca tatttttcct
+       61 ttcactttcg gtttagaaca tgctatatgt actgtatgtc ctgtggccca gtgcggctcc
+      121 acagcatgga atctgatgta tgatatgata gaatgtggca ctaaatgcag tttcagattt
+      181 tattttttta atcatatgaa ctaaaattgt caattgtgag ttgtgctttc tcatcatgtt
+      241 ggttatattg cacaattggt tatatttatg acctgatatt caaagactct ggcattgata
+      301 gccagtgtgt tttcttattt aactccgttt actacattct acatggtgtt tacgtgatcc
+      361 acacttgaaa tactagatca gtagacattc actaatatac caaaataaaa tgaaaaattg
+      421 agtttttccg tgaactttat actgtccagc tctgttgatt ttaaagcttc ttcatccagg
+      481 tcagttcagg aagtatatct ggagtacctg gctctgtttt tggctgtgag actagcacta
+      541 aggattctgg tacctttacc caaacctact gggctactaa tacttctctc agcagttgaa
+      601 tcaaatacaa tagaccatgt aagctggggc cgctcatcca cttccagttt gctggtctcc
+      661 ctgctagaag acacattgta ctgtgctttt tctggaattc acgataatgg catcactgcc
+      721 tgtttttcac atcttttgtt tcctgttcat tttaaggaaa cctactaaat ccagttaata
+      781 ttaaatggac accactcatt aagaaatttc tttatggctt ctgcctgaat acttaaaatg
+      841 ccttactaca gttatccagt tgacatgttt ttaattcata taaggtatat tgggtatatt
+      901 gaagtatata ttgtattaca aagacttgtt cttgtatttt aaaatgtcag tgcaaaaaat
+      961 atatggtgga acctttcttt aaagttgaaa tgcagtatta tttaaatctg aaaggttaaa
+     1021 aagctttctt caccttatat atgttcttcc actgtgactt tttagttgaa gactagtaaa
+     1081 ttaactttta gttagaagat gcctactgct tttgttgttt attttaatca gcagagcaca
+     1141 gagacacata aaaactctgg gaaatgacta ggataaaaat atcagtatgt atctgtttta
+     1201 gatattttga gttttgcttt ttttatgcct tgaatatttt atttcaaaaa gtatctgaag
+     1261 caaattctca gactgaacta cttcttagac ctcactgtaa gaatatttta ttcaatgtct
+     1321 catttatgat agatttgcaa gctgctcatt tttgaacagc tttttgcatg ggataggagc
+     1381 atgtctattc taacacatca gcttattcaa aagcaagaat tttaaaaata agataaatgt
+     1441 aaagttgttt tataaacgat cctgttaatt aaaccacaga caccatatat ccttctgcat
+     1501 cctttggcca ataaaagttg ctggagaacc
+//
+

@@ -1,0 +1,79 @@
+LOCUS       X14672                  1891 bp    DNA     linear   PRI 18-APR-2005
+DEFINITION  Human gene for arylamine N-acetyltransferase (EC 2.3.1.5).
+ACCESSION   X14672
+VERSION     X14672.1
+KEYWORDS    arylamine N-acetyltransferase.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1891)
+  AUTHORS   Grant,D.M., Blum,M., Demierre,A. and Meyer,U.A.
+  TITLE     Nucleotide sequence of an intronless gene for a human arylamine
+            N-acetyltransferase related to polymorphic drug acetylation
+  JOURNAL   Nucleic Acids Res. 17 (10), 3978 (1989)
+   PUBMED   2734109
+REFERENCE   2  (bases 1 to 1891)
+  AUTHORS   Blum,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-MAR-1989) Blum M., Dept. Pharmacology, Biocenter,
+            University of Basel, 4056 Basel, Switzerland
+COMMENT     Data kindly reviewed (15 June 1989) by Blum M.
+FEATURES             Location/Qualifiers
+     source          1..1891
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+     CDS             722..1594
+                     /note="unnamed protein product; arylamine
+                     N-acetyltransferase (AA 1-290)"
+                     /codon_start=1
+                     /protein_id="CAA32802.1"
+                     /db_xref="GDB:125365"
+                     /db_xref="GOA:P11245"
+                     /db_xref="HGNC:HGNC:7646"
+                     /db_xref="InterPro:IPR001447"
+                     /db_xref="PDB:2PFR"
+                     /db_xref="UniProtKB/Swiss-Prot:P11245"
+                     /translation="MDIEAYFERIGYKNSRNKLDLETLTDILEHQIRAVPFENLNMHC
+                     GQAMELGLEAIFDHIVRRNRGGWCLQVNQLLYWALTTIGFQTTMLGGYFYIPPVNKYS
+                     TGMVHLLLQVTIDGRNYIVDAGSGSSSQMWQPLELISGKDQPQVPCIFCLTEERGIWY
+                     LDQIRREQYITNKEFLNSHLLPKKKHQKIYLFTLEPRTIEDFESMNTYLQTSPTSSFI
+                     TTSFCSLQTPEGVYCLVGFILTYRKFNYKDNTDLVEFKTLTEEEVEEVLKNIFKISLG
+                     RNLVPKPGDGSLTI"
+ORIGIN      
+        1 gaattcagtg ctctccctgt gcacccacta acccctcttt ttgttttcac caggcactta
+       61 ccacaatcta acagactgca tgttttatcc atttattcag tttcctattt gtgtcccttc
+      121 aactcccatt aaaatataat atttttgagg gcaagcaagt actagaacaa taggaaacac
+      181 atcaagagta ttctgtaaac tatttcttga atcaatcagt gaatgaatga attaatcaat
+      241 atattttttg agtgaggagc tttgtgttag gtacagctaa atgggaaatc aagtgggtca
+      301 tgtaccatga ataccatata ctctactgta taattctcct gcttatatca gaaactgttt
+      361 ataagcctat tataattgat accaattgga atctcttttt tactcatcac caagaacacc
+      421 acaaacaagt tgtttaccat ttggctcctt atttaatctg gatttccaac tcctcatgct
+      481 taaaagacgg aagatacaat aatactttcc ttacagggtt ctgagactac taagagaact
+      541 tatgcatgta aaagggattc atgcagtaga aatactaaca aaagaattac tatgacagat
+      601 acttataacc attgtgtttt tacgtattta aaatacgtta tacctataat tagtcacacg
+      661 aggaaatcaa atgctaaagt atgatatgtt tttatgtttt gtttttcttg cttaggggat
+      721 catggacatt gaagcatatt ttgaaagaat tggctataag aactctagga acaaattgga
+      781 cttggaaaca ttaactgaca ttcttgagca ccagatccgg gctgttccct ttgagaacct
+      841 taacatgcat tgtgggcaag ccatggagtt gggcttagag gctatttttg atcacattgt
+      901 aagaagaaac cggggtgggt ggtgtctcca ggtcaatcaa cttctgtact gggctctgac
+      961 cacaatcggt tttcagacca caatgttagg agggtatttt tacatccctc cagttaacaa
+     1021 atacagcact ggcatggttc accttctcct gcaggtgacc attgacggca ggaattacat
+     1081 tgtcgatgct gggtctggaa gctcctccca gatgtggcag cctctagaat taatttctgg
+     1141 gaaggatcag cctcaggtgc cttgcatttt ctgcttgaca gaagagagag gaatctggta
+     1201 cctggaccaa atcaggagag agcagtatat tacaaacaaa gaatttctta attctcatct
+     1261 cctgccaaag aagaaacacc aaaaaatata cttatttacg cttgaacctc gaacaattga
+     1321 agattttgag tctatgaata catacctgca gacgtctcca acatcttcat ttataaccac
+     1381 atcattttgt tccttgcaga ccccagaagg ggtttactgt ttggtgggct tcatcctcac
+     1441 ctatagaaaa ttcaattata aagacaatac agatctggtc gagtttaaaa ctctcactga
+     1501 ggaagaggtt gaagaagtgc tgaaaaatat atttaagatt tccttgggga gaaatctcgt
+     1561 gcccaaacct ggtgatggat cccttactat ttagaataag gaacaaaata aacccttgtg
+     1621 tatgtatcac ccaactcact aattatcaac ttatgtgcta tcagatatcc tctctaccct
+     1681 cacgttattt tgaagaaaat cctaaacatc aaatactttc atccataaaa atgtcagcat
+     1741 ttattaaaaa acaataactt tttaaagaaa cataaggaca cattttcaaa ttaataaaaa
+     1801 taaaggcatt ttaaggatgg cctgtgatta tcttgggaag cagagtgatt catgctagaa
+     1861 aacatttaat attgatttat tgttgaattc c
+//
+

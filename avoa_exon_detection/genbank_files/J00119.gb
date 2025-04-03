@@ -1,0 +1,67 @@
+LOCUS       HUMCMOS                 1303 bp    DNA     linear   PRI 01-NOV-1994
+DEFINITION  human humos gene homologous to transforming gene of mmsv.
+ACCESSION   J00119
+VERSION     J00119.1
+KEYWORDS    c-myc proto-oncogene; mos oncogene.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1303)
+  AUTHORS   Watson,R., Oskarsson,M. and Vande Woude,G.F.
+  TITLE     Human DNA sequence homologous to the transforming gene (mos) of
+            Moloney murine sarcoma virus
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 79 (13), 4078-4082 (1982)
+   PUBMED   6287464
+COMMENT     Original source text: human placental dna, clone lambdahm1.
+            human c-mos (humos) was aligned with mouse c-mos (mumos) dna, both
+            homologs to v-mos of moloney murine sarcoma virus. extensive
+            similarity was found. however, humos dna fragments were unable to
+            transform mouse nih 3t3 cells.
+FEATURES             Location/Qualifiers
+     source          1..1303
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /map="8q11"
+     gene            241..1281
+                     /gene="MOS"
+     CDS             241..1281
+                     /gene="MOS"
+                     /note="c-mos transforming protein"
+                     /codon_start=1
+                     /protein_id="AAA52029.1"
+                     /db_xref="GDB:G00-119-396"
+                     /translation="MPSPLALRPYLRSEFSPSVDARPCSSPSELPAKLLLGATLPRAP
+                     RLPRRLAWCSIDWEQVCLLQRLGAGGFGSVYKATYRGVPVAIKQVNKCTKNRLASRRS
+                     FWAELNVARLRHDNIVRVVAASTRTPAGSNSLGTIIMEFGGNVTLHQVIYGAAGHPEG
+                     DAGEPHCRTGGQLSLGKCLKYSLDVVNGLLFLHSQSIVHLDLKPANILISEQDVCKIS
+                     DFGCSEKLEDLLCFQTPSYPLGGTYTHRAPELLKGEGVTPKADIYSFAITLWQMTTKQ
+                     APYSGERQHILYAVVAYDLRPSLSAAVFEDSLPGQRLGDVIQRCWRPSAAQRPSARLL
+                     LVDLTSLKAELG"
+ORIGIN      5' to the ecor-i site at 5.4kb on the lambda hm1 fragment.
+        1 cggaagggaa atgctttcat ctgaaaggga tagctgtgct tcattccggt ttctccctcc
+       61 atctgataaa aactcttgct gagtgacagc acagatgtag ctcatttgga acaagtgaag
+      121 gaaaaggaga aaagggatga ggtggagcga aggagtagtc agtcatgttt ccaaagtccc
+      181 gcggtttccc ctagtctctt cattcactcc agcggccctg gtgtccccct gcaaagtgcg
+      241 atgccctcgc ccctggccct acgcccctac ctccggagcg agttttcccc atcggtggac
+      301 gcgcggccct gcagcagtcc ctcagagcta cctgcgaagc tgcttctggg ggccactctt
+      361 cctcgggccc cgcggctgcc gcgccggctg gcctggtgct ccattgactg ggagcaggtg
+      421 tgcttgctgc agaggctggg agctggaggg tttggctcgg tgtacaaggc gacttaccgc
+      481 ggtgttcctg tggccataaa gcaagtgaac aagtgcacca agaaccgact agcatctcgg
+      541 cggagtttct gggctgagct caacgtagca aggctgcgcc acgataacat cgtgcgcgtg
+      601 gtggctgcca gcacgcgcac gcccgcaggg tccaatagcc tagggaccat catcatggag
+      661 ttcggtggca acgtcacttt acaccaagtc atctatggcg ccgccggcca ccctgagggg
+      721 gacgcagggg agcctcactg ccgcactgga ggacagttaa gtttgggaaa gtgtctcaag
+      781 tactcactag atgttgtgaa cggcctgctc ttcctccact cgcaaagcat tgtgcacttg
+      841 gacctgaagc ccgcgaacat cttgatcagt gagcaggatg tctgtaaaat tagtgacttc
+      901 ggttgctctg agaagttgga agatctgctg tgcttccaga caccctctta ccctctagga
+      961 ggcacataca cccaccgcgc cccggagctc ctgaaaggag agggcgtgac gcctaaagcc
+     1021 gacatttatt cctttgccat cactctctgg caaatgacta ccaagcaggc gccgtattcg
+     1081 ggggagcggc agcacatact gtacgcggtg gtggcctacg acctgcgccc gtccctctcc
+     1141 gctgccgtct tcgaggactc gctccccggg cagcgccttg gggacgtcat ccagcgctgc
+     1201 tggagaccca gcgcggcgca gaggccgagc gcgcggctgc ttttggtgga tctcacctct
+     1261 ttgaaagctg aactcggctg actgaaaact tggtcaagat aag
+//
+

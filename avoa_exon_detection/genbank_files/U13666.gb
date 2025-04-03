@@ -1,0 +1,71 @@
+LOCUS       HSU13666                1438 bp    DNA     linear   PRI 01-APR-1995
+DEFINITION  Human G protein-coupled receptor (GPR1) gene, complete cds.
+ACCESSION   U13666 L35539
+VERSION     U13666.1
+KEYWORDS    G protein-coupled receptor; intronless.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1438)
+  AUTHORS   Marchese,A., Docherty,J.M., Nguyen,T., Heiber,M., Cheng,R.,
+            Heng,H.H., Tsui,L.C., Shi,X., George,S.R. and O'Dowd,B.F.
+  TITLE     Cloning of human genes encoding novel G protein-coupled receptors
+  JOURNAL   Genomics 23 (3), 609-618 (1994)
+   PUBMED   7851889
+REFERENCE   2  (bases 1 to 1438)
+  AUTHORS   O'Dowd,B.F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-AUG-1994) Brian F. O'Dowd, Pharmacology, University
+            of Toronto, 8 Taddle Creek Rd., Toronto, Ontario, M5S 1A8, Canada
+COMMENT     On Jan 24, 1995 this sequence version replaced gi:600880.
+FEATURES             Location/Qualifiers
+     source          1..1438
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="15"
+                     /map="15q21.6"
+     gene            227..1294
+                     /gene="GPR1"
+     CDS             227..1294
+                     /gene="GPR1"
+                     /codon_start=1
+                     /organism="Homo sapiens"
+                     /product="G protein-coupled receptor"
+                     /protein_id="AAA64592.1"
+                     /translation="MEDLEETLFEEFENYSYDLDYYSLESDLEEKVQLGVVHWVSLVL
+                     YCLAFVLGIPGNAIVIWFTGLKWKKTVTTLWFLNLAIADFIFLLFLPLYISYVAMNFH
+                     WPFGIWLCKANSFTAQLNMFASVFFLTVISLDHYIHLIHPVLSHRHRTLKNSLIVIIF
+                     IWLLASLIGGPALYFRDTVEFNNHTLCYNNFQKHDPDLTLIRHHVLTWVKFIIGYLFP
+                     LLTMSICYLCLIFKVKKRTVLISSRHFWTILVVVVAFVVCWTPYHLFSIWELTIHHNS
+                     YSHHVMQAGIPLSTGLAFLNSCLNPILYVLISKKFQARFRSSVAEILKYTLWEVSCSG
+                     TVSEQLRNSETKNLCLLETAQ"
+ORIGIN      
+        1 gggctgcagt gagccaaaag catgccattg cactccagct tgggcaacag agtgagaccc
+       61 tgtctcaaaa aaaagaaaaa ataatactat gtctggtcca taacctgaaa tatttttatc
+      121 ttcacgttcc ttatcattca ctgaactttt atttttcttt taaaattttt tcctttcttt
+      181 ttaaatttgc ttctacagat ttcttcattc tccatttagc aaggtcatgg aagatttgga
+      241 ggaaacatta tttgaagaat ttgaaaacta ttcctatgac ctagactatt actctctgga
+      301 gtctgatttg gaggagaaag tccagctggg agttgttcac tgggtctccc tggtgttata
+      361 ttgtttggct tttgttctgg gaattccagg aaatgccatc gtcatttggt tcacggggct
+      421 caagtggaag aagacagtca ccactctgtg gttcctcaat ctagccattg cggatttcat
+      481 ttttcttctc tttctgcccc tgtacatctc ctatgtggcc atgaatttcc actggccctt
+      541 tggcatctgg ctgtgcaaag ccaattcctt cactgcccag ttgaacatgt ttgccagtgt
+      601 ttttttcctg acagtgatca gcctggacca ctatatccac ttgatccatc ctgtcttatc
+      661 tcatcggcat cgaaccctca agaactctct gattgtcatt atattcatct ggcttttggc
+      721 ttctctaatt ggcggtcctg ccctgtactt ccgggacact gtggagttca ataatcatac
+      781 tctttgctat aacaattttc agaagcatga tcctgacctc actttgatca ggcaccatgt
+      841 tctgacttgg gtgaaattta tcattggcta tctcttccct ttgctaacaa tgagtatttg
+      901 ctacttgtgt ctcatcttca aggtgaagaa gcgaacagtc ctgatctcca gtaggcattt
+      961 ctggacaatt ctggttgtgg ttgtggcctt tgtggtttgc tggactcctt atcacctgtt
+     1021 tagcatttgg gagctcacca ttcaccacaa tagctattcc caccatgtga tgcaggctgg
+     1081 aatccccctc tccactggtt tggcattcct caatagttgc ttgaacccca tcctttatgt
+     1141 cctaattagt aagaagttcc aagctcgctt ccggtcctca gttgctgaga tactcaagta
+     1201 cacactgtgg gaagtcagct gttctggcac agtgagtgaa cagctcagga actcagaaac
+     1261 caagaatctg tgtctcctgg aaacagctca ataagttatt acttttccac aaatcagtat
+     1321 atggcttttt atgtgggtcc tctgactgat gctttcagat taaaattgtt tccaagatag
+     1381 agagccgact ccactttcat agttattgtt tctggtcaca tatatggcat cacatttt
+//
+

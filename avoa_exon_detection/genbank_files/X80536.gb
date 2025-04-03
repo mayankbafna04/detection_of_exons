@@ -1,0 +1,83 @@
+LOCUS       X80536                  1730 bp    DNA     linear   PRI 18-APR-2005
+DEFINITION  H. sapiens gene for 14-3-3 protein.
+ACCESSION   X80536
+VERSION     X80536.1
+KEYWORDS    14-3-3 protein eta-subtype; brain specific protein; protein kinase
+            C inhibitor; protein kinase-dependent activator of tryptophan
+            hydroxylase; protein kinase-dependent activator of tyrosine
+            hydroxylase.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1730)
+  AUTHORS   Ichimura-Ohshima,Y., Morii,K., Ichimura,T., Araki,K., Takahashi,Y.,
+            Isobe,T., Minoshima,S., Fukuyama,R., Shimizu,N. and Kuwano,R.
+  TITLE     cDNA cloning and chromosome assignment of the gene for human brain
+            14-3-3 protein eta chain
+  JOURNAL   J. Neurosci. Res. 31 (4), 600-605 (1992)
+   PUBMED   1578511
+FEATURES             Location/Qualifiers
+     source          1..1730
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /clone="pUC 118"
+                     /tissue_type="cerebral cortex"
+     CDS             192..932
+                     /function="protein kinase-dependant activator"
+                     /note="eta chain"
+                     /codon_start=1
+                     /product="14-3-3 protein"
+                     /protein_id="CAA56676.1"
+                     /db_xref="GDB:127888"
+                     /db_xref="GOA:Q04917"
+                     /db_xref="HGNC:HGNC:12853"
+                     /db_xref="InterPro:IPR000308"
+                     /db_xref="PDB:2C63"
+                     /db_xref="PDB:2C74"
+                     /db_xref="UniProtKB/Swiss-Prot:Q04917"
+                     /translation="MGDREQLLQRARLAEQAERYDDMASAMKAVTELNEPLSNEDRNL
+                     LSVAYKNVVGARRSSWRVISSIEQKTMADGNEKKLEKVKAYREKIEKELETVCNDVLS
+                     LLDKFLIKNCNDFQYESKVFYLKMKGDYYRYLAEVASGEKKNSVVEASEAAYKEAFEI
+                     SKEQMQPTHPIRLGLALNFSVFYYEIQNAPEQACLLAKQAFDDAIAELDTLNEDSYKD
+                     STLIMQLLRDNLTLWTSDQQDEEAGEGN"
+     regulatory      1431..1436
+                     /regulatory_class="polyA_signal_sequence"
+     regulatory      1692..1697
+                     /regulatory_class="polyA_signal_sequence"
+     regulatory      1719..1724
+                     /regulatory_class="polyA_signal_sequence"
+ORIGIN      
+        1 gaattcgcgg cgccgagagg gcgcgagcgg cggcgctgcc tgcagcctgc agcctgcagc
+       61 ctccggccgg ccggcgagcc agtgcgcgtg cgcggcggcg gcctccgcag cgaccgggga
+      121 gcggactgac cggcgggagg gctagcgagc cagcggtgtg aggcgcgagg cgaggccgag
+      181 ccgcgagcga catgggggac cgggagcagc tgctgcagcg ggcgcggctg gccgagcagg
+      241 cggagcgcta cgacgacatg gcctccgcta tgaaggcggt gacagagctg aatgaacctc
+      301 tctccaatga agatcgaaat ctcctctctg tggcctacaa gaatgtggtt ggtgccaggc
+      361 gatcttcctg gagggtcatt agcagcattg agcagaaaac catggctgat ggaaacgaaa
+      421 agaaattgga gaaagttaaa gcttaccggg agaagattga gaaggagctg gagacagttt
+      481 gcaatgatgt cctgtctctg cttgacaagt tcctgatcaa gaactgcaat gatttccagt
+      541 atgagagcaa ggtgttttac ctgaaaatga agggtgatta ctaccgctac ttagcagagg
+      601 tcgcttctgg ggagaagaaa aacagtgtgg tcgaagcttc tgaagctgcc tacaaggaag
+      661 cctttgaaat cagcaaagag cagatgcaac ccacgcatcc catccggctg ggcctggccc
+      721 tcaacttctc cgtgttctac tatgagatcc agaatgcacc tgagcaagcc tgcctcttag
+      781 ccaaacaagc cttcgatgat gccatagctg agctggacac actaaacgag gattcctata
+      841 aggactccac gctgatcatg cagttgctgc gagacaacct caccctctgg acgagcgacc
+      901 agcaggatga agaagcagga gaaggcaact gaagatcctt caggtcccct agcccttcct
+      961 tcacccacca cccccatcat caccgattct tccttgccac aatcactaaa tatctagtgc
+     1021 taaacctatc tgtattggca gcacagctac tcagatctgc actcctgtct cttgggaagc
+     1081 agtttcagat aaatcatggg cattgctgga ctgatggttg ctttgagccc acaggagctc
+     1141 cctttttgaa ttgtgtggag aagtgtgttc tgatgaggca ttttactatg cctgttgatc
+     1201 tatgggaaat ctaggcgaaa gtaatgggga agattagaaa gaattagcca accaggctac
+     1261 agttgatatt taaaagatcc atttaaaaca agctgatagt gtttcgttaa gcagtacatc
+     1321 ttgtgcatgc aaaaatgaat tcacccctcc cacctctttc ttcaattaat ggaaaactgt
+     1381 taagggaagc tgatacagag agacaacttg ctcctttcca tcagctttat aataaactgt
+     1441 ttaacgtgag gtttcagtag ctccttggtt ttgcctcttt aaattatgac gtgcacaaac
+     1501 cttcttttca atgcaatgca tctgaaagtt ttgatacttg taactttttt ttttttttgg
+     1561 ttgcaattgt ttaagaatca tggatttatt ttttgtaact ctttggctat tgtccttgtg
+     1621 tatcctgaca gcgccatgtg tgtcagccca tgtcaatcaa gatgggtgat tatgaaatgc
+     1681 cagacttcta aaataaatgt tttggaattc aatgggtaaa taaatgcgac
+//
+

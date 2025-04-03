@@ -1,0 +1,45 @@
+LOCUS       HUMISK                   436 bp    DNA     linear   PRI 30-MAR-1994
+DEFINITION  Human IsK protein (exhibiting a slowly activating channel activity)
+            gene, complete cds, clone phKI2.
+ACCESSION   M26685
+VERSION     M26685.1
+KEYWORDS    IsK protein; transmembrane protein.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 436)
+  AUTHORS   Murai,T., Kakizuka,A., Takumi,T., Ohkubo,H. and Nakanishi,S.
+  TITLE     Molecular cloning and sequence analysis of human genomic DNA
+            encoding a novel membrane protein which exhibits a slowly
+            activating potassium channel activity
+  JOURNAL   Biochem. Biophys. Res. Commun. 161 (1), 176-181 (1989)
+   PUBMED   2730656
+COMMENT     Original source text: Human adult DNA, clone phKI2.
+            Draft entry and printed copy of sequence for [1] kindly submitted
+            by S.Nakanishi, 07-SEP-1989.
+FEATURES             Location/Qualifiers
+     source          1..436
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /dev_stage="adult"
+     CDS             29..418
+                     /note="IsK protein"
+                     /codon_start=1
+                     /protein_id="AAA36129.1"
+                     /translation="MILSNTTAVTPFLTKLWQETVQQGGNMSGLARRSPRSSDGKLEA
+                     LYVLMVLGFFGFFTLGIMLSYIRSKKLEHSNDPFNVYIESDAWQEKDKAYVQARVLES
+                     YRSCYVVENHLAIEQPNTHLPETKPSP"
+ORIGIN      5 bp upstream of PstI site.
+        1 ctgcagcagt ggaaccttaa tgcccaggat gatcctgtct aacaccacag cggtgacgcc
+       61 ctttctgacc aagctgtggc aggagacagt tcagcagggt ggcaacatgt cgggcctggc
+      121 ccgcaggtcc ccccgcagca gtgacggcaa gctggaggcc ctctacgtcc tcatggtact
+      181 gggattcttc ggcttcttca ccctgggcat catgctgagc tacatccgct ccaagaagct
+      241 ggagcactcg aacgacccat tcaacgtcta catcgagtcc gatgcctggc aagagaagga
+      301 caaggcctat gtccaggccc gggtcctgga gagctacagg tcgtgctatg tcgttgaaaa
+      361 ccatctggcc atagaacaac ccaacacaca ccttcctgag acgaagcctt ccccatgaac
+      421 cccaccactg gctaaa
+//
+

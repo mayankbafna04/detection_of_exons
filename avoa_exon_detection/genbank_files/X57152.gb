@@ -1,0 +1,223 @@
+LOCUS       X57152                  5917 bp    DNA     linear   PRI 14-NOV-2006
+DEFINITION  Human gene for casein kinase II subunit beta (EC 2.7.1.37).
+ACCESSION   X57152
+VERSION     X57152.1
+KEYWORDS    casein kinase; cytoplasmic protein; nuclear protein.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 5917)
+  AUTHORS   Voss,H., Wirkner,U., Jakobi,R., Hewitt,N.A., Schwager,C.,
+            Zimmermann,J., Ansorge,W. and Pyerin,W.
+  TITLE     Structure of the gene encoding human casein kinase II subunit beta
+  JOURNAL   J. Biol. Chem. 266 (21), 13706-13711 (1991)
+   PUBMED   1856204
+REFERENCE   2  (bases 1 to 5917)
+  AUTHORS   Pyerin,W.
+  TITLE     Human casein kinase II: structures, genes, expression and
+            requirement in cell growth stimulation
+  JOURNAL   Adv. Enzyme Regul. 34, 225-246 (1994)
+   PUBMED   7942276
+REFERENCE   3  (bases 1 to 5917)
+  AUTHORS   Pyerin,W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-JAN-1991) W. Pyerin, DEUTSCHES
+            KREBSFORSCHUNGSZENTRUM, BIOCHEMICAL CELL PHYSIOLOGY, INST OF
+            EXPERIMENTAL PATHOLOGY, GERMAN CANCER RESEARCH CENTER, IM
+            NEUENHEIMER FELD 280, D-6900 HEIDELBERG F R G
+FEATURES             Location/Qualifiers
+     source          1..5917
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+     regulatory      328..332
+                     /regulatory_class="GC_signal"
+     regulatory      414..418
+                     /regulatory_class="GC_signal"
+     regulatory      481..487
+                     /regulatory_class="CAAT_signal"
+     regulatory      589..593
+                     /regulatory_class="GC_signal"
+     mRNA            join(683..1011,1623..1705,2672..2774,3344..3459,
+                     3906..3981,4128..4317,4645..4875)
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="casein kinase II subunit beta;
+                     major start sites"
+     exon            683..1011
+                     /note="casein kinase II subunit beta"
+                     /number=1
+     regulatory      698..702
+                     /regulatory_class="GC_signal"
+     mRNA            join(715..1011,1623..1705,2672..2774,3344..3459,
+                     3906..3981,4128..4317,4645..4875)
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="casein kinase II subunit beta;
+                     major start site"
+     regulatory      759..765
+                     /regulatory_class="CAAT_signal"
+     mRNA            join(795..1011,1623..1705,2672..2774,3344..3459,
+                     3906..3981,4128..4317,4645..4875)
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="casein kinase II subunit beta;
+                     minor start site"
+     intron          1012..1622
+                     /number=1
+     exon            1623..1705
+                     /note="casein kinase II subunit beta"
+                     /number=2
+     CDS             join(1634..1705,2672..2774,3344..3459,3906..3981,
+                     4128..4317,4645..4735)
+                     /EC_number="2.7.11.1"
+                     /note="protein kinase"
+                     /codon_start=1
+                     /product="casein kinase II subunit beta"
+                     /protein_id="CAA40442.1"
+                     /db_xref="GDB:125235"
+                     /db_xref="GOA:P67870"
+                     /db_xref="HGNC:HGNC:2460"
+                     /db_xref="InterPro:IPR000704"
+                     /db_xref="InterPro:IPR016149"
+                     /db_xref="InterPro:IPR016150"
+                     /db_xref="PDB:1DS5"
+                     /db_xref="PDB:1JWH"
+                     /db_xref="PDB:1QF8"
+                     /db_xref="PDB:3EED"
+                     /db_xref="UniProtKB/Swiss-Prot:P67870"
+                     /translation="MSSSEEVSWISWFCGLRGNEFFCEVDEDYIQDKFNLTGLNEQVP
+                     HYRQALDMILDLEPDEELEDNPNQSDLIEQAAEMLYGLIHARYILTNRGIAQMLEKYQ
+                     QGDFGYCPRVYCENQPMLPIGLSDIPGEAMVKLYCPKCMDVYTPKSSRHHHTDGAYFG
+                     TGFPHMLFMVHPEYRPKRPANQFVPRLYGFKIHPMAYQLQLQAASNFKSPVKTIR"
+     intron          1706..2671
+                     /number=2
+     repeat_region   1934..2212
+                     /rpt_family="ALU"
+     exon            2672..2774
+                     /note="casein kinase II subunit beta"
+                     /number=3
+     intron          2775..3343
+                     /number=3
+     exon            3344..3459
+                     /note="casein kinase II subunit beta"
+                     /number=4
+     intron          3460..3905
+                     /number=4
+     exon            3906..3981
+                     /note="casein kinase II subunit beta"
+                     /number=5
+     intron          3982..4127
+                     /number=5
+     exon            4128..4317
+                     /note="casein kinase II subunit beta"
+                     /number=6
+     intron          4318..4644
+                     /number=6
+     exon            4645..4875
+                     /note="casein kinase II subunit beta"
+                     /number=7
+ORIGIN      
+        1 gatctgtcgg ttggggtcct acttttacat aacgccccca caatgccctt cgccttcctc
+       61 aacgtggccc ccgctccaag cccattttct ggagccagga atccactctg tgggttagga
+      121 aaggccctca ggaggcggag ggaaacctgt ggaatgccga gaagccgtgt aatgaaataa
+      181 cggtcacggc ctggcccctc accattactc tgaccagggt tcgaaggtca cacttagagc
+      241 ctaaggggaa atggagaagt gcaaagggac gagcagaatg gctggcacca cctcaggtta
+      301 gcgcactggg acgttccagt tctcacaccg cccaccccac cccacccaag tcctacgcac
+      361 ggagccaagc cgcacctctc ccctcatgag gcaggagccc cggaggaaac agtacgcccg
+      421 tcaagggtct ctggcgggac tgattcgcac taggggccca acaggcaata aggacccagc
+      481 ggattggccg aggataggcc agtcccctgg gcagcagcgc cgcgccggga ctagagggga
+      541 acgtgaggag agctgcggaa agagatccag cctggctccc tcctttcccc gccctaagtc
+      601 agcctcttca cccagtgagc acaaaactgt attgcccaga ctcccgggcc ccgaacgcca
+      661 tacctggctt ccgcttccgg tggcttctcg ttgtgccccg cccgcaagcg ccctcctccg
+      721 ggccttcgtg acagccaggt cgtgcgcggg tcatcctggg attggtagtt cgctttctct
+      781 catttagcca gtttctttct ctaccgggga ctccgtgtcc cggcatccac cgcggcacct
+      841 gacccttggc gcttgcgtgt tgccctcttc cccaccctcc ctaatttcca ctccccccac
+      901 cccacttcgc ctgccgcggt cgggtccgcg gcctgcgctg tagcggtcgc cgccgttccc
+      961 tggaagtagc aacttcccta ccccacccca gtcctggtcc ccgtccagcc ggtgagtctg
+     1021 aagtcgtcgc tgctccgagt cccttgtcgc tgggagcggc acatggggtc tccggacttt
+     1081 gatgtggggc gggggaggaa gcgaccaggt ccggcacgaa ggagggagag gtggcctgag
+     1141 gagcggaggg gggatgtgtg gattccggtg aaagggacct gacaatcgcc cccaacccgt
+     1201 gagaaaagga ggagcccagt tcttgcttga gaatgataaa cttggaaacc cttgggaaag
+     1261 gcgtgggggt catgcagaga cttgtattgg tagggagcct gagtcgaggt ccctgccgga
+     1321 gttgacacag aggagagagg gccctggcct tcgggagctc cagggatgtg ggtcgggctg
+     1381 gtgggtcaaa gtatctgttg gcttctttca agtggtggga ccccaaagaa tgtttaactt
+     1441 caaagaaaag gggctgagat gtaaattaga ggagctggag aggagtgctt cagagtttgg
+     1501 gttgctttaa gaaagggtgg ttccgaattc tcccgtggtt ggagggccga atgtgggagg
+     1561 agggaggata ccagaggcag ggaaggagaa cttgagcttt actgacactg ttctttttct
+     1621 agctgacgtg aagatgagca gctcagagga ggtgtcctgg atttcctggt tctgtgggct
+     1681 ccgtggcaat gaattcttct gtgaagtgag ttctcttcaa cctccctact tgccagcttc
+     1741 acatatcttc ccaccagacg ttccttcaca tattccactt ctacactgtt ctcttacatg
+     1801 ctatttgaaa acttcctatc agcaaagagt cccccctata aaccccgacg aacctgtgct
+     1861 aaagtggcaa aactggggcc caagtcctga gtctgccacc gtccagcaat ataacgttgg
+     1921 gctagtcaat ttgtgtcttt ttcttttttt tgagactggg tctcactctg tcaccgaggc
+     1981 tggagggtag tggtgcgatc tcggcttact gccacctctg cctcccaggt tcaagcgatt
+     2041 ctcctgctcc agcctcccaa gtagctggga ttacaagtgc ctgccaccat gcctggctaa
+     2101 tttttgtatt tttagtagag acagggtttc actatgttgg caaggctggt ctcgaactcc
+     2161 agacctcagg gtgatctgcc tgcctcgggc ctcccaaagt gctgggatta caggcgtgag
+     2221 cattgcgccc ggcctgtatc ttttgttact aaagtggcac tgctagtact tgtctcaggt
+     2281 ggcctttagg aaaactgaaa tgctacacat tgaaatgttt tgttcagaaa ccatgctgtt
+     2341 cagcttccac cttccttagc cagctgagag gacaaaactg gttcctagag acgggataca
+     2401 ggagtggagt agggacaaag atcttggaaa agaatgtcta agaaaaagat tgctgtatct
+     2461 acttatcctt agaaaagaaa agccaaagct tttatgggag agagtgtagg tgaactaggg
+     2521 agagacacaa gtacttctgc tgagttggga gtgagaaaca agcacaacag atgcagttgt
+     2581 gttgatgata aggcatcact tagagcattt tgcccaggtc aaagatgagg attttgatat
+     2641 gggttccctc ttggcttcca tgtcctgaca ggtggatgaa gactacatcc aggacaaatt
+     2701 taatcttact ggactcaatg agcaggtccc tcactatcga caagctctag acatgatctt
+     2761 ggacctggag cctggtgagg caccctcagg gttgttttgt gtgtgtgcgt gcactatttt
+     2821 tctcttcaaa tctctattca cttgcctgaa ttttgccaaa tttcctttgg ttctctgatt
+     2881 tctttaaccc caaattcatg ctttattttg atcctccacc tgactcttgt ctagttttgt
+     2941 gacgtatatc acttgttctc atgttttcta aatccgcaat tcagacctat tccaaaatgc
+     3001 gtttcctcag ggtctggttt gttgtctgtt tctcctgctt tgcaccttcc agtctagagt
+     3061 ttcatcttct gcattgacat tgttgcagtt atgtattgag gagggagttg ggagggagag
+     3121 caaggagcag aggctgaaaa ggtgtgaggg gaaggcagag ctgtcttcgt ttgatgcaag
+     3181 ggtcagaagc ccaggtttct gggtcccatg cccagatgtt ggatggggta aggcccaaaa
+     3241 gtaggtgcta ggcaaactga atagcccgca gcccctggat atgggcaggg cacctaggaa
+     3301 agctgaaaaa caagtagttg catttggccg ggctgtggtt cagatgaaga actggaagac
+     3361 aaccccaacc agagtgacct gattgagcag gcagccgaga tgctttatgg attgatccac
+     3421 gcccgctaca tccttaccaa ccgtggcatc gcccagatgg tgaggcctct ctgctcctac
+     3481 ctgcctcctt ctgagcagta agagacacag gttcctgcag caagaagtca tgtttaagcc
+     3541 ctgtttaagg aagctagctg agaagagggg aagaacccca gaacttgggc ctgggaattg
+     3601 aattctgatt gggggtcatc ctgaagggat tgttttcagg gagggagaca gaccttgaat
+     3661 cagagagttg tgatagactg cctcttcctc aaggaacaaa caacaaatgg ctctgatggt
+     3721 ttgtagccct gccctaattt ggaagaaagg caacacagaa gtttgagagc ccatctagtc
+     3781 cagagaaggg ggcctctgga cagagttgga aggagtgccg acagagttgg tatgggttgg
+     3841 gctgcgaagg gagttgcctc ttctttacat ctacctgcca accccttcca ttgtattcac
+     3901 ctcagttgga aaagtaccag caaggagact ttggttactg tcctcgtgtg tactgtgaga
+     3961 accagccaat gcttcccatt ggtgagtgtt gaagaaggga aaggaaagca ccgtgtggca
+     4021 gtcttatggg aaggagttgg ggctcaacac attggagcct gagtcctgag gggaggttag
+     4081 gtaggaatag ggggatacct ggcctgctga gtctggctgt ctcccaggcc tttcagacat
+     4141 cccaggtgaa gccatggtga agctctactg ccccaagtgc atggatgtgt acacacccaa
+     4201 gtcatcaaga caccatcaca cggatggcgc ctacttcggc actggtttcc ctcacatgct
+     4261 cttcatggtg catcccgagt accggcccaa gagacctgcc aaccagtttg tgcccaggta
+     4321 gggagcaggg agagtcatta agggtcaaag gaaaggccca agatccccca gagaggggag
+     4381 gacagggcat ggccctttct tgaggtctgc ttctcccaga atcagggcat ctccctgctg
+     4441 agtgactgtg ggaaagttat ttgattatct gtgcttgagt taccttattg tagaatgttc
+     4501 ttgagctgag aagttgggaa ccacgaggct ttagctctga gcaggtccat agaggagctc
+     4561 aggtggggag gtgggaatgc aggtgactgg cagggcctgg atggggctca tgctgctgcc
+     4621 tctctgacct ctgccctggc ctaggctcta cggtttcaag atccatccga tggcctacca
+     4681 gctgcagctc caagccgcca gcaacttcaa gagcccagtc aagacgattc gctgattccc
+     4741 tcccccacct gtcctgcagt ctttgtcttt tcctttcttt tttgccaccc tttcaggaac
+     4801 cctgtatggt ttttagttta aattaaagga gtcgttatcg tggtgggaat atgaaataaa
+     4861 gtagaagaaa aggccatgag ctagtctgct ggtgcttgct gttggggaag ggaaggtgat
+     4921 ggtgtgttgg actccagggg ccctcatggc ccagcccacc ctccccagat tgaaaaccag
+     4981 gacagatttg tgctcagtgg attgggtggt gtttttagta tggagcagaa cagaattcct
+     5041 aggactgcgt gtgatgaaat gcaaggtcaa aaggaaaaga caaagcatat ttcaaagatg
+     5101 agaaatattt gtttggatat ctatgactgt ctgtttatac tgtaaggggc ttaatcagca
+     5161 gctccatctt ttagttttag ttctaaagga aaagtagcct aaagtcagta taactaaagg
+     5221 gtggaacgag gtgggacaag gtccggaatt gctgctcagt gatgtgtgtg tgcctgccgc
+     5281 tggtggagct gagactgctc actctcagaa ggatggggat gcttgatttc ctggccaggt
+     5341 tgtcccagca cagtggggat tggccctgtt gtatgacgaa gacagcacat ggtggcagag
+     5401 atagatacta acccatggac tttccaaggg agggaatagg tctttggagg gtatgcaaga
+     5461 caaaggtaga cactggataa agaacccggt agtgcccagg tattacccca tctgggccat
+     5521 tactcccaca ctcaggaacc agacgttgtg ggtgaggaca tgctgtccct cctgccaagt
+     5581 aataacttcc ttcccagcca ggatcctgcc ccaagtagga atatagctct gcatttacag
+     5641 cagctcctgc tcagaccttg tcaaaaccac cctgcagctt aggattaagg agcatggtca
+     5701 caggaaggtg gggtttcagg gcatcccctc aggaactgcc catctcccca gaattccaaa
+     5761 atgaaggtcc atatgcttgt aggtgtgctg gtcatggtgg gctcacagta ggaaagggta
+     5821 agtggggccc aggggcaggg agggaggaag gggtaactga gtccaggaag ggggtggagc
+     5881 gtggccatgg aaatcgggct ccacggccca gggatgg
+//
+

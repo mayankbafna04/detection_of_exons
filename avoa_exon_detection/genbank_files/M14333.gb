@@ -1,0 +1,89 @@
+LOCUS       HUMCSYNA                2647 bp    mRNA    linear   PRI 27-MAR-1998
+DEFINITION  Homo sapiens c-syn protooncogene mRNA, complete cds.
+ACCESSION   M14333
+VERSION     M14333.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2647)
+  AUTHORS   Semba,K., Nishizawa,M., Miyajima,N., Yoshida,M.C., Sukegawa,J.,
+            Yamanashi,Y., Sasaki,M., Yamamoto,T. and Toyoshima,K.
+  TITLE     yes-related protooncogene, syn, belongs to the protein-tyrosine
+            kinase family
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 83 (15), 5459-5463 (1986)
+   PUBMED   3526330
+COMMENT     Molecule type was originally reported as DNA but was changed by
+            GenBank staff to mRNA to correspond with the published report.
+FEATURES             Location/Qualifiers
+     source          1..2647
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /clone="lambda-SN-2"
+                     /tissue_type="placenta"
+     CDS             580..2193
+                     /note="c-syn protooncogene; belongs to the
+                     protein-tyrosine kinase family of retroviral oncogenes"
+                     /codon_start=1
+                     /protein_id="AAC08285.1"
+                     /translation="MGCVQCKDKEATKLTEERDGSLNQSSGYRYGTDPTPQHYPSFGV
+                     TSIPNYNNFHAAGGQGLTVFGGVNSSSHTGTLRTRGGTGVTLFVALYDYEARTEDDLS
+                     FHKGEKFQILNSSEGDWWEARSLTTGETGYIPSNYVAPVDSIQAEEWYFGKLGRKDAE
+                     RQLLSFGNPRGTFLIRESETTKGAYSLSIRDWDDMKGDHVKHYKIRKLDNGGYYITTR
+                     AQFETLQQLVQHYSERAAGLCCRLVVPCHKGMPRLTDLSVKTKDVWEIPRESLQLIKR
+                     LGNGQFGEVWMGTWNGNTKVAIKTLKPGTMSPESFLEEAQIMKKLKHDKLVQLYAVVS
+                     EEPIYIVTEYMNKGSLLDFLKDGEGRALKLPNLVDMAAQVAAGMAYIERMNYIHRDLR
+                     SANILVGNGLICKIADFGLARLIEDNEYTARQGAKFPIKWTAPEAALYGRFTIKSDVW
+                     SFGILLTELVTKGRVPYPGMNNREVLEQVERGYRMPCPQDCPISLHELMIHCWKKDPE
+                     ERPTFEYLQSFLEDYFTATEPQYQPGENL"
+ORIGIN      
+        1 gccgcgctgg tggcggcggc gcgtcgttgc agttgcgcca tctgtcagga gcggagccgg
+       61 cgaggagggg gctgccgcgg gcgaggagga ggggtcgccg cgagccgaag gccttcgaga
+      121 cccgcccgcc gcccggcggc gagagtagag gcgaggttgt tgtgcgagcg gcgcgtcctc
+      181 tcccgcccgg gcgcgccgcg cttctcccag cgcaccgagg accgcccggg cgcacacaaa
+      241 gccgccgccc gcgccgcacc gcccggcggc cgccgcccgc gccagggagg gattcggccg
+      301 ccgggccggg gacaccccgg cgccgccccc tcggtgctct cggaaggccc accggctccc
+      361 gggcccgccg gggacccccc ggagccgcct cggccgcgcc ggaggagggc ggggagagga
+      421 ccatgtgagt gggctccgga gcctcagcgc cgcgcagttt ttttgaagaa gcaggatgct
+      481 gatctaaacg tggaaaaaga ccagtcctgc ctctgttgta gaagacatgt ggtgtatata
+      541 aagtttgtga tcgttggcgg aaattttgga atttagataa tgggctgtgt gcaatgtaag
+      601 gataaagaag caacaaaact gacggaggag agggacggca gcctgaacca gagctctggg
+      661 taccgctatg gcacagaccc cacccctcag cactacccca gcttcggtgt gacctccatc
+      721 cccaactaca acaacttcca cgcagccggg ggccaaggac tcaccgtctt tggaggtgtg
+      781 aactcttcgt ctcatacggg gaccttgcgt acgagaggag gaacaggagt gacactcttt
+      841 gtggcccttt atgactatga agcacggaca gaagatgacc tgagttttca caaaggagaa
+      901 aaatttcaaa tattgaacag ctcggaagga gattggtggg aagcccgctc cttgacaact
+      961 ggagagacag gttacattcc cagcaattat gtggctccag ttgactctat ccaggcagaa
+     1021 gagtggtact ttggaaaact tggccgaaaa gatgctgagc gacagctatt gtcctttgga
+     1081 aacccaagag gtacctttct tatccgcgag agtgaaacca ccaaaggtgc ctattcactt
+     1141 tctatccgtg attgggatga tatgaaagga gaccatgtca aacattataa aattcgcaaa
+     1201 cttgacaatg gtggatacta cattaccacc cgggcccagt ttgaaacact tcagcagctt
+     1261 gtacaacatt actcagagag agctgcaggt ctctgctgcc gcctagtagt tccctgtcac
+     1321 aaagggatgc caaggcttac cgatctgtct gtcaaaacca aagatgtctg ggaaatccct
+     1381 cgagaatccc tgcagttgat caagagactg ggaaatgggc agtttgggga agtatggatg
+     1441 ggtacctgga atggaaacac aaaagtagcc ataaagactc ttaaaccagg cacaatgtcc
+     1501 cccgaatcat tccttgagga agcgcagatc atgaagaagc tgaagcacga caagctggtc
+     1561 cagctctatg cagtggtgtc tgaggagccc atctacatcg tcaccgagta tatgaacaaa
+     1621 ggaagtttac tggatttctt aaaagatgga gaaggaagag ctctgaaatt accaaatctt
+     1681 gtggacatgg cagcacaggt ggctgcagga atggcttaca tcgagcgcat gaattatatc
+     1741 catagagatc tgcgatcagc aaacattcta gtggggaatg gactcatatg caagattgct
+     1801 gacttcggat tggcccgatt gatagaagac aatgagtaca cagcaagaca aggtgcaaag
+     1861 ttccccatca agtggacggc ccccgaggca gccctgtacg ggaggttcac aatcaagtct
+     1921 gacgtgtggt cttttggaat cttactcaca gagctggtca ccaaaggaag agtgccatac
+     1981 ccaggcatga acaaccggga ggtgctggag caggtggagc gaggctacag gatgccctgc
+     2041 ccgcaggact gccccatctc tctgcatgag ctcatgatcc actgctggaa aaaggaccct
+     2101 gaagaacgcc ccacttttga gtacttgcag agcttcctgg aagactactt taccgcgaca
+     2161 gagccccagt accaacctgg tgaaaacctg taaggcccgg gtctgcggag agaggccttg
+     2221 tcccagaggc tgccccaccc ctccccatta gctttcaatt ccgtagccag ctgctcccca
+     2281 gcagcggaac cgcccaggat cagattgcat gtgactctga agctgacgaa cttccatggc
+     2341 cctcattaat gacacttgtc cccaaatccg aacctcctct gtgaagcatt cgagacagaa
+     2401 ccttgttatt tctcagactt tggaaaatgc attgtatcga tgttatgtaa aaggccaaac
+     2461 ctctgttcag tgtaaatagt tactccagtg ccaacaatcc tagtgctttc cttttttaaa
+     2521 aatgcaaatc ctatgtgatt ttaactctgt cttcacctga ttcaactaaa aaaaaaaagt
+     2581 attattttcc aaaagtggcc tctttgtcta aaacaataaa attttttttc atgttttaac
+     2641 aaaaacc
+//
+

@@ -1,0 +1,97 @@
+LOCUS       X73424                  1829 bp    mRNA    linear   PRI 07-OCT-2008
+DEFINITION  Homo sapiens gene for propionyl-CoA carboxylase a subunit.
+ACCESSION   X73424
+VERSION     X73424.1
+KEYWORDS    biotin-dependent enzyme; mitochondrial matrix enzyme; PCCB gene;
+            propionyl-CoA carboxylase.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1
+  AUTHORS   Lamhonwah,A.M., Leclerc,D., Loyer,M., Clarizio,R. and Gravel,R.A.
+  TITLE     Correction of the metabolic defect in propionic acidemia
+            fibroblasts by microinjection of a full-length cDNA or RNA
+            transcript encoding the propionyl-CoA carboxylase beta subunit
+  JOURNAL   Genomics 19 (3), 500-505 (1994)
+   PUBMED   8188292
+REFERENCE   2  (bases 1 to 1829)
+  AUTHORS   Gravel,R.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-JUN-1993) R.A. Gravel, Mc Gill University, Montreal
+            Children's Hospital, Research Institute, 2300 Tupper Street,
+            Montreal, Quebec, H3H 1P3, CANADA
+COMMENT     On Nov 30, 1998 this sequence version replaced gi:312811.
+            Related sequence: M13573.
+FEATURES             Location/Qualifiers
+     source          1..1829
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="3"
+                     /map="3q13-3q22"
+                     /clone="pPCC41A2, pFLB2.15 & pTAHae"
+                     /tissue_type="liver, kidney & fibroblasts"
+     gene            1..1829
+                     /gene="PCCB"
+     CDS             71..1690
+                     /gene="PCCB"
+                     /EC_number="6.4.1.3"
+                     /codon_start=1
+                     /product="propionyl-CoA carboxylase"
+                     /protein_id="CAA51825.1"
+                     /db_xref="GDB:119474"
+                     /db_xref="GOA:P05166"
+                     /db_xref="HGNC:HGNC:8654"
+                     /db_xref="InterPro:IPR000022"
+                     /db_xref="InterPro:IPR011762"
+                     /db_xref="InterPro:IPR011763"
+                     /db_xref="UniProtKB/Swiss-Prot:P05166"
+                     /translation="MAAALRVAAVGARLSVLASGLRAAVRSLCSQATSVNERIENKRR
+                     TALLGGGQRRIDAQHKRGKLTARERISLLLDPGSFVESDMFVEHRCADFGMAADKNKF
+                     PGDSVVTGRGRINGRLVYVFSQDFTVFGGSLSGAHAQKICKIMDQAITVGAPVIGLND
+                     SGGARIQEGVESLAGYADIFLRNVTASGVIPQISLIMGPCAGGAVYSPALTDFTFMVK
+                     DTSYLFITGPDVVKSVTNEDVTQEELGGAKTHTTMSGVAHRAFENDVDALCNLRDFFN
+                     YLPLSSQDPASVRECHDPSDRLVPELDTIVPLESTKAYNMVDIIHSVVDEREFFEIMP
+                     NYAKNIIVGFARMNGRTVGIVGNQPKVASGCLDINSSVKGARFVRFCDAFNIPLITFV
+                     DVPGFLPGTAQEYGGIIRHGAKLLYAFAEATVPKVTVITRKAYGGAYDVMSSKHLCGD
+                     TNYAWPTAEIAVMGAKGAVEIIFKGHENVEAAQAEYIEKFANPFPAAVRGFVDDIIQP
+                     SSTRARICCDLDVLASKKVQRPWRKHANIPL"
+     regulatory      1817..1822
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="PCCB"
+ORIGIN      
+        1 agcgccgtac ccacgcttta gcacatgcgt actcaggtgc gccggtaggg gacgcgccgg
+       61 cacagcaaaa atggcggcgg cattacgggt ggcggcggtc ggggcaaggc tcagcgttct
+      121 ggcgagcggt ctccgcgccg cggtccgcag cctttgcagc caggccacct ctgttaacga
+      181 acgcatcgaa aacaagcgcc ggaccgcgct gctgggaggg ggccaacgcc gtattgacgc
+      241 gcagcacaag cgaggaaagc taacagccag ggagaggatc agtctcttgc tggaccctgg
+      301 cagctttgtt gagagcgaca tgtttgtgga acacagatgt gcagattttg gaatggctgc
+      361 tgacaagaat aagtttcctg gagacagcgt ggtcactgga cgaggccgaa tcaatggaag
+      421 attggtttat gtcttcagtc aggattttac agtttttgga ggcagtctgt caggagcaca
+      481 tgcccaaaag atctgcaaaa tcatggacca ggccataacg gtgggggctc cagtgattgg
+      541 gctgaatgac tctgggggag cacggatcca agaaggagtg gagtctttgg ctggctatgc
+      601 agacatcttt ctgaggaatg ttacggcatc cggagtcatc cctcagattt ctctgatcat
+      661 gggcccatgt gctggtgggg ccgtctactc cccagcccta acagacttca cgttcatggt
+      721 aaaggacacc tcctacctgt tcatcactgg ccctgatgtt gtgaagtctg tcaccaatga
+      781 ggatgttacc caggaggagc tcggtggtgc caagacccac accaccatgt caggtgtggc
+      841 ccacagagct tttgaaaatg atgttgatgc cttgtgtaat ctccgggatt tcttcaacta
+      901 cctgcccctg agcagtcagg acccggcttc cgtccgtgag tgccacgatc ccagtgaccg
+      961 tctggttcct gagcttgaca caattgtccc tttggaatca accaaagcct acaacatggt
+     1021 ggacatcata cactctgttg ttgatgagcg tgaatttttt gagatcatgc ccaattatgc
+     1081 caagaacatc attgttggtt ttgcaagaat gaatgggagg actgttggaa ttgttggcaa
+     1141 ccaacctaag gtggcctcag gatgcttgga tattaattca tctgtgaaag gggctcgttt
+     1201 tgtcagattc tgtgatgcat tcaatattcc actcatcact tttgttgatg tccctggctt
+     1261 tctacctggc acagcacagg aatacggggg catcatccgg catggtgcca agcttctcta
+     1321 cgcatttgct gaggcaactg tacccaaagt cacagtcatc accaggaagg cctatggagg
+     1381 tgcctatgat gtcatgagct ctaagcacct ttgtggtgat accaactatg cctggcccac
+     1441 cgcagagatt gcagtcatgg gagcaaaggg cgctgtggag atcatcttca aagggcatga
+     1501 gaatgtggaa gctgctcagg cagagtacat cgagaagttt gccaaccctt tccctgcagc
+     1561 agtgcgaggg tttgtggatg acatcatcca accttcttcc acacgtgccc gaatctgctg
+     1621 tgacctggat gtcttggcca gcaagaaggt acaacgtcct tggagaaaac atgcaaatat
+     1681 tccattgtaa acaaatcaaa ggaaaagaaa ccaagaactg aattactgtc tgcccattca
+     1741 catcccattc ctgccttttg caatcatgat acctggcaat ccaaataggt tggataagct
+     1801 tataataact gagtttatta aattctaga
+//
+

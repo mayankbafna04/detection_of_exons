@@ -1,0 +1,65 @@
+LOCUS       X68790                   825 bp    DNA     linear   PRI 11-APR-1994
+DEFINITION  H.sapiens bactericidal BPI'gene for active domain of recombinant
+            proteins.
+ACCESSION   X68790
+VERSION     X68790.1
+KEYWORDS    bactericidal permeability increasing protein.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 825)
+  AUTHORS   Qi,S.Y., Li,Y. and O'Connor,C.D.
+  TITLE     The region around residue 115 of human
+            bactericidal/permeability-increasing protein is not involved in
+            lipopolysaccharide binding or bactericidal activity. Chemical
+            synthesis and expression of a gene coding for the active domain and
+            characterization of recombinant proteins
+  JOURNAL   Biochem. J. 298 (PT 3), 711-718 (1994)
+   PUBMED   8141787
+REFERENCE   2  (bases 1 to 825)
+  AUTHORS   O'Connor,C.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-OCT-1992) C.D. O'Connor, University of Southampton,
+            Dept of Biochemistry, Medical & Biological Sciences Bldg, Basset
+            Crescent East, Southampton SO9 3TU, UK
+COMMENT     Human but synthetic DNA sequence with codons altered for E.coli
+            expression.
+FEATURES             Location/Qualifiers
+     source          1..825
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /clone="M13/BPI'"
+     gene            49..801
+                     /gene="BPI'"
+     CDS             49..801
+                     /gene="BPI'"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /codon_start=1
+                     /product="Bactericidal /Permeability Increasing Protein"
+                     /protein_id="CAA48684.1"
+                     /translation="MVNPGVVVRISQKGLDYASQQGTAALQKELKRIKIPDYSDSFKI
+                     KHLGKGHYSFYSMDIREFQLPSSQISMVPNVGLKFSISNANIKISGKWKAQKRFLKMS
+                     GNFDLSIEGMSISADLKLGSNPTSGKPTITCSSCSSHINSVHVHISKSKVGWLIQLFH
+                     KKIESALRNKMNSQVCEKVTNSVSSKLQPYFQTLPVMTKIDSVAGINYGLVAPPATTA
+                     ETLDVQMKGEFYSENHHNPPPFAPPVMEFPAA"
+ORIGIN      
+        1 atcctctaga gtcgacaatt ttgtttaact ttaagaagga gatatatcat ggttaaccca
+       61 ggtgttgttg ttcgtatctc tcaaaagggt ctggactacg cttctcaaca aggtaccgct
+      121 gctctgcaaa aggaactgaa gcgtatcaag atcccagact actctgactc tttcaagatc
+      181 aagcacctcg gtaagggtca ctactctttc tactctatgg atatccgtga attccaactg
+      241 ccatcttctc aaatctctat ggttccaaac gttggtctga agttctctat ctctaacgct
+      301 aacatcaaaa tctctggtaa gtggaaggct caaaagcgtt tccttaagat gtctggtaac
+      361 ttcgacctgt ctatcgaagg tatgtctatc tccgcagatc tgaagctggg ttctaaccca
+      421 acttctggta agccaactat cacctgcagc tcttgttctt ctcacatcaa ctctgttcac
+      481 gtgcacatct ctaagtctaa ggttggttgg ctgatccaac tgttccacaa gaagatcgaa
+      541 tctgctctgc gtaacaagat gaactctcaa gtttgtgaaa aggttaccaa ctctgtttct
+      601 tctaagcttc aaccatactt ccaaactctg ccagtcatga ctaagatcga ttctgtggct
+      661 ggtatcaact acggtctggt tgctccacca gctactactg ctgagactct ggacgttcaa
+      721 atgaagggtg aattctactc tgaaaaccac cacaacccac caccattcgc tccaccagtt
+      781 atggaattcc cagctgctta atggccatct agagcatgcg gccgc
+//
+

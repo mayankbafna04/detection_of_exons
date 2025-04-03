@@ -1,0 +1,146 @@
+LOCUS       HUMSTATH2               4723 bp    DNA     linear   PRI 13-JAN-1995
+DEFINITION  Human salivary statherin gene, exons 2-6.
+ACCESSION   M32639
+VERSION     M32639.1
+KEYWORDS    statherin.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 4723)
+  AUTHORS   Sabatini,L.M., He,Y.Z. and Azen,E.A.
+  TITLE     Structure and sequence determination of the gene encoding human
+            salivary statherin
+  JOURNAL   Gene 89 (2), 245-251 (1990)
+   PUBMED   2373369
+COMMENT     [WARNING] On Jun 10, 2016 this sequence was replaced by AH002990.2.
+            Original source text: Human (individuals #563, #8136,and J.F.)
+            fibroblast, cell line #563, DNA, clones 1-3.
+            Draft entry and computer-readable sequence for [1] kindly submitted
+            by L.M.Sabatini, 03-JAN-1990.
+FEATURES             Location/Qualifiers
+     source          1..4723
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /map="4q11-q13"
+     prim_transcript <1..4309
+                     /note="STATH mRNA and introns"
+     intron          <1..286
+                     /gene="STATH"
+                     /note="STATH intron A"
+     CDS             join(302..352,1532..1552,1645..1674,2728..2814)
+                     /note="statherin precursor"
+                     /codon_start=1
+                     /protein_id="AAA60593.1"
+                     /translation="MKFLVFAFILALMVSMIGADSSEEKFLRRIGRFGYGYGPYQPVP
+                     EQPLYPQPYQPQYQQYTF"
+     sig_peptide     join(302..352,1532..1537)
+                     /note="statherin signal peptide"
+     mat_peptide     join(1538..1552,1645..1674,2728..2811)
+                     /product="statherin"
+     exon            <302..352
+                     /gene="STATH"
+                     /note="statherin precursor, (first translated exon);
+                     G00-120-391"
+                     /number=2
+     intron          353..1531
+                     /note="STATH intron B"
+     exon            1532..1552
+                     /number=3
+     intron          1553..1644
+                     /note="STATH intron C"
+     exon            1645..1674
+                     /number=4
+     intron          1675..2727
+                     /note="STATH intron D"
+     exon            2728..>2814
+                     /note="statherin precursor"
+                     /number=5
+     intron          2848..4051
+                     /note="STATH intron E"
+     regulatory      4294..4299
+                     /regulatory_class="polyA_signal_sequence"
+ORIGIN      About 1.8 kb after segment 1.
+        1 aagctttact ttcttcttta ccttcatacc cctattctct tggtctgtgt aaggtgttga
+       61 tttgtgtgtt actctaatgc cttagcattt ccatatcaat acactcactt ttacttatca
+      121 gtgtctccaa caagtctcca agtttcatga tgtcaggcaa tgggttttaa ttgtctttct
+      181 atctggagtg tgtctcccag tgctttggag cgtagtataa tcaataaact tttgatgggc
+      241 gaatcgaaga aaaaatgtga tactgaattt ccacatatgt tttcagagaa cccagccaac
+      301 tatgaagttc cttgtctttg ccttcatctt ggctctcatg gtttccatga ttgtaagtat
+      361 atcaggacat ttgaagaata tgttctcagt acctatccca agagtctctc tattccttgt
+      421 gttctggcat atattggtgt ttacttgaat acagctttat atgtttaaat gtttccatat
+      481 gaactttttt tttgtactaa cctacataag ctatataagg atttagaata aatagtcatt
+      541 attcatctac agacactaaa gtatatttag cttagtgtga aataaaagaa agttttactg
+      601 aacttcttaa atatgtggaa ctgagagctt ctaaaagtat ctttaaacat gtaatgctct
+      661 agacaatctg aagttagaaa tctcaggaat gaactaggtg cacttgagtg gaattcaagt
+      721 attagaagat gtcaaagtag aaattttcag atcattcctt gcaaaaacta acttaaaatt
+      781 agtatacaat tatttagcac acactttcta aaataaagct gcttattttt aactataaaa
+      841 caaaacttca gatctatgac atgttatgag ttcccagctt ttattgtcat ttactactat
+      901 gtatcactag gtaaagcact tgacttctct ggagctcttt cttctactct acttccttct
+      961 atttctcctg tcccttttct atgacattag taggaaactg gccatgaaag aataaaaata
+     1021 gttcaactta cctggtaaat tctaacagat atttcaaaaa ctaatttgat tataaaatca
+     1081 cagtatacca cattatttgt tataaaagga taggtgtcta aaaaataaaa aataaaaatg
+     1141 taaggaaaac agagaaaaac ataatgcttg tctctgtcag taaataaaag ttatgtgtaa
+     1201 gtagcctttg agctgctgaa aacatattct tatgaaaaaa tacaaagttt cacttttcat
+     1261 tcaccaatga taaccattta ctccctttta cacacaaaac aagtataaat ccaaataaat
+     1321 ttatatttga atatagcaca ctaattacag aaaagcatac tcttaactca ttttaaagat
+     1381 gtcataagca aaaatgaact aatttagtgt ctatcgatga tttgcctaca tcctgtttac
+     1441 tcacaactgt agctgctgag ttcatttttg tactcaatct ggaattataa cattaagata
+     1501 ctaactattg tctaattttc tgttttctaa gggagctgat tcatctgaag aggtgagtca
+     1561 ttttcattca ctggaaaact tgttttcagt tttgtcctcc ctacatttgt attgaattat
+     1621 taaacttttc ttcatttttc acagaaattt ttgcgtagaa ttggaagatt cggtgtaagt
+     1681 gttctctgat aatgctgtgt agtccaaata aattgtgttc tctgattact tattcttcta
+     1741 gaagaaccaa tacttatttc tcaaatatgt gtagtagttg caaaagtgtg ctttgttttc
+     1801 ctctatttat gatacacagg taacagtcac aaatgtattg tgtcctaaca acatttaagt
+     1861 tgaaactcat agtgccaacc tgaagaaacc agttactccc tgagccctca agcatcatct
+     1921 cctaagtaat cactttgacc taaaaaatag ttgaaattct aattctgtta attataatat
+     1981 atgcctcatg gagcataaag gctgataatt acacataaaa tatggtaagt ttgcaccttc
+     2041 tgattttttt tgacggtgat aaactcatta aattaaacag gtcatgataa atgagatagc
+     2101 aaatttcatt tatttaacat ttttcttaat gtatgtatct tgatgtccca gtatgttgac
+     2161 atataatgtc aatgtgatag ggttgcaaaa gatcccctaa ctaatatagt gaatacatgg
+     2221 attaaaataa caccaaataa aaagatactc taaaagggat gatggttatt tgtgttaaca
+     2281 gaaggaagaa gtattaagga atgtaggaat cgtaagagac agtaagctca ttaaaagagt
+     2341 gacttgaaga aacaccacat aagctgaatt tagtaaatgt ctccttccca taatactcaa
+     2401 aggtgggcaa aatggttgct gggaggtagt attttgaaga aaatttaaaa cctctttgga
+     2461 gtgatagcct ataatcggtg ttcctgcatg tgaaataaaa ccacaaaact gtgaacatgc
+     2521 agtacaaagg taaacactca atcattttta cctgctttta aaatgtgttt ataaccaaaa
+     2581 agaaaaatct aattgaaagt ttggaaaaaa atcttataag taatatgtaa gttcctaaaa
+     2641 ctttaacaat ctaagcttct aataaaaacg cttgcactgt cattatctca attttctgca
+     2701 attttctttc tccttgtgtg tatacagtat gggtatggcc cttatcagcc agttccagaa
+     2761 caaccactat acccacaacc ataccaacca caataccaac aatatacctt ttaatatcat
+     2821 cagtaactgc aggacatgat tattgaggta agatgggttt agtgacattt tttttacttt
+     2881 ctgtatcagt gctgacagtt aaaagaagaa aaacaaaaac aagacattaa accaacagca
+     2941 gttccagtat aagaaagcag ctgtatagct ccttgaaatg tattaattta tataaatgct
+     3001 tctgagataa agtctctgtc ctgctatggt tagaaggcag tgttatagag tgggggacac
+     3061 cagggtttgt atgctggccc tgacaactac tagtttcatg actttgaact actcctaatg
+     3121 ctcctgaacc tcagttttct cgtcaaaaaa ttgtgtatta tgataacact taaatgtgct
+     3181 ttttagaatt ggtgacactt ttgaaagaca tatcacataa aatctcttga tcagaaaggt
+     3241 ttgtagttat aactgcaggg cttccctgcc actaaatctg tacctaggtg ttgcttaaag
+     3301 ttttcactcc caaaatgcaa tctttggaga agcttccatc tgggaaccat ctgggaactt
+     3361 gtgagaaatt tgcattttgt accctaagta actctactga gcaattacta tagaaattat
+     3421 taacataatg ctaacaagaa aatatggaaa tgttatcaat ttctttttag aaagtcagtt
+     3481 ttacctatct ctacacaaca ttaaatgttc taaattctat gaaaaaataa tatttcaaaa
+     3541 caaaatagag caaactcttg gagataaggg aggattgttc tacaaagtta aaatagtcca
+     3601 aaggatttca attatttttc agtgcatttg ggagattata ttccaattca attctctatt
+     3661 gccattagtg atacagggaa gagcctgaac ttgatcccct aggttttagg taatagctga
+     3721 tgacatttaa tcaagaaaag atgtattgaa atattattta gaggaaatgc atataaatga
+     3781 aatgtgtagg ctatatttaa gtagaagaat aaaatagtat gatgattgaa aaataattta
+     3841 aattgtagat gctgaatgat aatttttatt tattcaggaa ccaatttaat aattgtttaa
+     3901 ttgtctactc tgtgtcaaat attattttgg gccctgcatt ttataaacta taattgtata
+     3961 taatatctac tctgtaccag gccagaatat aaatgtgttt acaggggtaa aaattttaca
+     4021 gataatctgt tatttttttt tttctgtgca ggcttgattg gcaaatacga cttctacatc
+     4081 catattctca tctttcatac catatcacac tactaccact ttttgaagaa tcatcaaaga
+     4141 gcaatgcaaa tgaaaaacac tataatttac tgtatactct ttgtttcagg atacttgcct
+     4201 tttcaattgt cacttgatga tataattgca atttaaactg ttaagctgtg ttcagtactg
+     4261 tttctgaata atagaaatca cttctctaaa agcaataaat ttcaagcaca tttttacatg
+     4321 tatgctcctt atttttctct tttctattta taggaataat gatttctttc atcatcttct
+     4381 ttcccagttt gactagcaca gattgaagcc cataatgtca gaggtcctta tttataattt
+     4441 agtctgtcat attttatatg ttacaaacat ggtactcaaa ctcacttatt attagagcta
+     4501 tttatgccaa gatttgattt gcccatggtt tcctttgcca caccacagtt gctaagcctc
+     4561 caaagcactc acatttttta tctcagtccc tgtaggtcag aagataacca ccatgtcact
+     4621 ctacagcagt atgtaggcac tctgcatgta aaccatctaa tgccctccat tagtttttca
+     4681 gcaatgactt ttattcaaga aatatttatt gaatgacccc ggc
+//
+

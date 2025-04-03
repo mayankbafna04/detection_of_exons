@@ -1,0 +1,123 @@
+LOCUS       HUMAPOA4C               3604 bp    DNA     linear   PRI 31-OCT-1994
+DEFINITION  Human apolipoprotein A4 (APOA4) gene, exons 1, 2 and 3.
+ACCESSION   M14642
+VERSION     M14642.1
+KEYWORDS    apolipoprotein.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 3604)
+  AUTHORS   Karathanasis,S.K., Oettgen,P., Haddad,I.A. and Antonarakis,S.E.
+  TITLE     Structure, evolution, and polymorphisms of the human apolipoprotein
+            A4 gene (APOA4)
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 83 (22), 8457-8461 (1986)
+   PUBMED   3095836
+COMMENT     Original source text: Human peripheral blood cell DNA.
+FEATURES             Location/Qualifiers
+     source          1..3604
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /map="11q23-qter"
+     prim_transcript 915..3487
+                     /note="mRNA and introns"
+     gene            join(1000..1048,1407..1533,2310..3324)
+                     /gene="APOA4"
+     CDS             join(1000..1048,1407..1533,2310..3324)
+                     /gene="APOA4"
+                     /note="apolipoprotein A4"
+                     /codon_start=1
+                     /protein_id="AAA51745.1"
+                     /db_xref="GDB:G00-119-000"
+                     /translation="MFLKAVVLTLALVAVAGARAEVSADQVATVMWDYFSQLSNNAKE
+                     AVEHLQKSELTQQLNALFQDKLGEVNTYAGDLQKKLVPFATELHERLAKDSEKLKEEI
+                     GKELEELRARLLPHANEVSQKIGDNLRELQQRLEPYADQLRTQVNTQAEQLRRQLDPL
+                     AQRMERVLRENADSLQASLRPHADELKAKIDQNVEELKGRLTPYADEFKVKIDQTVEE
+                     LRRSLAPYAQDTQEKLNHQLEGLTFQMKKNAEELKARISASAEELRQRLAPLAEDVRG
+                     NLKGNTEGLQKSLAELGGHLDQQVEEFRRRVEPYGENFNKALVQQMEQLRQKLGPHAG
+                     DVEGHLSFLEKDLRDKVNSFFSTFKEKESQDKTLSLPELEQQQEQQQEQQQEQVQMLA
+                     PLES"
+     exon            <1000..1048
+                     /gene="APOA4"
+                     /note="apolipoprotein A4; G00-119-000"
+                     /number=1
+     intron          1049..1406
+                     /note="APOA4 intron A"
+     exon            1407..1533
+                     /gene="APOA4"
+                     /number=2
+     intron          1534..2309
+                     /note="APOA4 intron B"
+     exon            2310..3324
+                     /gene="APOA4"
+                     /number=3
+     exon            2310..>3324
+                     /gene="APOA4"
+                     /note="G00-119-000"
+                     /number=3
+ORIGIN      1743 bp upstream of XbaI site; Chromosome 11q23-qter.
+        1 gagatttaaa gtatgtggga ggctgtgctt aggttatatg taaatactat gccattttat
+       61 atcaaggact tgaacatcca tggattttgg tatctgcaga gggtcctgga atcaatttcc
+      121 catggagact gagagatgac cgtactaccc acttcgcaag caatgtcttc tttaatgtac
+      181 tgaaccatcc cattgttcag aggagaaact gaagctcagg gctttgaata actagaccaa
+      241 ggaggcacag catgggagtg ggacatgaag cactctacaa ttaacccttt caggacaagg
+      301 ccctgtctcc cacacccatc tgcccaaagg ctctccaggg ccccctcctc ttgggtgtac
+      361 cttgacaaga gacctagatt ttagctcact atgctgtctg cagtcctgga tggtcccact
+      421 ccagtgtctg gtgctctgag atggagtcag cattagtggc ggatgtggag actgggggga
+      481 cctgtcttca ctggggtaga cagaggagat gtggactttg ccccccatga gcccggcaca
+      541 aacccagagc cgccagcagg gcctcgaggc atcagtcccg ggctctaggg ctccctgagg
+      601 tgtttctcct actgttttcc gttcccctcc tcccttccat gctgaggttg gtggggtggg
+      661 ggtggggggt cccacgcacg gaacagccac cacttctaac tatcgcctga gccctgatct
+      721 gctgtcagct tccacgtagt ctcagggtca caaaagtcca agaggcctct tgggaatgtg
+      781 tcaccttcca gcgtggagtc acactgagga aggaggaggg gagggcagcc aggggggtgg
+      841 cgatagggag agagtttaaa tgtctggctg gctctgagct tcagtcagtt cccactgcag
+      901 cgcaggtgag ctctcctgag gacctctctg tcagctcccc tgattgtagg gaggatccag
+      961 tgtggcaaga aactcctcca gcccagcaag cagctcagga tgttcctgaa ggccgtggtc
+     1021 ctgaccctgg ccctggtggc tgtcgccggt gagtagaagc tgtctttgga tggcactcct
+     1081 gggctgctgc tctgagtagt gcaggatgga ggctgagcca aagcaaaagg acacttctga
+     1141 gtgcccatca gcccccagct ggacatgagg tctgcctggc tgccaagtgg ctcacaggag
+     1201 agctggccca gtcccagtgg tgggcccatt ggcattggtg ctataccagt ttcacatatc
+     1261 cctgtggctt ccaaaaagcc taagctcaga cagggaaaat ggcaggttga ggcaccccca
+     1321 ccatcatcca gtctgcagct cagagctgga gcagaggggc cacacaggag acggggcctc
+     1381 atgaattgct ctctgttacc acccaggagc cagggctgag gtcagtgctg accaggtggc
+     1441 cacagtgatg tgggactact tcagccagct gagcaacaat gccaaggagg ccgtggaaca
+     1501 tctccagaaa tctgaactca cccagcaact caagtaagag ggactacagt gtgcggtggt
+     1561 gacggggaat tcttaaaggc catgcaatgt actggcaagg gttgagctta gagacaggag
+     1621 ccctgagctt aggataccca ctgccctgcc actaactggc cgggcctctg aacctaggat
+     1681 ccacatatgt aaaccggaag tttggaccga ataatccctg ccatgtcctt ttgctttgac
+     1741 gttctagagt ttgacaaatg gccacatcct atcattcagg ctcatggaag agagggaggg
+     1801 aggaaaatgt catgtgagct gatttctaat acgtttcaga aagacaggcc ccagtggaat
+     1861 caaggggagg gaggtgggaa tatttgggag gcccctgggc acaggcaagg aaagcagcac
+     1921 cttgtgccac tggaagaccc cagcagaggt caagaagaca acattgtgtt acacaatgtg
+     1981 atcctatggc ccagaacact cctctgggaa ggacctcaaa gtcccaccct ctgcagacaa
+     2041 ggaggggaaa gcaaactgct ggaggtgaca tggtgggtag attctgagac aaactatgtg
+     2101 ggagatcctg agatagaaat tcagcatcgt aacttagtct gtgacaccca tcctctccaa
+     2161 tctgcaccac catagggagg gtgaactcgg tacctctgag cactcacctg tcttagcacg
+     2221 tgtgcataag gcgagtggta tacaagcaga caaagtcttg ccgtgtaaat gccaaatgta
+     2281 acgtggcctc cttgtgccct tccccacagt gccctcttcc aggacaaact tggagaagtg
+     2341 aacacttacg caggtgacct gcagaagaag ctggtgccct ttgccaccga gctgcatgaa
+     2401 cgcctggcca aggactcgga gaaactgaag gaggagattg ggaaggagct ggaggagctg
+     2461 agggcccggc tgctgcccca tgccaatgag gtgagccaga agatcgggga caacctgcga
+     2521 gagcttcagc agcgcctgga gccctacgcg gaccagctgc gcacccaggt caacacgcag
+     2581 gccgagcagc tgcggcgcca gctggacccc ctagcacagc gcatggagag agtgctgcgg
+     2641 gagaacgccg acagcctgca ggcctcgctg aggccccacg ccgacgagct caaggccaag
+     2701 atcgaccaga acgtggagga gctcaaggga cgccttacgc cctacgctga cgaattcaaa
+     2761 gtcaagattg accagaccgt ggaggagctg cgccgcagcc tggctcccta tgctcaggac
+     2821 acgcaggaga agctcaacca ccagcttgag ggcctgacct tccagatgaa gaagaacgcc
+     2881 gaggagctca aggccaggat ctcggccagt gccgaggagc tgcggcagag gctggcgccc
+     2941 ttggccgagg acgtgcgtgg caacctgaag ggcaacaccg aggggctgca gaagtcactg
+     3001 gcagagctgg gtgggcacct ggaccagcag gtggaggagt tccgacgccg ggtggagccc
+     3061 tacggggaaa acttcaacaa agccctggtg cagcagatgg aacagctcag gcagaaactg
+     3121 ggcccccatg cgggggacgt ggaaggccac ttgagcttcc tggagaagga cctgagggac
+     3181 aaggtcaact ccttcttcag caccttcaag gagaaagaga gccaggacaa gactctctcc
+     3241 ctccctgagc tggagcaaca gcaggaacag cagcaggagc agcagcagga gcaggtgcag
+     3301 atgctggccc ctttggagag ctgagctgcc cctggtgcac tggccccacc ctcgtggaca
+     3361 cctgccctgc cctgccacct gtctgtctgt cccaaagaag ttctggtatg aacttgagga
+     3421 cacatgtcca gtgggaggtg agaccacctc tcaatattca ataaagctgc tgagaatcta
+     3481 gcctcaactg gttgccggat gaatcctcct tgcagctggg gaggtgggga ggtaaccatg
+     3541 actgggcaga gcttagcagc ggcctggcag gagaccaccc aggattgggg agatgagact
+     3601 gcag
+//
+

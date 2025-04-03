@@ -1,0 +1,127 @@
+LOCUS       Z25587                  3093 bp    DNA     linear   PRI 14-NOV-2006
+DEFINITION  H.sapiens gene for ClC-1 muscle chloride channel protein.
+ACCESSION   Z25587
+VERSION     Z25587.1
+KEYWORDS    chloride channel protein.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 3093)
+  AUTHORS   Pusch,M., Steinmeyer,K., Koch,M.C. and Jentsch,T.J.
+  TITLE     Mutations in dominant human myotonia congenita drastically alter
+            the voltage dependence of the CIC-1 chloride channel
+  JOURNAL   Neuron 15 (6), 1455-1463 (1995)
+   PUBMED   8845168
+REFERENCE   2  (bases 1 to 3093)
+  AUTHORS   Jentsch,T.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-AUG-1993) Thomas J Jentsch, Centre for molecular
+            neurobiology, Hamburg, University, Martinistr.52, Hamburg, D-20246,
+            Germany
+FEATURES             Location/Qualifiers
+     source          1..3093
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="7"
+                     /map="7q"
+                     /tissue_type="Caucasian male fetus placenta"
+                     /clone_lib="Stratagene Lambda FixII genomic library
+                     #946203"
+     5'UTR           1..87
+                     /note="sequence is derived from a genomic clone; shows
+                     sequence homology to the rat ClC-1 5`UTR region (GenBank #
+                     X62894)"
+     CDS             88..3054
+                     /note="88..596 is derived from a genomic clone; 597..3054
+                     is identical to partial human ClC-1 cDNA clone (GenBank
+                     M97820)"
+                     /codon_start=1
+                     /product="human ClC-1 muscle chloride channel"
+                     /protein_id="CAA80996.1"
+                     /db_xref="GDB:134688"
+                     /db_xref="GOA:P35523"
+                     /db_xref="HGNC:HGNC:2019"
+                     /db_xref="InterPro:IPR000644"
+                     /db_xref="InterPro:IPR001807"
+                     /db_xref="InterPro:IPR002243"
+                     /db_xref="InterPro:IPR014743"
+                     /db_xref="UniProtKB/Swiss-Prot:P35523"
+                     /translation="MEQSRSQQRGGEQSWWGSDPQYQYMPFEHCTSYGLPSENGGLQH
+                     RLRKDAGPRHNVHPTQIYGHHKEQFSDREQDIGMPKKTGSSSTVDSKDEDHYSKCQDC
+                     IHRLGQVVRRKLGEDWIFLVLLGLLMALVSWSMDYVSAKSLQAYKWSYAQMQPSLPLQ
+                     FLVWVTFPLVLILFSALFCHLISPQAVGSGIPEMKTILRGVVLKEYLTMKAFVAKVVA
+                     LTAGLGSGIPVGKEGPFVHIASICAAVLSKFMSVFCGVYEQPYYYSDILTVGCAVGVG
+                     CCFGTPLGGVLFSIEVTSTYFAVRNYWRGFFAATFSAFVFRVLAVWNKDAVTITALFR
+                     TNFRMDFPFDLKELPAFAAIGICCGLLGAVFVYLHRQVMLGVRKHKALSQFLAKHRLL
+                     YPGIVTFVIASFTFPPGMGQFMAGELMPREAISTLFDNNTWVKHAGDPESLGQSAVWI
+                     HPRVNVVIIIFLFFVMKFWMSIVATTMPIPCGGFMPVFVLGAAFGRLVGEIMAMLFPD
+                     GILFDDIIYKILPGGYAVIGAAALTGAVSHTVSTAVICFELTGQIAHILPMMVAVILA
+                     NMVAQSLQPSLYDSIIQVKKLPYLPDLGWNQLSKYTIFVEDIMVRDVKFVSASYTYGE
+                     LRTLLQTTTVKTLPLVDSKDSMILLGSVERSELQALLQRHLCPERRLRAAQEMARKLS
+                     ELPYDGKARLAGEGPPGAPPGRPESFAFVDEDEDEDLSGKSELPPSLALHPSTTAPLS
+                     PEEPNGPLPGHKQQPEAPEPAGQRPSIFQSLLHCLLGRARPTKKKTTQDSTDLVDNMS
+                     PEEIEAWEQEQLSQPVCFDSCCIDQSPFQLVEQTTLHKTHTLFSLLGLHLAYVTSMGK
+                     LRGVLALEELQKAIEGHTKSGVQLRPPLASFRNTTSTRKSTGAPPSSAENWNLPEDRP
+                     GATGTGDVIAASPETPVPSPSPEPPLSLAPGKVEGELEELELVESPGLEEELADILQG
+                     PSLRSTDEEDEDELIL"
+     3'UTR           3055..3093
+                     /note="sequence is identical to a partial human ClC-1 cDNA
+                     clone (GenBank M97820)"
+ORIGIN      
+        1 agcaagagca gaggcttaag gagctacact gggggaagga caggggcaag caggccaagg
+       61 cctggccggg gctcgggggg agggaatatg gagcaatccc ggtcacagca gcgtgggggt
+      121 gaacaaagct ggtggggtag tgacccccag taccagtata tgccctttga acactgcacc
+      181 agctacggac tgccctctga gaatgggggc ctccagcaca ggctccggaa ggatgcaggc
+      241 ccccgccaca acgtccaccc cacacagatt tatggccatc acaaagaaca attctcagac
+      301 agggagcagg acatagggat gcccaagaag acaggctcca gttctaccgt ggacagcaag
+      361 gatgaggatc actattctaa atgtcaagat tgtatccacc gcctgggaca ggtggtgaga
+      421 agaaaattag gggaagactg gatctttctg gtgcttctgg gactgctgat ggctctggtc
+      481 agctggagca tggactacgt cagtgccaaa agccttcagg cctacaagtg gtcctacgcg
+      541 cagatgcagc ccagccttcc tctgcagttc ctggtctggg tcaccttccc actagtcctc
+      601 atcctcttca gcgccctctt ctgccacctc atctctcccc aggctgttgg ctctggaatc
+      661 cccgaaatga agacaatact tcgtggggtt gtcctgaagg aatacctcac aatgaaagcc
+      721 tttgtggcca aggttgtcgc cctgactgcg ggcctgggca gtggcatccc cgtggggaaa
+      781 gagggcccct tcgtccacat tgccagcatc tgtgctgctg tcctcagcaa attcatgtct
+      841 gtgttctgcg gggtatatga gcagccatac tactactctg atatcctgac ggtgggctgt
+      901 gctgtgggag tcggctgttg ttttgggaca ccacttggag gagtgctatt tagcatcgag
+      961 gtcacctcca cctactttgc tgttcggaac tactggagag gattctttgc agccacgttc
+     1021 agcgcctttg tgtttcgagt gctggcagtg tggaacaagg atgctgtcac catcactgct
+     1081 ctgttcagaa ccaatttccg aatggatttc ccctttgacc tgaaggaact accagctttt
+     1141 gctgccatcg ggatttgctg tgggctcctg ggagctgtat ttgtgtatct gcatcgccaa
+     1201 gtcatgctcg gtgtccgaaa gcacaaggcc ctcagccagt ttcttgctaa gcaccgcctg
+     1261 ctgtatcctg gaattgttac ctttgtcatt gcctcattca ccttcccacc aggaatgggt
+     1321 caattcatgg ctggagagtt gatgccccgc gaagccatca gtactttgtt tgacaacaat
+     1381 acatgggtga aacacgcggg tgatcctgag agcctgggcc agtcagctgt gtggattcac
+     1441 ccccgggtca acgttgtcat catcatcttt ctcttcttcg tcatgaagtt ctggatgtcc
+     1501 atcgtggcca ccactatgcc cataccctgc ggaggcttca tgcctgtgtt tgtgctagga
+     1561 gctgcatttg gaaggctggt aggagaaatc atggccatgc tctttcctga tggtattttg
+     1621 tttgatgaca tcatctacaa gatcctacct gggggctatg cagtaattgg agcagcagcg
+     1681 ctgactggtg ccgtttccca cacagtctcc acagctgtga tttgcttcga attaacgggt
+     1741 cagattgctc acatcctgcc catgatggtg gctgttatct tggccaacat ggtggcccag
+     1801 agcctgcagc cctctctcta tgacagcatc atccaggtca agaagctacc ctacttgcct
+     1861 gaccttggct ggaaccagct cagcaaatat accatctttg ttgaggacat catggtacgt
+     1921 gatgtgaagt ttgtttcagc ttcttacaca tatggggagt tgcgaaccct gctccagacc
+     1981 accacagtca agactttacc actggttgac tcaaaagatt caatgatcct gctgggctcg
+     2041 gtggagcggt cggaactgca ggccctcctg cagcgccacc tgtgtcctga gcgcaggctg
+     2101 cgcgcagccc aagagatggc gcggaagttg tcggagctgc cttacgacgg gaaggcgcgg
+     2161 ctggctgggg aggggccccc cggcgcgcct ccaggccggc ccgagtcctt cgcctttgtg
+     2221 gatgaggatg aggacgaaga tctctctggc aagagcgagc ttcctccttc ccttgctctc
+     2281 cacccctcta ctactgcccc tctgtcccca gaagagccca atgggcctct gcctggccac
+     2341 aaacagcagc cggaagcacc agagcctgca ggtcaaagac cctccatctt ccagtccctg
+     2401 cttcactgct tgctgggcag agctcgcccc acaaagaaga aaacaaccca ggattccaca
+     2461 gatttagtgg ataacatgtc acctgaagag attgaggcct gggagcagga gcagctgagc
+     2521 cagcctgtct gttttgattc ctgctgtatt gaccagtctc ccttccagct ggtggagcag
+     2581 acaaccctgc acaagactca taccctgttt tcactccttg gcctccacct cgcttacgtg
+     2641 accagcatgg ggaagctcag gggcgtcctg gccctggagg agctacagaa ggccattgag
+     2701 gggcacacca agtctggggt gcagctccgc cctccccttg ccagcttccg gaacacgact
+     2761 tcaactcgaa agagtaccgg ggcacctcca tcttctgcag agaactggaa cctgcctgag
+     2821 gacaggcctg gggccactgg aacaggggat gtgattgctg cctccccaga gacccctgtg
+     2881 ccatctcctt ccccagagcc ccctctctcc ctggccccag gcaaggtaga gggcgagttg
+     2941 gaggagctgg agctggtgga gagtccaggg ctggaagagg agctggccga catcttgcag
+     3001 ggccccagcc tgcgatccac agacgaggag gatgaggatg aactgatcct ttgaccccct
+     3061 cccacgacct cctcataaag accgtggaga ggc
+//
+

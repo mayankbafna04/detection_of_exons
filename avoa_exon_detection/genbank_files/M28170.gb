@@ -1,0 +1,78 @@
+LOCUS       HUMCSPC                 2096 bp    mRNA    linear   PRI 20-JUN-1995
+DEFINITION  Human cell surface protein CD19 (CD19) gene, complete cds.
+ACCESSION   M28170
+VERSION     M28170.1
+KEYWORDS    cell surface protein.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2096)
+  AUTHORS   Tedder,T.F. and Isaacs,C.M.
+  TITLE     Isolation of cDNAs encoding the CD19 antigen of human and mouse B
+            lymphocytes. A new member of the immunoglobulin superfamily
+  JOURNAL   J. Immunol. 143 (2), 712-717 (1989)
+   PUBMED   2472450
+COMMENT     On Jun 20, 1995 this sequence version replaced gi:181165.
+FEATURES             Location/Qualifiers
+     source          1..2096
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /cell_type="lymphocyte"
+     gene            1..2096
+                     /gene="cell surface protein CD19"
+     CDS             18..1688
+                     /gene="cell surface protein CD19"
+                     /codon_start=1
+                     /product="cell surface protein CD19"
+                     /protein_id="AAA68490.1"
+                     /translation="MPPPRLLFFLLFLTPMEVRPEEPLVVKVEEGDNAVLQCLKGTSD
+                     GPTQQLTWSRESPLKPFLKLSLGLPGLGIHMRPLASWLFIFNVSQQMGGFYLCQPGPP
+                     SEKAWQPGWTVNVEGSGELFRWNVSDLGGLGCGLKNRSSEGPSSPSGKLMSPKLYVWA
+                     KDRPEIWEGEPPCVPPRDSLNQSLSQDLTMAPGSTLWLSCGVPPDSVSRGPLSWTHVH
+                     PKGPKSLLSLELKDDRPARDMWVMETGLLLPRATAQDAGKYYCHRGNLTMSFHLEITA
+                     RPVLWHWLLRTGGWKVSAVTLAYLIFCLCSLVGILHLQRALVLRRKRKRMTDPTRRFF
+                     KVTPPPGSGPQNQYGNVLSLPTPTSGLGRAQRWAAGLGGTAPSYGNPSSDVQADGALG
+                     SRSPPGVGPEEEEGEGYEEPDSEEDSEFYENDSNLGQDQLSQDGSGYENPEDEPLGPE
+                     DEDSFSNAESYENEDEELTQPVARTMDFLSPHGSAWDPSREATSLGSQSYEDMRGILY
+                     AAPQLHSIRGQPGPNHEEDADSYENMDNPDGPDPAWGGGGRMGTWSTR"
+ORIGIN      
+        1 gaattcctct gaccaccatg ccacctcctc gcctcctctt cttcctcctc ttcctcaccc
+       61 ccatggaagt caggcccgag gaacctctag tggtgaaggt ggaagaggga gataacgctg
+      121 tgctgcagtg cctcaagggg acctcagatg gccccactca gcagctgacc tggtctcggg
+      181 agtccccgct taaacccttc ttaaaactca gcctggggct gccaggcctg ggaatccaca
+      241 tgaggcccct ggcatcctgg cttttcatct tcaacgtctc tcaacagatg gggggcttct
+      301 acctgtgcca gccggggccc ccctctgaga aggcctggca gcctggctgg acagtcaatg
+      361 tggagggcag cggggagctg ttccggtgga atgtttcgga cctaggtggc ctgggctgtg
+      421 gcctgaagaa caggtcctca gagggcccca gctccccttc cgggaagctc atgagcccca
+      481 agctgtatgt gtgggccaaa gaccgccctg agatctggga gggagagcct ccgtgtgtcc
+      541 caccgaggga cagcctgaac cagagcctca gccaggacct caccatggcc cctggctcca
+      601 cactctggct gtcctgtggg gtaccccctg actctgtgtc caggggcccc ctctcctgga
+      661 cccatgtgca ccccaagggg cctaagtcat tgctgagcct agagctgaag gacgatcgcc
+      721 cggccagaga tatgtgggta atggagacgg gtctgttgtt gccccgggcc acagctcaag
+      781 acgctggaaa gtattattgt caccgtggca acctgaccat gtcattccac ctggagatca
+      841 ctgctcggcc agtactatgg cactggctgc tgaggactgg tggctggaag gtctcagctg
+      901 tgactttggc ttatctgatc ttctgcctgt gttcccttgt gggcattctt catcttcaaa
+      961 gagccctggt cctgaggagg aaaagaaagc gaatgactga ccccaccagg agattcttca
+     1021 aagtgacgcc tcccccagga agcgggcccc agaaccagta cgggaacgtg ctgtctctcc
+     1081 ccacacccac ctcaggcctc ggacgcgccc agcgttgggc cgcaggcctg gggggcactg
+     1141 ccccgtctta tggaaacccg agcagcgacg tccaggcgga tggagccttg gggtcccgga
+     1201 gcccgccggg agtgggccca gaagaagagg aaggggaggg ctatgaggaa cctgacagtg
+     1261 aggaggactc cgagttctat gagaacgact ccaaccttgg gcaggaccag ctctcccagg
+     1321 atggcagcgg ctacgagaac cctgaggatg agcccctggg tcctgaggat gaagactcct
+     1381 tctccaacgc tgagtcttat gagaacgagg atgaagagct gacccagccg gtcgccagga
+     1441 caatggactt cctgagccct catgggtcag cctgggaccc cagccgggaa gcaacctccc
+     1501 tggggtccca gtcctatgag gatatgagag gaatcctgta tgcagccccc cagctccact
+     1561 ccattcgggg ccagcctgga cccaatcatg aggaagatgc agactcttat gagaacatgg
+     1621 ataatcccga tgggccagac ccagcctggg gaggaggggg ccgcatgggc acctggagca
+     1681 ccaggtgatc ctcaggtggc cagcctggat ctcctcaagt ccccaagatt cacacctgac
+     1741 tctgaaatct gaagacctcg agcagatgat gccaacctct ggagcaatgt tgcttaggat
+     1801 gtgtgcatgt gtgtaagtgt gtgtgtgtgt gtgtgtgtgt gtgtgtgtgt atacatgcca
+     1861 gtgacacttc cagtcccctt tgtattcctt aaataaactc aatgagctct tccaatccaa
+     1921 aaatgttaaa attagccagg catagttgtg tgtgcctaca gtgctacagg aggctgaggc
+     1981 aagaggattg cttgagttaa ggaaggaagt caaggctgca gtgagctatg gtcatgccac
+     2041 tgcactccag cctgggcaac agcaagaccc tgtgtccaaa aaaaaaaaag gaattc
+//
+

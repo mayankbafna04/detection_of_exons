@@ -1,0 +1,67 @@
+LOCUS       X55293                  1019 bp    DNA     linear   PRI 18-APR-2005
+DEFINITION  Human gene for ultra high-sulphur keratin protein.
+ACCESSION   X55293
+VERSION     X55293.1
+KEYWORDS    keratin.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1019)
+  AUTHORS   MacKinnon,P.J., Powell,B.C. and Rogers,G.E.
+  TITLE     Structure and expression of genes for a class of cysteine-rich
+            proteins of the cuticle layers of differentiating wool and hair
+            follicles
+  JOURNAL   J. Cell Biol. 111 (6 PT 1), 2587-2600 (1990)
+   PUBMED   1703541
+REFERENCE   2  (bases 1 to 1019)
+  AUTHORS   Rogers,G.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-OCT-1990) Rogers G.E., University of Adelaide,
+            Department of Biochemistry, Box 498, GPO., Adelaide, South
+            Australia, 5001
+FEATURES             Location/Qualifiers
+     source          1..1019
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+     regulatory      78..81
+                     /regulatory_class="CAAT_signal"
+     regulatory      125..128
+                     /regulatory_class="CAAT_signal"
+     regulatory      148..153
+                     /regulatory_class="TATA_box"
+     CDS             236..745
+                     /codon_start=1
+                     /product="ultra high-sulphur keratin protein"
+                     /protein_id="CAA39005.1"
+                     /db_xref="GDB:125257"
+                     /db_xref="GOA:P26371"
+                     /db_xref="HGNC:HGNC:23604"
+                     /db_xref="InterPro:IPR002494"
+                     /db_xref="UniProtKB/Swiss-Prot:P26371"
+                     /translation="MGCCGCSGGCGSSCGGCDSSCGSCGSGCRGCGPSCCAPVYCCKP
+                     VCCCVPACSCSSCGKRGCGSCGGSKGGCGSCGCSQCSCCKPCCCSSGCGSSCCQCSCC
+                     KPYCSQCSCCKPCCSSSGRGSSCCQSSCCKPCCSSSGCGSSCCQSSCCKPCCSQSRCC
+                     VPVCYQCKI"
+ORIGIN      
+        1 gaattccaca aggaaatcat ctcaggagga agggctcata cttggatcca gaaaatatca
+       61 acatagccaa agaaaaacaa tgacatacct ccaggagctg tgtaacagca accggaaaga
+      121 gaaacaatgg tgtgttccta tgtgggatat aaagagccgg ggctcagggg gctccacacc
+      181 tgcacctcct tctcacctgc tcctctacct gctccaccct caatccacca gaaccatggg
+      241 ctgctgtggc tgctccggag gctgtggctc cagctgtgga ggctgtgact ccagctgtgg
+      301 gagctgtggc tctggctgca ggggctgtgg ccccagctgc tgtgcacccg tctactgctg
+      361 caagcccgtg tgctgctgtg ttccagcctg ttcctgctct agctgtggca agcggggctg
+      421 tggctcctgt gggggctcca agggaggctg tggttcttgt ggctgctccc agtgcagttg
+      481 ctgcaagccc tgctgttgct cttcaggctg tgggtcatcc tgctgccagt gcagctgctg
+      541 caagccctac tgctcccagt gcagctgctg taagccctgt tgctcctcct cgggtcgtgg
+      601 gtcatcctgc tgccaatcca gctgctgcaa gccctgctgc tcatcctcag gctgtgggtc
+      661 atcctgctgc cagtccagct gctgcaagcc ctgctgctcc cagtccagat gctgtgtccc
+      721 tgtgtgctac cagtgcaaga tctgaggctc tagtgggaaa cctcaggtag ctcccgaaga
+      781 tctgtgcttt ccaacaagtg actacccttg aagcacatcc ccttctgaat ctgaaaagag
+      841 ccttggctca gggcgtcttt ttccagcccc tgaggaaatg gaatgaacca ctccctgccc
+      901 attccctata agaatatccc aagacccagg caattttgcc cctctttccc acatgccccc
+      961 atatgtctga gccaaactgc actgggggct gcctagtcca agcaagagcc tgggaattc
+//
+

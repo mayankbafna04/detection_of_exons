@@ -1,0 +1,105 @@
+LOCUS       HUMABRA                 2535 bp    DNA     linear   PRI 07-SEP-1993
+DEFINITION  Human ABR gene, complete cds and flanking regions.
+ACCESSION   L19704
+VERSION     L19704.1
+KEYWORDS    alternative splicing.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2535)
+  AUTHORS   Heisterkamp,N., Morris,C. and Groffen,J.
+  TITLE     ABR, an active BCR-related gene
+  JOURNAL   Nucleic Acids Res. 17 (21), 8821-8831 (1989)
+   PUBMED   2587217
+REFERENCE   2  (bases 1 to 2535)
+  AUTHORS   Heisterkamp,N., Kaartinen,V., van Soest,S., Bokoch,G.M. and
+            Groffen,J.
+  TITLE     Human ABR encodes a protein with GAPrac activity and homology to
+            the DBL nucleotide exchange factor domain
+  JOURNAL   J. Biol. Chem. 268 (23), 16903-16906 (1993)
+   PUBMED   8349582
+FEATURES             Location/Qualifiers
+     source          1..2535
+                     /organism="Homo sapiens"
+                     /mol_type="unassigned DNA"
+                     /db_xref="taxon:9606"
+     5'UTR           1..15
+                     /gene="ABR"
+                     /map="17p13"
+     gene            16..2484
+                     /gene="ABR"
+                     /map="17p13.3"
+     CDS             16..2484
+                     /gene="ABR"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="alternative first exon; (see L19705)"
+                     /codon_start=1
+                     /map="17p13.3"
+                     /protein_id="AAC37519.1"
+                     /translation="MEEEEEAIGLLDKVLEDEDVFLLEECELGTPTSPGSGSPFLVAV
+                     KVEAGKGLEMRKLVLSGFLASEEIYINQLEALLLPMKPLKATATTSQPVLTIQQIETI
+                     FYKIQDIYEIHKEFYDNLCPKVQQWDSQVTMGHLFQKLASQLGVYKAFVDNYKVALET
+                     AEKCSQSNNQFQKISEELKVKGPKDSKDSHTSVTMEALLYKPIDRVTRSTLVLHDLLK
+                     HTPVDHPDYPLLQDALRISQNFLSSINEDIDPRRTAVTTPKGETRQLVKDGFLVEVSE
+                     SSRKLRHVFLFTDVLLCAKLKKTSAGKHQQYDCKWYIPLADLVFPSPEESEASPQVHP
+                     FPDHELEDMKMKISALKSEIQKEKANKGQSRAIERLKKKMFENEFLLLLNSPTIPFRI
+                     HNRNGKSYLFLLSSDYERSEWREAIQKLQKKDLQAFVLSSVELQVLTGSCFKLRTVHN
+                     IPVTSNKDDDESPGLYGFLHVIVHSAKGFKQSANLYCTLEVDSFGYFVSKAKTRVFRD
+                     TAEPKWDEEFEIELEGSQSLRILCYEKCYDKTKVNKDNNEIVDKIMGKGQIQLDPQTV
+                     ETKNWHTDVIEMNGIKVEFSMKFTSRDMSLKRTPSKKQTGVFGVKISVVTKREVQGAP
+                     YIVRQCVEEVEKRGIEEVGIYRISGVATDIQALKAVFDANNKDILLMLSDMDINAIAG
+                     TLKLYFRELPEPLLTDRLYPAFMEGIALSDPAAKENCMMHLVRSLPDPNLITFLFLLE
+                     HLKRVAEKEPINKMSLHNLATVFGPTLLRPSEVESKAHLTSAADIWSHDVMAQVQVLL
+                     YYLQHPPISFAELKRNTLYFSTDV"
+     3'UTR           2482..2535
+                     /gene="ABR"
+                     /map="17p13"
+ORIGIN      
+        1 cgggctccgg ctgccatgga ggaggaagag gaggcgatag gcttgctgga caaggttctg
+       61 gaggacgaag atgtgtttct cctggaggag tgcgagctgg gaaccccgac cagccccggc
+      121 tcagggtccc ccttcctggt ggctgtgaag gtggaagcag ggaaaggcct ggagatgagg
+      181 aagctggttc tctcggggtt cttggccagc gaagagatct acattaacca gctggaagcc
+      241 ctgttgctgc ccatgaaacc cctgaaggcc accgccacca cctcccagcc cgtgctcacc
+      301 atccagcaga tcgagaccat cttctacaag atccaggaca tctatgagat ccacaaggag
+      361 ttctatgaca acctgtgccc caaggtgcaa cagtgggaca gccaggtcac catgggccac
+      421 ctcttccaga agctggccag ccagctcggt gtgtacaaag cgtttgtcga taactataaa
+      481 gtcgctctgg agacagctga gaagtgcagc cagtccaaca accagttcca gaagatctca
+      541 gaggaactca aagtgaaagg tcccaaggac tccaaggaca gccacacgtc tgtcaccatg
+      601 gaagctctgc tctacaagcc cattgaccgg gtcactcgga gcaccctagt cctacacgac
+      661 ctgctgaagc acacacctgt ggaccacccc gactacccgc tgctgcagga tgccctccgc
+      721 atctcccaga acttcctgtc cagcatcaac gaggacatcg acccccgccg gactgcagtg
+      781 acaacgccca agggggagac gcgacagctg gtgaaggacg gcttcctggt ggaagtgtca
+      841 gagagctccc ggaagctgcg gcacgtcttc ctctttacag atgtcctact gtgtgccaag
+      901 ctgaagaaga cctctgcagg gaagcaccag cagtatgact gtaagtggta catccccctg
+      961 gccgacctgg tgtttccatc ccccgaggaa tctgaggcca gcccccaggt gcaccccttc
+     1021 ccagaccatg agctggagga catgaagatg aagatctctg ccctcaagag tgaaatccag
+     1081 aaggagaaag ccaacaaagg ccagagccgg gccatcgagc gcctgaagaa gaagatgttt
+     1141 gagaatgagt tcctgctgct gctcaactcc cccacaatcc cgttcaggat ccacaatcgg
+     1201 aatggaaaga gttacctgtt cctactgtcc tcggactacg agaggtcaga gtggagagaa
+     1261 gcaattcaga aactacagaa gaaggatctc caggcctttg tcctgagctc agtggagctc
+     1321 caggtgctca caggatcctg tttcaagctt aggactgtac acaacattcc tgtcaccagc
+     1381 aataaagacg acgatgagtc tccaggactc tatggcttcc ttcatgtcat cgtccactct
+     1441 gccaagggat ttaagcaatc agccaacctg tactgtaccc tggaggtgga ttccttcggc
+     1501 tattttgtca gcaaagccaa aaccagggtg ttccgggaca cagcggagcc caagtgggat
+     1561 gaggagtttg agatcgagct ggagggctcc cagtccctga ggatcctgtg ctatgagaag
+     1621 tgctatgaca agaccaaggt caacaaggac aacaatgaga tcgtggacaa gatcatgggc
+     1681 aaaggacaga tccagctgga cccacaaacc gtggagacca agaactggca cacggacgtg
+     1741 attgagatga acgggatcaa agtggaattt tccatgaaat tcaccagccg agatatgagc
+     1801 ctgaagagga ccccgtccaa aaagcagacc ggcgtcttcg gtgtgaagat cagcgtggtg
+     1861 acgaagcggg aggtccaagg tgccccctac atcgtccggc agtgtgtgga ggaggtggag
+     1921 aagaggggta tcgaggaggt tggcatctac aggatatcgg gcgtggccac ggacatccag
+     1981 gcgctcaagg ccgtcttcga tgccaataac aaggacatcc tgctgatgct gagtgacatg
+     2041 gacatcaacg ccatcgccgg gacgctcaag ctgtacttcc gggaactgcc cgagccgctc
+     2101 ctcacggacc gactctaccc agccttcatg gagggcatcg ccctgtcaga ccctgctgcc
+     2161 aaggaaaact gcatgatgca cctcgtccgc tccctgcccg accccaacct catcaccttc
+     2221 ctcttcctgc tggaacactt gaaaagggtt gccgagaagg agcccatcaa caaaatgtca
+     2281 cttcacaacc tggctaccgt gtttggaccc acgttactga gaccctcaga agtggagagc
+     2341 aaagcacacc tcacctcggc tgcggacatc tggtcccatg acgtcatggc gcaggtccag
+     2401 gtcctcctct actacctgca gcaccccccc atttccttcg cagaactcaa gcggaacaca
+     2461 ctgtacttct ccaccgacgt gtagcccgag gcagggtggc tgcgggcggg tggtggaacc
+     2521 agcccctcca gcctg
+//
+

@@ -1,0 +1,147 @@
+LOCUS       X05151                  3840 bp    DNA     linear   PRI 14-NOV-2006
+DEFINITION  Human apoC-II gene for preproapolipoprotein C-II.
+ACCESSION   X05151
+VERSION     X05151.1
+KEYWORDS    Alu-like repetitive sequence; apoC-II gene; apolipoprotein;
+            apolipoprotein C-II.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 3840)
+  AUTHORS   Fojo,S.S., Law,S.W. and Brewer,H.B. Jr.
+  TITLE     The human preproapolipoprotein C-II gene. Complete nucleic acid
+            sequence and genomic organization
+  JOURNAL   FEBS Lett. 213 (1), 221-226 (1987)
+   PUBMED   3030808
+FEATURES             Location/Qualifiers
+     source          1..3840
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /tissue_type="placenta and leukocytes"
+     regulatory      200..206
+                     /regulatory_class="TATA_box"
+     mRNA            join(230..254,2646..2713,2881..3040,3339..3567)
+     prim_transcript 230..3567
+     exon            230..254
+                     /number=1
+     intron          255..2645
+                     /number=1
+     misc_feature    454..528
+                     /note="Alu-like repetitive sequence"
+     misc_feature    610..688
+                     /note="Alu-like repetitive sequence"
+     misc_feature    694..1365
+                     /note="Alu-like repetitive sequence"
+     misc_feature    1825..2456
+                     /note="Alu-like repetitive sequence"
+     exon            2646..2713
+                     /number=2
+     CDS             join(2659..2713,2881..3040,3339..3429)
+                     /note="unnamed protein product"
+                     /codon_start=1
+                     /protein_id="CAA28798.1"
+                     /db_xref="GDB:119689"
+                     /db_xref="GOA:P02655"
+                     /db_xref="HGNC:HGNC:609"
+                     /db_xref="InterPro:IPR008019"
+                     /db_xref="InterPro:IPR023121"
+                     /db_xref="PDB:1BY6"
+                     /db_xref="PDB:1I5J"
+                     /db_xref="PDB:1O8T"
+                     /db_xref="PDB:1SOH"
+                     /db_xref="UniProtKB/Swiss-Prot:P02655"
+                     /translation="MGTRLLPALFLVLLVLGFEVQGTQQPQQDEMPSPTFLTQVKESL
+                     SSYWESAKTAAQNLYEKTYLPAVDEKLRDLYSKSTAAMSTYTGIFTDQVLSVLKGEE"
+     sig_peptide     join(2659..2713,2881..2891)
+     mat_peptide     join(2910..3040,3339..3426)
+                     /product="apolipoprotein C-II"
+     intron          2714..2880
+                     /number=2
+     exon            2881..3040
+                     /number=3
+     intron          3041..3338
+                     /number=3
+     misc_feature    3090..3312
+                     /note="region of 38 bp repeat"
+     misc_feature    3227..3262
+                     /note="sequence homologous to apoE 5'-flanking sequence"
+     exon            3339..3567
+                     /number=4
+     regulatory      3556..3567
+                     /regulatory_class="polyA_signal_sequence"
+     polyA_site      3567
+                     /note="polyadenylation site"
+     regulatory      3704..3709
+                     /regulatory_class="polyA_signal_sequence"
+     regulatory      3725..3730
+                     /regulatory_class="polyA_signal_sequence"
+ORIGIN      
+        1 aacccagcct ctgtcggagg cgaattctca gagtgagggt tccctgtcac ttgagagaag
+       61 gttccctgtg acgtgacctt gggggacgtc attgcccttt ctgtccccac ccaccccctc
+      121 cgcagttctg ttggccagga ctttggccta gacaaaggat gggggttgtg gctgtggagc
+      181 ggaagtgggt ctcaaccact ataaatcctc tctgtgcccg tccggagctg gtgaggacag
+      241 cctgccagag tctggtaaga aagggactca gggtgcgggg acaggggggc gtcagcaggg
+      301 agagggcaaa gatcgataaa gcaggaattt taagaggcac aatattagaa gcccgtgttg
+      361 gaaccatgac tgtgtgtgtg tgtgtgtgtg tgtgtgtgtg tgtgtgtgtg tgtgtgagag
+      421 agagagagag ggagatggag tctcgctatg tagcccaggc tagactcaaa ctcctgggct
+      481 caagcaatcc tcctgcctca gcctccccag tagctgggac tacaggtgca ccaccacact
+      541 ccacaaatca cagaatttag aactgtagac tatttgagct tctgcttaga gttagggtgg
+      601 ctgaggtggg gaggatccct tgagcccagg agtttgagga tgcagtgagc tgtgatcttg
+      661 ccaccgtgtt ccagcctggg tgacagagaa accccatttc taaaaaagag aaagaaaaag
+      721 ggataggtac aatggctcat gcctgtaatc ccagcactct gggaggccga ggcgggtgga
+      781 tcacttgagg tcaggagttc gacaccagcc ttaccagcat ggtgaaaccg catctatact
+      841 aaaaatacaa aaattgggcc gggtgtggta gcatatgcct gtaatcccag ctattccaga
+      901 ggctgagaca ggagaattgc ttgaacccag gaagcggagg ttgcagtgag cccagatcgt
+      961 gccactgtac tctagcctgg gtgacagagc aagactcagt cttggcggaa aaaaagaatg
+     1021 aaaaaattta aaaaactaaa aaagaactgt aggctgggcg tggtggctta cacttgtaat
+     1081 ccaaacgctt tgggaggcca aggcaaacgg atcacttgat gtcaggagtt ggagaccagc
+     1141 ctggccaaca tggtgaaacc ccgtctctac taaaaataca aaaattagac aggcatggtg
+     1201 gtgcatgctt gtatttccag ttactcagga ggctgaggca ggagaatcgc tcgaacccgg
+     1261 aagacagagg ttgcggtgag ccaaaattgc gccatcgcac tccagcctgg gcgagagaac
+     1321 aagaccttgt cttggaaaaa aaaaaagaat tgtagaccat ttgcttgtgt tctttctccg
+     1381 gggatcagat ctcaccctct ttctgccgta cttcctcatc tcctacgtgt ggatgatgat
+     1441 attgtgccct gtgcatgttc ttcgtcacca aaagtgcctc tctcatagag caggtgagaa
+     1501 ctcagtgagg agatgcaggg acatgaggtc tgacttaggg cagagcccta aggtaacaca
+     1561 tttgatctac tgtaggtcct taatggtgtc tgcagagcac ctccctgcac tgactcagcc
+     1621 ttagcaaagg gcagaggctt tgctgtgttc cctgctgggc ccagaactgt ttaggtgctc
+     1681 aagaaagcct tctaggctgg gctcagtggc tcacacctgt actcccagca ccctggggag
+     1741 gccgagatgg gaggatcgct tgagcccagg agttccagac cagcctgggc aacaaaacaa
+     1801 gtctcccatc tctacaaaag aataaaaatt agcagctggg catggtggct catgcctgta
+     1861 attccagcac tttgggaggc caaggcaggc aaatcacttg aggttaggag ttcaagacca
+     1921 gcctggccaa catggtgaaa ccccatctct actaaaaata caaaaatcag gtggggcaca
+     1981 gtggctcaag cctgtaatcc tagcactttg ggaggccaag gtgggcggat cacgaggtca
+     2041 gaagttcgag accagcctgg ccagcatggt gaaacccatc tctactaaaa atacaaaata
+     2101 ttagccgggc atggtggcag gtgcttgtga ttccagctcc ttgggaggtc aggcagaaga
+     2161 attgctagaa ccctggaggc agaggttgca gtgagccgag aacacgccac tgcactccag
+     2221 cctgggtgac agagcgagac tccatctcaa aaaatacgaa aacaaaaatc agccgggtgg
+     2281 tggcgggtgc ctgtaatccc agctactggg gaggctgagg caggagaatt gcttgaacct
+     2341 gggaggtggg ggttgcagtg agccaagatt gcaccactgc actccagcct gggcaacaga
+     2401 gtgagattcc atctcaaaaa agaaaaaaat aataattaaa atgttaaaat caggagtaga
+     2461 atcacagaat gttggaaagt gaggcccaag aagggggctg tgtccaagtc catgcatggg
+     2521 aaacttgact gggacaccga gctcacacag agcaggatct cagtcccccc caccagagtg
+     2581 gggcgtgacc acaggaacag ccgcctccag tcagcctgcc acatgacacc ccctcaatgt
+     2641 tccaggtctc tggacactat gggcacacga ctcctcccag ctctgtttct tgtcctcctg
+     2701 gtattgggat ttggtgagtg tgggcttccg gggagggaag ccttggggag gggaatgagc
+     2761 tccaagcatc ttcccagccc aggcccttct tacctctgcc tctgccctct cctcttcttc
+     2821 cttcctcctt tccccctgct gcagccccac gggctctcct gacacactct ccccctgcag
+     2881 aggtccaggg gacccaacag ccccagcaag atgagatgcc tagcccgacc ttcctcaccc
+     2941 aggtgaagga atctctctcc agttactggg agtcagcaaa gacagccgcc cagaacctgt
+     3001 acgagaagac atacctgccc gctgtagatg agaaactcag gtagcacctg cccctggaga
+     3061 aatggggtct ggcccatacc accgactgca tccaggaccc agaagttcag gccccagccc
+     3121 ctcctccctc agacccagga gtccaggcct cagcccctcc tccctcagac ccaggagtcc
+     3181 aggcccccag cccgtcctcc ctcagaccca ggagtccagg cccccagccc ctcctccctc
+     3241 agacccagga gtccaggtcc ccagaccctc ctccctcaga cccaggagtc caggccccca
+     3301 gcccctcctc cctctaacca tctgtgcttt ctccccaggg acttgtacag caaaagcaca
+     3361 gcagccatga gcacttacac aggcattttt actgaccaag ttctttctgt gctgaaggga
+     3421 gaggagtaac agccagaccc cccatcagtg gacaagggga gagtccccta ctcccctgat
+     3481 cccccaggtt cagactgagc tcccccttcc cagtagctct tgcatcctcc tcccaactct
+     3541 agcctgaatt cttttcaata aaaaatacaa ttcaagttgc ttctcatgga tggcactgct
+     3601 tttctgagga ctcaagggcc aagatggagg ggctgactca gtccagccaa catttaatga
+     3661 gcacctactt tatgtatgga gctctaaccc atgggtccat gggaataaag cagtgaatag
+     3721 taacaataaa taatcgtaac agcaattaga gactaatctt tattgaagtc cggctttctc
+     3781 tcttttattt ttttattttt tgagacaggg tttcactctg tcacccaggc tggacagcag
+//
+

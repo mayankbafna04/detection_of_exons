@@ -1,0 +1,187 @@
+LOCUS       HUMEF1A                 4695 bp    DNA     linear   PRI 07-NOV-1994
+DEFINITION  Human elongation factor EF-1-alpha gene, complete cds.
+ACCESSION   J04617 J04616
+VERSION     J04617.1
+KEYWORDS    elongation factor.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 4695)
+  AUTHORS   Uetsuki,T., Naito,A., Nagata,S. and Kaziro,Y.
+  TITLE     Isolation and characterization of the human chromosomal gene for
+            polypeptide chain elongation factor-1 alpha
+  JOURNAL   J. Biol. Chem. 264 (10), 5791-5798 (1989)
+   PUBMED   2564392
+COMMENT     Original source text: Human placenta DNA, clone pEFG1, and
+            fibroblast cell line GM 637, cDNA to mRNA, (library of H.Okayama),
+            clone pAN7.
+            Draft entry and computer-readable sequence for [1] kindly provided
+            by S.Nagata, 20-JAN-1989.
+FEATURES             Location/Qualifiers
+     source          1..4695
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /map="Unassigned"
+     misc_binding    205..214
+                     /bound_moiety="Sp1"
+     misc_binding    320..328
+                     /bound_moiety="Sp1"
+     misc_binding    332..340
+                     /bound_moiety="Sp1"
+     regulatory      546..552
+                     /regulatory_class="TATA_box"
+     prim_transcript 576..4087
+                     /note="EF-1-alpha mRNA and introns"
+     intron          609..1551
+                     /note="EF-1-alpha intron A"
+     misc_binding    983..992
+                     /bound_moiety="Sp1"
+     misc_binding    1026..1034
+                     /bound_moiety="Sp1"
+     misc_binding    1122..1131
+                     /bound_moiety="Sp1"
+     misc_binding    1132..1141
+                     /bound_moiety="Sp1"
+     misc_binding    1240..1249
+                     /bound_moiety="Sp1"
+     misc_binding    1302..1308
+                     /bound_moiety="Ap1"
+     gene            join(1582..1725,2092..2271,2377..2673,2757..2907,
+                     2995..3251,3341..3575,3671..3795)
+                     /gene="EEF1A"
+     CDS             join(1582..1725,2092..2271,2377..2673,2757..2907,
+                     2995..3251,3341..3575,3671..3795)
+                     /gene="EEF1A"
+                     /note="elongation factor EF-1-alpha"
+                     /codon_start=1
+                     /protein_id="AAA52343.1"
+                     /db_xref="GDB:G00-118-791"
+                     /translation="MGKEKTHINIVVIGHVDSGKSTTTGHLIYKCGGIDKRTIEKFEK
+                     EAAEMGKGSFKYAWVLDKLKAERERGITIDISLWKFETSKYYVTIIDAPGHRDFIKNM
+                     ITGTSQADCAVLIVAAGVGEFEAGISKNGQTREHALLAYTLGVKQLIVGVNKMDSTEP
+                     PYSQKRYEEIVKEVSTYIKKIGYNPDTVAFVPISGWNGDNMLEPSANMPWFKGWKVTR
+                     KDGNASGTTLLEALDCILPPTRPTDKPLRLPLQDVYKIGGIGTVPVGRVETGVLKPGM
+                     VVTFAPVNVTTEVKSVEMHHEALSEALPGDNVGFNVKNVSVKDVRRGNVAGDSKNDPP
+                     MEAAGFTAQVIILNHPGQISAGYAPVLDCHTAHIACKFAELKEKIDRRSGKKLEDGPK
+                     FLKSGDAAIVDMVPGKPMCVESFSDYPPLGRFAVRDMRQTVAVGVIKAVDKKAAGAGK
+                     VTKSAQKAQKAK"
+     exon            <1582..1725
+                     /gene="EEF1A"
+                     /note="elongation factor EF-1-alpha"
+                     /number=2
+     intron          1726..2091
+                     /note="EF-1-alpha intron B"
+     exon            2092..2271
+                     /gene="EEF1A"
+                     /number=3
+     intron          2272..2376
+                     /note="EF-1-alpha intron C"
+     exon            2377..2673
+                     /gene="EEF1A"
+                     /number=4
+     intron          2674..2756
+                     /note="EF-1-alpha intron D"
+     exon            2757..2907
+                     /gene="EEF1A"
+                     /number=5
+     intron          2908..2994
+                     /note="EF-1-alpha intron E"
+     exon            2995..3251
+                     /gene="EEF1A"
+                     /number=6
+     intron          3252..3340
+                     /note="EF-1-alpha intron F"
+     exon            3341..3575
+                     /gene="EEF1A"
+                     /number=7
+     intron          3576..3670
+                     /note="EF-1-alpha intron G"
+     exon            3671..>3795
+                     /gene="EEF1A"
+                     /note="elongation factor EF-1-alpha"
+                     /number=8
+ORIGIN      3 bp upstream of SmaI site.
+        1 cccgggctgg gctgagaccc gcagaggaag acgctctagg gatttgtccc ggactagcga
+       61 gatggcaagg ctgaggacgg gaggctgatt gagaggcgaa ggtacaccct aatctcaata
+      121 caacctttgg agctaagcca gcaatggtag agggaagatt ctgcacgtcc cttccaggcg
+      181 gcctccccgt caccaccccc cccaacccgc cccgaccgga gctgagagta attcatacaa
+      241 aaggactcgc ccctgccttg gggaatccca gggaccgtcg ttaaactccc actaacgtag
+      301 aacccagaga tcgctgcgtt cccgccccct cacccgcccg ctctcgtcat cactgaggtg
+      361 gagaagagca tgcgtgaggc tccggtgccc gtcagtgggc agagcgcaca tcgcccacag
+      421 tccccgagaa gttgggggga ggggtcggca attgaaccgg tgcctagaga aggtggcgcg
+      481 gggtaaactg ggaaagtgat gtcgtgtact ggctccgcct ttttcccgag ggtgggggag
+      541 aaccgtatat aagtgcagta gtcgccgtga acgttctttt tcgcaacggg tttgccgcca
+      601 gaacacaggt aagtgccgtg tgtggttccc gcgggcctgg cctctttacg ggttatggcc
+      661 cttgcgtgcc ttgaattact tccacgcccc tggctgcagt acgtgattct tgatcccgag
+      721 cttcgggttg gaagtgggtg ggagagttcg aggccttgcg cttaaggagc cccttcgcct
+      781 cgtgcttgag ttgaggcctg gcctgggcgc tggggccgcc gcgtgcgaat ctggtggcac
+      841 cttcgcgcct gtctcgctgc tttcgataag tctctagcca tttaaaattt ttgatgacct
+      901 gctgcgacgc tttttttctg gcaagatagt cttgtaaatg cgggccaaga tctgcacact
+      961 ggtatttcgg tttttggggc cgcgggcggc gacggggccc gtgcgtccca gcgcacatgt
+     1021 tcggcgaggc ggggcctgcg agcgcggcca ccgagaatcg gacgggggta gtctcaagct
+     1081 ggccggcctg ctctggtgcc tggcctcgcg ccgccgtgta tcgccccgcc ctgggcggca
+     1141 aggctggccc ggtcggcacc agttgcgtga gcggaaagat ggccgcttcc cggccctgct
+     1201 gcagggagct caaaatggag gacgcggcgc tcgggagagc gggcgggtga gtcacccaca
+     1261 caaaggaaaa gggcctttcc gtcctcagcc gtcgcttcat gtgactccac ggagtaccgg
+     1321 gcgccgtcca ggcacctcga ttagttctcg agcttttgga gtacgtcgtc tttaggttgg
+     1381 ggggaggggt tttatgcgat ggagtttccc cacactgagt gggtggagac tgaagttagg
+     1441 ccagcttggc acttgatgta attctccttg gaatttgccc tttttgagtt tggatcttgg
+     1501 ttcattctca agcctcagac agtggttcaa agtttttttc ttccatttca ggtgtcgtga
+     1561 aaactacccc taaaagccaa aatgggaaag gaaaagactc atatcaacat tgtcgtcatt
+     1621 ggacacgtag attcgggcaa gtccaccact actggccatc tgatctataa atgcggtggc
+     1681 atcgacaaaa gaaccattga aaaatttgag aaggaggctg ctgaggtatg tttaatacca
+     1741 gaaagggaaa gatcaactaa aatgagtttt accagcagaa tcattaggtg atttccccag
+     1801 aactagtgag tggtttagat ctgaatgcta atagttaaga ccttacttat gaaataattt
+     1861 tgcttttggt gacttctgta atcgtattgc tagtgagtag atttggatgt taatagttaa
+     1921 gatcctactt ataaaagttt gatttttggt tgcttctgta acccaaagtg accaaaatca
+     1981 ctttggactt ggagttgtaa agtggaaact gccaattaag ggctggggac aaggaaattg
+     2041 aagctggagt ttgtgtttta gtaaccaagt aacgactctt aatccttaca gatgggaaag
+     2101 ggctccttca agtatgcctg ggtcttggat aaactgaaag ctgagcgtga acgtggtatc
+     2161 accattgata tctccttgtg gaaatttgag accagcaagt actatgtgac tatcattgat
+     2221 gccccaggac acagagactt tatcaaaaac atgattacag ggacatctca ggttgggatt
+     2281 aataattcta ggtttcttta tcccaaaagg cttgctttgt acactggttt tgtcatttgg
+     2341 agagttgaca gggatatgtc tttgctttct ttaaaggctg actgtgctgt cctgattgtt
+     2401 gctgctggtg ttggtgaatt tgaagctggt atctccaaga atgggcagac ccgagagcat
+     2461 gcccttctgg cttacacact gggtgtgaaa caactaattg tcggtgttaa caaaatggat
+     2521 tccactgagc caccctacag ccagaagaga tatgaggaaa ttgttaagga agtcagcact
+     2581 tacattaaga aaattggcta caaccccgac acagtagcat ttgtgccaat ttctggttgg
+     2641 aatggtgaca acatgctgga gccaagtgct aacgtaagtg gctttcaaga ccattgttaa
+     2701 aaagctctgg gaatggcgat ttcatgctta cacaaattgg catgcttgtg tttcagatgc
+     2761 cttggttcaa gggatggaaa gtcacccgta aggatggcaa tgccagtgga accacgctgc
+     2821 ttgaggctct ggactgcatc ctaccaccaa ctcgtccaac tgacaagccc ttgcgcctgc
+     2881 ctctccagga tgtctacaaa attggtggta agttggctgt aaacaaagtt gaatttgagt
+     2941 tgatagagta ctgtctgcct tcataggtat ttagtatgct gtaaatattt ttaggtattg
+     3001 gtactgttcc tgttggccga gtggagactg gtgttctcaa acccggtatg gtggtcacct
+     3061 ttgctccagt caacgttaca acggaagtaa aatctgtcga aatgcaccat gaagctttga
+     3121 gtgaagctct tcctggggac aatgtgggct tcaatgtcaa gaatgtgtct gtcaaggatg
+     3181 ttcgtcgtgg caacgttgct ggtgacagca aaaatgaccc accaatggaa gcagctggct
+     3241 tcactgctca ggtaacaatt taaagtaaca ttaacttatt gcagaggcta aagtcatttg
+     3301 agactttgga tttgcactga atgcaaatct tttttccaag gtgattatcc tgaaccatcc
+     3361 aggccaaata agcgccggct atgcccctgt attggattgc cacacggctc acattgcatg
+     3421 caagtttgct gagctgaagg aaaagattga tcgccgttct ggtaaaaagc tggaagatgg
+     3481 ccctaaattc ttgaagtctg gtgatgctgc cattgttgat atggttcctg gcaagcccat
+     3541 gtgtgttgag agcttctcag actatccacc tttgggtaag gatgactact taaatgtaaa
+     3601 aaagttgtgt taaagatgaa aaatacaact gaacagtact ttgggtaata attaactttt
+     3661 tttttaatag gtcgctttgc tgttcgtgat atgagacaga cagttgcggt gggtgtcatc
+     3721 aaagcagtgg acaagaaggc tgctggagct ggcaaggtca ccaagtctgc ccagaaagct
+     3781 cagaaggcta aatgaatatt atccctaata cctgccaccc cactcttaat cagtggtgga
+     3841 agaacggtct cagaactgtt tgtttcaatt ggccatttaa gtttagtagt aaaagactgg
+     3901 ttaatgataa caatgcatcg taaaaccttc agaaggaaag gagaatgttt tgtggaccac
+     3961 tttggttttc ttttttgcgt gtggcagttt taagttatta gtttttaaaa tcagtacttt
+     4021 ttaatggaaa caacttgacc aaaaatttgt cacagaattt tgagacccat taaaaaagtt
+     4081 aaatgagaaa cctgtgtgtt cctttggtca acaccgagac atttaggtga aagacatcta
+     4141 attctggttt tacgaatctg gaaacttctt gaaaatgtaa ttcttgagtt aacacttctg
+     4201 ggtggagaat agggttgttt tccccccaca taattggaag gggaaggaat atcatttaaa
+     4261 gctatgggag ggtttctttg attacaacac tggagagaaa tgcagcatgt tgctgattgc
+     4321 ctgtcactaa aacaggccaa aaactgagtc cttgggttgc atagaaagct tcatgttgct
+     4381 aaaccaatgt taagtgaatc tttggaaaca aaatgtttcc aaattactgg gatgtgcatg
+     4441 ttgaaacgtg ggttaaaatg actgggcagt gaaagttgac tatttgccat gacataagaa
+     4501 ataagtgtag tggctagtgt acaccctatg agtggaaggg tccattttga agtcagtgga
+     4561 gtaagcttta tgccattttg atggtttcac aagttctatt gagtgctatt cagaatagga
+     4621 acaaggttct aatagaaaaa gatggcaatt tgaagtagct ataaaattag actaattaca
+     4681 ttgcttttct ccgac
+//
+

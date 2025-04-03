@@ -1,0 +1,75 @@
+LOCUS       V00532                  1873 bp    DNA     linear   PRI 18-APR-2005
+DEFINITION  Human gene for leukocyte (alpha) interferon C.
+ACCESSION   V00532 J00216
+VERSION     V00532.1
+KEYWORDS    interferon.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1873)
+  AUTHORS   Lawn,R.M., Adelman,J., Dull,T.J., Gross,M., Goeddel,D. and
+            Ullrich,A.
+  TITLE     DNA sequence of two closely linked human leukocyte interferon genes
+  JOURNAL   Science 212 (4499), 1159-1162 (1981)
+   PUBMED   6165082
+COMMENT     On Jul 24, 2002 this sequence version replaced J00216.1.
+FEATURES             Location/Qualifiers
+     source          1..1873
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+     mRNA            572..1569
+                     /note="messenger RNA LeIF C"
+     CDS             639..1208
+                     /note="unnamed protein product; reading frame LeIF C"
+                     /codon_start=1
+                     /protein_id="CAA23793.1"
+                     /db_xref="GDB:136358"
+                     /db_xref="GOA:P01571"
+                     /db_xref="HGNC:HGNC:5422"
+                     /db_xref="InterPro:IPR000471"
+                     /db_xref="InterPro:IPR009079"
+                     /db_xref="InterPro:IPR012351"
+                     /db_xref="InterPro:IPR015589"
+                     /db_xref="UniProtKB/Swiss-Prot:P01571"
+                     /translation="MALSFSLLMAVLVLSYKSICSLGCDLPQTHSLGNRRALILLAQM
+                     GRISPFSCLKDRPDFGLPQEEFDGNQFQKTQAISVLHEMIQQTFNLFSTEDSSAAWEQ
+                     SLLEKFSTELYQQLNNLEACVIQEVGMEETPLMNEDSILAVRKYFQRITLYLTEKKYS
+                     PCAWEVVRAEIMRSLSFSTNLQKILRRKD"
+ORIGIN      
+        1 agcttcatac actaagagaa aaattttaaa aaattattga ttcttatttt caggagtttt
+       61 gaatgatcag gtatgtaatt atattcatat tattaatgtg tatttatata gatttttatt
+      121 ttgcacaggt actttgatac aaaatttaca tgaacaaatt acactaaaag ttatttcaca
+      181 aatatactta tcaagttaag ttaaatgcaa tagctttaaa cttagatttt aatttaactt
+      241 tttctatcat cattctttac attaaataaa aaaagcaaac tttatagttt ttatctataa
+      301 agtagaggta tacatagtat acataaatac atatgccaaa tctgtgttat taaaacttca
+      361 tgaagatttc gattacaaaa aaataccgta aaagactttg agtgcagaag aaaaatgggc
+      421 aatgatgaaa aacaatgaaa aacattctta aacacatgta gagagtgcaa aaagaaagca
+      481 aaaacagaca tagaaagtaa aactagggca tttagaaaat ggaaattagt atgttcacta
+      541 tttaaggcct atgcacagag caaagtcttc agaaaaccta gaggccaaag ttcaaggtta
+      601 cccatctcaa gtagcctagc aacatttgca acatcccaat ggccctgtcc ttttctttac
+      661 tgatggccgt gctggtgctc agctacaaat ccatctgttc tctaggctgt gatctgcctc
+      721 agacccacag cctgggtaat aggagggcct tgatactcct ggcacaaatg ggaagaatct
+      781 ctcctttctc ctgcctgaag gacagacctg actttggact tccccaggag gagtttgatg
+      841 gcaaccagtt ccagaagact caagccatct ctgtcctcca tgagatgatc cagcagacct
+      901 tcaatctctt cagcacagag gactcatctg ctgcttggga acagagcctc ctagaaaaat
+      961 tttccactga actttaccag caactgaata acctggaagc atgtgtgata caggaggttg
+     1021 ggatggaaga gactcccctg atgaatgagg actccatcct ggctgtgagg aaatacttcc
+     1081 aaagaatcac tctttatcta acagagaaga aatacagccc ttgtgcctgg gaggttgtca
+     1141 gagcagaaat catgagatct ctctcttttt caacaaactt gcaaaaaata ttaaggagga
+     1201 aggattgaaa actggttcaa catggcaatg atcctgattg actaatacat tatctcacac
+     1261 tttcatgagt tcctccattt caaagactca cttctataac caccacgagt tgaatcaaaa
+     1321 ttttcaaatg ttttcagcag tgtaaagaag cgtcgtgtat acctgtgcag gcactagtac
+     1381 tttacagatg accatgctga tgtctctgtt catctattta tttaaatatt tatttaatta
+     1441 tttttaagat ttaaattatt tttttatgta atatcatgtg tacctttaca ttgtggtgaa
+     1501 tgtaacaata tatgttcttc atatttagcc aatatattaa tttccttttt cattaaattt
+     1561 ttactataca aaatttcttg tgtttgttta ttctttaaga taaaatgtcg aggctgactt
+     1621 tacaacctga cttaaaaata tatgatttaa ttaagttatc tatcataatt ttattcaagt
+     1681 tattaaaaaa acatttttct gttactggtt atatgttgcc ttcaagatat aaacgtgaac
+     1741 ataaaatata cagtccctgt tctcttgtat ctttgatttt tgtcaggaaa gaaatctaaa
+     1801 aacaataata atgctgaatt aatatcagtg atgctaactg ctataatgtg aggaagtaaa
+     1861 atacaatgaa ttc
+//
+

@@ -1,0 +1,87 @@
+LOCUS       X03473                  2530 bp    DNA     linear   PRI 18-APR-2005
+DEFINITION  Human gene for histone H1(0).
+ACCESSION   X03473
+VERSION     X03473.1
+KEYWORDS    histone; histone H1(0).
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1810)
+  AUTHORS   Doenecke,D. and Tonjes,R.
+  TITLE     Differential distribution of lysine and arginine residues in the
+            closely related histones H1 and H5. Analysis of a human H1 gene
+  JOURNAL   J. Mol. Biol. 187 (3), 461-464 (1986)
+   PUBMED   3084796
+REFERENCE   2  (bases 1811 to 2530)
+  AUTHORS   Toenjes,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-OCT-1986)
+COMMENT     Data kindly reviewed (14-OCT-1986) by Toenjes R.
+FEATURES             Location/Qualifiers
+     source          1..2530
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+     CDS             371..955
+                     /note="unnamed protein product; histone H1(0) (aa 1-194)"
+                     /codon_start=1
+                     /protein_id="CAA27190.1"
+                     /db_xref="GDB:118808"
+                     /db_xref="GOA:P07305"
+                     /db_xref="HGNC:HGNC:4714"
+                     /db_xref="InterPro:IPR005818"
+                     /db_xref="InterPro:IPR005819"
+                     /db_xref="InterPro:IPR011991"
+                     /db_xref="UniProtKB/Swiss-Prot:P07305"
+                     /translation="MTENSTSAPAAKPKRAKASKKSTDHPKYSDMIVAAIQAEKNRAG
+                     SSRQSIQKYIKSHYKVGENADSQIKLSIKRLVTTGVLKQTKGVGASGSFRLAKSDEPK
+                     KSVAFKKTKKEIKKVATPKKASKPKKAASKAPTKKPKATPVKKAKKKLAATPKKAKKP
+                     KTVKAKPVKASKPKKAKPVKPKAKSSAKRAGKKK"
+ORIGIN      
+        1 cggcggccct gtcctcaccg cggtccgccc gccgccgcta aatacccgga tgcgccgccc
+       61 aagcgccgga cgcggagctg ggaaaaggga ggcagaggag gcggaggcag aggcagaggc
+      121 agagcccggt gccgagacca agcgacagac cggcggggct gggcctcgca aagccggctc
+      181 ggcgagctct cccgacaccc gagccgggga ggaaaagcag cgactcctcg ctcgcatccc
+      241 cgggagccgc actccagact ggcccggtag tcaggggctc aggagcagat cccgaggcag
+      301 gctttgctca gcctccgacg agggctggcc cttggaaggc gccttcaaca gccggaccag
+      361 acaggccacc atgaccgaga attccacgtc cgcccctgcg gccaagccca agcgggccaa
+      421 ggcctccaag aagtccacag accaccccaa gtattcagac atgatcgtgg ctgccatcca
+      481 ggccgagaag aaccgcgctg gctcctcgcg ccagtccatt cagaagtata tcaagagcca
+      541 ctacaaggtg ggtgagaacg ctgactcgca gatcaagttg tccatcaagc gcctggtcac
+      601 caccggtgtc ctcaagcaga ccaaaggggt gggggcctcg gggtccttcc ggctagccaa
+      661 gagcgacgaa cccaagaagt cagtggcctt caagaagacc aagaaggaaa tcaagaaggt
+      721 agccacgcca aagaaggcat ccaagcccaa gaaggctgcc tccaaagccc caaccaagaa
+      781 acccaaagcc accccggtca agaaggccaa gaagaagctg gctgccacgc ccaagaaagc
+      841 caaaaaaccc aagactgtca aagccaagcc ggtcaaggca tccaagccca aaaaggccaa
+      901 accagtgaaa cccaaagcaa agtccagtgc caagagggcc ggcaagaaga agtgacaatg
+      961 aagtcttttc ttgcggacac tccctcctgt ctcctatttt ctgtaaataa ttttctcctt
+     1021 ttttctctct tgatgctcac caccaccttt tgcccccttc tgttctgact ttataagaga
+     1081 caggatttgg attcttcaga aattacagaa taattcattt ttccttaacc agttgtgcaa
+     1141 ggacagcaac aaccaatcta atgatgagaa tgtacttata ttttgttttg ctattaacct
+     1201 acttacgggg ttagggactt gcgggggggg cttgtgtgtt ttgttggctt gtttgccatg
+     1261 aaggtagatg tgggtgggga gaagacacaa ggcagtttgt tctggctaga tgagagggaa
+     1321 cccaggaatt gtgaggttag caggaatatc tttagggtga gtgagttttc cttgagttgg
+     1381 gcacccgttg tgagagtttc agaacctttg gccagcagga gagaggtggt agggagcagc
+     1441 cagccggcaa aggaaggagg tggaaaaaaa ccgccaccgg gctgacttcc acctcccagt
+     1501 ggtgagcagt gggggcccaa acccagtttc cttctcattt ttgttagttt gccctttcgg
+     1561 cctccctatt ttcttaggga aggggagtgg ggtccaagtg acagctggat gggagaagcc
+     1621 atagtttctc ccagtcagct agggtgtagc cattggggga tctttgtggc ttcagcaaat
+     1681 tctcttgtta aaccggagtg aaaacttcag gggaagggtg gggagtcagc caagtgcctc
+     1741 agtgtgccct gttgaaactt aggtttttcc acgcaatcga tggattgtgt cctaggaaga
+     1801 cttttctttt cttttctttt cctctggatt tttgttcctc ctgtacaaga ggtgtctttg
+     1861 cttggtttgg tggggctgcg gccacttaaa acctcccgat ctctttttga gtcctttatt
+     1921 ataagtagtt gtagctgcgg gagggggagg gggagtgggc gggcagtgga tagtaagact
+     1981 tactgcagtc gatttgggat ttgctaagta gttttacaga gctagatctg tgtgcatgtg
+     2041 tgtgtttgtg tatatataca tatctagggc tagtacttag tttcacaccc gggagctggg
+     2101 agaaaaaacc tgtacagttg tctttctctt atttttaata aaatagaaaa atcgcgcact
+     2161 tgcgcgtccc ccccccccca cccccttttt taaacaagtg ttacttgtgc cgggaaaatt
+     2221 ttgctgtctt tgtaatttta aaactttaaa ataaattgga aaagggagaa actgagcggt
+     2281 gtatttttcc tcactttgaa gactggagaa tgaatgcgga gcggttaggc gggcaggcag
+     2341 tggggacatc tggggcgttt gcacctgaga atggcggggg agggttcagg agctggacag
+     2401 aagccgagaa tccttagtcc cggaggctgc ggaacgtgcc ttagccggct tctaggcttc
+     2461 tgccttccgg ggtccagagg gtaccccatt tccggccgag aggtgagtac gtgggaatgc
+     2521 ggtggggagt
+//
+

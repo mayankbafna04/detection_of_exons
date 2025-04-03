@@ -1,0 +1,93 @@
+LOCUS       HSU08198                2344 bp    DNA     linear   PRI 26-MAY-1994
+DEFINITION  Human complement C8 gamma subunit precursor (C8G) gene, complete
+            cds.
+ACCESSION   U08198
+VERSION     U08198.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2344)
+  AUTHORS   Kaufman,K.M. and Sodetz,J.M.
+  TITLE     Genomic structure of the human complement protein C8 gamma:
+            homology to the lipocalin gene family
+  JOURNAL   Biochemistry 33 (17), 5162-5166 (1994)
+   PUBMED   8172891
+REFERENCE   2  (bases 1 to 2344)
+  AUTHORS   Sodetz,J.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-MAR-1994) James M. Sodetz, Chemistry and
+            Biochemistry, University of South Carolina, Columbia, SC 29208, USA
+FEATURES             Location/Qualifiers
+     source          1..2344
+                     /organism="Homo sapiens"
+                     /mol_type="unassigned DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="9"
+                     /map="9q"
+                     /cell_type="lymphocyte"
+                     /tissue_type="blood"
+     gene            370..2097
+                     /gene="C8G"
+     mRNA            join(370..582,758..894,1053..1123,1208..1315,1587..1688,
+                     1772..1810,1890..2097)
+                     /gene="C8G"
+     CDS             join(445..582,758..894,1053..1123,1208..1315,1587..1688,
+                     1772..1810,1890..1903)
+                     /gene="C8G"
+                     /codon_start=1
+                     /product="complement C8 gamma subunit precursor"
+                     /protein_id="AAA18482.1"
+                     /translation="MLPPGTATLLTLLLAAGSLGQKPQRPRRPASPISTIQPKANFDA
+                     QQFAGTWLLVAVGSACRFLQEQGHRAEATTLHVAPQGTAMAVSTFRKLDGICWQVRQL
+                     YGDTGVLGRFLLQARGARGAVHVVVAETDYQSFAVLYLERAGQLSVKLYARSLPVSDS
+                     VLSGFEQRVQEAHLTEDQIFYFPKYGFCEAADQFHVLDEVRR"
+     mat_peptide     join(505..582,758..894,1053..1123,1208..1315,1587..1688,
+                     1772..1810,1890..1900)
+                     /gene="C8G"
+                     /product="complement C8 gamma subunit"
+ORIGIN      
+        1 agcgggcggc ggtcgtgggc ggggttgcag gcgaggctca acgaacgctg gtctgaccgt
+       61 cggcgctccc tgttgccggg ccctgagcaa gtggcttcat gaaccccgtg acgttggcca
+      121 tggagataag accactgggt gatggtttaa ggaagataac gtgtaaaggg ctaaggactg
+      181 tcggtggaaa tcaggggtgc aggagaaatg gataaacagc cagaggtcaa ctcggacttt
+      241 gtacatagga catggtgcca ggccctgcca ggaagtgcag atcgaagcta ggctcacgag
+      301 gaggctggag gtggggggtg gggaggcaac ggatggacat ggacttcctg ggctgggctc
+      361 tgtgacagca gagtagactc tgtcctggga cttggtggtg ctacccttgg cctcccacag
+      421 tcctgccacc ctgctgccgc caccatgctg ccccctggga ctgcgaccct cttgactctg
+      481 ctcctggcag ctggctcgct gggccagaag cctcagaggc cacgccggcc cgcatccccc
+      541 atcagcacca tccagcccaa ggccaatttt gatgcgcagc aggtagaagt tggggggggt
+      601 agagggaggc aggtagaagt tgtgggaggg gtagagggag acaggtagaa gttgttgcgg
+      661 gggagaggga agcaggtgaa gttgtggggg gtgtagaggg aagcaggtga ggggccctcc
+      721 cacagtgccc tcgagttctc ccatggtctg cccccagttt gcagggacct ggctccttgt
+      781 ggctgtgggc tccgcttgcc gtttcctgca ggagcagggc caccgggccg aggccaccac
+      841 actgcatgtg gctccccagg gcacagccat ggctgtcagt accttccgaa agctgtgagt
+      901 cccagagcag ccctgcaccc taaccccaac cctcctctca gcccccggac ttcagccctg
+      961 ctctggcccc tgaccccacc ccggctgtgg cctggactag gattcctggt tggggtctcc
+     1021 cagcctgtgg tgcctcctcc ccgccccccc agggatggga tctgctggca ggtgcgccag
+     1081 ctctatggag acacaggggt cctcggccgc ttcctgcttc aaggtgaggc aggggctgca
+     1141 ggtcatgtgg gtgggggatg acgcagccac tgtggctctc tgacatggct actgtggctc
+     1201 tgcccagccc gaggcgcccg aggggctgtg cacgtggttg tcgctgagac cgactaccag
+     1261 agtttcgctg tcctgtacct ggagcgggcg gggcagctgt cagtgaagct ctacggtatg
+     1321 tgggggccag cctctgtgac caggcaggcg ctcaagctct gcacactcac tgggccaccc
+     1381 cgaggggctg ggtgagccat ggggacacac ttcctttctc ccatcctgat cctcctgcta
+     1441 agcaggggcc cagggagtag tgacagacag gcctggtgtg ggagcaggga ggagggcccc
+     1501 gaggggcagg ggacacacag accccgttcc cagagccctc cacgccgcct ggtgccagga
+     1561 ccccaggaac cctgtctgcc ctgcagcccg ctcgctccct gtgagcgact cggtcctgag
+     1621 tgggtttgag cagcgggtcc aggaggccca cctgactgag gaccagatct tctacttccc
+     1681 caagtacggt gagtgtcccc agcaggtccc cagctcagcc acccccactc tctggctgat
+     1741 gtccagcctg acccctgcct tggcgcccca ggcttctgcg aggctgcaga ccagttccac
+     1801 gtcctggacg gtgagtgcac agcgggggca agcatggcgg cgtggtgagg ggggccactc
+     1861 gcaccggctg agtctcgtct ctgctgcaga agtgaggagg tgaggccggc acacagctcc
+     1921 agtgctgaga agtcagtgcc ccgagagacg accccaccag tggggtgccc gctgcctgtc
+     1981 ctccgtgaaa ccagcctcag atcagggccc tgccacccag ggcaggggat cttctgccgg
+     2041 ctgccccaga ggacagtggg tggagtggta cctacttatt aaatgtctca gacccctctc
+     2101 tgactcttct gtccactctg gaccggcgcc agtaccacca aggccctctc tgcccccacc
+     2161 ccgcctcttt aaaagcccgg cgctccctgt tggctggagt ccacgcaggg tcactgggcc
+     2221 gatttcggct cttgggattt gggaggggag atcctctctg gcatatgcca tcttgtgccc
+     2281 tgctggacct gggggcgtcc acgtcactcc aaggctgctc ttgcctgggc catgcctgca
+     2341 gccc
+//
+

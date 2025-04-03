@@ -1,0 +1,58 @@
+LOCUS       HUMB1LYM                1146 bp    DNA     linear   PRI 15-JUL-1993
+DEFINITION  Human B-lymphocyte cell-surface antigen B1 (CD20).
+ACCESSION   M27394 J03574
+VERSION     M27394.1
+KEYWORDS    B1 antigen; antigen.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1146)
+  AUTHORS   Tedder,T.F., Streuli,M., Schlossman,S.F. and Saito,H.
+  TITLE     Isolation and structure of a cDNA encoding the B1 (CD20)
+            cell-surface antigen of human B lymphocytes
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 85 (1), 208-212 (1988)
+   PUBMED   2448768
+COMMENT     Original source text: Human tonsillar lymphocyte cDNA to mRNA,
+            clone pB1-21.
+            Submitted in computer readable form by T.Tedder 23-NOV-1987.
+FEATURES             Location/Qualifiers
+     source          1..1146
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /map="11q12-13"
+     CDS             134..1027
+                     /codon_start=1
+                     /product="cell surface antigen B1"
+                     /protein_id="AAA35581.1"
+                     /translation="MTTPRNSVNGTFPAEPMKGPIAMQSGPKPLFRRMSSLVGPTQSF
+                     FMRESKTLGAVQIMNGLFHIALGGLLMIPAGIYAPICVTVWYPLWGGIMYIISGSLLA
+                     ATEKNSRKCLVKGKMIMNSLSLFAAISGMILSIMDILNIKISHFLKMESLNFIRAHTP
+                     YINIYNCEPANPSEKNSPSTQYCYSIQSLFLGILSVMLIFAFFQELVIAGIVENEWKR
+                     TCSRPKSNIVLLSAEEKKEQTIEIKEEVVGLTETSSQPKNEEDIEIIPIQEEEEEETE
+                     TNFPEPPQDQESSPIENDSSP"
+ORIGIN      Chromosome 11q12-13.
+        1 cctcaatgac actcatggag gaaatgctga gagaagcatt cagatgcatg acacaaggta
+       61 agactgccaa aaatcttgtt cttgctctcc tcattttgtt atttgtttta tttttaggag
+      121 ttttgagagc aaaatgacaa cacccagaaa ttcagtaaat gggactttcc cggcagagcc
+      181 aatgaaaggc cctattgcta tgcaatctgg tccaaaacca ctcttcagga ggatgtcttc
+      241 actggtgggc cccacgcaaa gcttcttcat gagggaatct aagactttgg gggctgtcca
+      301 gattatgaat gggctcttcc acattgccct ggggggtctt ctgatgatcc cagcagggat
+      361 ctatgcaccc atctgtgtga ctgtgtggta ccctctctgg ggaggcatta tgtatattat
+      421 ttccggatca ctcttggcag caacggagaa aaactctagg aagtgtttgg tcaaaggaaa
+      481 aatgataatg aattcattga gcctctttgc tgccatttct ggaatgattc tttcaatcat
+      541 ggacatactt aatattaaaa tttcccattt tttaaaaatg gagagtctga attttattag
+      601 agctcacaca ccatatatta acatatacaa ctgtgaacca gctaatccct ctgagaaaaa
+      661 ctccccatct acccaatact gttacagcat acaatctctg ttcttgggca ttttgtcagt
+      721 gatgctgatc tttgccttct tccaggaact tgtaatagct ggcatcgttg agaatgaatg
+      781 gaaaagaacg tgctccagac ccaaatctaa catagttctc ctgtcagcag aagaaaaaaa
+      841 agaacagact attgaaataa aagaagaagt ggttgggcta actgaaacat cttcccaacc
+      901 aaagaatgaa gaagacattg aaattattcc aatccaagaa gaggaagaag aagaaacaga
+      961 gacgaacttt ccagaacctc cccaagatca ggaatcctca ccaatagaaa atgacagctc
+     1021 tccttaagtg atttcttctg ttttctgttt ccttttttaa acattagtgt tcatagcttc
+     1081 caagagacat gctgactttc atttcttgag gtactctgca catacgcacc acatctctat
+     1141 ctggcc
+//
+
